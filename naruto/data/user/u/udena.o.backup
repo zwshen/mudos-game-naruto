@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":20,"dex":30,"str":40,])
+conditions ([])
+dbase (["title":"©À¯à¤OªÌ","time_aged":84825,"bank":30932,"name":"¤Ñ¤W¼Ú¸¦®R","wimpy_dir":"east","gender":"female","option":(["map_unfreeze":1,]),"class":"hxh_initial","birthday":1132135783,"nickname":"½ü»RRevolution[0;2m","guild":"hunter","age":33,"id":"udena","recoverroom":"/world/area/muye/inn","level":20,"race":"human","startroom":"/world/area/muye/inn","score":(["survive":10039,"combat exp":305615,"elevel":44,"kills":3025,]),])
+masters ([])
+apprentices ([])
+skills (["combat":89,"savage hit":91,"dodge":55,"strength":29,"body strength":88,"heavy hit":91,"parry":40,])
+learned (["combat":114710,"savage hit":8212,"dodge":3170,"strength":1524,"body strength":26,"heavy hit":8212,"parry":8960,])
+skill_map (["strength":"body strength",])
+skill_flag ([])
+skill_ability (["combat":5,"savage hit":5,"dodge":4,"strength":6,"body strength":6,"heavy hit":5,"parry":3,])
+skill_require (["combat":118815,"savage hit":124215,"dodge":45375,"strength":4500,"body strength":39605,"heavy hit":124215,"parry":24000,])
+best_skill "savage hit"
+st_maximum (["ap":430,"mp":100,"hp":330,])
+st_current (["ap":356,"mp":100,"hp":282,])
+st_notify (["ap":20,"hp":30,])
+st_point (["attribute":0,"skill":6,"score":380,"learn":3730,])
+st_quest ([])
+autoload ([7:(["amount":1,"file":"/world/item/bag",]),6:(["amount":1,"file":"/world/item/bag",]),5:(["amount":1,"file":"/world/item/bag",]),4:(["amount":1,"file":"/world/eq/armor/turtle",]),3:(["amount":8,"file":"/world/drug/apill",]),2:(["amount":8,"file":"/world/drug/apill2",]),1:(["amount":8,"file":"/world/drug/apill3",]),0:(["amount":7,"file":"/world/area/whale_island/npc/food/crab_roe",]),])
+__flag ""

@@ -1,0 +1,25 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":30,"str":30,])
+conditions ([])
+dbase (["gender":"male","help":"cmds/action","age":24,"nickname":"¤@¶ô¿ú¤]·íÄ_[0;2m","guild":"muye","level":10,"score":(["elevel":10,"survive":4673,"kills":310,]),"bank":34950,"race":"human","long":"·s¤â½Ð«ü±Ð","id":"pao","time_aged":78895,"title":"¤ì¸­§ø§ÔªÌ","birthday":1204169116,"class":"inferior","area_info":(["x_axis":22,"y_axis_old":47,"x_axis_old":22,"y_axis":47,]),"recoverroom":"/world/area/wizard/guildhall","name":"ªüÄ_","startroom":"/world/area/whale_island/area",])
+masters ([])
+apprentices ([])
+skills (["ninja":1,"force":1,"continual hit":3,"dodge":21,"heavy hit":20,"combat":26,"parry":16,"savage hit":22,])
+learned (["dodge":1100,"heavy hit":0,"combat":370,"continual hit":40,"parry":360,"savage hit":590,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["ninja":3,"force":3,"continual hit":1,"dodge":2,"heavy hit":1,"combat":3,"parry":1,"savage hit":6,])
+skill_require (["dodge":2205,"heavy hit":2000,"combat":3380,"continual hit":45,"parry":1280,"savage hit":2420,])
+best_skill "combat"
+st_maximum (["mp":200,"hp":290,"ap":250,])
+st_current (["mp":200,"hp":290,"ap":250,])
+st_notify ([])
+st_point (["skill":0,"score":0,"learn":1464,"attribute":0,])
+st_quest ([])
+autoload ([13:(["amount":1,"file":"/world/item/rod",]),12:(["amount":1,"file":"/world/wp/radish",]),11:(["amount":1,"file":"/world/wp/radish",]),10:(["amount":1,"file":"/world/eq/head/boiler",]),9:(["amount":1,"file":"/world/wp/butcher-blade",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_head",]),7:(["amount":1,"file":"/world/wp/dagger",]),6:(["amount":41,"file":"/world/item/fish4",]),5:(["amount":1,"file":"/world/wp/butcher-blade",]),4:(["amount":46,"file":"/world/item/fish1",]),3:(["amount":40,"file":"/world/item/fish5",]),2:(["amount":54,"file":"/world/item/fish2",]),1:(["amount":44,"file":"/world/item/fish3",]),0:(["amount":39,"file":"/world/item/fish6",]),])
+__flag ""
+toDoList (["/world/quest/amulet.c":(["item":([]),"killed":([]),]),"/world/quest/travel_ship.c":(["item":([]),"killed":([]),]),"/world/quest/happy_pearl.c":(["item":([]),"killed":([]),]),"/world/quest/eat_brain.c":(["item":([]),"killed":([]),]),"/world/quest/mob_mutation.c":(["item":([]),"killed":(["/world/area/echo/npc/mouse5.c":0,"/world/area/muye/npc/mouse5.c":0,"/world/area/muye/npc/cockroach6.c":0,"/world/area/muye/npc/mouse4.c":0,"/world/area/muye/npc/cockroach5.c":0,"/world/area/whale_island/npc/cockroach4.c":2,"/world/area/muye/npc/mouse6.c":0,"/world/area/echo/npc/mouse4.c":0,"/world/area/whale_island/npc/cockroach6.c":0,"/world/area/echo/npc/mouse6.c":0,"/world/area/whale_island/npc/cockroach5.c":0,"/world/area/muye/npc/cockroach4.c":0,]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/new_fight.c","/world/quest/try_newbie.c","/world/quest/new_quest.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/travel_soldier.c","/world/quest/kbug.c","/world/quest/meet_ka.c","/world/quest/nurture_pig.c","/world/quest/get_crab.c","/world/quest/xie.c","/world/quest/kmouse.c","/world/quest/sea_monkey.c","/world/quest/delete_cockroach.c","/world/quest/expel_mouse.c",})
+level_scope ({75,150,225,300,375,})
+pro_sk (["first-aid":(["level":0,"item":({"snake_skin_bandage",}),"max_level":75,]),])
+camp (["muye":0,])

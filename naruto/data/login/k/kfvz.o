@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":360,"last_from":"205.2.204.123","creation_time":1236795997,"last_on":1236796279,"body":"/obj/user","name":"ทsคโ","id":"kfvz",])
+my_body 
+last_age_set 1236796279
+password "$1$44986743$/e4RrB7b3CQeTcr8ffQpN."
+email "kfvz@pchome.com.tw"
+window (["terminal_type":"ANSI","width":80,"height":25,])

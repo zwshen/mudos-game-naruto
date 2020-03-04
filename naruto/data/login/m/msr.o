@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["te":"reply $*",])
+dbase (["time_aged":2432,"last_on":1215499392,"creation_time":1128752882,"id":"msr","name":"­]»Aªá","body":"/obj/user","last_from":"195.26.249.60","board_last_read":(["wizard":1143254649,"bug":1137491690,"tmr":1132472571,"acme":1133012398,"newbie":1128647116,"chat":1186466886,"ayumi":1120542699,]),"channels":({"chat","rumor",}),])
+my_body 
+last_age_set 1215499245
+password "$1$48708219$8jqYl32ws5KraH2jv9P7m0"
+email "msr@muds.net"
+window (["width":111,"height":30,"terminal_type":"ANSI",])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sacc":"sac corpse","bp":"buy $1 $2 from $3","off":"option map_unfreeze 1","enmi":"enter ¯µ¥Þ","mapon":"option map_hidden 0","on":"option map_unfreeze 0","mapoff":"option map_hidden 1","por":"perform operation.revive on $1","wr2":"wield radish 2 as lefthand","p":"put $1 in bag","g":"get $1 from bag","wr1":"wield radish",])
+dbase (["last_on":1135374632,"last_from":"205.32.134.140","channels":({"rumor","chat",}),"creation_time":1133501419,"body":"/obj/user","id":"diamond","name":"¦BÆp","time_aged":1546210,])
+password "$1$97912632$wCSMXpI8FOinLNsFb3i6l1"
+email "321@12312.321"

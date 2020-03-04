@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["11":"option map_hidden 1","gt":"get all from corpse","1":"enable psychical with blue-power","sa":"sac corpse","00":"option map_hidden 0","ff":"fight stake","hh":"halt","2":"enable psychical with destroy fist","sk":"skills",])
+dbase (["creation_time":1128511058,"body":"/obj/user","last_on":1175865629,"name":"睡個大頭覺","id":"kenn","time_aged":5453252,"last_from":"6.122.59.61","channels":({"chat","rumor","aucc",}),"board_last_read":(["chat":1133923712,"propose":1148557370,"tmr":1150731334,"bug":1139305926,"ayumi":1120542699,"_MITE_":1170658966,"newbie":1136481011,"wizard":1175357048,"acme":1149251531,]),])
+password "$1$19911335$pRGptNddIT5TFFfpXF5AO/"
+email "kenn@ms70.url.com.tw"

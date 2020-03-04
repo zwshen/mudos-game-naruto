@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":1579,"creation_time":1235649065,"name":"義大利製","body":"/obj/user","id":"campy",])
+my_body 
+last_age_set 1235650619
+password "$1$26238055$YZ6tX.J2Ng2lMJMotqBxz1"
+email "Campy@saao.com"
+window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

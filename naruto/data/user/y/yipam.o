@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":20,"str":44,])
+conditions ([])
+dbase (["time_aged":69939,"guild":"muye","name":"²ï²ï","title":"¤ì¸­§ø§ÔªÌ","gender":"female","area_info":(["x_axis":25,"y_axis_old":18,"x_axis_old":25,"y_axis":18,]),"birthday":1146368967,"class":"inferior","id":"yipam","score":(["combat exp":14702,"elevel":2,"survive":1927,]),"target_score":(["combat exp":16900,"elevel":3,]),"bank":61852,"nickname":"[1;37m¢Ô¢×¢á¢Ö¢×¢Ü¢Õ[0;2m","age":21,"level":13,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":1,"heavy hit":23,"force":1,"savage hit":23,"continual hit":8,"combat":30,"ninja":1,])
+learned (["heavy hit":5080,"savage hit":2080,"continual hit":1190,"combat":11160,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":6,"force":4,"savage hit":6,"continual hit":2,"combat":3,"ninja":3,])
+skill_require (["heavy hit":7935,"savage hit":7935,"continual hit":1215,"combat":13500,])
+best_skill "combat"
+st_maximum (["ap":600,"mp":90,"hp":200,])
+st_current (["ap":600,"mp":90,"hp":200,])
+st_notify ([])
+st_point (["skill":2,"attribute":0,"score":0,"learn":100,])
+st_quest ([])
+autoload ([25:(["file":"/world/item/rod","amount":1,]),24:(["file":"/obj/money/silver","amount":50,]),23:(["file":"/world/wp/radish","amount":1,]),22:(["file":"/world/wp/radish","amount":1,]),21:(["file":"/world/area/wild/npc/eq/pig_head","amount":1,]),20:(["file":"/world/eq/face/fglasses","amount":1,]),19:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),18:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),17:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),16:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),15:(["file":"/world/eq/face/fglasses","amount":1,]),14:(["file":"/world/eq/belt/hoop","amount":1,]),13:(["file":"/world/eq/face/fglasses","amount":1,]),12:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),11:(["file":"/world/wp/rattan","amount":1,]),10:(["file":"/world/wp/sword","amount":1,]),9:(["file":"/world/area/muye/npc/eq/mouse_head","amount":1,]),8:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),7:(["file":"/world/wp/dagger","amount":1,]),6:(["file":"/world/wp/dagger","amount":1,]),5:(["file":"/world/item/fish2","amount":124,]),4:(["file":"/world/item/fish3","amount":156,]),3:(["file":"/world/item/fish4","amount":140,]),2:(["file":"/world/item/fish5","amount":154,]),1:(["file":"/world/item/fish6","amount":135,]),0:(["file":"/world/item/fish1","amount":147,]),])
+__flag ""

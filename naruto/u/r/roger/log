@@ -1,0 +1,47 @@
+[Jan 25 18:11:21]u/r/roger/work_room/roger_room.c line 2: parse error
+[Jan 25 18:11:55]u/r/roger/work_room/roger_room.c line 2: parse error
+[Jan 25 18:20:26]u/r/roger/work_room/roger_room.c line 2: parse error
+[Jan 25 18:25:44]u/r/roger/work_room/roger_room.c line 3: parse error
+[Jan 25 18:28:54]u/r/roger/work_room/roger_room.c line 3: parse error
+[Jan 25 18:32:10]u/r/roger/work_room/roger_room.c line 2: parse error
+[Jan 25 18:35:59]u/r/roger/work_room/roger_room.c line 5: Undefined function set
+[Jan 25 18:35:59]u/r/roger/work_room/roger_room.c line 21: End of file in text block
+[Jan 25 18:35:59]u/r/roger/work_room/roger_room.c line 21: parse error
+[Jan 25 18:38:33]u/r/roger/work_room/roger_room.c line 22: End of file in text block
+[Jan 25 18:38:33]u/r/roger/work_room/roger_room.c line 22: parse error
+[Jan 25 18:41:52]u/r/roger/work_room/roger_room.c line 21: End of file in text block
+[Jan 25 18:41:52]u/r/roger/work_room/roger_room.c line 21: parse error
+[Jan 25 18:43:36]u/r/roger/work_room/roger_room.c line 22: End of file in text block
+[Jan 25 18:43:36]u/r/roger/work_room/roger_room.c line 22: parse error
+[Jan 25 18:44:19]u/r/roger/work_room/roger_room.c line 22: End of file in text block
+[Jan 25 18:44:19]u/r/roger/work_room/roger_room.c line 22: parse error
+[Jan 25 18:46:21]u/r/roger/work_room/roger_room.c line 22: Warning: Extra ';' ignored.
+[Jan 29 01:25:37]u/r/roger/work_q/w100-str2.c line 5: parse error
+[Jan 29 01:26:24]u/r/roger/work_q/w100-str2.c line 5: parse error
+[Jan 29 01:26:44]u/r/roger/work_q/w100-str2.c line 4: parse error
+[Jan 29 01:28:52]u/r/roger/work_q/w100-str2.c line 18: Undefined variable 'effect'
+[Jan 29 01:28:52]u/r/roger/work_q/w100-str2.c line 19: parse error
+[Jan 29 02:07:17]u/r/roger/work_q/raphael_sword.c line 10: parse error
+[Jan 29 02:07:17]u/r/roger/work_q/raphael_sword.c line 10: Missing '(' in macro call
+[Jan 29 02:07:17]u/r/roger/work_q/raphael_sword.c line 10: Illegal terminator
+[Jan 29 02:09:08]u/r/roger/work_q/raphael_sword.c line 12: "#pragma strict_types" requires type of function
+[Jan 29 02:09:08]u/r/roger/work_q/raphael_sword.c line 12: Missing type for argument
+[Jan 29 02:09:08]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:13:50]u/r/roger/work_q/raphael_sword.c line 10: parse error
+[Jan 29 02:13:50]u/r/roger/work_q/raphael_sword.c line 10: Missing '(' in macro call
+[Jan 29 02:13:50]u/r/roger/work_q/raphael_sword.c line 10: Illegal terminator
+[Jan 29 02:14:27]u/r/roger/work_q/raphael_sword.c line 10: parse error
+[Jan 29 02:14:27]u/r/roger/work_q/raphael_sword.c line 10: Missing '(' in macro call
+[Jan 29 02:14:27]u/r/roger/work_q/raphael_sword.c line 10: Illegal terminator
+[Jan 29 02:18:28]u/r/roger/work_q/raphael_sword.c line 10: parse error
+[Jan 29 02:18:28]u/r/roger/work_q/raphael_sword.c line 10: Missing '(' in macro call
+[Jan 29 02:18:28]u/r/roger/work_q/raphael_sword.c line 10: Illegal terminator
+[Jan 29 02:23:29]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:24:33]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:24:33]u/r/roger/work_q/raphael_sword.c line 37: parse error
+[Jan 29 02:27:46]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:28:18]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:29:40]u/r/roger/work_q/raphael_sword.c line 12: parse error
+[Jan 29 02:30:04]u/r/roger/work_q/raphael_sword.c line 13: parse error
+[Feb 27 10:10:34]u/r/roger/work_q/wwizall.c line 7: parse error
+[Feb 27 10:10:34]u/r/roger/work_q/wwizall.c line 14: Illegal terminator

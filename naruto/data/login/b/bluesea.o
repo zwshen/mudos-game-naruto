@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["call":"perform animal taming.call","leave":"perform animal taming.leave","feed":"perform animal taming.feed $*",])
+dbase (["body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1248799112,"time_aged":3532116,"creation_time":1245766288,"last_from":"22.106.105.59","name":"¡EÂÅ¡E®ü¡E","id":"bluesea",])
+my_body 
+last_age_set 1249298250
+password "$1$12792361$Ek2fOTskZwpXztc2SCxHT1"
+email "lsp0317@hotmail.com"
+window (["freeze":1,"terminal_type":"ZMUD","width":108,"height":31,])

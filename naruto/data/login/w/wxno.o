@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["omh":"option map_hidden $*","omu":"option map_unfreeze $*",])
+dbase (["last_from":"32.176.44.114","channels":({"chat","rumor","aucc",}),"time_aged":12241755,"creation_time":1235410444,"last_on":1247652135,"body":"/obj/user","id":"wxno","name":"¹p¤ñ",])
+my_body 
+last_age_set 1247652135
+password "$1$43539836$H2/nUw/3qBxxbWUfR/gH4."
+email "stareman1213@yahoo.com.tw"
+window (["terminal_type":"VT100","width":153,"height":62,])

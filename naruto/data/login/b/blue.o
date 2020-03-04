@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ub":"use box","id":"identify $*","pub":"put all in bag",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1138458069,"last_on":1188133830,"last_from":"20.4.134.140","body":"/obj/user","id":"blue","name":"ÂÅ³·¶³","time_aged":27126,])
+password "$1$15421606$wkjsBwNXD/l9KcDsndiOq/"
+email "blue@yahoo.com.tw"

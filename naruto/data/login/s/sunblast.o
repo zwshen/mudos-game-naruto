@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","c":"consider $*","m1":"move 1","r1":"remember 1","r2":"remember 2","0":"identify $*","z":"sac corpse","m2":"move 2",])
+dbase (["last_on":1201058459,"last_from":"121.76.122.140","channels":({"chat","rumor","aucc",}),"creation_time":1188834326,"body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1189486950,]),"id":"sunblast","name":"¤Û¼v¼CÆF","time_aged":8502063,])
+password "$1$23489599$MP4ZhgBoutat4cfOMWj7G0"
+email "cdp0623@gmail.com"

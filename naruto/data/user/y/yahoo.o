@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":120,"dex":20,"str":20,"con":20,])
+conditions ([])
+dbase (["class":"middle","guild":"muye","name":"°×ªê","birthday":1134891333,"gender":"male","level":40,"nickname":"aaa[0;2m","recoverroom":"/world/area/whale_island/mite_hotel","age":68,"race":"human","score":(["dlevel":170,"clevel":9,"combat exp":850319,"survive":52498,"kills":9938,"elevel":12,]),"startroom":"/world/area/whale_island/mite_hotel","option":([]),"pet":(["food":942,"long":0,"name":"¤CÀY¯T","title":"¤ì¸­§ø§ÔªÌ","mp":2500,"level":50,"hp":2500,"nickname":"¤@¤G¤T¥|¤­¤»¤C","ap":2495,"exp":0,]),"id":"yahoo","title":"¤ì¸­§ø§ÔªÌ","bank":82500,"time_aged":4637,])
+masters ([])
+apprentices ([])
+skills (["cell activation":117,"continual hit":48,"muye wind":1,"substitute":78,"animal taming":99,"ninja":49,"heavy hit":85,"parry":42,"combat":84,"dodge":92,"force":1,"savage hit":85,])
+learned (["cell activation":6964,"continual hit":21804,"muye wind":7143,"substitute":360,"animal taming":18660,"ninja":6998,"heavy hit":29080,"combat":22674,"dodge":124268,"parry":24167,"force":0,"savage hit":29080,])
+skill_map (["ninja":"animal taming","combat":"muye wind","dodge":"substitute",])
+skill_flag ([])
+skill_ability (["cell activation":8,"continual hit":3,"muye wind":2,"substitute":5,"animal taming":7,"ninja":3,"heavy hit":5,"combat":5,"dodge":6,"parry":3,"force":2,"savage hit":5,])
+skill_require (["cell activation":72000,"continual hit":39015,"muye wind":9375,"substitute":32000,"animal taming":51005,"ninja":13520,"heavy hit":116160,"combat":150000,"dodge":1000000,"parry":47040,"force":8000,"savage hit":116160,])
+best_skill "cell activation"
+st_maximum (["mp":180,"hp":1980,"ap":380,])
+st_current (["mp":180,"hp":1980,"ap":380,])
+st_notify ([])
+st_point (["learn":1382,"skill":26,"score":700,"attribute":0,])
+st_quest (["prize":([4:1,]),"level_e":([4:1,]),"level_d":([1:1,]),"level_p":([10:1,]),])
+autoload ([])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":33,"dex":20,"str":24,"con":73,])
+conditions ([])
+dbase (["class":"middle","guild":"muye","vendetta":(["bandit":35,]),"name":"ªi§Ì","birthday":1128942558,"gender":"female","level":40,"age":109,"race":"human","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","score":(["dlevel":11,"clevel":13,"combat exp":1523479,"survive":140923,"kills":17386,"elevel":1080,]),"pet":(["food":917,"long":0,"name":"ª¯³Õ¤h","title":"§Ôª¯§ø","mp":2500,"level":50,"hp":2500,"nickname":"¶Àª÷Ây¤ü","ap":2498,"exp":0,]),"title":"¤ì¸­§ø§ÔªÌ","id":"birdy","bank":227879,"time_aged":29942,])
+masters ([])
+apprentices ([])
+skills (["ninja":20,"heavy hit":200,"continual hit":135,"dodge":142,"parry":99,"combat":88,"animal taming":120,])
+learned (["ninja":0,"heavy hit":0,"continual hit":89620,"dodge":162200,"parry":656516,"combat":2300,"animal taming":7844,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["ninja":1,"heavy hit":10,"continual hit":7,"dodge":8,"parry":6,"combat":5,"animal taming":8,])
+skill_require (["ninja":2000,"heavy hit":600000,"continual hit":273375,"dodge":302460,"parry":1000000,"combat":116160,"animal taming":72000,])
+best_skill "heavy hit"
+st_maximum (["mp":100,"hp":1500,"ap":600,])
+st_current (["mp":100,"hp":1500,"ap":600,])
+st_notify (["mp":0,"hp":30,"ap":30,])
+st_point (["learn":679015,"skill":35,"score":1040,"attribute":30,])
+st_quest ([])
+autoload ([27:(["amount":5,"file":"/world/drug/mp_heal2",]),26:(["amount":20,"file":"/world/drug/hp_heal2",]),25:(["amount":71,"file":"/world/drug/ap_heal2",]),24:(["amount":326,"file":"/world/drug/apill",]),23:(["amount":1,"file":"/world/area/sneakhole/npc/eq/spider_armor",]),22:(["amount":64,"file":"/world/area/thorn_pine/npc/item/owl_plume",]),21:(["amount":1,"file":"/world/area/thorn_pine/npc/item/owl_eye",]),20:(["amount":1,"file":"/world/area/whale_island/npc/eq/underpants",]),19:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),18:(["amount":1,"file":"/world/wp/radish",]),17:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),16:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),15:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),14:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),13:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),12:(["amount":1,"file":"/world/wp/radish",]),11:(["amount":1,"file":"/world/eq/head/rhino-shit",]),10:(["amount":1,"file":"/world/eq/leg/gai",]),9:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),8:(["amount":1,"file":"/world/eq/finger/silver",]),7:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),6:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),5:(["amount":1,"file":"/world/area/sneakhole/npc/eq/spider_armor",]),4:(["amount":1,"file":"/world/area/bone/npc/item/paper",]),3:(["amount":148,"file":"/world/drug/hpill",]),2:(["amount":166,"file":"/world/drug/apill2",]),1:(["amount":6,"file":"/world/area/sneakhole/npc/item/mucus",]),0:(["amount":8,"file":"/world/area/whale_island/npc/item/spider-leg",]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["=":"chat* $*","eq":"query -eq $*","q":"quest $*","1":"use bandage","sa":"say $*","ba":"balance","0":"option map_hidden 0","wth":"wield $* as twohanded","2":"eat chicken","9":"option map_hidden 1","bbb":"proskills first-aid snake_skin_bandage -m","adv":"advance $*",])
+dbase (["channels":({"chat","rumor",}),"last_from":"238.154.175.218","creation_time":1203687757,"last_on":1204138810,"body":"/obj/user","board_last_read":(["ayumi":1120542699,"_MITE_":1188848484,"tmr":1130154967,"propose":1203136440,"newbie":1136481011,"chat":1186466886,"wizard":1201062195,"design":1154116971,]),"id":"tsuki","name":"дЇды","time_aged":149434,])
+password "$1$41504159$V1JKSXUPDtgO5Ks/IpOUU/"
+email "o_mizutsuki_o@yahoo.com.tw"

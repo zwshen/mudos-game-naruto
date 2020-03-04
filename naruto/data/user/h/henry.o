@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":24,"dex":38,"str":38,"con":20,])
+conditions ([])
+dbase (["wimpy_dir":"w","class":"inferior","guild":"muye","name":"¤p¦ë","birthday":1134822798,"gender":"male","level":20,"race":"human","age":60,"recoverroom":"/world/area/muye/inn","nickname":"- -[0;2m","startroom":"/world/area/wizard/prac1","score":(["survive":41206,"kills":1357,"combat exp":329355,"elevel":10,]),"long":"¥L¬Ý°_¨Ó­^«TÃtÅx,­·¬yÐ×Ål,§A¤£ª¾¤£Ä±¶}©lÄ±±o¤W«Ò¯u¤£¤½¥­,¨Ã¥B«õ°_¦a¤Wªºª¯«Ë©¹¦Û¤vªºÁy¤WÀ¿¥häú¤ßªºÁy¤Õ","title":"¤ì¸­§ø§ÔªÌ","id":"henry","bank":49722,"time_aged":63700,])
+masters ([])
+apprentices ([])
+skills (["continual hit":36,"muye wind":54,"heavy hit":81,"parry":50,"dodge":74,"combat":77,"force":39,"savage hit":81,])
+learned (["continual hit":14391,"muye wind":572,"heavy hit":67964,"parry":26949,"combat":56589,"dodge":5473,"force":1300,"savage hit":67964,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":4,"muye wind":4,"heavy hit":6,"parry":4,"combat":6,"dodge":5,"force":5,"savage hit":6,])
+skill_require (["continual hit":20535,"muye wind":47040,"heavy hit":100860,"parry":39015,"combat":91260,"dodge":84375,"force":8405,"savage hit":100860,])
+best_skill "savage hit"
+st_maximum (["mp":80,"hp":980,"ap":180,])
+st_current (["mp":80,"hp":980,"ap":12,])
+st_notify (["hp":10,"ap":20,])
+st_point (["learn":5030,"skill":0,"attribute":0,"score":0,])
+st_quest (["prize":([9:1,]),"level_d":([1:1,]),"level_e":([2:1,]),])
+autoload ([])
+__flag ""

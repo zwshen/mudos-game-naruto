@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":44,"str":39,"con":20,"int":20,])
+conditions ([])
+dbase (["level":21,"race":"human","birthday":1179491394,"name":"月餅","gender":"male","help":"class/robber/skill/","recoverroom":"/world/area/whale_island/mite_hotel","guild":"hunter","score":(["kills":12413,"elevel":100,"survive":6352,]),"title":"念能力者","bank":6545,"class":"hxh_intermediate","time_aged":49905,"id":"arfeng","age":26,"startroom":"/world/area/whale_island/mite_hotel",])
+masters ([])
+apprentices ([])
+skills (["continual hit":39,"psychical bullet":32,"dodge":74,"electric variation":58,"machine gun":18,"fire variation":59,"combat":85,"heavy hit":81,"emit":38,"parry":55,"variation":38,"solid":51,"savage hit":79,])
+learned (["continual hit":1155,"psychical bullet":2640,"dodge":756,"electric variation":0,"machine gun":546,"fire variation":0,"combat":5586,"heavy hit":28665,"emit":0,"parry":756,"variation":0,"solid":2870,"savage hit":15309,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":3,"psychical bullet":2,"dodge":4,"electric variation":3,"machine gun":1,"fire variation":3,"combat":5,"heavy hit":5,"emit":2,"parry":4,"variation":2,"solid":3,"savage hit":5,])
+skill_require (["continual hit":7605,"psychical bullet":5780,"dodge":27380,"electric variation":18000,"machine gun":1805,"fire variation":18000,"combat":36125,"heavy hit":32805,"emit":8000,"parry":15125,"variation":8000,"solid":14580,"savage hit":31205,])
+best_skill "combat"
+st_maximum (["mp":430,"hp":500,"ap":410,])
+st_current (["mp":430,"hp":500,"ap":410,])
+st_notify ([])
+st_point (["attribute":0,"skill":0,"score":0,"learn":5647,])
+st_quest (["prize":([4:1,]),"level_d":([2:1,]),])
+autoload ([3:(["file":"/world/area/whale_island/npc/food/crab_roe_dumpling","amount":400,]),2:(["file":"/obj/money/silver","amount":44,]),1:(["file":"/world/wp/radish","amount":1,]),0:(["file":"/world/area/whale_island/npc/food/sweet_broth","amount":160,]),])
+__flag ""
+toDoList (["/world/quest/noise_wolf.c":(["item":(["/world/area/wild/npc/eq/wolf_fur.c":5,"/world/area/wild/npc/eq/wolf_tail.c":2,"/world/area/wild/npc/wp/wolf_claw.c":1,]),"killed":(["/world/area/echo/npc/wolf2.c":26,"/world/area/echo/npc/wolf1.c":12,]),]),"/world/quest/test_hunter.c":(["item":([]),"killed":(["/world/area/thorn_pine/npc/crow.c":0,"/world/area/thorn_pine/npc/butterfly.c":0,"/world/area/thorn_pine/npc/hunter.c":1,"/world/area/thorn_pine/npc/frog.c":0,]),]),"/world/quest/sea_monkey.c":(["item":([]),"killed":(["/world/npc/beggar.c":0,"/world/npc/passerby.c":5,"/world/npc/child.c":5,]),]),"/world/quest/delete_cockroach.c":(["item":(["/world/area/muye/npc/item/cr_antenna.c":10,"/world/area/muye/npc/item/cr_feet.c":10,]),"killed":(["/world/area/muye/npc/cockroach2.c":0,"/world/area/muye/npc/cockroach3.c":0,"/world/area/whale_island/npc/cockroach2.c":3,"/world/area/whale_island/npc/cockroach3.c":0,]),]),"/world/quest/kmouse.c":(["item":(["/world/area/muye/npc/item/mouse_tail.c":15,]),"killed":(["/world/area/muye/npc/mouse.c":3,]),]),"/world/quest/king_wind.c":(["item":([]),"killed":(["/world/area/echo/npc/mouse_king.c":1,"/world/area/lake/npc/zombie3.c":0,"/world/area/wild/npc/kingpig.c":0,"/world/area/muye/npc/cockroach_king.c":0,"/world/area/muye/npc/mouse_king.c":0,"/world/area/whale_island/npc/cockroach_king.c":0,]),]),"/world/quest/kbug.c":(["item":([]),"killed":(["/world/area/muye/npc/cockroach.c":0,]),]),"/world/quest/eat_brain.c":(["item":(["/world/area/old_forest/npc/item/monkey_brain.c":10,]),"killed":([]),]),"/world/quest/dig_cave.c":(["item":([]),"killed":([]),]),"/world/quest/amulet.c":(["item":([]),"killed":([]),]),"/world/quest/try_big_skill.c":(["item":([]),"killed":(["/world/area/wild/npc/bigsnake.c":16,"/world/area/whale_island/npc/spider2.c":0,"/world/area/wild/npc/bigpig.c":1,"/world/area/wild/npc/bigwolf.c":0,]),]),"/world/quest/get_crab.c":(["item":([]),"killed":(["/world/area/whale_island/npc/crab2.c":6,"/world/area/whale_island/npc/crab.c":20,]),]),])
+solved ({"/world/quest/meet_hung.c","/world/quest/newbie.c","/world/quest/travel_whale_island.c","/world/quest/travel_muye.c","/world/quest/new_fight.c","/world/quest/new_quest.c","/world/quest/xie.c","/world/quest/try_little_skill.c","/world/quest/expel_mouse.c","/world/quest/meet_ka.c","/world/quest/happy_pearl.c","/world/quest/collect_carapace.c","/world/quest/nurture_pig.c","/world/quest/angry_muye.c","/world/quest/hate_goose.c","/world/quest/kzombie.c","/world/quest/verygood_crab_meat.c","/world/quest/search_zhang.c","/world/quest/mob_mutation.c",})

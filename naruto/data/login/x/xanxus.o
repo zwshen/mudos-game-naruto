@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["si":"balance","/":"recall","feed":"perform animal taming.feed $*","leave":"perform animal taming.leave","sc1":"perform animal taming.state","ii":"identify $*","call":"perform animal taming.call","pp":"put all in bag","//":"recall start",])
+dbase (["time_aged":15280586,"creation_time":1213806061,"name":"¢æ¢Ï¢Ü¢æ¢ã¢á","id":"xanxus","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["bug":1237819201,"propose":1240127896,"wizard":1237837753,]),"last_on":1249218625,"last_from":"58.105.105.59",])
+my_body 
+last_age_set 1249218625
+password "$1$49735207$v/AtWzI49vUMUaL7JPMgq1"
+email "lsp0317@hotmail.com"
+window (["freeze":1,])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills","pe":"perform","en":"enable",])
+dbase (["board_last_read":(["newbie":1130565369,"chat":1130765657,"wizard":1130649586,"bug":1131175254,]),"time_aged":1636184,"id":"worecd","name":"Ò±¤ß","last_on":1166099338,"last_from":"56.39.131.140","body":"/obj/user","channels":({"chat","rumor","news","aucc",}),"creation_time":1130976099,])
+password "$1$60693490$tdKB8RirJJ8PKQeiQhRaY."
+email "dragonbesta@yahoo.com.tw"

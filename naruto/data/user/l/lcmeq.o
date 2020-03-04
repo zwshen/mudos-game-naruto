@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["age":18,"race":"human","birthday":1136243952,"time_aged":1911,"class":"commoner","id":"lcmeq","name":"¨¾¨ã©±","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/whale_island/area","gender":"male","bank":300000,"area_info":(["x_axis":17,"y_axis_old":33,"x_axis_old":17,"y_axis":33,]),"level":1,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([15:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),14:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),13:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),12:(["amount":1,"file":"/world/area/echo/npc/eq/ring",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),10:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),9:(["amount":1,"file":"/world/area/sneakhole/npc/eq/guard",]),8:(["amount":1,"file":"/world/area/sneakhole/npc/eq/guard",]),7:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),6:(["amount":20,"file":"/world/area/old_forest/npc/item/fruit4",]),5:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),2:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),1:(["amount":1,"file":"/world/area/thorn_pine/npc/eq/owl_claw",]),0:(["amount":1,"file":"/world/area/echo/npc/eq/ring",]),])
+__flag ""

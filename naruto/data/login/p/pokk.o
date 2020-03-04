@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse $*","sa":"sac corpse $*","c":"consider $*",])
+dbase (["last_on":1205905428,"channels":({"chat","rumor",}),"creation_time":1205736666,"last_from":"131.129.126.140","body":"/obj/user","board_last_read":(["wizard":1115964935,"newbie":1136481011,"byron":1174327632,]),"id":"pokk","name":"íiµW","time_aged":20569,])
+password "$1$25185628$auWQNqbc0ccKFAgLdrGFR/"
+email "pokkbaby@msn.com"

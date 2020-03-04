@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["22":"eat hp pill","gb":"get $* from bag","lc":"look corpse $*","id":"identify $*","pb":"put $* in bag","ss":"sac corpse","pb2":"put $* in bag 2","ga":"get all $*","33":"eat mp pill","11":"eat ap pill","f":"fight $*","gc":"get all from corpse $*",])
+dbase (["time_aged":625773,"last_on":1162194910,"board_last_read":(["wizard":1140511389,"newbie":1136481011,"bug":1139305926,"ayumi":1120542699,"_MITE_":1151039075,"chat":1133923712,"tmr":1129972231,"propose":1139745280,"acme":1115745789,]),"name":"ทsคโ","id":"lcm","creation_time":1128697441,"body":"/obj/user","channels":({"chat","rumor",}),"last_from":"2.170.65.61",])
+password "$1$55133084$GRZ62n0fjoxBkRQFy8UHA."
+email "bule-hef@yahoo.com.tw"

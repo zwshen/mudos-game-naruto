@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["p1":"perform ghost chop.attack on $*","1":"kill elf","p2":"perform chivy tiger.attack on $*","kee":"eat manto","k1":"charge $*","3":"kill elf 3","0":"auc /broom","dp":"drop $*","wie":"wield $*","check":"advance check","ide":"identify $*","2":"kill elf 2","unw":"unwield $*","g1":"get all from corpse $*","con":"consider $*","adv":"advance $*","cha":"charge $*","gin":"eat chicken","sk2":"proskills","f1":"perform wolf blade.flow",])
+dbase (["last_on":1209842936,"channels":({"chat","rumor","aucc",}),"creation_time":1191380237,"last_from":"253.194.218.124","body":"/obj/user","board_last_read":(["wizard":1190540385,"newbie":1136481011,"propose":1190971882,"_MITE_":1188848484,]),"name":"«C´P","id":"keith","time_aged":96959,])
+password "$1$4284551$6cb549kTGVFkLpKWHERqo."
+email "keith@yahoo.com.tw"

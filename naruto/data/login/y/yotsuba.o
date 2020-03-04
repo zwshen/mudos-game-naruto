@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["c":"consider $*","a":"advance $*","t":"train $*","gc":"get all from corpse","f":"fight $*","sk":"skills","sacc":"sac corpse","ad":"advance combat","ba":"balance",])
+dbase (["time_aged":112621,"name":"¥|¸­","id":"yotsuba","last_from":"126.214.85.210","board_last_read":(["wizard":1129917561,"propose":1118912073,"_MITE_":1129952893,]),"last_on":1152276551,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1130481495,])
+password "$1$16566486$rIYH59xox2XzQ8/sB6B5z0"
+email "@"

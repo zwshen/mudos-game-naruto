@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["c":"consider $*","mapfr":"option map_unfreeze 0","gg":"get $1 from $2","fi":"fight $*","tr":"train $1 from $2","ss":"sell $1 to $2","k":"kill $*","bb":"buy $1 from $2","mapfu":"option map_unfreeze 1","rb":"remember $*","ad":"advance $*","mv":"move $*","ch":"charge $*","ide":"identify $*",])
+dbase (["time_aged":118416,"id":"jackson","name":"ªN§J´Ë","board_last_read":(["newbie":1136481011,"wizard":1151395598,"propose":1148557370,"_MITE_":1151039075,"design":1150693458,"bug":1151492395,"chat":1149650037,]),"last_from":"107.17.115.140","last_on":1152301098,"body":"/obj/user","channels":({"rumor",}),"creation_time":1151579292,])
+password "$1$52536844$KtZhCTawlrZrbtTKqpFhL0"
+email "jacksonlll@yahoo.com.tw"

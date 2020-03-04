@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["9":"eat chicken","99":"eat manto","scp":"sac corpse","2":"kill elf 2","a":"get all","gl":"get all from corpse","1":"kill elf *$","3":"kill elf 3",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1212419605,"last_on":1213756667,"last_from":"22.23.31.61","body":"/obj/user","id":"abyz","name":"´µ´µ","time_aged":346420,])
+password "$1$6245495$0QBeW9EgLNKKv6UNv9aG9/"
+email "abyz.love@yahoo.com.tw"

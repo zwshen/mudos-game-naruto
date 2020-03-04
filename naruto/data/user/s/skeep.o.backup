@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":34,])
+conditions ([])
+dbase (["time_aged":55003,"name":"©ú¤Ñ","birthday":1129397355,"guild":"muye","class":"inferior","gender":"male","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/muye/swanlake","area_info":(["y_axis":26,"x_axis":9,"x_axis_old":9,"y_axis_old":26,]),"score":(["combat exp":3841,"survive":2931,]),"level":7,"age":23,"race":"human","target_score":(["combat exp":4900,]),"id":"skeep","bank":82073,"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":80,"ap":80,"mp":80,])
+st_current (["hp":80,"ap":80,"mp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":14,"score":350,"learn":700,])
+st_quest ([])
+autoload ([5:(["amount":1,"file":"/world/area/whale_island/npc/wp/spider-leg-wp",]),4:(["amount":1,"file":"/world/area/whale_island/npc/wp/spider-leg-wp",]),3:(["amount":1,"file":"/world/item/bag",]),2:(["amount":1,"file":"/world/item/bag",]),1:(["amount":1,"file":"/world/item/rod",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),])
+__flag ""

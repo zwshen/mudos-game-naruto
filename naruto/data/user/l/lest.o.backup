@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":54,"str":20,])
+conditions ([])
+dbase (["time_aged":49494,"title":"©À¯à¤OªÌ","name":"©Ô´µ","gender":"female","guild":"hunter","birthday":1137394659,"class":"hxh_initial","bank":15336,"target_score":(["elevel":7,"combat exp":28900,]),"option":(["map_through":1,"map_unfreeze":1,]),"recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","nickname":"[1;31m<©ü°g¤£¿ô>[0;2m","id":"lest","score":(["elevel":160,"kills":1220,"combat exp":27433,"survive":1196,]),"age":20,"level":17,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":32,"finger-guessing fist":31,"dodge":15,"continual hit":20,"parry":11,"heavy hit":32,"savage hit":32,])
+learned (["combat":264,"finger-guessing fist":4680,"dodge":1718,"continual hit":2376,"parry":2038,"heavy hit":10056,"savage hit":10056,])
+skill_map (["combat":"finger-guessing fist",])
+skill_flag ([])
+skill_ability (["combat":2,"finger-guessing fist":2,"dodge":1,"continual hit":2,"parry":1,"heavy hit":2,"savage hit":2,])
+skill_require (["combat":15360,"finger-guessing fist":4805,"dodge":3375,"continual hit":6000,"parry":2160,"heavy hit":15360,"savage hit":15360,])
+best_skill "savage hit"
+st_maximum (["ap":300,"mp":80,"hp":400,])
+st_current (["ap":300,"mp":80,"hp":400,])
+st_notify (["ap":0,"mp":30,"hp":30,])
+st_point (["skill":22,"score":310,"learn":1536,"attribute":0,])
+st_quest (["level_e":([4:1,]),"level_d":([2:1,]),"level_p":([10:1,]),])
+autoload ([13:(["amount":6,"file":"/world/area/whale_island/npc/food/crab_meat",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),11:(["amount":1,"file":"/world/eq/leg/gai",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),9:(["amount":2,"file":"/world/area/whale_island/npc/food/crab_roe",]),8:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),7:(["amount":1,"file":"/world/wp/butcher-blade",]),6:(["amount":1,"file":"/world/drug/hpill3",]),5:(["amount":1,"file":"/world/drug/apill3",]),4:(["amount":1,"file":"/world/eq/belt/hoop",]),3:(["amount":1,"file":"/world/eq/head/boiler",]),2:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),1:(["amount":1,"file":"/world/item/rod",]),0:(["amount":1,"file":"/world/eq/face/fglasses",]),])
+__flag ""

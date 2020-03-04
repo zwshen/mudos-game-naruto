@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall",])
+dbase (["board_last_read":(["wizard":1175357048,]),"time_aged":2341425,"last_from":"191.146.231.118","body":"/obj/user","last_on":1237098570,"name":"²öµ·©_¿Õ","id":"moschino","channels":({"chat","rumor",}),"creation_time":1172585373,])
+my_body 
+last_age_set 1237098570
+password "$1$51199376$YvqDcsgbrl/clCCy5cwlV."
+email "longislandroy@hotmail.com"
+window (["terminal_type":"vt100","width":156,"height":59,])

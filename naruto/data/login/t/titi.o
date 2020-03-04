@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":922,"creation_time":1236563640,"name":"¼K¼K","body":"/obj/user","id":"titi",])
+my_body 
+last_age_set 1236564533
+password "$1$65277528$4HKrxnvjQ4kh3gwGuf7L4."
+email "123@kimo.com"
+window (["terminal_type":"ANSI","width":80,"height":26,])

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["oo":"open 開關","b":"buy $*","we":"wear $*","wi2":"wield $* as twohanded","wi":"wield $*","kf":"kill fly","0":"eat broth","6":"eat heal ap pill","4":"eat tea","9":"eat chicken","q":"quest $*","kk":"kick fly","1":"get all from corpse","who":"who -l","ee":"enable combat with finger-guessing fist","3":"sac corpse","gg":"get all","2":"eat heal hp pill","cc":"close 開關","ke":"kill elf","h":"hp","pp":"perform finger-guessing fist.石頭","m":"map","id":"identify $*","km":"kill monster","bb":"balance","5":"perform body strength.powerup","kw":"kill wolf","8":"eat manto",])
+dbase (["time_aged":2555831,"body":"/obj/user","name":"阿若","id":"jcjc","creation_time":1235746935,"channels":({"chat","rumor","news",}),"last_on":1238302705,"board_last_read":(["_MITE_":1188848484,]),"last_from":"111.75.170.118",])
+my_body 
+last_age_set 1238302704
+password "$1$15554104$/TjxnUQO4otBaSH4c7PuL1"
+email "av8dloveme@yahoo.com.tw"
+window (["width":80,"freeze":1,"terminal_type":"ANSI","height":25,])

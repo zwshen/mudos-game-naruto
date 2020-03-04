@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":20,"str":20,])
+conditions (["apheal1":(["name":"[42m¢Ñ¯Å´£¯«³N[0;2m","duration":6,]),"apheal2":(["name":"[42m¢Ð¯Å´£¯«³N[0;2m","duration":6,]),"apheal4":(["name":"[42m¢á¯Å´£¯«³N[0;2m","duration":6,]),"apheal3":(["name":"[42m¢Ï¯Å´£¯«³N[0;2m","duration":6,]),])
+dbase (["guild":"hunter","name":"¥k¤â¤l","class":"hxh_initial","startroom":"/world/area/wizard/guildhall","gender":"female","age":21,"time_aged":33595,"score":(["dlevel":25,"survive":2255,"elevel":19,"kills":288,]),"id":"right","level":6,"race":"human","wimpy_dir":"east","title":"©À¯à¤OªÌ","bank":154471,"option":(["map_unfreeze":1,]),"birthday":1172567270,])
+masters ([])
+apprentices ([])
+skills (["savage hit":58,"dodge":11,"parry":9,"heavy hit":58,"combat":59,"continual hit":1,])
+learned (["savage hit":8514,"dodge":156,"parry":156,"heavy hit":8514,"combat":12672,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":3,"dodge":1,"parry":1,"heavy hit":3,"combat":3,"continual hit":1,])
+skill_require (["savage hit":16820,"dodge":605,"parry":405,"heavy hit":16820,"combat":17405,])
+best_skill "combat"
+st_maximum (["hp":80,"ap":330,"mp":80,])
+st_current (["hp":80,"ap":151,"mp":80,])
+st_notify (["ap":30,])
+st_point (["skill":0,"score":50,"learn":228,"attribute":10,])
+st_quest (["level_p":([10:1,]),"level_e":([4:1,]),])
+autoload ([13:(["file":"/world/drug/apill4","amount":141,]),12:(["file":"/world/drug/apill3","amount":141,]),11:(["file":"/world/drug/apill2","amount":141,]),10:(["file":"/world/drug/apill","amount":141,]),9:(["file":"/world/wp/radish","amount":1,]),8:(["file":"/world/wp/radish","amount":1,]),7:(["file":"/world/eq/head/rhino-shit","amount":1,]),6:(["file":"/world/eq/leg/gai","amount":1,]),5:(["file":"/world/area/muye/npc/eq/ghost_boots","amount":1,]),4:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),3:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),2:(["file":"/world/broom/broom","amount":1,]),1:(["file":"/world/area/whale_island/npc/food/crab_roe","amount":2,]),0:(["file":"/world/area/whale_island/npc/food/crab_meat","amount":9,]),])
+__flag ""
+toDoList ([])
+solved ({})

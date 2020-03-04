@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":20,"str":22,"con":20,])
+conditions ([])
+dbase (["class":"commoner","id":"njmp","name":"ÂÅÐ£¨ý¹D","birthday":1130582593,"gender":"male","level":1,"bank":6048,"recoverroom":"/world/area/whale_island/mite_hotel","age":18,"race":"human","area_info":(["x_axis":32,"y_axis_old":15,"x_axis_old":32,"y_axis":15,]),"startroom":"/world/area/bone/bone","time_aged":21117,"score":(["combat exp":131,"survive":20,"kills":13,]),])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":130,])
+st_current (["mp":80,"hp":8,"ap":130,])
+st_notify ([])
+st_point (["learn":127,"skill":2,"attribute":0,"score":0,])
+st_quest (["level_d":([2:1,]),"level_e":([1:1,]),])
+autoload ([])
+__flag ""

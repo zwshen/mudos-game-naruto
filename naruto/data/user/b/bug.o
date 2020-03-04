@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["score":(["survive":240,]),"bank":10844,"id":"bug","name":"¦ä¤Ò¤f¤^","option":(["map_hidden":1,"map_unfreeze":1,]),"birthday":1131880563,"level":1,"age":18,"race":"human","gender":"male","recoverroom":"/world/area/muye/inn","area_info":(["x_axis":25,"y_axis_old":19,"x_axis_old":25,"y_axis":19,]),"startroom":"/world/area/muye/swanlake","time_aged":44615,"class":"commoner",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["score":50,"learn":100,"skill":2,"attribute":2,])
+st_quest ([])
+autoload ([6:(["file":"/world/item/rod","amount":1,]),5:(["file":"/world/item/fish1","amount":2,]),4:(["file":"/world/item/fish4","amount":3,]),3:(["file":"/world/item/fish6","amount":4,]),2:(["file":"/world/item/fish3","amount":4,]),1:(["file":"/world/item/fish5","amount":6,]),0:(["file":"/world/item/fish2","amount":7,]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gg":"get all from corpse $*",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","board_last_read":(["acme":1115745789,"newbie":1136481011,]),"creation_time":1203599010,"name":"¤Û¡E±Ù¤ë","id":"jasonc","time_aged":2865,])
+password "$1$80706438$Rr.qTifNoIX34N2dPUDDl/"
+email "jasonc0417@yahoo.com.tw"

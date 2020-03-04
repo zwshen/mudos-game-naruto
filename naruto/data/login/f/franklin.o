@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["av":"advance $*","b":"buy $1 from $2","cd":"consider $*","rr":"remember $*","bs":"perform psychical bullet.shoot on $*","tf":"transfer $*","ec":"eat essence of chicken","gm":"give maggie $*","gb2":"get $* from bag 2","wd":"withdraw $* silver","g":"get $* from corpse","emt":"eat middle daisy tea","ad":"advance $1 for $2","gu":"give ubokin $*","tb":"train psychical bullet from rao for $*","de":"deposit $* silver","gcc":"give cindy $*","te":"train emit from guan for $*","rm":"remove $*","td":"train dodge from guan for $*","gb":"get $* from bag","pb":"put $* in bag","c":"charge $*","emc":"eat middle essence of chicken","iy":"identify $*","tl":"train solid from rao for $*","et":"eat daisy tea","tp":"train parry from guan for $*","gk":"give kuroro $*","pb2":"put $* in bag 2","tc":"train continual hit from guan for $*",])
+dbase (["last_from":"31.169.112.59","time_aged":8825187,"last_on":1248085411,"creation_time":1239260243,"body":"/obj/user","board_last_read":(["ayumi":1120542699,"bug":1239968374,"tmr":1234422300,"propose":1240917122,"wizard":1234457982,"chat":1175828718,]),"name":"´IÄõ§JªL","id":"franklin","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1248085410
+password "$1$35284199$FM/jxxxNhhC6E1QBscHD51"
+email "d41920@hotmail.com"
+window (["terminal_type":"zmud","width":174,"height":55,])

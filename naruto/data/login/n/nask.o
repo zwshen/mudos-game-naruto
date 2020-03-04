@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ph":"perform force.hit on $*","ge":"get all from corpse $1",])
+dbase (["time_aged":1028121,"last_on":1146484179,"name":"¨º´µ§J","id":"nask","board_last_read":(["bug":1138664844,"chat":1129371061,"newbie":1136481011,"wizard":1143254649,"propose":1131721575,"_MITE_":1130491067,]),"last_from":"86.44.203.203","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1130334072,])
+password "$1$4096296$Ef6KVGGTepVzXX9WSvlHe1"
+email "a@a.a"

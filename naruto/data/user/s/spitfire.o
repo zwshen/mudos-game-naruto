@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":24,])
+conditions ([])
+dbase (["birthday":1161369993,"time_aged":28715,"bank":200,"level":6,"race":"human","age":18,"guild":"muye","name":"¤õ¥£¾|¾|","id":"spitfire","startroom":"/world/area/wizard/prac9","class":"inferior","score":(["elevel":2,"kills":5,"survive":200,"combat exp":3319,]),"gender":"male","target_score":(["combat exp":3600,]),"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills (["parry":1,"continual hit":4,"combat":18,"dodge":1,])
+learned (["parry":0,"continual hit":180,"combat":1080,"dodge":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,"continual hit":1,"combat":2,"dodge":1,])
+skill_require (["parry":60,"continual hit":375,"combat":4860,"dodge":60,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":105,])
+st_current (["ap":32,"mp":80,"hp":105,])
+st_notify ([])
+st_point (["skill":7,"attribute":8,"score":275,"learn":520,])
+st_quest ([])
+autoload ([])
+__flag ""

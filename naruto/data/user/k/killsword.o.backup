@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["birthday":1171539084,"name":"­··T","id":"killsword","startroom":"/world/area/wizard/prac9","score":(["kills":1,]),"gender":"male","time_aged":1189,"level":1,"race":"human","bank":5,"class":"commoner","age":18,])
+masters ([])
+apprentices ([])
+skills (["parry":1,"dodge":1,"combat":2,])
+learned (["combat":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,"combat":1,])
+skill_require (["combat":60,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":0,"score":50,"learn":261,])
+st_quest ([])
+autoload ([0:(["file":"/world/drug/noodle","amount":2,]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/travel_whale_island.c","/world/quest/meet_ka.c","/world/quest/meet_hung.c",})

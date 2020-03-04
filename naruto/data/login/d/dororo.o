@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["/":"recall","p":"exp",])
+dbase (["channels":({"chat","rumor",}),"id":"dororo","name":"วลว้ว้","last_on":1133708412,"board_last_read":(["propose":1130204695,"bug":1133521888,"tmr":1133708050,"chat":1132977027,"ayumi":1120542699,"wizard":1132743373,"acme":1133012398,]),"creation_time":1133707278,"last_from":"240.147.13.163","body":"/obj/user","time_aged":727,])
+password "$1$25208910$SikKSY4qlvSsyvEX3hVjX."
+email "dororo@yahoo.com.tw"

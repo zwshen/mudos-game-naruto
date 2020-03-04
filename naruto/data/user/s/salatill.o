@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":29,"dex":22,"str":35,])
+conditions ([])
+dbase (["time_aged":2605,"title":"¤ì¸­§ø§ÔªÌ","target_score":(["elevel":3,"combat exp":16900,]),"bank":91740,"name":"ÂÄ©Ô´£º¸","gender":"male","class":"inferior","area_info":(["x_axis":27,"y_axis_old":18,"y_axis":18,"x_axis_old":27,]),"birthday":1130970697,"guild":"muye","age":25,"id":"salatill","level":13,"race":"human","startroom":"/world/area/muye/muye","score":(["survive":3787,"elevel":94,"combat exp":14762,"kills":76,]),])
+masters ([])
+apprentices ([])
+skills (["combat":33,"savage hit":17,"dodge":9,"force":1,"heavy hit":17,"continual hit":1,"parry":7,])
+learned (["combat":4074,"savage hit":3374,"dodge":952,"heavy hit":3374,"parry":518,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,"savage hit":2,"dodge":1,"heavy hit":2,"continual hit":3,"parry":1,])
+skill_require (["combat":16335,"savage hit":4335,"dodge":1215,"heavy hit":4335,"parry":735,])
+best_skill "combat"
+st_maximum (["ap":330,"mp":80,"hp":180,])
+st_current (["ap":330,"mp":80,"hp":180,])
+st_notify (["hp":30,])
+st_point (["skill":15,"attribute":0,"score":300,"learn":1507,])
+st_quest (["level_e":([1:1,]),])
+autoload ([6:(["amount":1,"file":"/world/eq/face/fglasses",]),5:(["amount":1,"file":"/world/eq/head/boiler",]),4:(["amount":1,"file":"/world/eq/belt/hoop",]),3:(["amount":1,"file":"/world/wp/dagger",]),2:(["amount":1,"file":"/world/item/rod",]),1:(["amount":1,"file":"/world/wp/dagger",]),0:(["amount":175,"file":"/obj/money/silver",]),])
+__flag ""

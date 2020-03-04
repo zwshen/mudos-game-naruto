@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["f":"finger $*",])
+dbase (["body":"/obj/user","creation_time":1179246784,"last_on":1179593329,"id":"mapper","name":"ø�Ϯv","time_aged":43461,"last_from":"100.76.228.61","channels":({"chat","rumor",}),"board_last_read":(["_MITE_":1170658966,"bug":1179162970,]),])
+password "$1$24898899$IcUcFXSRAvqWxMM2sIHcV/"
+email "sulphnt@gmail.com"

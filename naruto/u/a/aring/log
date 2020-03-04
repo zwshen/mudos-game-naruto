@@ -1,0 +1,46 @@
+[Nov  1 18:50:00]u/a/aring/sandhole/npc/wp/wp1.c line 1: parse error
+[Nov  1 18:51:11]u/a/aring/sandhole/npc/wp/sc-claw.c line 1: parse error
+[Nov  1 18:52:01]u/a/aring/sandhole/npc/wp/sc-claw.c line 1: parse error
+[Nov  1 18:52:57]u/a/aring/sandhole/npc/wp/sc-claw.c line 2: parse error
+[Nov  1 18:53:52]u/a/aring/test.c line 1: parse error
+[Nov  1 18:55:35]u/a/aring/test.c line 1: parse error
+[Nov  1 18:59:33]u/a/aring/test.c line 1: parse error
+[Nov  1 18:59:45]u/a/aring/test.c line 1: parse error
+[Nov  1 19:02:56]u/a/aring/test.c line 1: parse error
+[Nov  1 19:03:37]u/a/aring/test.c line 1: parse error
+[Nov  1 19:06:07]u/a/aring/t.c line 1: parse error
+[Nov  1 19:06:45]u/a/aring/t.c line 1: parse error
+[Nov  1 19:07:11]u/a/aring/t.c line 1: parse error
+[Nov  1 19:08:47]u/a/aring/t.c line 1: parse error
+[Nov  1 19:09:40]u/a/aring/t.c line 2: parse error
+[Nov  1 19:16:44]u/a/aring/t.c line 1: parse error
+[Nov  1 19:18:23]u/a/aring/t.c line 1: parse error
+[Nov  1 19:18:53]u/a/aring/t.c line 1: parse error
+[Nov  1 19:24:01]u/a/aring/t.c line 1: parse error
+[Nov  1 19:41:24]u/a/aring/t.c line 1: parse error
+[Nov  1 19:45:40]u/a/aring/t.c line 1: parse error
+[Nov  1 19:48:01]u/a/aring/t.c line 1: parse error
+[Nov  1 20:15:15]u/a/aring/sandhole/npc/wp/boss-wp.c line 21: parse error
+[Nov  1 20:15:45]u/a/aring/sandhole/npc/wp/boss-wp.c line 21: parse error
+[Nov  1 20:17:22]u/a/aring/sandhole/npc/wp/boss-wp.c line 21: parse error
+[Nov  1 20:17:39]u/a/aring/sandhole/npc/wp/boss-wp.c line 21: parse error
+[Nov  1 20:17:59]u/a/aring/sandhole/npc/wp/boss-wp.c line 21: parse error
+[Nov  1 22:48:38]u/a/aring/sandhole/npc/eq/sco_armor.c line 4: parse error
+[Nov  1 22:49:35]u/a/aring/sandhole/npc/eq/sco_armor.c line 10: Undefined function setup_wrist_eq
+[Nov  1 22:49:35]u/a/aring/sandhole/npc/eq/sco_armor.c line 20: parse error
+[Nov  1 22:49:50]u/a/aring/sandhole/npc/eq/sco_armor.c line 10: Undefined function setup_wrist_eq
+[Nov  1 22:49:50]u/a/aring/sandhole/npc/eq/sco_armor.c line 20: parse error
+[Nov  1 22:50:06]u/a/aring/sandhole/npc/eq/sco_armor.c line 10: Undefined function setup_armor_eq
+[Nov  1 22:50:06]u/a/aring/sandhole/npc/eq/sco_armor.c line 20: parse error
+[Nov  1 22:50:21]u/a/aring/sandhole/npc/eq/sco_armor.c line 20: parse error
+[Nov  1 22:56:25]u/a/aring/sandhole/npc/eq/dsco_armor.c line 22: parse error
+[Nov  1 22:56:25]u/a/aring/sandhole/npc/eq/dsco_armor.c line 32: End of file in string
+[Nov  1 22:57:14]u/a/aring/sandhole/npc/eq/dsco_armor.c line 23: parse error
+[Nov  1 22:57:14]u/a/aring/sandhole/npc/eq/dsco_armor.c line 90: End of file in string
+[Nov  1 22:57:31]u/a/aring/sandhole/npc/eq/dsco_armor.c line 22: parse error
+[Nov  1 23:18:56]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 8: Undefined variable 'AIR'
+[Nov  1 23:18:56]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 8: parse error
+[Nov  1 23:18:56]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 17: Illegal terminator
+[Nov  1 23:19:39]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 8: parse error
+[Nov  1 23:19:39]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 17: Illegal terminator
+[Nov  1 23:19:54]u/a/aring/sandhole/npc/eq/sco_air_boots.c line 20: parse error

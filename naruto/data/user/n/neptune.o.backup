@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":60,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["age":26,"race":"human","time_aged":10291,"wimpy_dir":"south","target_score":(["combat exp":480500,"dlevel":10,"clevel":1,]),"guild":"hunter","name":"海王星","title":"念能力者","gender":"female","option":(["map_unfreeze":1,]),"area_info":(["x_axis":14,"y_axis_old":15,"y_axis":15,"x_axis_old":14,]),"bank":229995,"birthday":1149861002,"startroom":"/world/area/wizard/wizard","class":"hxh_intermediate","id":"neptune","recoverroom":"/world/area/wizard/guildhall","score":(["elevel":119,"survive":4754,"combat exp":471463,"dlevel":10,"clevel":0,"kills":12022,]),"level":31,])
+masters ([])
+apprentices ([])
+skills (["parry":58,"continual hit":20,"savage hit":127,"chamber fish":60,"dodge":110,"concrete":101,"combat":115,"heavy hit":122,])
+learned (["parry":9248,"continual hit":0,"savage hit":72046,"chamber fish":185,"dodge":133863,"concrete":0,"combat":18734,"heavy hit":168406,])
+skill_map (["concrete":"chamber fish",])
+skill_flag ([])
+skill_ability (["parry":4,"continual hit":1,"savage hit":7,"chamber fish":4,"dodge":6,"concrete":6,"combat":6,"heavy hit":7,])
+skill_require (["parry":50460,"continual hit":6000,"savage hit":241935,"chamber fish":18000,"dodge":181500,"concrete":51005,"combat":198375,"heavy hit":223260,])
+best_skill "savage hit"
+st_maximum (["ap":330,"mp":330,"hp":530,])
+st_current (["ap":330,"mp":103,"hp":530,])
+st_notify (["ap":20,"hp":50,])
+st_point (["skill":21,"attribute":33,"score":1150,"learn":3141,])
+st_quest (["level_p":([10:1,]),"level_e":([4:1,]),])
+autoload ([3:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),2:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),1:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["fc":"perform frost closed ball.ball on $*","cha":"perform chamber fish.fish","/":"recall","chafeed":"perform chamber fish.feed","off":"option map_unfreeze 1","ffish":"perform chamber fish.state","map0":"option map_hidden 0","map1":"option map_hidden 1","ds":"perform dragon-head draw.summon on $*","eq":"query -eq","dss":"perform dragon-head draw.advance $* $* $* $*","lig":"perform chain lighting.chain on $*","si":"balance","on":"option map_unfreeze 0","a1":"hp fish","ds1":"perform dragon-head draw.advance","//":"recall start","ss":"perform psychical bullet.shoot on $*","chadel":"perform chamber fish.destruct",])
+dbase (["creation_time":1164091410,"time_aged":36800632,"body":"/obj/user","board_last_read":(["tmr":1234463389,"_MITE_":1240893079,"bug":1243516951,"acme":1240128067,"wizard":1238236464,"chat":1237659377,"propose":1236567120,]),"name":"¢Ð¢é¢ö¢ï","id":"bang","channels":({"aucc",}),"last_from":"102.101.74.211","last_on":1243972217,])
+my_body 
+last_age_set 1243972216
+password "$1$36325804$KcNCpHh7zg8RfZFduth7U1"
+email "lsp0317@hotmail.com"
+window (["freeze":1,])

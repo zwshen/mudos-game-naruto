@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ad":"advance $*","sacc":"sac corpse","f":"fight $*","gc":"get all from corpse","sk":"skills",])
+dbase (["time_aged":20330,"last_from":"126.214.85.210","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1130500288,"name":"¤Ñ¨ÏÄ_¨à","id":"angelboa","last_on":1130563367,])
+password "$1$2576604$btaLksflnIyGCfylDlPuQ/"
+email "@"

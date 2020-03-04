@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["x":"sac corpse","p":"exp","g":"gain","2":"drop pill","c":"look corpse","1":"use box",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1129916458,"board_last_read":(["_MITE_":1130000043,"wizard":1130649586,"tmr":1130944869,]),"name":"­p³£¬P","id":"kidou","last_on":1131861247,"last_from":"240.147.13.163","time_aged":3329,"body":"/obj/user",])
+password "$1$84366847$qslj1NlHUVs1kQX5VuIzb/"
+email "kidou@yahoo.com.tw"

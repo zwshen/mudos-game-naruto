@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":40,"dex":20,"str":40,"con":20,])
+conditions ([])
+dbase (["name":"¤p½Þ","birthday":1129574668,"level":20,"age":49,"race":"human","gender":"male","area_info":(["x_axis":1,"y_axis_old":3,"x_axis_old":1,"y_axis":3,]),"bank":6239,"startroom":"/world/area/wild/wild","score":(["kills":538,"survive":25552,"combat exp":269675,"elevel":62,]),"nickname":"[5m[1;37m^(OO)^[0;2m","guild":"muye","long":"^(OO)^","title":"¤ì¸­§ø§ÔªÌ","id":"howie","time_aged":57109,"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["cell activation":15,"continual hit":49,"ninja":40,"heavy hit":99,"dodge":64,"combat":98,"parry":49,"force":1,"savage hit":99,])
+learned (["ninja":0,"cell activation":621,"heavy hit":646714,"continual hit":24035,"combat":54832,"dodge":42205,"parry":2921,"savage hit":437483,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["ninja":2,"cell activation":1,"heavy hit":6,"continual hit":3,"combat":5,"dodge":4,"parry":3,"savage hit":6,])
+skill_require (["ninja":8000,"cell activation":1125,"heavy hit":1000000,"continual hit":36015,"combat":144060,"dodge":61440,"parry":36015,"savage hit":1000000,])
+best_skill "heavy hit"
+st_maximum (["mp":100,"hp":640,"ap":500,])
+st_current (["mp":100,"hp":640,"ap":438,])
+st_notify (["hp":20,"ap":20,])
+st_point (["learn":382,"skill":10,"score":0,"attribute":0,])
+st_quest (["level_e":([1:1,]),"mu":([3:2,4:1,]),])
+autoload ([18:(["file":"/world/eq/leg/gai","amount":1,]),17:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),16:(["file":"/world/item/rod","amount":1,]),15:(["file":"/world/eq/finger/bronze","amount":1,]),14:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),13:(["file":"/world/eq/armor/turtle","amount":1,]),12:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),11:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),10:(["file":"/world/eq/hand/fist","amount":1,]),9:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),8:(["file":"/world/wp/radish","amount":1,]),7:(["file":"/world/wp/radish","amount":1,]),6:(["file":"/world/eq/head/rhino-shit","amount":1,]),5:(["file":"/world/area/old_forest/npc/wp/lance","amount":1,]),4:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),3:(["file":"/world/area/wild/npc/eq/wolf_tail","amount":1,]),2:(["file":"/world/eq/cloth/cloth","amount":1,]),1:(["file":"/obj/money/silver","amount":55,]),0:(["file":"/world/drug/apill","amount":43,]),])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["score":(["kills":6,"survive":20,"combat exp":47,]),"title":"¤ì¸­§ø§ÔªÌ","name":"µá°Ç»X","id":"philemon","birthday":1131109727,"level":1,"target_score":(["combat exp":100,]),"race":"human","age":18,"gender":"male","guild":"muye","area_info":(["x_axis":12,"y_axis_old":28,"x_axis_old":12,"y_axis":28,]),"class":"inferior","time_aged":4031,"startroom":"/world/area/wizard/wizard",])
+masters ([])
+apprentices ([])
+skills (["dodge":3,"combat":1,"parry":6,])
+learned (["dodge":20,"parry":190,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,])
+skill_require (["dodge":135,"parry":540,])
+best_skill "parry"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":76,"ap":68,])
+st_notify ([])
+st_point (["score":50,"learn":10,"skill":0,"attribute":2,])
+st_quest ([])
+autoload ([1:(["file":"/world/eq/belt/cord","amount":1,]),0:(["file":"/obj/money/silver","amount":8,]),])
+__flag ""

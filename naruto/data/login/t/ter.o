@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wil":"wield $* as lefthand","wir":"wield $* as righthand","ad":"advance $*","9":"get all","q":"quest $*","f":"finger $*","b":"balance","8":"sac corpse","co":"consider $*","0":"get all from corpse $*","pr":"transfer $*","id":"identify $*",])
+dbase (["last_on":1204559620,"channels":({"chat","rumor",}),"creation_time":1203521508,"last_from":"132.39.129.140","signature":"我簽hp","profile":"小鹿的名字叫小丸子就是你看到的這一隻啦~","body":"/obj/user","board_last_read":(["wizard":1174206256,"tmr":1130154967,"propose":1189358721,"ayumi":1120542699,"newbie":1136481011,"design":1154116971,]),"id":"ter","name":"小鹿丸子","time_aged":356234,])
+password "$1$19408002$lXzFcR20dPXEUlMDysRXg."
+email "ter@pchome.com.tw"

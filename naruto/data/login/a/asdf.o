@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["pt":"put $1 in $2","c":"consider $*","gg":"get $1 from $2","fi":"fight $*","mapfr":"option map_unfreeze 0","tr":"train $1 from $2","f":"finger $*","mapfu":"option map_unfreeze 1","ide":"identify $*",])
+dbase (["time_aged":331586,"id":"asdf","name":"µæµæ¤l","profile":"","last_from":"39.74.228.61","board_last_read":(["newbie":1136481011,"wizard":1151395598,"propose":1148557370,"_MITE_":1151039075,"design":1150693458,"ayumi":1120542699,"bug":1151492395,"tmr":1150731334,"chat":1151981364,"acme":1149251531,]),"last_on":1152380107,"signature":"","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1151415483,])
+password "$1$68713888$mWhp8Nbpao387TvYOpULX1"
+email "put fish in bag"

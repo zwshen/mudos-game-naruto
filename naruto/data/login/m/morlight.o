@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["lc":"look corpse $*","pb":"put $* in bag","g":"get all from corpse $*","c":"consider $*","dr":"perform drench.assoil on $*","lance":"wield lance as twohanded","rm":"remember $*","hid":"option map_hidden $*","ap2":"eat middle essence of chicken","gb":"get $* from bag","sa":"sac corpse $*","ide":"identify $*","op":"say À°¦£","m":"use bandage","lv":"advance level","cf":"perform chimera fay.assoil",])
+dbase (["time_aged":5730503,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1234665282,"creation_time":1207205634,"board_last_read":(["bug":1209148075,"propose":1205580822,"chat":1186466886,]),"id":"morlight","name":"±á¥ú","last_from":"222.101.123.140",])
+my_body 
+last_age_set 1234665280
+password "$1$69141019$Txvv1DDETsCA0DN/gZL2c0"
+email "aysour@gmail.com"
+window (["width":128,"height":41,"terminal_type":"TINTIN++",])

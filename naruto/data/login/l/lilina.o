@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["1":"sac corpse","`":"get essence from bag","2":"kill passerby","qq":"say 救你","z":"perform thousand year kill.attack on $*","``":"put essence in bag","q":"say 老張","22":"kill child","0":"score","x":"eat heal ap pill","9":"get all from corpse","7":"get all","aa":"say 救","6":"look","11":"eat essence","a":"say 女兒",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1176233008,"last_from":"193.99.229.125","last_on":1198840667,"body":"/obj/user","id":"lilina","name":"莉莉娜","board_last_read":(["design":1154116971,"tmr":1174093857,"_MITE_":1188848484,"propose":1193820020,"ayumi":1120542699,"bug":1191602432,"byron":1178289846,"wizard":1190540385,"newbie":1136481011,"chat":1186466886,"acme":1188005608,]),"time_aged":11272298,])
+password "$1$14844201$ZftJt9mhf9e5HyTNBaL/R/"
+email " "

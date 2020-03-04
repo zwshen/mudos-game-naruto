@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ro1":"sa icon $HIY$$BCYN$¡­$NOR$","ro2":"sa icon $CYN$$BYEL$¡°$NOR$","o1":"sa icon $HIW$$BCYN$¡µ$NOR$","4goto":"/world/area/bone/bone.c 1 1","3":"goto bone 1 1","rd":"sa icon delete","4":"goto /world/area/bone/bone.c 1 1","1":"perform force.hit on $*","p":"sac corpse","o2":"sa icon $HIW$$BCYN$¡¾$NOR$","ide":"identify $*",])
+dbase (["time_aged":624299,"last_on":1144693953,"id":"savior","name":"®á¥°¦Ï","board_last_read":(["board":1133333030,"ayumi":1120542699,"propose":1139745280,"bug":1137491690,"savior":1137929712,"tmr":1141308013,"chat":1133923712,"newbie":1136481011,"wizard":1140511389,"acme":1139855182,"_MITE_":1139709536,]),"last_from":"2.13.124.140","body":"/obj/user","channels":({"chat","rumor","sys","wiz","music",}),"creation_time":1133923033,])
+password "$1$69790602$4BZhVnrP0d0u8bxG9Nfi51"
+email "aquamood@yahoo.com.tw"

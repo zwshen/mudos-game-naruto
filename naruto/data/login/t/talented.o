@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ga":"get all from corpse $*","omu":"option map_unfreeze $*","ep2":"eat big heal hp pill","omh":"option map_hidden $*","g":"get all","ep1":"eat big heal ap pill","0":"use help","sn":"proskills first-aid snake_skin_bandage -m","pf":"perform fight body.check","ph":"perform kick haze.kick on $*","sa":"sac corpse","ww":"wield blade","pl":"perform kick lotus.kick on $*","pk":"perform kick wolf.kick on $*",])
+dbase (["time_aged":21307870,"creation_time":1202527838,"id":"talented","name":"發呆是種享受","channels":({"chat","rumor","aucc","war","news",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"chat":1244623264,"bug":1246069199,"tmr":1134320485,"byron":1177702512,"design":1154116971,"wizard":1239465932,]),"last_on":1247823265,"last_from":"32.176.44.114",])
+my_body 
+last_age_set 1249297440
+password "$1$77122311$Gsi649mlHcSIU8gG55OPE."
+email "s1213032@ncnu.edu.tw"
+window (["terminal_type":"zmud","freeze":1,])

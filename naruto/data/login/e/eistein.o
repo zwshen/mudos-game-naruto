@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","ga":"get all","sa":"sac corpse","kl":"kill crab",])
+dbase (["last_on":1200904985,"channels":({"chat","rumor",}),"last_from":"68.147.125.59","creation_time":1200892938,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"newbie":1136481011,]),"id":"eistein","name":"¤ÛÀs¤ý","time_aged":11550,])
+password "$1$29276463$8dJDVFuy2QNjYf.nDMwHn."
+email "nic@"

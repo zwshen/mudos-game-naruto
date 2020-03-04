@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all","c":"consider $*","o":"backup","wi":"wield $*","rr":"recall start","id":"identify $*","r":"recall","2":"get all from corpse","h":"halt","1":"sac corpse","3":"put $* in bag","p":"kill elf $*","v":"save","et":"eat chicken","ww":"wield lance as twohanded",])
+dbase (["last_from":"173.68.227.61","time_aged":110160,"body":"/obj/user","id":"senior","name":"²`ÂÅ¤§­µ","channels":({"chat","rumor","aucc",}),"last_on":1238234291,"creation_time":1206774856,"board_last_read":(["newbie":1136481011,"design":1154116971,"propose":1205580822,"wizard":1201062195,"_MITE_":1188848484,"chat":1186466886,"byron":1177702512,"bug":1207673140,]),])
+my_body 
+last_age_set 1238234291
+password "$1$2117901$/0arP0.dFHRAlOY.LJcdT1"
+email "@"
+window (["terminal_type":"vt100","width":83,"freeze":1,"height":31,])

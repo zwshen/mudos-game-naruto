@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":50,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":8798,"guild":"muye","class":"inferior","option":([]),"wimpy_dir":"east","name":"Às¾z","gender":"male","level":20,"race":"human","age":173,"birthday":1131349146,"id":"chirs","recoverroom":"/world/area/muye/inn","startroom":"/world/area/muye/ri","title":"¤ì¸­§ø§ÔªÌ","score":(["elevel":40,"kills":58,"survive":417341,"combat exp":184711,]),"bank":3274247,])
+masters ([])
+apprentices ([])
+skills (["combat":79,"savage hit":79,"parry":20,"heavy hit":79,"continual hit":31,"dodge":26,"ninja":23,])
+learned (["combat":30649,"savage hit":70745,"parry":5241,"heavy hit":70745,"continual hit":4046,"dodge":9913,"ninja":910,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":5,"savage hit":5,"parry":3,"heavy hit":5,"continual hit":3,"dodge":3,"ninja":2,])
+skill_require (["combat":93615,"savage hit":93615,"parry":6000,"heavy hit":93615,"continual hit":14415,"dodge":10140,"ninja":2645,])
+best_skill "savage hit"
+st_maximum (["ap":530,"mp":80,"hp":630,])
+st_current (["ap":530,"mp":80,"hp":630,])
+st_notify (["ap":0,"hp":30,])
+st_point (["skill":14,"attribute":10,"score":0,"learn":4904,])
+st_quest (["level_e":([1:1,]),])
+autoload ([3:(["amount":37,"file":"/world/area/old_forest/npc/item/fruit4",]),2:(["amount":1,"file":"/world/item/bag",]),1:(["amount":7,"file":"/world/area/wild/npc/item/bandit_tooth",]),0:(["amount":1,"file":"/world/broom/cheese-broom",]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["qn":"query -npc","g":"get all from corpse $*",])
+dbase (["last_from":"137.99.115.59","channels":({"chat","rumor","news","music",}),"creation_time":1132933713,"name":"ฑþคโ","id":"killer","last_on":1137550793,"body":"/obj/user","time_aged":2877945,"board_last_read":(["wizard":1132743373,"chat":1133923712,"bug":1133521888,"propose":1130204695,"newbie":1128936709,"_MITE_":1131786296,]),])
+password "$1$28432545$cRrjqTnvK1ADwaWBuGkSj1"
+email "pili_marry@yahoo.com.tw"

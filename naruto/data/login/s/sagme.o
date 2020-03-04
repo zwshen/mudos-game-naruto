@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["pd":"perform animal taming.$*","g":"get all from corpse $*","snake":"proskills first-aid snake_skin_bandage -m","d2":"perform double physique.dp",])
+dbase (["last_on":1212895745,"time_aged":2386829,"body":"/obj/user","name":"¤p¬õ¨§","id":"sagme","channels":({"chat","rumor","aucc",}),"last_from":"226.202.166.218","board_last_read":(["_MITE_":1188848484,"bug":1212892283,"wizard":1237661686,"chat":1123155003,"design":1154116971,"propose":1236520803,"newbie":1136481011,]),"creation_time":1203352854,])
+my_body 
+last_age_set 1237668825
+password "$1$45204935$jpPUyCFdEEmZTN2V2hKBQ1"
+email "aaa@aaa"
+window (["terminal_type":"zmud","width":121,"height":42,])

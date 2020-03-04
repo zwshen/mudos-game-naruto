@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["tt":"transfer $*","zz":"do gg,z","re":"recall","kk":"do k $* 1,k $* 2,k $* 3,k $* 4,k $* 5,k $* 6","cc":"consider $*","z":"sac corpse","id":"identify $*","bb":"buy 2 $* from master","g":"get all","`":"wield blade","gg":"get all from corpse $*","mw":"enable muye wind","``":"wield sword as lefthand","lrr":"wield rod as lefthand",])
+dbase (["last_from":"115.134.20.61","time_aged":1181719,"creation_time":1128487366,"last_on":1248340398,"invis":0,"body":"/obj/user","board_last_read":(["acme":1240128067,"board":1174787669,"chat":1116042164,"newbie":1173805427,"ayumi":1120542699,"tmr":1174093857,"_MITE_":1151039075,"byron":1174487968,"propose":1172363532,"wizard":1170676893,]),"id":"flying","name":"≈ ¶±","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1248340398
+password "$1$39741611$u9Zz2iFEzqGa7OwUQNt390"
+email "save"
+window (["terminal_type":"vt100","width":207,"height":69,])

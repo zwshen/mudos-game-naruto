@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["phh":"perform force.hit on $*","wr2":"wield radish 2 as lefthand","wl":"wield lance as twohanded","on":"option map_unfreeze 0","emb":"eat middle mp pill","p":"put $1 in bag","tc":"train cell activation from ka for $1","sacc":"sac corpse","enmi":"enter ¯µ¥Þ","ehc":"eat hp pill","eac":"eat ap pill","wr1":"wield radish","g":"get $1 from bag","wb":"wield blade","th":"train hundred palm from ka for $1","mapoff":"option map_hidden 1","mapon":"option map_hidden 0","off":"option map_unfreeze 1","mt":"perform force.bump on $1","emc":"eat mp pill","bp":"buy $1 $2 from $3","dp":"perform ninja.dp","eas":"eat large ap pill","eab":"eat middle ap pill","ca":"perform ninja.ca","eaa":"eat big ap pill","eha":"eat big hp pill",])
+dbase (["time_aged":1898785,"board_last_read":(["_MITE_":1131786296,"propose":1131721575,"newbie":1130565369,"bug":1131175254,"chat":1130765657,"wizard":1132743373,]),"last_from":"204.32.134.140","name":"Âú¥Ð","id":"hinata","body":"/obj/user","last_on":1160536886,"channels":({"aucc",}),"creation_time":1130420610,])
+password "$1$59719918$4J6NN9kWEeJcuDmp0U.mI."
+email "d8839445@knight.fcu.edu.tw"

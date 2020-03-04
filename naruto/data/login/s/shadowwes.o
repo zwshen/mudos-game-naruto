@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["we":"wield $*","tr":"train $* from ka for 10","wer":"wield $* as righthand","idf":"identify $*","tp":"tell pentuim $*","ep":"eat pill $*","22":"move 2","wel":"wield $* as lefthand","aeq":"perform alter ego.destruct","e2":"eat manto $*","ge":"get all from corpse","ad":"advance $*","e1":"eat chicken $*","gb":"give boss $* roe","sa":"sac corpse","bv":"buy $* from vendor","r":"reply $*","gf":"get $* from bag","pu":"put $* in bag","11":"move 1","ae":"perform alter ego.shadow","th":"perform force.fireass on $*","uu":"unwield $*",])
+dbase (["creation_time":1172335693,"body":"/obj/user","last_on":1176389568,"time_aged":2663282,"id":"shadowwes","name":"¦B¤tºð¹Ú","last_from":"47.172.228.61","channels":({"chat","rumor","aucc",}),"board_last_read":(["chat":1173206018,"wizard":1175357048,"propose":1172363532,"bug":1174207089,"_MITE_":1151039075,"design":1154116971,]),])
+password "$1$2652173$oJoHPizBw5rMlCsdSJN5d1"
+email "pentuim1@yahoo.com.tw"

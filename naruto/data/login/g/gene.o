@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["off":"option map_unfreeze 1","`":"sac corpse","1":"get all from corpse","on":"option map_unfreeze 0",])
+dbase (["board_last_read":(["wizard":1115964935,]),"last_on":1169120869,"body":"/obj/user","channels":({"chat","rumor",}),"last_from":"154.208.74.211","creation_time":1169029887,"id":"gene","name":"³°¦æ³¾","time_aged":10580,])
+password "$1$4937632$R0tWamG8l3yasx.BD.xUk."
+email "123@yahoo.com.tw"

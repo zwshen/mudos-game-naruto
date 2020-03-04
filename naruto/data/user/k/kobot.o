@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["startroom":"/world/area/wild/land","time_aged":908,"area_info":(["y_axis":29,"x_axis":26,"x_axis_old":26,"y_axis_old":29,]),"level":1,"score":(["combat exp":18,]),"age":18,"race":"human","id":"kobot","name":"¢Ù¼Ú¹G¼Ú±è","birthday":1130904706,"class":"commoner","gender":"male",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":80,"ap":80,"mp":80,])
+st_current (["hp":8,"ap":80,"mp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""

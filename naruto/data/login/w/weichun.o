@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["3":"proskills first-aid snake_skin_bandage -m",])
+dbase (["channels":({"chat","rumor",}),"time_aged":154776,"last_from":"197.219.139.220","creation_time":1235567020,"body":"/obj/user","name":"Ú]¦B´P","last_on":1235721773,"id":"weichun",])
+my_body 
+last_age_set 1235721773
+password "$1$59388807$jh49sYwPAte9Xdrl1QzPb1"
+email "ccgtdan@hotmail.com"
+window (["freeze":1,"terminal_type":"zmud","width":121,"height":42,])

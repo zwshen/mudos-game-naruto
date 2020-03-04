@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":128,"creation_time":1239250667,"body":"/obj/user","name":"´_¤³¼C","id":"revenger",])
+my_body 
+last_age_set 1239250757
+password "$1$98663398$DRxK3nj.ISmywYEAt0Qq81"
+email "stephen_lao@hotmail.com"
+window (["terminal_type":"zmud","width":151,"height":44,])

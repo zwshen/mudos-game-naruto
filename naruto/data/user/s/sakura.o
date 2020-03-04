@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["dex":20,"str":24,"con":24,"int":24,])
+conditions ([])
+dbase (["time_aged":44522,"level":12,"race":"human","name":"¤pÄå","age":19,"gender":"female","birthday":1128690386,"title":"¤ì¸­§ø§ÔªÌ","score":(["survive":710,"combat exp":13585,"elevel":71,]),"class":"inferior","startroom":"/world/area/wizard/prac4","id":"sakura","target_score":(["combat exp":14400,"elevel":2,]),"guild":"muye","option":([]),"bank":6836,])
+masters ([])
+apprentices ([])
+skills (["heavy hit":31,"parry":1,"continual hit":12,"savage hit":31,"combat":32,"dodge":1,])
+learned (["heavy hit":1416,"savage hit":1416,"continual hit":804,"combat":3252,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":2,"parry":1,"continual hit":2,"savage hit":2,"dodge":1,"combat":2,])
+skill_require (["heavy hit":14415,"savage hit":14415,"continual hit":2160,"combat":15360,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":230,])
+st_current (["mp":80,"hp":80,"ap":22,])
+st_notify ([])
+st_point (["skill":14,"score":450,"attribute":12,"learn":846,])
+st_quest ([])
+autoload ([1:(["file":"/world/wp/radish","amount":1,]),0:(["file":"/world/wp/radish","amount":1,]),])
+__flag ""

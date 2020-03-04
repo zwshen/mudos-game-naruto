@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["pp":"time",])
+dbase (["channels":({"chat","rumor","aucc",}),"id":"ruby","name":"¯ø¤ñ","last_on":1133692526,"creation_time":1129819922,"board_last_read":(["tmr":1130172905,"_MITE_":1130000043,"wizard":1129917561,]),"last_from":"12.13.124.140","time_aged":2348192,"body":"/obj/user",])
+password "$1$87756974$TmJZ1PycwPXTF6PqXTFrY."
+email "kkk@hhh.com"

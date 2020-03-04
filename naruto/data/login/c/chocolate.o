@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["t":"transfer 1","ee":"eat essence","pa":"perform hundred palm.attack on","unfreeze":"option map_unfreeze 1","off":"option map_hidden 1","k":"kill elf","freeze":"option map_unfreeze 0","on":"option map_hidden 0",])
+dbase (["last_on":1190500140,"channels":({"chat","rumor","aucc",}),"creation_time":1188242085,"body":"/obj/user","last_from":"13.200.78.213","name":"¥©§J¤O","id":"chocolate","time_aged":618699,])
+password "$1$94254419$tpjLOMi8TL9wpSlGmXaaV0"
+email "have_a_break04@hotmail.com"

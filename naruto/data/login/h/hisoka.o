@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["gk":"give kuroro $*","gcc":"give cindy $*","b":"buy $1 from $2","pb2":"put $* in bag 2","av":"advance $*","ebc":"eat big essence of chicken","gf":"give franklin $*","pb":"put $* in bag","g":"get $* from corpse","tfw":"train fire wall from feng for $*","c":"charge $*","gb":"get $* from bag","ad":"advance $1 for $2","ebt":"eat big daisy tea","et":"eat daisy tea","de":"deposit $* silver","cd":"consider $*","gm":"give maggie $*","ec":"eat essence of chicken","tl":"train solid from rao for $*","rr":"remember $*","te":"train electric variation from rao for $*","tc":"train chain lighting from feng for $*","gb2":"get $* from bag 2","iy":"identify $*","emt":"eat middle daisy tea","wd":"withdraw $* silver","tv":"train variation from feng for $*","rm":"remove $*","emc":"eat middle essence of chicken","tp":"train parry from daisuke for $*","fw":"perform fire wall.fire","td":"train dodge from clemens for $*","tf":"train fire variation from feng for $*",])
+dbase (["creation_time":1130297710,"time_aged":32615174,"board_last_read":(["ayumi":1120542699,"tmr":1144575983,"_MITE_":1130000043,"wizard":1239465932,"propose":1172363532,]),"body":"/obj/user","id":"hisoka","name":"¦è¯Á","channels":({"chat","rumor","aucc",}),"last_from":"203.234.61.61","last_on":1243674342,])
+my_body 
+last_age_set 1243674341
+password "$1$35280963$YCYRlcoKU3EsiEFEf/x1E1"
+email "d41920@126.com"
+window (["terminal_type":"zmud","width":95,"height":27,])

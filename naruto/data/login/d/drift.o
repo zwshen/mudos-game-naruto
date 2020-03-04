@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["is":"identify sword","ds":"drop sword","4":"perform heal buff.heal","wl":"wield lance as twohanded","1s":"perform muscle tank.attack on spider","us":"unwield sword","1":"perform muscle tank.attack on $*","wb":"wield blade as twohanded","ub":"unwield blade","ga":"get all","g":"get all from corpse $*","22":"perform animal taming.leave","2":"perform animal taming.call","hm":"perform hand heal.hp to mp $*","ul":"unwield lance","ws":"wield sword","emp":"eat big heal mp pill","wss":"wield sword as lefthand","3":"perform alter ego.shadow","oph0":"option map_hidden 0","¤gµÛ°g®c":"3e2wsen3enws","dl":"drop lance","8":"perform four foot.beast","oph1":"option map_hidden 1","feed":"perform animal taming.feed $*","sa":"sac corpse","il":"identify lance","9":"perform double physique.dp","44":"perform heal buff.heal on $*","ehp":"eat big heal hp pill","dsc":"perform animal taming.state","33":"perform alter ego.destruct","am":"perform hand heal.ap to mp $*",])
+dbase (["time_aged":13673074,"creation_time":1235625263,"name":"¥Vª¢","id":"drift","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"board_last_read":(["bug":1244282072,"newbie":1136481011,"_MITE_":1241331390,"propose":1240917122,"wizard":1239465932,]),"last_on":1245705348,"last_from":"235.54.230.61",])
+my_body 
+last_age_set 1249298288
+password "$1$99917254$x8SbZrN1zVfmS/iu63aQ./"
+email "ss@ss.ss"
+window (["terminal_type":"zmud","width":99,"height":64,])

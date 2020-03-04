@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":434,"last_from":"129.129.113.140","creation_time":1236967131,"last_on":1236967533,"name":"Às","body":"/obj/user","id":"rou",])
+my_body 
+last_age_set 1236967533
+password "$1$83063012$ZH/ZdxTvap8m.RivTvzWj."
+email "roulin.tw@yahoo.com.tw"
+window (["terminal_type":"vt100","width":80,"height":24,])

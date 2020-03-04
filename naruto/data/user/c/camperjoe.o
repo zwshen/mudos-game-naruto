@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":22,])
+conditions ([])
+dbase (["birthday":1165606133,"time_aged":6004,"bank":11,"level":1,"race":"human","age":18,"guild":"muye","name":"ªü¦v","id":"camperjoe","startroom":"/world/area/muye/muye","class":"commoner","score":(["kills":3,"survive":30,"combat exp":546,]),"gender":"male","title":"¤ì¸­§ø¦¨­û","area_info":(["x_axis":12,"y_axis_old":32,"x_axis_old":12,"y_axis":32,]),])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":130,"mp":80,"hp":80,])
+st_current (["ap":128,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":2,"attribute":0,"score":0,"learn":111,])
+st_quest ([])
+autoload ([0:(["amount":1,"file":"/world/item/mitp",]),])
+__flag ""

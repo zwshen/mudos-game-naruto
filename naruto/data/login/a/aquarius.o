@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["nm":"option map_hidden 1","off":"option map_unfreeze 1","on":"option map_unfreeze 0","ym":"option map_hidden 0",])
+dbase (["time_aged":281993,"board_last_read":(["_MITE_":1151039075,"wizard":1153360538,]),"id":"aquarius","name":"¤ô²~","last_on":1154221178,"last_from":"211.179.132.202","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1153537450,])
+password "$1$78910885$gX.pvRqj.KL3V8Ds3YaRT/"
+email "nanosoul@yahoo.com.tw"

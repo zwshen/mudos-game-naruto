@@ -1,0 +1,1217 @@
+火影 (neolith 0.1.0) starting up - Sat Jul 25 10:22:37 2009
+
+
+Can't find "lt-neolith", ignoring old binaries.
+Try invoking the driver using the full pathname.
+
+Loading preloaded files ...
+Global initializations done.
+
+Opening TCP service on port 8000.
+Opening TCP service on port 8015.
+System Error: socket_connect: connect:Invalid argument
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#12 ("supo"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#12 ("supo")      command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#12 ("supo")      receive_message      feature/char/message.c:63
+
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+SIGPIPE received.
+SIGPIPE received.
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：daemon/skill/hxh/concrete/obj/fish_obj#6387 ("Root"):daemon/skill/hxh/concrete/obj/fish_obj.c
+程式：daemon/skill/hxh/concrete/obj/fish_obj.c:50
+函數呼叫回溯:
+daemon/skill/hxh/concrete/obj/fish_obj#6387 ("Root") heart_beat           std/char/npc.c:24
+daemon/skill/hxh/concrete/obj/fish_obj#6387 ("Root") chat                 std/char/npc.c:199
+daemon/skill/hxh/concrete/obj/fish_obj#6387 ("Root") <function>           (<function>):0
+daemon/skill/hxh/concrete/obj/fish_obj#6387 ("Root") do_check             daemon/skill/hxh/concrete/obj/fish_obj.c:50
+
+Heart beat in daemon/skill/hxh/concrete/obj/fish_obj#6387 turned off.
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#4401 ("supo"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#4401 ("supo")    command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#4401 ("supo")    receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Array index out of bounds.
+物件：adm/daemons/ward ("Root"):adm/daemons/ward.c
+程式：adm/daemons/ward.c:119
+函數呼叫回溯:
+adm/daemons/ward ("Root") heart_beat           adm/daemons/ward.c:119
+
+Heart beat in adm/daemons/ward turned off.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+SIGPIPE received.
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#210263 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#210263 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#214076 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#214076 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#219078 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#219078 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#220335 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#220335 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#221414 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#221414 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#227540 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#227540 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#227758 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#227758 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#228015 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#228015 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#228067 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#228067 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#228194 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#228194 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#228237 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#228237 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：world/area/old_forest/npc/item/bad_pill#228255 ("Root"):world/area/old_forest/npc/item/bad_pill.c
+程式：world/area/old_forest/npc/item/bad_pill.c:113
+函數呼叫回溯:
+world/area/old_forest/npc/item/bad_pill#228255 ("Root") poison_pill          world/area/old_forest/npc/item/bad_pill.c:113
+
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Network is unreachable
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#529069 ("equip"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#529069 ("equip") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#529069 ("equip") receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#529069 ("equip"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#529069 ("equip") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#529069 ("equip") receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#529356 ("books"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#529356 ("books") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#529356 ("books") receive_message      feature/char/message.c:63
+
+object /obj/user#529356: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：obj/user#529356 ("books"):feature/user/autoload.c
+程式：feature/user/autoload.c:16
+函數呼叫回溯:
+obj/user#529356 ("books") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#529356 ("books") save                 obj/user.c:104
+obj/user#529356 ("books") save_autoload        feature/user/autoload.c:16
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#529749 ("strbook"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#529749 ("strbook") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#529749 ("strbook") receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#530123 ("conbook"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#530123 ("conbook") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#530123 ("conbook") receive_message      feature/char/message.c:63
+
+object /obj/user#530123: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：obj/user#530123 ("conbook"):feature/user/autoload.c
+程式：feature/user/autoload.c:23
+函數呼叫回溯:
+obj/user#530123 ("conbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#530123 ("conbook") save                 obj/user.c:104
+obj/user#530123 ("conbook") save_autoload        feature/user/autoload.c:23
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#530539 ("learn"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#530539 ("learn") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#530539 ("learn") receive_message      feature/char/message.c:63
+
+object /world/book/e100-con1#695362: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/e100-con1#695362 ("Root"):feature/dbase.c
+程式：feature/dbase.c:37
+函數呼叫回溯:
+obj/user#695297 ("conbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#695297 ("conbook") save                 obj/user.c:104
+obj/user#695297 ("conbook") save_autoload        feature/user/autoload.c:20
+world/book/e100-con1#695362 ("Root") query                feature/dbase.c:37
+
+object /world/book/w100-str1: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/w100-str1 ("Root"):feature/dbase.c
+程式：feature/dbase.c:42
+函數呼叫回溯:
+obj/user#695693 ("strbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:75
+world/book/w100-str1#695695 ("Root") query                feature/dbase.c:43
+world/book/w100-str1 ("Root") query                feature/dbase.c:42
+
+object /world/book/e60-str2: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/e60-str2 ("Root"):feature/dbase.c
+程式：feature/dbase.c:40
+函數呼叫回溯:
+obj/user#721342 ("strbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#721342 ("strbook") save                 obj/user.c:104
+obj/user#721342 ("strbook") save_autoload        feature/user/autoload.c:20
+world/book/e60-str2#721377 ("Root") query                feature/dbase.c:43
+world/book/e60-str2 ("Root") query                feature/dbase.c:40
+
+object /adm/obj/simul_efun: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：adm/obj/simul_efun ("NONAME"):adm/obj/simul_efun.c
+程式：adm/simul_efun/gender.c:5
+函數呼叫回溯:
+obj/user#721716 ("conbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:107
+adm/obj/simul_efun ("NONAME") message_vision       adm/simul_efun/message.c(adm/obj/simul_efun.c):41
+adm/obj/simul_efun ("NONAME") gender_self          adm/simul_efun/gender.c(adm/obj/simul_efun.c):5
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#688966 ("jose"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#688966 ("jose")  command_hook         feature/char/command.c:50
+cmds/usr/look ("Root")    main                 cmds/usr/look.c:148
+world/area/sifa_isle/seller_room ("Root") do_look              std/room.c:146
+obj/user#688966 ("jose")  receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#688966 ("jose"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#688966 ("jose")  command_hook         feature/char/command.c:50
+cmds/usr/look ("Root")    main                 cmds/usr/look.c:148
+world/area/sifa_isle/seller_room ("Root") do_look              std/room.c:146
+obj/user#688966 ("jose")  receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#688966 ("jose"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#688966 ("jose")  command_hook         feature/char/command.c:50
+cmds/usr/look ("Root")    main                 cmds/usr/look.c:148
+world/area/sifa_isle/seller_room ("Root") do_look              std/room.c:146
+obj/user#688966 ("jose")  receive_message      feature/char/message.c:63
+
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#688966 ("jose"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#688966 ("jose")  command_hook         feature/char/command.c:50
+cmds/usr/look ("Root")    main                 cmds/usr/look.c:148
+world/area/sifa_isle/seller_room ("Root") do_look              std/room.c:146
+obj/user#688966 ("jose")  receive_message      feature/char/message.c:63
+
+object /obj/user#743166: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：obj/user#743166 ("strbook"):feature/user/autoload.c
+程式：feature/user/autoload.c:24
+函數呼叫回溯:
+obj/user#743166 ("strbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#743166 ("strbook") save                 obj/user.c:104
+obj/user#743166 ("strbook") save_autoload        feature/user/autoload.c:24
+
+object /world/book/e60-con2: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/e60-con2 ("Root"):feature/dbase.c
+程式：feature/dbase.c:35
+函數呼叫回溯:
+obj/user#743545 ("conbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#743545 ("conbook") save                 obj/user.c:104
+obj/user#743545 ("conbook") save_autoload        feature/user/autoload.c:20
+world/book/e60-con2#743691 ("Root") query                feature/dbase.c:43
+world/book/e60-con2 ("Root") query                feature/dbase.c:35
+
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#14976 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#14976 ("Root") heart_beat           std/char.c:115
+world/npc/scap#14976 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#14976 turned off.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#14976 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#14976 ("Root") heart_beat           std/char.c:115
+world/npc/scap#14976 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#14976 turned off.
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#14976 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#14976 ("Root") heart_beat           std/char.c:115
+world/npc/scap#14976 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#14976 turned off.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+object /world/book/double-learn#806073: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/double-learn#806073 ("Root"):feature/dbase.c
+程式：feature/dbase.c:42
+函數呼叫回溯:
+obj/user#806015 ("learn") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#806015 ("learn") save                 obj/user.c:104
+obj/user#806015 ("learn") save_autoload        feature/user/autoload.c:20
+world/book/double-learn#806073 ("Root") query                feature/dbase.c:42
+
+object /obj/user#806391: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：obj/user#806391 ("strbook"):feature/user/autoload.c
+程式：feature/user/autoload.c:16
+函數呼叫回溯:
+obj/user#806391 ("strbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#806391 ("strbook") save                 obj/user.c:104
+obj/user#806391 ("strbook") save_autoload        feature/user/autoload.c:16
+
+object /world/book/e100-con1: eval_cost too big 9999999
+執行時段錯誤：*Too long evaluation. Execution aborted.
+物件：world/book/e100-con1 ("Root"):feature/dbase.c
+程式：feature/dbase.c:42
+函數呼叫回溯:
+obj/user#806805 ("conbook") command_hook         feature/char/command.c:50
+cmds/std/put ("Root")     main                 cmds/std/put.c:56
+cmds/std/put ("Root")     do_put               cmds/std/put.c:110
+obj/user#806805 ("conbook") save                 obj/user.c:104
+obj/user#806805 ("conbook") save_autoload        feature/user/autoload.c:20
+world/book/e100-con1#807037 ("Root") query                feature/dbase.c:43
+world/book/e100-con1 ("Root") query                feature/dbase.c:42
+
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+SIGPIPE received.
+System Error: socket_connect: connect:Network is unreachable
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#817653 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#817653 ("Root") heart_beat           std/char.c:115
+world/npc/scap#817653 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#817653 turned off.
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#817653 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#817653 ("Root") heart_beat           std/char.c:115
+world/npc/scap#817653 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#817653 turned off.
+執行時段錯誤：*Bad argument 1 to userp()
+Expected: object Got: 0.
+物件：daemon/condition/iceball ("Root"):daemon/condition/iceball.c
+程式：daemon/condition/iceball.c:26
+函數呼叫回溯:
+world/npc/scap#817653 ("Root") heart_beat           std/char/npc.c:21
+world/npc/scap#817653 ("Root") heart_beat           std/char.c:115
+world/npc/scap#817653 ("Root") update_condition     feature/char/condition.c:31
+daemon/condition/iceball ("Root") condition_update     daemon/condition/iceball.c:26
+
+Heart beat in world/npc/scap#817653 turned off.
+執行時段錯誤：*Printable strings limited to length of 8192.
+物件：obj/user#841038 ("equip"):feature/char/message.c
+程式：feature/char/message.c:63
+函數呼叫回溯:
+obj/user#841038 ("equip") command_hook         feature/char/command.c:50
+cmds/usr/inventory ("Root") main                 cmds/usr/inventory.c:59
+adm/obj/simul_efun ("NONAME") tell_object          adm/simul_efun/message.c(adm/obj/simul_efun.c):90
+obj/user#841038 ("equip") receive_message      feature/char/message.c:63
+
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Network is unreachable
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：daemon/skill/hxh/emit/obj/dragon_obj#1160672 ("Root"):daemon/skill/hxh/emit/obj/dragon_obj.c
+程式：daemon/skill/hxh/emit/obj/dragon_obj.c:85
+函數呼叫回溯:
+daemon/skill/hxh/emit/obj/dragon_obj#1160672 ("Root") heart_beat           std/char/npc.c:24
+daemon/skill/hxh/emit/obj/dragon_obj#1160672 ("Root") chat                 std/char/npc.c:199
+daemon/skill/hxh/emit/obj/dragon_obj#1160672 ("Root") <function>           (<function>):0
+daemon/skill/hxh/emit/obj/dragon_obj#1160672 ("Root") do_check             daemon/skill/hxh/emit/obj/dragon_obj.c:85
+
+Heart beat in daemon/skill/hxh/emit/obj/dragon_obj#1160672 turned off.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Network is unreachable
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+執行時段錯誤：*Bad argument 1 to call_other()
+Expected: string or array or object Got: 0.
+物件：daemon/skill/hxh/concrete/obj/fish_obj#1844660 ("Root"):daemon/skill/hxh/concrete/obj/fish_obj.c
+程式：daemon/skill/hxh/concrete/obj/fish_obj.c:50
+函數呼叫回溯:
+daemon/skill/hxh/concrete/obj/fish_obj#1844660 ("Root") heart_beat           std/char/npc.c:24
+daemon/skill/hxh/concrete/obj/fish_obj#1844660 ("Root") chat                 std/char/npc.c:199
+daemon/skill/hxh/concrete/obj/fish_obj#1844660 ("Root") <function>           (<function>):0
+daemon/skill/hxh/concrete/obj/fish_obj#1844660 ("Root") do_check             daemon/skill/hxh/concrete/obj/fish_obj.c:50
+
+Heart beat in daemon/skill/hxh/concrete/obj/fish_obj#1844660 turned off.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: socket_connect: connect:Invalid argument
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+Broken connection during add_message.
+SIGPIPE received.
+SIGPIPE received.
+SIGPIPE received.
+System Error: flush_message: write:Connection reset by peer
+SIGPIPE received.

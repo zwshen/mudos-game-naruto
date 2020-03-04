@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ii":"incubate egg","lc":"look corpse $*","scp":"score shadow $*","pb":"put $* in bag","g":"get all from corpse $*","c":"consider $*","gs":"get all from skeleton $*","psd":"perform shadow.defend","rm":"remember $*","fs":"fight stake $*","psa":"perform shadow.attack","psn":"perform shadow.none","hid":"option map_hidden $*","gb":"get $* from bag","sa":"sac corpse $*","q":"halt","ty":"perform thousand year kill.attack on $*","m":"use bandage","lv":"advance level","pd":"perform alter ego.destruct","ps":"perform alter ego.shadow",])
+dbase (["time_aged":7127396,"channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","last_on":1234665230,"creation_time":1205944446,"board_last_read":(["_MITE_":1188848484,"bug":1213114984,"propose":1211983359,"wizard":1234523588,]),"name":"¨½©ùÃM¦b°¨¤W","id":"rsr","last_from":"221.101.123.140",])
+my_body 
+last_age_set 1234665228
+password "$1$90130167$XhE29AIe7.M3NzhtTA1ec."
+email "as.you.and.i@yahoo.com.tw"
+window (["width":128,"height":41,"terminal_type":"TINTIN++",])

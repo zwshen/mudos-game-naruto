@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["[":"score _MY_PET_","tt":"³D³J¡B¹«¸£¡B¯T¤ú","4":"perform four foot.beast","0":"perform ninja.feed $*","9":"get silver from corpse","3":"score _MY_PET_","q":"sac corpse","g":"get all from corpse","p":"perform ninja.state","1":"perform ninja.call","o":"look corpse","5":"perform double fang.atwirl on","sk":"skills","2":"perform ninja.leave",])
+dbase (["last_from":"190.89.217.61","time_aged":31679567,"creation_time":1128418656,"last_on":1245918945,"signature":"","board_last_read":(["bug":1245501723,"design":1154116971,"acme":1174144030,"chat":1186466886,"newbie":1136481011,"ayumi":1120542699,"tmr":1130256095,"_MITE_":1188848484,"propose":1245913026,"wizard":1239465932,]),"body":"/obj/user","name":"ªk©Ô§Q","id":"ferrari","channels":({"chat","rumor","aucc",}),"profile":"",])
+my_body 
+last_age_set 1245918944
+password "$1$48939028$7eNESgyCuZNw.8OVHNx8E."
+email "dreamer107@kuririnmail.com"
+window (["terminal_type":"vt100","width":80,"height":24,])

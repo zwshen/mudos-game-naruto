@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills",])
+dbase (["time_aged":130766,"last_on":1148451840,"id":"anubis","name":"ªü¥£¤ñ´µ","board_last_read":(["newbie":1136481011,"tmr":1132472571,"chat":1143174206,"wizard":1143254649,"ayumi":1120542699,"acme":1115745789,"_MITE_":1130000043,]),"last_from":"107.51.219.61","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1132989571,])
+password "$1$79336790$r1F7f4tag5vqXfbOp2XPD0"
+email "user@host"

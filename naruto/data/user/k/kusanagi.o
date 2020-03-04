@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":25,"int":25,"dex":25,"str":30,])
+conditions ([])
+dbase (["score":(["kills":3,"survive":1840,"elevel":38,"combat exp":29818,]),"bank":3421,"title":"¤ì¸­§ø§ÔªÌ","name":"¯óîK¨Ê","id":"kusanagi","birthday":1130691120,"level":18,"target_score":(["elevel":8,"combat exp":32400,]),"race":"human","age":21,"gender":"male","guild":"muye","class":"inferior","time_aged":60272,"startroom":"/world/area/wizard/prac8",])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"savage hit":40,"cell activation":1,"substitute":1,"parry":1,"continual hit":1,"combat":41,"heavy hit":40,"ninja":1,])
+learned (["savage hit":0,"combat":120,"heavy hit":0,])
+skill_map (["ninja":"cell activation",])
+skill_flag ([])
+skill_ability (["dodge":1,"savage hit":2,"cell activation":1,"substitute":1,"parry":1,"continual hit":1,"combat":3,"heavy hit":2,"ninja":1,])
+skill_require (["savage hit":24000,"combat":25215,"heavy hit":24000,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":12,])
+st_notify ([])
+st_point (["score":900,"learn":1804,"skill":23,"attribute":11,])
+st_quest (["level_e":([1:1,]),])
+autoload ([0:(["file":"/world/wp/radish","amount":1,]),])
+__flag ""

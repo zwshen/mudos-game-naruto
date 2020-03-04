@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["pr":"get all from corpse $1",])
+dbase (["body":"/obj/user","last_from":"216.234.59.61","time_aged":587,"name":"¾î¤M¤T­¦","id":"lordforce","last_on":1181221097,"creation_time":1181220574,"board_last_read":(["wizard":1177493711,]),"channels":({"chat","rumor",}),])
+password "$1$66806906$GudMuxMqH0HUa2MkX5Ewj/"
+email "lgoose9@seed.net.tw"

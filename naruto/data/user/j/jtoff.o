@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":22,"dex":23,"str":27,])
+conditions ([])
+dbase (["time_aged":45927,"guild":"muye","name":"©t¿Wªº¤@¤Ç¯T","title":"¤ì¸­§ø§ÔªÌ","gender":"male","area_info":(["x_axis":5,"y_axis_old":1,"y_axis":1,"x_axis_old":5,]),"birthday":1133163182,"class":"inferior","id":"jtoff","startroom":"/world/area/muye/muye","score":(["combat exp":5394,"elevel":93,"kills":378,"survive":2216,]),"target_score":(["combat exp":6400,]),"bank":11383,"age":22,"level":8,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":16,"parry":13,"heavy hit":18,"savage hit":18,"continual hit":5,"combat":21,])
+learned (["dodge":3652,"parry":275,"heavy hit":4488,"savage hit":4488,"continual hit":121,"combat":121,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,"parry":1,"heavy hit":2,"savage hit":2,"continual hit":1,"combat":2,])
+skill_require (["dodge":3840,"parry":2535,"heavy hit":4860,"savage hit":4860,"continual hit":375,"combat":6615,])
+best_skill "combat"
+st_maximum (["ap":300,"mp":130,"hp":160,])
+st_current (["ap":300,"mp":130,"hp":160,])
+st_notify ([])
+st_point (["attribute":2,"skill":6,"score":50,"learn":1915,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

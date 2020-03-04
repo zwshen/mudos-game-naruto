@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":22,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":2354,"level":1,"race":"human","age":18,"name":"市丸銀","guild":"hunter","startroom":"/world/area/whale_island/area","gender":"male","target_score":(["combat exp":100,]),"title":"念能力者","area_info":(["x_axis":22,"y_axis_old":17,"x_axis_old":22,"y_axis":17,]),"birthday":1163926103,"bank":900,"id":"gin","recoverroom":"/world/area/whale_island/mite_hotel","class":"hxh_initial","score":(["combat exp":27,]),])
+masters ([])
+apprentices ([])
+skills (["parry":1,"combat":4,"dodge":1,])
+learned (["combat":66,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":240,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":47,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"attribute":0,"score":50,"learn":100,])
+st_quest ([])
+autoload ([11:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),10:(["amount":1,"file":"/world/eq/head/shit",]),9:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),8:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),7:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),6:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),5:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),4:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),3:(["amount":1,"file":"/world/area/thorn_pine/npc/item/paper",]),2:(["amount":1,"file":"/world/area/blood_wild/npc/wp/blade3",]),1:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),0:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),])
+__flag ""

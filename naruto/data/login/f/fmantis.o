@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gt":"get $1 from $2","ad":"advance $1 for $2","sk":"skills","tr":"train $1 from $2 for $3","dp":"deposit $1 silver",])
+dbase (["time_aged":16977,"last_on":1146268274,"id":"fmantis","name":"îî¾z","board_last_read":(["bug":1143259045,"newbie":1136481011,"chat":1143174206,"wizard":1143254649,"propose":1141838792,"_MITE_":1142224362,]),"last_from":"19.0.30.61","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1143129764,])
+password "$1$43200081$CPmu5k07XMM/YMK1Nt1Xh."
+email "u8842056@hotmail.com"

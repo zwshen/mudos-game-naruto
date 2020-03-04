@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["state":"perform ninja.state","p":"put all in bag","a":"get all from corpse","call":"perform ninja.call","cell":"enable ninja with cell activation","b":"sac corpse","t":"team talk $1","leave":"perform ninja.leave","scd":"score _MY_PET_","dog":"enable ninja with animal taming","ad":"whisper orz ¤Ñ¤§¤l$*°­µ£¤Y",])
+dbase (["board_last_read":(["newbie":1136481011,"ayumi":1120542699,"tmr":1134409039,"chat":1133923712,"_MITE_":1130491067,"bug":1134406404,"wizard":1140511389,"acme":1134208356,]),"time_aged":3011359,"name":"¬õ¿ß","id":"bobcat","last_on":1166685005,"last_from":"73.44.223.61","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1129254279,])
+password "$1$86078508$pw0ghW.9YDXTkB4vqijzZ/"
+email "mooncateyes72319@yahoo.com.tw"

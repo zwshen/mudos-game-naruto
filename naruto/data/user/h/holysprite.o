@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["class":"commoner","level":1,"birthday":1142610203,"race":"human","id":"holysprite","name":"¶Ç","time_aged":1014,"area_info":(["y_axis":14,"y_axis_old":14,"x_axis":14,"x_axis_old":14,]),"gender":"male","age":18,"startroom":"/world/area/wizard/wizard","bank":0,"score":(["combat exp":41,]),])
+masters ([])
+apprentices ([])
+skills (["combat":4,])
+learned (["combat":201,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,])
+skill_require (["combat":240,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":16,])
+st_notify ([])
+st_point (["attribute":2,"skill":1,"score":50,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""
+toDoList ([])
+solved ({})

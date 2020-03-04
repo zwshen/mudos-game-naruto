@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["z":"get all from corpse","c":"consider $*","sk":"skills","f":"fight $*","p":"sac corpse",])
+dbase (["channels":({"chat","rumor",}),"id":"trane","name":"Ç´Ç¦ÇïÇU´Ý¥ú","last_on":1134084638,"creation_time":1133968265,"board_last_read":(["bug":1133521888,"propose":1130204695,"chat":1133923712,"newbie":1128936709,"tmr":1132472571,"wizard":1132743373,"ayumi":1120542699,"acme":1133012398,]),"last_from":"207.3.91.219","body":"/obj/user","time_aged":203710,])
+password "$1$5838687$/z3sY.Jnj5c7fVarLwm0K."
+email "s863159@yahoo.com.tw"

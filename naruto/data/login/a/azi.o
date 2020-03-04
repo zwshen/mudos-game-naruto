@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["r":"recall","q1":"say 幫忙","co":"consider $*","k1":"keep all","k3":"keep blade","gc":"get all from corpse $*","k2":"keep rod","q2":"say 拔完了","q3":"say 溜完了",])
+dbase (["last_on":1140852530,"time_aged":412583,"board_last_read":(["bug":1115718952,"newbie":1136481011,"wizard":1140511389,"propose":1139745280,"chat":1133923712,]),"id":"azi","name":"瓜","channels":({"chat","rumor",}),"creation_time":1139729428,"body":"/obj/user","last_from":"226.66.229.220",])
+password "$1$78108126$ysTU9msciTJZcTR1SiVS00"
+email "watergugu.tw@yahoo.com.tw"

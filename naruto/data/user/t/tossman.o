@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["age":18,"race":"human","time_aged":1299,"birthday":1166732784,"class":"commoner","name":"¦R¥q","id":"tossman","score":(["survive":10,"kills":1,"combat exp":47,]),"gender":"male","bank":9,"area_info":(["x_axis":10,"y_axis_old":33,"x_axis_old":10,"y_axis":33,]),"level":1,])
+masters ([])
+apprentices ([])
+skills (["combat":4,])
+learned (["combat":200,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,])
+skill_require (["combat":240,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":55,"mp":80,"hp":75,])
+st_notify ([])
+st_point (["skill":1,"attribute":2,"score":50,"learn":101,])
+st_quest ([])
+autoload ([0:(["amount":1,"file":"/world/eq/belt/cord",]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["con":"consider $*","z":"sac corpse","g":"get all from corpse","ch":"chat $*",])
+dbase (["time_aged":3611,"creation_time":1141747655,"board_last_read":(["wizard":1116210005,]),"last_from":"23.22.71.210","last_on":1162530976,"id":"evilwings","name":"¨¸Ál¤p§¯","body":"/obj/user","channels":({"chat","rumor",}),])
+password "$1$47269064$D85wp3F3ET8qgmUGM2XP7/"
+email "et101390@yahoo.com.tw"

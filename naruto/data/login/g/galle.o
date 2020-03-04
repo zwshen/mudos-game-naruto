@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["r":"recall","sk":"skills",])
+dbase (["time_aged":30930,"last_on":1143942227,"id":"galle","name":"ötíæ","board_last_read":(["newbie":1136481011,]),"last_from":"75.89.76.211","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1143891892,])
+password "$1$17815794$ezVYGG5h28DlsK8W9y2Vh/"
+email "@"

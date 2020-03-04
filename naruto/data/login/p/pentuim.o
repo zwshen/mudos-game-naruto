@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["uu":"unwield $*","e2":"eat manto $*","wel":"wield $* as lefthand","lk":"list vendor $*","qw":"query -wp $*","R":"reply $*","ep":"eat pill $*","ii":"identify $*","ge":"get all from corpse","off":"option map_unfreeze 1","phh":"perform hundred palm.attack on $*","lm":"list master $*","ad":"advance $*","pp":"put $* in bag","wew":"wield $* as twohanded","22":"move 2","11":"move 1","gy":"get $* from corpse","sa":"sac corpse","on":"option map_unfreeze 0","bv":"buy $* from vendor","lb":"list boss","qf":"query -food $*","qe":"query -eq $*","wer":"wield $* as righthand","we":"wield $*","gg":"get $* from bag","e1":"eat chicken $*",])
+dbase (["body":"/obj/user","creation_time":1171593520,"last_on":1175861949,"id":"pentuim","name":"¤p¤tª½¾ð","time_aged":1743894,"last_from":"125.176.228.61","board_last_read":(["chat":1132323211,"propose":1172363532,"bug":1174207089,"_MITE_":1170658966,"design":1154116971,"newbie":1173805427,"wizard":1174206256,]),"channels":({"chat","rumor","aucc",}),])
+password "$1$4887480$DvnHhR6hshbRv7Pu22Xy7/"
+email "pentuim.wes@gmail.com"

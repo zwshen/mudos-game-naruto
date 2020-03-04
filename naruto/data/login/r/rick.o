@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall","sof":"perform soft fist.attack on $1","dd":"dig 岩石","pro":"proskills first-aid snake_skin_bandage -m","pu":"pushup 機關","hp":"eat big heal hp pill","nod":"tell rick walk tmine","per":"perform $1 on $2","hun":"perform hundred palm.attack on $1","sob":"tell rick walk mine","eyes":"perform white eyes.open","openwar":"push 開關","g":"get $1 from $2 $3","pd":"pushdown 機關",])
+dbase (["time_aged":6294600,"body":"/obj/user","board_last_read":(["bug":1239117288,"design":1154116971,"chat":1237659377,"_MITE_":1188848484,"ayumi":1120542699,"newbie":1136481011,"propose":1240127896,"wizard":1239465932,]),"id":"rick","name":"力克","channels":({"chat","aucc","rumor","news",}),"last_on":1240239415,"last_from":"23.243.112.140","creation_time":1233944895,])
+my_body 
+last_age_set 1240239415
+password "$1$3899952$.z.2aR8eFM5.bAdk4u0Of."
+email "b94201022@ntu.edu.tw"
+window (["terminal_type":"vt100","width":153,"height":62,])

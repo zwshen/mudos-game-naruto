@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":60,"str":20,])
+conditions ([])
+dbase (["area_info":(["y_axis":33,"x_axis_old":10,"x_axis":10,"y_axis_old":33,]),"time_aged":8157,"startroom":"/world/area/wizard/wizard","level":20,"score":(["kills":102,"combat exp":116135,"elevel":14,"survive":3157,]),"race":"human","age":24,"id":"elfcat","name":"«r¤H¿ß","birthday":1129596490,"guild":"muye","class":"inferior","gender":"male","bank":2337,"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills (["ninja":1,"combat":60,"dodge":8,"continual hit":23,"animal taming":20,"parry":1,])
+learned (["combat":41150,"dodge":1030,"continual hit":5660,"animal taming":0,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["ninja":2,"combat":4,"dodge":1,"continual hit":10,"animal taming":2,])
+skill_require (["combat":54000,"dodge":1215,"continual hit":7935,"animal taming":2000,])
+best_skill "combat"
+st_maximum (["hp":150,"ap":300,"mp":100,])
+st_current (["hp":150,"ap":66,"mp":100,])
+st_notify ([])
+st_point (["attribute":0,"skill":21,"score":690,"learn":105,])
+st_quest (["mu":([3:2,]),])
+autoload ([7:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_fur",]),6:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),5:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_head",]),4:(["amount":1,"file":"/world/wp/radish",]),3:(["amount":1,"file":"/world/wp/radish",]),2:(["amount":1,"file":"/world/eq/armor/turtle",]),1:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_tail",]),0:(["amount":31,"file":"/obj/money/silver",]),])
+__flag ""

@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":30,"con":22,"int":20,])
+conditions ([])
+dbase (["class":"inferior","level":6,"race":"human","birthday":1174465626,"id":"firexxxx","time_aged":45340,"name":"µ`­ô","area_info":(["y_axis":20,"y_axis_old":20,"x_axis":21,"x_axis_old":21,]),"gender":"male","age":18,"help":"newbie/","title":"¤ì¸­§ø§ÔªÌ","bank":16,"startroom":"/world/area/wizard/wizard","score":(["elevel":2,"survive":350,"kills":431,]),"guild":"muye",])
+masters ([])
+apprentices ([])
+skills (["continual hit":1,"dodge":21,"combat":25,"parry":16,"savage hit":18,])
+learned (["continual hit":5,"dodge":445,"combat":948,"parry":1425,"savage hit":132,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":1,"dodge":2,"combat":2,"parry":1,"savage hit":1,])
+skill_require (["continual hit":20,"dodge":2420,"combat":3125,"parry":1445,"savage hit":1620,])
+best_skill "combat"
+st_maximum (["mp":130,"hp":180,"ap":230,])
+st_current (["mp":130,"hp":180,"ap":230,])
+st_notify ([])
+st_point (["attribute":0,"skill":5,"score":0,"learn":56,])
+st_quest ([])
+autoload ([0:(["file":"/world/wp/newblade","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/nurture_pig.c":(["killed":(["/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallpig.c":0,]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/kbug.c",})

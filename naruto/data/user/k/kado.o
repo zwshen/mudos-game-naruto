@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":25,"dex":30,"str":30,"con":29,])
+conditions ([])
+dbase (["class":"inferior","wimpy_dir":"west","guild":"muye","name":"¤æ¥J","birthday":1135952751,"gender":"male","level":18,"age":31,"race":"human","startroom":"/world/area/wizard/wizard","score":(["combat exp":29639,"survive":7977,"kills":43,"elevel":87,]),"id":"kado","title":"¤ì¸­§ø§ÔªÌ","bank":122927,"time_aged":2219,"target_score":(["combat exp":32400,"elevel":8,]),])
+masters ([])
+apprentices ([])
+skills (["continual hit":10,"substitute":8,"ninja":8,"heavy hit":32,"combat":30,"dodge":25,"parry":20,"force":9,"savage hit":32,"hundred palm":8,])
+learned (["continual hit":855,"substitute":0,"ninja":0,"heavy hit":3135,"dodge":10005,"combat":9948,"parry":6900,"force":0,"savage hit":3135,"hundred palm":0,])
+skill_map (["force":"hundred palm",])
+skill_flag ([])
+skill_ability (["continual hit":1,"substitute":1,"ninja":1,"heavy hit":2,"combat":2,"dodge":2,"parry":2,"force":1,"savage hit":2,"hundred palm":1,])
+skill_require (["continual hit":2160,"substitute":500,"ninja":500,"heavy hit":16335,"dodge":10140,"combat":15360,"parry":7260,"force":605,"savage hit":16335,"hundred palm":1500,])
+best_skill "savage hit"
+st_maximum (["mp":200,"hp":300,"ap":500,])
+st_current (["mp":200,"hp":300,"ap":500,])
+st_notify (["hp":20,"ap":0,])
+st_point (["learn":931,"skill":21,"attribute":2,"score":140,])
+st_quest ([])
+autoload ([0:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sword2":"wield sword $* as lefthand","off":"option map_unfreeze 1","id":"identify $*","rr":"recall","hh":"halt","blade3":"wield blade $* as twohanded","pp":"sac corpse $*","on":"option map_unfreeze 0","gg":"get all from corpse $*","re":"remember $*",])
+dbase (["channels":({"chat","rumor","aucc",}),"last_from":"107.170.192.123","time_aged":8997285,"creation_time":1205850525,"last_on":1245002751,"body":"/obj/user","name":"³Ç§J","id":"jack",])
+my_body 
+last_age_set 1245002750
+password "$1$98111602$fDGDzJJmDG7g4YNgyPBc4."
+email "edjack10000@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":94,"height":35,])

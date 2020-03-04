@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["con":"consider $*","g":"get all from corpse $*",])
+dbase (["last_on":1189792433,"board_last_read":(["tmr":1129972231,"_MITE_":1170658966,"bug":1133521888,"acme":1115745789,"ayumi":1120542699,"chat":1132977027,"wizard":1132743373,"propose":1172363532,"newbie":1136481011,]),"channels":({"chat","rumor",}),"creation_time":1129899247,"body":"/obj/user","last_from":"106.97.116.59","name":"Äê³½","id":"afish","time_aged":2624670,])
+password "$1$1932983$tq5foDlgdthFJ8JMC3gL91"
+email "afishj@yahoo.com.tw"

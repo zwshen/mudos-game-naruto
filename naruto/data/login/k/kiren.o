@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["co":"consider $*","le":"train $* from ka for 10","adv":"advance $*","lm":"list master","p1":"perform hundred palm.attack on $*","eatc":"eat chicken","ly":"list ka","bank":"balance","sk":"skills","ssc":"sac corpse","f":"fight $*","gt":"get all","gc":"get all from corpse",])
+dbase (["channels":({"chat","rumor",}),"board_last_read":(["newbie":1128647116,]),"creation_time":1162347733,"last_from":"165.190.132.220","body":"/obj/user","last_on":1193220872,"id":"kiren","name":"¢õ¢é£B","time_aged":517997,])
+password "$1$85144361$N5FVUx9c/FRH21kfq6iFs/"
+email "asd@adasd.com"

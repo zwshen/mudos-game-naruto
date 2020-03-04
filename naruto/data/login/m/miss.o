@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["n":"go south","ccc":"keep none","mm":"remember $*","e3":"eat tea","e1":"eat chicken","rrr":"recall start","xx":"disable $*","e2":"eat manto","c":"consider $*","kf":"kill fly","km":"kill monster","qq":"sac corpse","11":"perform animal taming.leave","tt":"transfer $*","dd":"deposit $* silver","t":"train animal taming from yaa for 100","sw":"go northwest","1":"perform animal taming.call","ss":"sell all","nw":"go southwest","re":"reply $*","se":"go northeast","ii":"identify $*","22":"perform animal taming.feed $*","ne":"go southeast","2":"perform animal taming.state","m":"move $*","rr":"recall","sd":"seedoor","s":"go north","cc":"keep all","g":"get all from corpse","bb":"balance",])
+dbase (["board_last_read":(["wizard":1236177249,]),"time_aged":1694461,"last_from":"74.168.173.218","last_on":1236554437,"name":"«ä©À","body":"/obj/user","id":"miss","channels":({"chat","rumor","aucc",}),"creation_time":1234860010,])
+my_body 
+last_age_set 1236554437
+password "$1$39374379$nU38MYBp86Lla4x/WK2n8."
+email "boy20011012@yahoo.com.tw"
+window (["terminal_type":"vt100","width":139,"height":53,])

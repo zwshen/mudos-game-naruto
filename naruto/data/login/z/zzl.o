@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_on":1248679069,"time_aged":4514,"last_from":"29.113.143.211","creation_time":1248674712,"name":"¿á¿á","id":"zzl",])
+my_body 
+last_age_set 1248679068
+password "$1$8029796$hO7qPjwsO5JDxgwtWSbsI/"
+email "zzl29@hotmail.com"
+window (["terminal_type":"vt100","width":125,"height":48,])

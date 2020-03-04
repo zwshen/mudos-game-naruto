@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","g2":"get all from corpse 2","r":"recall","co":"consider $*",])
+dbase (["last_from":"144.136.244.124","channels":({"chat","rumor",}),"last_on":1212842477,"body":"/obj/user","creation_time":1212652027,"name":"¦æªÌ","id":"leochun","time_aged":29172,])
+password "$1$24390718$BWhLt7e.Q7L8G7a4/lPNY0"
+email "leowankachun@gmail.com"

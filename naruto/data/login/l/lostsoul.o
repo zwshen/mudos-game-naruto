@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ch":"charge $*","des":"perform chamber fish.destruct","con":"consider $*","pb":"perform psychical bullet.shoot on $*","feed":"perform chamber fish.feed","cb":"perform frost closed ball.ball on $*","sp":"perform body strength.powerup","rem":"remember $*","fish":"perform chamber fish.fish","sk":"skills $*",])
+dbase (["time_aged":34610617,"creation_time":1148263971,"id":"lostsoul","name":"¢ô¢÷¢û¢â","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1234338310,"chat":1186466886,"bug":1239968374,"tmr":1234463389,"design":1154116971,"byron":1177702512,"wizard":1239465932,]),"last_on":1249184723,"last_from":"31.1.231.125",])
+my_body 
+last_age_set 1249297842
+password "$1$14164686$wsoEKjpNMVZyObVD4VZir1"
+email "1234@aaa.com"
+window (["freeze":1,"terminal_type":"zmud","width":124,"height":28,])

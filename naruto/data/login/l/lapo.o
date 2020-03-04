@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["kk":"kill elf","ea":"eat essence","re":"get all from corpse $*","qq":"quest $*","g":"get all","id":"identify $*",])
+dbase (["time_aged":147747,"body":"/obj/user","creation_time":1205666446,"name":"¦è´µ","id":"lapo","channels":({"chat","rumor",}),"last_on":1238301378,"board_last_read":(["wizard":1115665665,"newbie":1136481011,]),"last_from":"144.244.232.125",])
+my_body 
+last_age_set 1238301378
+password "$1$46741831$s62P07Mq3neGFsl2S1wUl0"
+email "dirkskimo@yahoo.com.tw"
+window (["width":74,"terminal_type":"vt100","height":34,])

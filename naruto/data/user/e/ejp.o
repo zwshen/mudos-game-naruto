@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["target_score":(["combat exp":8100,]),"title":"©À¯à¤OªÌ","time_aged":69406,"bank":1241,"name":"ºu","gender":"male","class":"hxh_initial","birthday":1151487023,"guild":"hunter","age":18,"id":"ejp","level":9,"race":"human","startroom":"/world/area/whale_island/prac4","score":(["survive":510,"elevel":11,"combat exp":6725,"kills":33,]),])
+masters ([])
+apprentices ([])
+skills (["combat":17,"dodge":5,"parry":1,])
+learned (["combat":4600,"dodge":220,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"dodge":1,])
+skill_require (["combat":6000,"dodge":540,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify (["ap":0,])
+st_point (["skill":16,"attribute":18,"score":450,"learn":949,])
+st_quest (["level_e":([4:1,]),])
+autoload ([])
+__flag ""

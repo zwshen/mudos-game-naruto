@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["target_score":(["combat exp":100,]),"guild":"muye","level":1,"age":18,"race":"human","name":"­·¨¸","id":"soulv","class":"inferior","score":(["survive":10,"combat exp":0,]),"gender":"male","title":"¤ì¸­§ø§ÔªÌ","time_aged":957,"birthday":1170283968,])
+masters ([])
+apprentices ([])
+skills (["combat":1,"parry":1,"dodge":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["skill":2,"score":50,"learn":100,"attribute":2,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

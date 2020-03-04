@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":27,"str":30,"con":24,"int":29,])
+conditions ([])
+dbase (["bank":13186767,"birthday":1164704280,"name":"¶³Áã","area_info":(["y_axis":30,"y_axis_old":30,"x_axis":33,"x_axis_old":33,]),"gender":"male","help":"newbie/","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/muye/muye","class":"inferior","score":(["survive":760,"dlevel":11,"elevel":16,"kills":439,"combat exp":20441,]),"target_score":(["elevel":5,"combat exp":22500,]),"age":19,"id":"mooniago","time_aged":28556,"level":15,"guild":"muye","race":"human",])
+masters ([])
+apprentices ([])
+skills (["hundred palm":2,"combat":37,"savage hit":39,"force":35,"parry":19,"continual hit":16,"heavy hit":39,"dodge":23,"ninja":1,"muye wind":2,])
+learned (["hundred palm":51,"combat":13457,"savage hit":8182,"force":0,"parry":782,"continual hit":3035,"heavy hit":8182,"dodge":2463,"muye wind":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["hundred palm":1,"combat":2,"savage hit":2,"force":2,"parry":1,"continual hit":1,"heavy hit":2,"dodge":2,"ninja":1,"muye wind":1,])
+skill_require (["hundred palm":60,"combat":20535,"savage hit":22815,"force":6125,"parry":5415,"continual hit":3840,"heavy hit":22815,"dodge":7935,"muye wind":60,])
+best_skill "savage hit"
+st_maximum (["mp":250,"hp":340,"ap":400,])
+st_current (["mp":250,"hp":340,"ap":286,])
+st_notify (["hp":20,])
+st_point (["attribute":0,"skill":15,"score":0,"learn":777,])
+st_quest ([])
+autoload ([13:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),12:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword","dbase":(["changed":7,"success":7,"apply_weapon":(["righthand":(["wittiness":10,"str":2,"intimidate":13,"exact":3,"con":3,]),"lefthand":(["intimidate":3,"exact":3,"con":1,]),]),"id":"gao yuan sword","name":"[1;33m(+7) [0;2m[0;2m[0;2m[0;2m[0;2m[0;2m[0;2m[1;30m°ª­ì¼C[0;2m","equipped":"weapon/righthand","phase":1,"damage":(["righthand":(["lower":75,"upper":90,"bonus":100,"level":1,]),"twohanded":(["lower":75,"upper":90,"bonus":120,"level":1,]),"lefthand":(["lower":75,"upper":90,"bonus":70,"level":1,]),]),]),]),11:(["amount":1,"file":"/world/eq/finger/silver",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),9:(["amount":1,"file":"/world/eq/armor/turtle",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing","dbase":(["changed":1,"apply_armor":(["cloth":(["evade":10,"dex":3,"wittiness":11,"armor":10,"dodge":10,]),]),"success":1,"id":"cockroach's wings","name":"[1;33m(+1) [0;2m[33mÁ­¯Í[0;2m","equipped":"armor/cloth",]),]),7:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/ghost_boots","dbase":(["changed":1,"apply_armor":(["feet_eq":(["evade":5,"dex":1,"wittiness":5,"armor":3,]),]),"success":1,"id":"ghost boots","name":"[1;33m(+1) [0;2m[31m´c°­¹u[0;2m","equipped":"armor/feet_eq",]),]),5:(["amount":1,"file":"/world/eq/leg/gai","dbase":(["changed":2,"apply_armor":(["leg_eq":(["armor":5,"con":7,]),]),"success":2,"id":"gai","name":"[1;33m(+2) [0;2m[0;2m[1;32mªü»\\[0;2m","equipped":"armor/leg_eq",]),]),4:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),3:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),1:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),0:(["amount":1,"file":"/world/eq/hand/fist",]),])
+__flag ""
+toDoList ([])
+solved ({})

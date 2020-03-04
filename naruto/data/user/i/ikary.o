@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":25,"str":31,"con":24,"int":20,])
+conditions ([])
+dbase (["level":10,"race":"human","name":"§Æ§ñµ·","birthday":1176513776,"gender":"female","help":"cmds/query","recoverroom":"/world/area/wizard/guildhall","title":"©À¯à¤OªÌ","bank":109057,"score":(["elevel":2,"survive":850,"kills":2601,]),"guild":"hunter","startroom":"/world/area/wizard/guildhall","class":"hxh_initial","id":"ikary","time_aged":47046,"nickname":"[1;36m­·ºëÆF[0;2m","age":19,])
+masters ([])
+apprentices ([])
+skills (["variation":15,"continual hit":16,"dodge":29,"parry":26,"combat":40,"heavy hit":34,"solid":1,"savage hit":35,"electric variation":1,])
+learned (["continual hit":750,"variation":120,"dodge":1760,"parry":910,"combat":3180,"heavy hit":4050,"solid":10,"savage hit":2210,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["variation":2,"continual hit":1,"dodge":2,"parry":2,"combat":3,"heavy hit":2,"solid":1,"savage hit":2,"electric variation":1,])
+skill_require (["continual hit":1280,"variation":1125,"dodge":4205,"parry":3380,"combat":8000,"heavy hit":5780,"solid":20,"savage hit":6125,])
+best_skill "combat"
+st_maximum (["mp":180,"hp":280,"ap":280,])
+st_current (["mp":180,"hp":450,"ap":202,])
+st_notify ([])
+st_point (["attribute":0,"skill":4,"score":0,"learn":536,])
+st_quest (["level_d":([2:1,]),])
+autoload ([17:(["file":"/world/area/muye/npc/eq/ghost_boots","amount":1,]),16:(["file":"/world/area/old_forest/npc/wp/tree_sword","amount":1,]),15:(["file":"/world/drug/apill","amount":9,]),14:(["file":"/world/eq/neck/agate","amount":1,]),13:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),12:(["file":"/world/area/old_forest/npc/wp/tree_sword","amount":1,]),11:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),10:(["file":"/world/area/bone/npc/eq/suit","amount":1,]),9:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),8:(["file":"/world/eq/leg/gai","amount":1,]),7:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),6:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),5:(["file":"/world/eq/finger/silver","amount":1,]),4:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),3:(["file":"/world/eq/hand/fist","amount":1,]),2:(["file":"/world/item/rod","amount":1,]),1:(["file":"/world/drug/noodle","amount":2,]),0:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c","/world/quest/travel_whale_island.c","/world/quest/travel_muye.c","/world/quest/meet_hung.c","/world/quest/xie.c","/world/quest/expel_mouse.c","/world/quest/meet_ka.c","/world/quest/nurture_pig.c","/world/quest/try_little_skill.c","/world/quest/eat_brain.c","/world/quest/sea_monkey.c","/world/quest/delete_cockroach.c","/world/quest/get_crab.c","/world/quest/kmouse.c","/world/quest/new_quest.c",})

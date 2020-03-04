@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"creation_time":1244393337,"time_aged":5280,"board_last_read":(["wizard":1115665665,]),"body":"/obj/user","id":"zerof","name":"萬年發呆雕像",])
+my_body 
+last_age_set 1244398592
+password "$1$83444740$FU8IvAV4Ofrz.ALHw8JS5."
+email "@"
+window (["terminal_type":"ANSI","width":80,"height":25,])

@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor","aucc",}),"time_aged":2346723,"last_from":"23.243.112.140","creation_time":1234457279,"body":"/obj/user","name":"жуож","last_on":1236803966,"id":"ein",])
+my_body 
+last_age_set 1236803965
+password "$1$7789864$owQuU6662FTf9YzwwtD/71"
+email "rimibirick@yahoo.com.tw"
+window (["terminal_type":"vt100","width":157,"height":66,])

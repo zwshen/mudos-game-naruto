@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ma1":"option map_hidden 0","8":"perform chamber fish.fish","00":"perform almighty creation.destruct","mm2":"option map_unfreeze 1","ch":"charge $*","con":"consider $*","88":"perform chamber fish.destruct","0":"perform almighty creation.gz","9":"perform almighty creation.rain on $*","id":"identify $*","wi2":"wield gao yuan sword as lefthand","888":"perform chamber fish.feed","mm1":"option map_unfreeze 0","ma2":"option map_hidden 1",])
+dbase (["last_from":"20.4.134.140","time_aged":15542008,"creation_time":1188414773,"signature":"","last_on":1247202475,"board_last_read":(["bug":1246069199,"propose":1245913026,"design":1154116971,"chat":1237659377,"wizard":1239465932,]),"body":"/obj/user","id":"gilgamesh","name":"°ò¥[¬ü­×","channels":({"chat","rumor","war","aucc",}),"profile":"q",])
+my_body 
+last_age_set 1247299068
+password "$1$89887773$CufJoRNHcoOjTRkyp29ER1"
+email "gilgamesh@fate.stay.night"
+window (["terminal_type":"VT100","width":125,"height":46,])

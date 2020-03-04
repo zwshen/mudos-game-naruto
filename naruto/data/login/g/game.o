@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["2":"perform ghost chop.attack on elf","1":"perform chivy tiger.attack on elf","wi":"wield $*","adv":"advance $*","\\":"recall","kl":"kill elf $*","id":"identify $*","uwi":"unwield $*","g":"get all","sa":"sac corpse","h":"hp","gc":"get all from corpse $*","p":"eat essence",])
+dbase (["time_aged":177652,"board_last_read":(["acme":1186040766,"design":1154116971,"chat":1186466886,"newbie":1136481011,"wizard":1234965474,"ayumi":1120542699,"propose":1211983359,]),"last_from":"24.225.173.218","last_on":1235110532,"body":"/obj/user","name":"­·µL²ª","id":"game","channels":({"chat","rumor",}),"creation_time":1131846226,])
+my_body 
+last_age_set 1235110532
+password "$1$50855803$Sz1a7n7mZ..UGLgKVtzUy/"
+email "lag7660319@yahoo.com.tw"
+window (["terminal_type":"vt100","width":157,"height":48,])

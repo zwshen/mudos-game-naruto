@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":73086,"level":1,"race":"human","age":20,"target_score":(["combat exp":100,]),"name":"¤ß¿V","guild":"muye","gender":"male","title":"¤ì¸­§ø§ÔªÌ","area_info":(["x_axis":25,"y_axis_old":21,"x_axis_old":25,"y_axis":21,]),"birthday":1143861228,"id":"kura","class":"inferior","nickname":"[1;36m¢w£¾¢w|||[0;2m","startroom":"/world/area/muye/swanlake","score":(["combat exp":0,"survive":1360,]),"bank":0,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([6:(["file":"/world/item/fish5","amount":4,]),5:(["file":"/world/item/fish1","amount":1,]),4:(["file":"/world/item/fish2","amount":5,]),3:(["file":"/world/item/fish6","amount":6,]),2:(["file":"/world/item/rod","amount":1,]),1:(["file":"/world/item/fish4","amount":1,]),0:(["file":"/world/item/fish3","amount":1,]),])
+__flag ""

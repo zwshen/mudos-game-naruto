@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["dr":"wield dagger","rr":"wield rod","sr":"wield sword","sl2":"wield sword 2 as lefthand","sk":"skills","ll":"wield lance as twohanded","dl":"wield dagger as lefthand","sl":"wield sword as lefthand","dl2":"wield dagger 2 as lefthand","sr2":"wield sword 2",])
+dbase (["creation_time":1176907489,"last_on":1177721195,"body":"/obj/user","id":"angus","name":"¦w­ô´µ","time_aged":725988,"last_from":"238.165.171.218","channels":({"chat","rumor",}),])
+password "$1$46455072$uH/EbmbuweENUkmaTytrp1"
+email "glenn0207@hotmail.com"

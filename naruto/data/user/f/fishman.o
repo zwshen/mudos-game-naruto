@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":21,"int":34,"dex":21,"str":22,])
+conditions ([])
+dbase (["time_aged":53500,"guild":"muye","name":"º®¤Ò","title":"¤ì¸­§ø§ÔªÌ","gender":"male","area_info":(["x_axis":35,"y_axis_old":23,"x_axis_old":35,"y_axis":23,]),"birthday":1139188349,"class":"inferior","option":(["map_unfreeze":1,]),"id":"fishman","recoverroom":"/world/area/muye/inn","startroom":"/world/area/muye/muye","score":(["elevel":13,"combat exp":6629,"survive":16412,]),"bank":90,"target_score":(["combat exp":8100,]),"age":40,"level":9,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":22,"parry":18,"heavy hit":20,"continual hit":8,"savage hit":20,"combat":22,])
+learned (["dodge":7121,"parry":2985,"heavy hit":1184,"savage hit":1184,"continual hit":442,"combat":6271,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":3,"parry":3,"heavy hit":3,"savage hit":3,"continual hit":2,"combat":3,])
+skill_require (["dodge":7260,"parry":4860,"heavy hit":6000,"savage hit":6000,"continual hit":960,"combat":7260,])
+best_skill "combat"
+st_maximum (["ap":360,"mp":80,"hp":250,])
+st_current (["ap":121,"mp":80,"hp":95,])
+st_notify (["ap":20,"hp":15,])
+st_point (["skill":1,"attribute":0,"score":0,"learn":400,])
+st_quest (["level_e":([1:1,]),])
+autoload ([1:(["file":"/world/wp/radish","amount":1,]),0:(["file":"/world/drug/hpill","amount":14,]),])
+__flag ""

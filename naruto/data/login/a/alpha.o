@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["p2":"say 幫忙","h":"weed","dp":"perform double physique.dp","pet":"score _MY_PET_","ca":"perform animal taming.call","sac":"sac corpse $*","fe":"perform animal taming.feed noodles","wi":"wield $*","b":"buy $*","un":"unwield $*","ce":"perform cell activation.ca","sk":"skills","f":"fight $*","gg":"get all from corpse $*","sta":"perform animal taming.state","le":"perform animal taming.leave","p1":"say 拔完了",])
+dbase (["last_from":"188.220.131.220","channels":({"chat","rumor","aucc",}),"last_on":1194087492,"creation_time":1155387816,"board_last_read":(["propose":1148557370,"wizard":1187592681,"newbie":1136481011,"chat":1154117225,]),"body":"/obj/user","id":"alpha","name":"小法","time_aged":20163619,])
+password "$1$23484225$J4fRbaPScBFYK1Iy0VkwW/"
+email "artistlin_1975@yahoo.com.tw"

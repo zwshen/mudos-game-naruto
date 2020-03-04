@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":28,"int":46,"dex":26,"str":20,])
+conditions ([])
+dbase (["birthday":1130591345,"time_aged":77981,"bank":4198,"level":20,"race":"human","age":87,"guild":"muye","name":"µ¾Às¶Æ¤Ñ","id":"flydragon","startroom":"/world/area/wizard/prac5","class":"inferior","gender":"male","score":(["elevel":100,"kills":117,"survive":94752,"combat exp":716983,]),"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills (["savage hit":101,"substitute":1,"parry":11,"continual hit":70,"heavy hit":101,"combat":101,"dodge":16,])
+learned (["savage hit":230,"parry":989,"continual hit":18814,"heavy hit":230,"combat":230,"dodge":115,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":6,"substitute":1,"parry":1,"continual hit":5,"heavy hit":6,"combat":6,"dodge":1,])
+skill_require (["savage hit":153015,"parry":2535,"continual hit":73500,"heavy hit":153015,"combat":153015,"dodge":3840,])
+best_skill "savage hit"
+st_maximum (["ap":530,"mp":80,"hp":80,])
+st_current (["ap":530,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":14,"score":550,"learn":461,])
+st_quest ([])
+autoload ([8:(["amount":1,"file":"/world/eq/armor/turtle",]),7:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_tail",]),6:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_feet",]),5:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),4:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_fur",]),3:(["amount":1107,"file":"/obj/money/silver",]),2:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),1:(["amount":1,"file":"/world/wp/radish",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

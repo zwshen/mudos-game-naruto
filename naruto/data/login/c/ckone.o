@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["on":"option map_unfreeze 0","wa":"transfer $*","off":"option map_unfreeze 1",])
+dbase (["board_last_read":(["wizard":1234457982,]),"time_aged":1252621,"last_from":"162.13.120.59","last_on":1236516893,"body":"/obj/user","name":"¸­µL²P","id":"ckone","channels":({"chat","rumor",}),"creation_time":1178158187,])
+my_body 
+last_age_set 1236516891
+password "$1$33998665$heDyEUgUgi.LAyd7mRUec/"
+email "xxx@h.c"
+window (["terminal_type":"zmud","width":85,"height":23,])

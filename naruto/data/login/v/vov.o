@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills","g":"get all","gc":"get all from corpse",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1131464593,"board_last_read":(["_MITE_":1130491067,"newbie":1130565369,"wizard":1130649586,]),"id":"vov","name":"§Ú·R©ÔÄÑ","last_on":1131577885,"last_from":"130.114.160.218","body":"/obj/user","time_aged":85806,])
+password "$1$33841907$NYbmLT2PwfKldkRJffw60."
+email "blue1224@ms1.url.com.tw"

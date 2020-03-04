@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":34,"str":37,"con":21,"int":26,])
+conditions ([])
+dbase (["class":"inferior","level":19,"race":"human","id":"pentuim","name":"¤p¤tª½¾ð","time_aged":84148,"birthday":1171593501,"area_info":(["y_axis":4,"y_axis_old":4,"x_axis":5,"x_axis_old":5,]),"gender":"male","help":"class/ninja/skill/ning/hundred_palm","age":39,"title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/whale_island/hole","bank":67217,"score":(["dlevel":52,"elevel":189,"survive":20900,"kills":5768,]),"guild":"muye",])
+masters ([])
+apprentices ([])
+skills (["continual hit":46,"dodge":54,"alter ego":1,"parry":45,"hundred palm":1,"force":1,"substitute":26,"combat":103,"heavy hit":104,"savage hit":104,"ninja":10,])
+learned (["continual hit":8555,"dodge":8132,"parry":5529,"substitute":1593,"combat":4579,"heavy hit":27713,"savage hit":27713,"ninja":519,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":3,"dodge":3,"alter ego":1,"parry":3,"hundred palm":1,"force":1,"substitute":2,"combat":6,"heavy hit":6,"savage hit":6,"ninja":1,])
+skill_require (["continual hit":10580,"dodge":14580,"parry":10125,"substitute":3920,"combat":53045,"heavy hit":54080,"savage hit":54080,"ninja":845,])
+best_skill "heavy hit"
+st_maximum (["mp":200,"hp":370,"ap":620,])
+st_current (["mp":200,"hp":420,"ap":568,])
+st_notify (["hp":20,"ap":0,])
+st_point (["attribute":0,"skill":5,"score":0,"learn":3042,])
+st_quest (["prize":([4:1,]),])
+autoload ([21:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),20:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),19:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),18:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),17:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),16:(["file":"/world/eq/leg/gai","amount":1,"dbase":(["success":3,"equipped":"armor/leg_eq","id":"gai","name":"[1;33m(+3) [0;2m[0;2m[0;2m[1;32mªü»\\[0;2m","changed":3,"apply_armor":(["leg_eq":(["armor":5,"con":8,]),]),]),]),15:(["file":"/world/area/wild/npc/eq/bear_suit","amount":1,]),14:(["file":"/world/eq/hand/fist","amount":1,]),13:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),12:(["file":"/world/eq/finger/silver","amount":1,]),11:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),10:(["file":"/world/area/muye/npc/eq/dragon_boots","amount":1,]),9:(["file":"/world/broom/broom","amount":1,]),8:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),7:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),6:(["file":"/world/area/old_forest/npc/eq/coco","amount":1,]),5:(["file":"/world/area/bone/npc/wp/shield","amount":1,]),4:(["file":"/world/drug/hpill2","amount":14,]),3:(["file":"/world/drug/apill2","amount":8,]),2:(["file":"/world/drug/ap_heal","amount":5,]),1:(["file":"/world/drug/hp_heal","amount":3,]),0:(["file":"/world/area/whale_island/npc/item/spider-venom","amount":19,]),])
+__flag ""
+toDoList (["/world/quest/dig_cave.c":(["killed":([]),"item":([]),]),"/world/quest/collect_carapace.c":(["killed":([]),"item":(["/world/area/lake/npc/eq/shell.c":4,"/world/area/lake/npc/eq/crab.c":4,"/world/eq/armor/turtle.c":1,"/world/area/old_forest/npc/eq/coco.c":1,"/world/area/lake/npc/eq/shrimp.c":4,]),]),"/world/quest/kzombie.c":(["killed":(["/world/area/lake/npc/zombie.c":119,"/world/area/lake/npc/zombie2.c":4,"/world/area/lake/npc/zombie4.c":0,]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/new_fight.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/new_quest.c","/world/quest/nurture_pig.c","/world/quest/kmouse.c","/world/quest/kbug.c","/world/quest/delete_cockroach.c","/world/quest/expel_mouse.c","/world/quest/try_little_skill.c","/world/quest/get_crab.c","/world/quest/eat_brain.c","/world/quest/mob_mutation.c","/world/quest/angry_muye.c","/world/quest/verygood_crab_meat.c","/world/quest/xie.c",})

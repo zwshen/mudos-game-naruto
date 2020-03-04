@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ide":"identify $*","a":"fight dou","1":"option map_unfreeze $*","con":"consider $*","g":"get all","2":"option map_hidden $*",])
+dbase (["time_aged":4799011,"last_on":1149412312,"name":"¦è®¦","id":"ciy","last_from":"8.21.126.140","board_last_read":(["ayumi":1120542699,"propose":1141838792,"_MITE_":1142224362,"chat":1143174206,"tmr":1144575983,"wizard":1149181869,"newbie":1136481011,"bug":1147746410,"acme":1149251531,]),"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1139632748,])
+password "$1$29322583$MSwLzo6DpwoIvleRmewre1"
+email "no@n.n.n"

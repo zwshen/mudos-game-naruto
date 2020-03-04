@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":30,"str":30,])
+conditions ([])
+dbase (["birthday":1165545515,"time_aged":6570,"bank":521,"level":11,"race":"human","age":19,"id":"wwnne","guild":"muye","name":"¦v¨k","class":"inferior","startroom":"/world/area/wizard/prac1","score":(["elevel":0,"kills":69,"survive":670,"combat exp":11100,]),"gender":"male","target_score":(["elevel":1,"combat exp":12100,]),"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills (["savage hit":24,"ninja":9,"parry":8,"continual hit":9,"heavy hit":24,"combat":27,"dodge":9,])
+learned (["savage hit":3960,"ninja":0,"parry":730,"continual hit":930,"heavy hit":3960,"combat":220,"dodge":1070,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":2,"ninja":2,"parry":2,"continual hit":2,"heavy hit":2,"combat":2,"dodge":2,])
+skill_require (["savage hit":8640,"ninja":500,"parry":1215,"continual hit":1500,"heavy hit":8640,"combat":10935,"dodge":1500,])
+best_skill "combat"
+st_maximum (["ap":300,"mp":200,"hp":240,])
+st_current (["ap":26,"mp":200,"hp":240,])
+st_notify ([])
+st_point (["skill":8,"attribute":2,"score":50,"learn":109,])
+st_quest ([])
+autoload ([])
+__flag ""

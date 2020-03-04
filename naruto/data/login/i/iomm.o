@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["1":"hp","o":"wield radish","'":"advance combat","4":"train combat from ka for 100","6":"train parry from ka for 1","5":"train dodge from ka for 100","ii":"balance","7":"train cheavy hit from ka for 1","ll":"skills","3":"sac corpse","2":"get all from corpse",])
+dbase (["time_aged":19316,"id":"iomm","name":"¦ã¯Iº¸","board_last_read":(["propose":1148557370,"chat":1143174206,"wizard":1149181869,"newbie":1136481011,"bug":1115967361,"ayumi":1120542699,]),"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1149301272,])
+password "$1$86853683$OJEKyCERRuagFC26kc/ih1"
+email "@"

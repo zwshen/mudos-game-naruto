@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":1237541,"creation_time":1191694003,"last_from":"153.145.231.118","name":"¿Õ°ò¨È","body":"/obj/user","last_on":1235921078,"id":"nokia",])
+my_body 
+last_age_set 1235921078
+password "$1$55538044$YB6KxzsTrfp7sFcoCg.Nx1"
+email "longislandroy@hotmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":156,"height":59,])

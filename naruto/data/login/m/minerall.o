@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse $*","unwi":"unwield $*","9":"drink $*","re":"remove $*","rs":"recall","we":"wear $*","a":"alias $*","wi":"wield $*","con":"consider $*",])
+dbase (["body":"/obj/user","id":"minerall","name":"¤j®ü","time_aged":3300,"last_from":"101.125.131.220","last_on":1181969333,"creation_time":1181966064,"channels":({"chat","rumor","aucc",}),])
+password "$1$94856112$mBRkgciLXwpw0xSZDtdLX1"
+email "ckjl1017@hotmail.com"

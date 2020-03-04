@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w2":"wield shan feng sword 2 as lefthand","w1":"wield shan feng sword as righthand","t":"move $*","c*":"chat* $*","海賊船":"傳送->transfer 3->走到最底下search->到海底後往左走","w3":"wield radish as righthand","停技能":"disable","要比例":"80 30","觀地圖":"option map_hidden 0","w4":"wield radish 2 as lefthand","ll":"remember $*","?1":"quest $*","茶莊午":"query -wp","o":"team talk $*","存放id":"tin=書店傳送物品 fancy=eqwp","雞比菊":"100:25","c":"chat $*",])
+dbase (["creation_time":1197559269,"time_aged":9686111,"board_last_read":(["propose":1200749923,"design":1154116971,"newbie":1136481011,"chat":1186466886,"bug":1197896664,"wizard":1237837753,]),"body":"/obj/user","id":"rabbits","name":"乖兔","channels":({"chat","rumor","aucc","news",}),"last_from":"223.158.143.220","last_on":1244255862,])
+my_body 
+last_age_set 1244255861
+password "$1$8661238$iaTHBfJRo/LtsQCkiEi6H0"
+email "swgimme.kimo@msa.hinet.net"
+window (["terminal_type":"vt100","freeze":1,"width":125,"height":48,])

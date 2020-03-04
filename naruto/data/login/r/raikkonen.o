@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["gc":"perform ghost chop.attack on $*","rem":"remember $*","ch":"charge $*","en":"enter ¯µ¥Þ","fgc":"perform fire ghost chop.attack on $*","wb":"perform wolf blade.flow","con":"consider $*",])
+dbase (["time_aged":27431774,"creation_time":1185608366,"name":"¢Ù¢ñ¢õ¢ñ","id":"raikkonen","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["bug":1245501723,"newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"wizard":1239465932,]),"last_on":1249258873,"last_from":"31.1.231.125",])
+my_body 
+last_age_set 1249297842
+password "$1$82960858$iK1Rwkphc.iIc5tRoQd/.0"
+email "lexusabc@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"zmud","width":124,"height":28,])

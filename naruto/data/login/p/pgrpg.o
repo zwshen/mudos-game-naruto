@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sa":"sac corpse","ga":"get all","2":"perform chamber fish.feed","g":"get all from corpse $*","4":"perform chamber fish.state","1":"perform chamber fish.fish","3":"perform chamber fish.destruct","et":"eat tea",])
+dbase (["body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"last_on":1248862746,"time_aged":4685643,"creation_time":1244177121,"last_from":"172.128.115.59","id":"pgrpg","name":"¹p´µªL",])
+my_body 
+last_age_set 1248862745
+password "$1$54076030$pXCrxmwnAfJnZ4ZGFVX02/"
+email "ss@ss.ss"
+window (["terminal_type":"zmud","width":87,"height":62,])

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["b":"buy $1 from $2","td":"train dodge from si for $*","wr":"wear $*","pb2":"put $* in bag 2","gb2":"get $* from bag 2","wd":"withdraw $* silver","ff":"perform force.fireass on $*","av":"advance $*","gf":"give franklin $*","ts":"train substitute from ka for $*","nl":"perform animal taming.leave","g":"get $* from corpse","gm":"give maggie $*","nc":"perform animal taming.call","c":"charge $*","or":"order _MY_PET_ to $*","gb":"get $* from bag","ad":"advance $1 for $2","rm":"remove $*","ns":"perform animal taming.state","pta":"perform thousand year kill.attack on $*","pns":"perform ninja.set $*","tf":"transfer $*","de":"deposit $* silver","cd":"consider $*","tp":"train parry from ka for $*","p":"put $* in bag","rr":"remember $*","ty":"train thousand year kill from si for $*","tfr":"train force from si for $*","ta":"train animal taming from ka for $*","tn":"train ninja from ka for $*","gk":"give kuroro $*","gh":"give hisoka $*","nf":"perform animal taming.feed $*","pb":"put $* in bag","ss":"score _MY_PET_","iy":"identify $*",])
+dbase (["creation_time":1145230693,"time_aged":33750361,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"bug":1239241211,"wizard":1239465932,"propose":1237364643,]),"id":"cindy","name":"·¶¨à","channels":({"chat","rumor","aucc",}),"last_from":"203.234.61.61","last_on":1243666345,])
+my_body 
+last_age_set 1243666345
+password "$1$37208129$a2mC3jom4tpPeHD3XJlWL/"
+email "d41920@hotmail.com"
+window (["freeze":1,"terminal_type":"zmud","width":93,"height":29,])

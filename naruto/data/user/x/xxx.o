@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":16408,"startroom":"/world/area/wizard/guildhall","level":1,"score":(["combat exp":81,"kills":6,"survive":30,]),"age":18,"race":"human","target_score":(["combat exp":100,]),"id":"xxx","name":"¦õ§U","birthday":1130411799,"guild":"muye","class":"inferior","gender":"male","bank":19,"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":80,"ap":80,"mp":80,])
+st_current (["hp":80,"ap":80,"mp":80,])
+st_notify (["hp":50,])
+st_point (["attribute":2,"skill":2,"score":50,"learn":114,])
+st_quest ([])
+autoload ([2:(["amount":1,"file":"/world/eq/cloth/cloth",]),1:(["amount":11,"file":"/obj/money/silver",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

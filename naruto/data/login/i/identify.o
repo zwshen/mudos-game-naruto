@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":156,"creation_time":1242316988,"board_last_read":(["wizard":1115665665,]),"body":"/obj/user","name":"л}йIл}ос","id":"identify",])
+my_body 
+last_age_set 1242317105
+password "$1$16200663$t1/ZUSsPpb81iQ64AKSlI."
+email "sam887766@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"ANSI","width":80,"height":25,])

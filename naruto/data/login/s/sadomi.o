@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["h":"halt","scp":"sac corpse","kc":"2 kill goose 2","ga":"get all from corpse","mapoff":"option map_unfreeze 1","lc":"l corpse","mapon":"option map_unfreeze 0",])
+dbase (["time_aged":4386773,"name":"²ï°«¬ü","id":"sadomi","board_last_read":(["chat":1130765657,]),"last_from":"68.43.160.218","last_on":1138875914,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1130002406,])
+password "$1$63848150$WZ5G4O8MlT3jVK5Dl9Hl7/"
+email "niceroachkimo@yahoo.com.tw"

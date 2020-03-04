@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":27,"int":31,"dex":35,"str":27,])
+conditions ([])
+dbase (["score":(["kills":721,"survive":5519,"elevel":9,"combat exp":196025,]),"bank":27195,"title":"¤ì¸­§ø§ÔªÌ","name":"»ôÃÃ¡E¤G","id":"meel","birthday":1129225703,"level":20,"race":"human","age":27,"gender":"male","guild":"muye","class":"inferior","startroom":"/world/area/wizard/prac4","time_aged":81039,])
+masters ([])
+apprentices ([])
+skills (["muye wind":11,"savage hit":68,"dodge":26,"force":23,"continual hit":27,"parry":19,"combat":67,"heavy hit":68,])
+learned (["muye wind":1500,"savage hit":34170,"dodge":7905,"force":855,"continual hit":2265,"parry":2310,"combat":61515,"heavy hit":34215,])
+skill_map (["combat":"muye wind",])
+skill_flag ([])
+skill_ability (["muye wind":5,"savage hit":5,"dodge":2,"force":3,"continual hit":2,"parry":2,"combat":4,"heavy hit":5,])
+skill_require (["muye wind":1815,"savage hit":69360,"dodge":10140,"force":2645,"continual hit":10935,"parry":5415,"combat":67335,"heavy hit":69360,])
+best_skill "heavy hit"
+st_maximum (["mp":80,"hp":200,"ap":600,])
+st_current (["mp":80,"hp":200,"ap":42,])
+st_notify (["hp":20,"ap":0,])
+st_point (["score":360,"learn":759,"skill":12,"attribute":0,])
+st_quest (["prize":([4:1,]),])
+autoload ([6:(["file":"/world/area/wild/npc/eq/wolf_tail","amount":1,]),5:(["file":"/world/area/wild/npc/eq/wolf_feet","amount":1,]),4:(["file":"/world/area/wild/npc/eq/pig_fur","amount":1,]),3:(["file":"/world/area/wild/npc/wp/snake_tooth","amount":1,]),2:(["file":"/world/area/wild/npc/eq/pig_head","amount":1,]),1:(["file":"/world/item/bag","amount":1,]),0:(["file":"/obj/money/silver","amount":416,]),])
+__flag ""

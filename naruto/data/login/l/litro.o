@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["time_aged":687,"body":"/obj/user","id":"litro","name":"ÃÄ¤Ñ","last_on":1242017090,"channels":({"chat","rumor",}),"last_from":"19.91.89.143","creation_time":1242016446,])
+my_body 
+last_age_set 1242017089
+password "$1$19825572$KJ8LdFPO85iCn5Jfupr/H0"
+email "literaltao@gmail.com"
+window (["terminal_type":"zmud","width":87,"height":53,])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["unwi":"unwield $*","rem":"remove $*","f":"fight $*","rep":"reply $*","sk":"skills $*","ide":"identify $*",])
+dbase (["time_aged":273017,"board_last_read":(["ayumi":1120542699,"newbie":1136481011,"tmr":1144575983,"acme":1144388900,]),"last_from":"93.50.172.218","id":"sca","name":"¤p§Ô","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"last_on":1160117937,"creation_time":1146203755,])
+password "$1$70462817$V9d8zOGYzPzcIg4XK..w2."
+email "sca640@hotmail.com"

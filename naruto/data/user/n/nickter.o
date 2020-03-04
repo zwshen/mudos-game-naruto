@@ -1,0 +1,25 @@
+#/obj/user.c
+attribute (["con":29,"int":20,"dex":27,"str":36,])
+conditions ([])
+dbase (["title":"念能力者","gender":"male","class":"hxh_initial","score":(["survive":970,"elevel":6,"kills":438,]),"id":"nickter","time_aged":75185,"age":19,"level":16,"guild":"hunter","long":"暴力小攸","race":"human","birthday":1190119564,"bank":6014,"recoverroom":"/world/area/wizard/elf_door","name":"龍天翔","startroom":"/world/area/wizard/hockshop_s",])
+masters ([])
+apprentices ([])
+skills (["parry":26,"heavy hit":34,"body strength":30,"savage hit":35,"dodge":28,"continual hit":10,"strength":30,"emit":1,"combat":40,"solid":1,"finger-guessing fist":12,])
+learned (["parry":96,"heavy hit":4400,"body strength":361,"savage hit":4064,"continual hit":327,"dodge":912,"strength":361,"combat":2912,"finger-guessing fist":624,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":2,"heavy hit":3,"body strength":2,"savage hit":3,"dodge":2,"continual hit":1,"strength":2,"emit":1,"combat":3,"solid":1,"finger-guessing fist":1,])
+skill_require (["parry":3380,"heavy hit":5780,"body strength":4500,"savage hit":6125,"continual hit":500,"dodge":3920,"strength":4500,"combat":8000,"finger-guessing fist":720,])
+best_skill "combat"
+st_maximum (["mp":200,"hp":350,"ap":490,])
+st_current (["mp":175,"hp":431,"ap":130,])
+st_notify (["hp":20,])
+st_point (["skill":11,"score":0,"learn":290,"attribute":0,])
+st_quest (["level_d":([2:1,]),])
+autoload ([16:(["file":"/world/drug/ap_heal","amount":5,]),15:(["file":"/world/drug/apill2","amount":4,]),14:(["file":"/world/drug/hpill","amount":4,]),13:(["file":"/world/eq/finger/silver","amount":1,]),12:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),11:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),10:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),9:(["file":"/world/eq/leg/gai","amount":1,]),8:(["file":"/world/area/sneakhole/npc/eq/pants","amount":1,]),7:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),6:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),5:(["file":"/world/eq/belt/hoop","amount":1,]),4:(["file":"/world/area/wild/npc/eq/bear_suit","amount":1,]),3:(["file":"/world/eq/cloth/gray","amount":1,]),2:(["file":"/world/drug/noodle","amount":3,]),1:(["file":"/world/area/ship/npc/item/bento","amount":1,]),0:(["file":"/obj/money/silver","amount":254,]),])
+__flag ""
+toDoList (["/world/quest/amulet.c":(["killed":([]),"item":([]),]),"/world/quest/try_big_skill.c":(["killed":(["/world/area/wild/npc/bigsnake.c":0,"/world/area/whale_island/npc/spider2.c":0,"/world/area/wild/npc/bigwolf.c":0,"/world/area/wild/npc/bigpig.c":0,]),"item":([]),]),"/world/quest/eat_brain.c":(["killed":([]),"item":([]),]),"/world/quest/verygood_crab_meat.c":(["killed":(["/world/area/lake/npc/crab.c":0,]),"item":([]),]),"/world/quest/dig_cave.c":(["killed":([]),"item":([]),]),"/world/quest/noise_wolf.c":(["killed":(["/world/area/echo/npc/wolf1.c":2,"/world/area/echo/npc/wolf2.c":0,]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c","/world/quest/try_newbie.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/xie.c","/world/quest/new_quest.c","/world/quest/nurture_pig.c","/world/quest/expel_mouse.c","/world/quest/try_little_skill.c","/world/quest/search_zhang.c","/world/quest/travel_muye.c","/world/quest/travel_soldier.c","/world/quest/travel_ship.c",})
+level_scope ({75,150,225,300,375,})
+pro_sk (["first-aid":(["level":0,"max_level":75,"item":({"snake_skin_bandage",}),]),])
+camp (["hunter":0,])

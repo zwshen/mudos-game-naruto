@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["scc":"score _MY_PET_","ide":"identify $*","z":"perform ninja.ca","2":"enable ninja with animal taming","con":"consider $*","g":"get all","p":"sac corpse","1":"enable ninja with cell activation","ga":"get all from corpse $*",])
+dbase (["time_aged":1756989,"last_on":1147945521,"id":"powevil","name":"¨¸­·","board_last_read":(["acme":1139294262,]),"last_from":"87.163.132.220","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1139564678,])
+password "$1$15222160$WgjzJR5ikOFPFpUA1Vvsp/"
+email "1@1.1.1"

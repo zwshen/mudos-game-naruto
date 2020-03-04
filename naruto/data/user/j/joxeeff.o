@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":32,])
+conditions ([])
+dbase (["time_aged":31450,"birthday":1150641048,"title":"木葉村忍者","target_score":(["combat exp":10000,]),"bank":300,"guild":"muye","age":20,"id":"joxeeff","name":"霧丸新之助","level":10,"race":"human","startroom":"/world/area/wizard/prac2","gender":"male","score":(["survive":1470,"combat exp":8393,"elevel":3,]),"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["combat":26,])
+learned (["combat":6340,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":7,])
+skill_require (["combat":10140,])
+best_skill "combat"
+st_maximum (["ap":344,"mp":108,"hp":87,])
+st_current (["ap":84,"mp":108,"hp":87,])
+st_notify ([])
+st_point (["attribute":8,"skill":13,"score":201,"learn":400,])
+st_quest ([])
+autoload ([])
+__flag ""

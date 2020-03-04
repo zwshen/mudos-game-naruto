@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ee":"eat chicken","p":"transfer 1","r":"recall","q":"get all from corpse","1":"get all from corpse","a":"sac corpse","eq":"query -eq","pp":"transfer 2","gg":"get all from corpse","t":"train continual hit from hang","z":"identify",])
+dbase (["body":"/obj/user","creation_time":1174796640,"last_on":1175174531,"time_aged":75154,"id":"nana","name":"®R®R","last_from":"211.254.125.59","channels":({"chat","rumor","news",}),])
+password "$1$24877396$n1U0mYr4amDUUZ61YMhZX/"
+email "loveelu@yaho.com.tw"

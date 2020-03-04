@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["score":(["survive":920,]),"bank":28486,"name":"½Ö®aªá¶}","id":"zoe","birthday":1132032978,"level":1,"race":"human","age":19,"gender":"female","area_info":(["x_axis":22,"y_axis_old":46,"x_axis_old":22,"y_axis":46,]),"class":"commoner","startroom":"/world/area/whale_island/area","time_aged":80401,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["score":50,"learn":100,"attribute":2,"skill":2,])
+st_quest ([])
+autoload ([1:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""

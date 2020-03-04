@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1151688096,"time_aged":24012,"bank":0,"nickname":"[45m[1;37m[7mª¨ª¨µL¸o[0;2m","age":18,"id":"apple","name":"¶Àª÷Ä«ªG","level":1,"recoverroom":"/world/area/whale_island/mite_hotel","race":"human","startroom":"/world/area/whale_island/mite_hotel","gender":"female","score":(["survive":140,"combat exp":8,]),"option":(["map_unfreeze":1,]),"class":"commoner",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest (["level_p":([10:1,]),])
+autoload ([25:(["amount":1,"file":"/world/eq/head/boiler",]),24:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),23:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),22:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),21:(["amount":1,"file":"/world/wp/sword",]),20:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),19:(["amount":1,"file":"/world/eq/face/fglasses",]),18:(["amount":1,"file":"/world/eq/face/fglasses",]),17:(["amount":1,"file":"/world/eq/belt/hoop",]),16:(["amount":1,"file":"/world/eq/belt/hoop",]),15:(["amount":1,"file":"/world/eq/belt/hoop",]),14:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),13:(["amount":1,"file":"/world/wp/rattan",]),12:(["amount":1,"file":"/world/eq/face/fglasses",]),11:(["amount":1,"file":"/world/wp/butcher-blade",]),10:(["amount":1,"file":"/world/eq/face/fglasses",]),9:(["amount":1,"file":"/world/eq/belt/hoop",]),8:(["amount":1,"file":"/world/eq/head/boiler",]),7:(["amount":1,"file":"/world/eq/head/boiler",]),6:(["amount":1,"file":"/world/eq/belt/hoop",]),5:(["amount":1,"file":"/world/eq/belt/hoop",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),2:(["amount":1,"file":"/world/eq/head/boiler",]),1:(["amount":1,"file":"/world/eq/belt/hoop",]),0:(["amount":1,"file":"/world/wp/butcher-blade",]),])
+__flag ""

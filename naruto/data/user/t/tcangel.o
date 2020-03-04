@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["age":18,"time_aged":2989,"birthday":1183030230,"id":"tcangel","name":"¤p§b","gender":"male","help":"web","startroom":"/world/area/muye/item","bank":0,"class":"commoner","level":1,"race":"human","score":(["kills":16,"survive":10,]),])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":310,])
+st_quest ([])
+autoload ([3:(["file":"/obj/money/silver","amount":89,]),2:(["file":"/world/wp/radish","amount":1,]),1:(["file":"/world/wp/newblade","amount":1,]),0:(["file":"/world/drug/noodle","amount":2,]),])
+__flag ""
+toDoList (["/world/quest/amulet.c":(["item":([]),"killed":([]),]),"/world/quest/xie.c":(["item":([]),"killed":([]),]),"/world/quest/new_quest.c":(["item":([]),"killed":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/new_fight.c",})

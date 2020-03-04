@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["lw":"look west","ls":"look south","ln":"look north","le":"look east",])
+dbase (["last_on":1204811545,"channels":({"chat","rumor",}),"creation_time":1143553921,"last_from":"151.173.126.59","body":"/obj/user","name":"§Ú·R¦Ë","id":"congra","time_aged":233,])
+password "$1$93664664$V7jii6YMEp7MAbzBaoeBT0"
+email "iamcongra@yahoo.com.tw"

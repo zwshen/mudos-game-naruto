@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":1361,"level":1,"race":"human","age":18,"guild":"hunter","name":"莫特","startroom":"/world/area/whale_island/mite_hotel","gender":"male","target_score":(["combat exp":100,]),"title":"念能力者","birthday":1165298742,"bank":0,"id":"moot","recoverroom":"/world/area/whale_island/mite_hotel","class":"hxh_initial","score":(["combat exp":92,]),])
+masters ([])
+apprentices ([])
+skills (["parry":5,])
+learned (["parry":60,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,])
+skill_require (["parry":375,])
+best_skill "parry"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":19,"mp":80,"hp":38,])
+st_notify ([])
+st_point (["skill":1,"attribute":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""

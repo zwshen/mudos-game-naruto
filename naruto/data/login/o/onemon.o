@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all from corpse",])
+dbase (["time_aged":521359,"body":"/obj/user","channels":({"chat","rumor","news",}),"last_on":1234110422,"creation_time":1181236987,"board_last_read":(["design":1154116971,"_MITE_":1170658966,"propose":1178173271,"wizard":1177493711,"newbie":1136481011,]),"id":"onemon","name":"¸UÂN","last_from":"202.7.44.114",])
+my_body 
+last_age_set 1234110422
+password "$1$77259914$ewVLW2A1katvCUXA42Hj7/"
+email "okfist@yahoo.com.tw"
+window (["width":156,"height":49,"freeze":1,"terminal_type":"vt100",])

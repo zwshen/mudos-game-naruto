@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["con":"consider $*","q":"get all from corpse","qq":"sac corpse","p":"perform emit.shoot $*","sk":"skills $*","/":"recall","f":"fight $*","a":"hp",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1130946667,"board_last_read":(["_MITE_":1130491067,"chat":1130765657,"newbie":1130565369,"bug":1131175254,"wizard":1130649586,"propose":1130204695,"acme":1131028120,"tmr":1131326208,"ayumi":1120542699,]),"name":"µê¤¤Â÷","id":"echo","last_on":1131439264,"last_from":"146.64.64.61","time_aged":357910,"body":"/obj/user",])
+password "$1$14480136$vaVw1XHdI23SwQZ6Nj5JU/"
+email "no@email.address"

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":8109,"title":"©À¯à¤OªÌ","name":"­×¨È´µ","gender":"male","guild":"hunter","birthday":1137342492,"class":"hxh_initial","bank":406,"target_score":(["combat exp":400,]),"area_info":(["x_axis":18,"y_axis_old":30,"y_axis":30,"x_axis_old":18,]),"startroom":"/world/area/whale_island/area","nickname":"¸t°«¤h¬O¬¡¹p¾W[0;2m","id":"syuas","score":(["elevel":5,"kills":19,"combat exp":289,"survive":10,]),"age":18,"level":2,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":7,"dodge":4,"parry":4,])
+learned (["combat":420,"dodge":150,"parry":40,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"dodge":1,"parry":1,])
+skill_require (["combat":735,"dodge":240,"parry":240,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify (["ap":20,])
+st_point (["skill":1,"score":100,"learn":263,"attribute":4,])
+st_quest ([])
+autoload ([0:(["amount":3,"file":"/world/area/whale_island/npc/food/crab_roe",]),])
+__flag ""

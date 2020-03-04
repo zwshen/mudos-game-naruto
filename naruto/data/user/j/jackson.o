@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":22,"dex":22,"str":20,])
+conditions ([])
+dbase (["time_aged":35044,"title":"©À¯à¤OªÌ","target_score":(["combat exp":6400,]),"bank":0,"name":"ªN§J´Ë","gender":"male","option":(["option":"none",]),"class":"hxh_initial","ignore":({"20¬í¦^´_5%","²{¹ê15¬í¡×¹CÀ¸15¤À",}),"birthday":1151579257,"nickname":"[1;37m[46m[7mªN§Jªº¤p«Ä¡E´Ë[0;2m","guild":"hunter","age":19,"id":"jackson","level":8,"recoverroom":"/world/area/whale_island/mite_hotel","race":"human","startroom":"/world/area/whale_island/mite_hotel","score":(["survive":800,"elevel":27,"combat exp":5896,"kills":3,]),])
+masters ([])
+apprentices ([])
+skills (["combat":19,"savage hit":17,"dodge":18,"heavy hit":17,"continual hit":1,"parry":14,])
+learned (["combat":5544,"savage hit":3014,"dodge":5368,"heavy hit":3014,"parry":2101,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,"savage hit":1,"dodge":1,"heavy hit":1,"continual hit":1,"parry":1,])
+skill_require (["combat":6000,"savage hit":4860,"dodge":5415,"heavy hit":4860,"parry":3375,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify (["ap":55,"hp":55,])
+st_point (["skill":9,"attribute":12,"score":400,"learn":818,])
+st_quest (["level_d":([2:1,]),"level_p":([10:1,]),"level_e":([1:1,4:1,3:1,]),])
+autoload ([])
+__flag ""

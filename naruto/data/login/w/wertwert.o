@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["$":"perform animal taming.feed eyes","re":"recall","a":"perform animal taming.state","aa":"score dog","@":"eat pill $*","9":"train muye wind from ka for $*","Z":"balance","c":"sac corpse","1":"perform animal taming.call","p":"hp","X":"perform four foot.beast","%":"kill pig $*","z":"deposit $* silver","2":"perform animal taming.leave","id":"identify $*","R":"remember $*","5":"sfly 1","M":"move $*","Q":"perform animal taming.feed manto","A":"wield banana as twohanded","6":"eat manto","x":"get all from corpse",])
+dbase (["time_aged":2366593,"body":"/obj/user","name":"Å]©]","id":"wertwert","creation_time":1130977053,"channels":({"chat","rumor","aucc",}),"last_on":1239033662,"board_last_read":(["propose":1130204695,"newbie":1128936709,"bug":1129700893,"wizard":1130649586,]),"last_from":"84.3.6.124",])
+my_body 
+last_age_set 1239033661
+password "$1$48111233$wqi9WdcGKhUUrgkyQYYLr1"
+email "wertuzey@yahoo.com.tw"
+window (["width":141,"terminal_type":"vt100","height":55,])

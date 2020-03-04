@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["rs":"recall start","re":"recall",])
+dbase (["channels":({"chat","rumor",}),"time_aged":103700,"last_from":"129.25.208.134","creation_time":1235557991,"last_on":1235661659,"body":"/obj/user","name":"ทฌตุ","id":"larc",])
+my_body 
+last_age_set 1235661659
+password "$1$9583517$63XlY9vjJF7coFcJpfITU."
+email "sda@sda.sa.da"
+window (["terminal_type":"zmud","width":100,"height":30,])

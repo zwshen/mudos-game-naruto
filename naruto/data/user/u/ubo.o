@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":32,])
+conditions ([])
+dbase (["birthday":1172591271,"level":6,"name":"ºÛª÷","race":"human","bank":99211,"wimpy_dir":"west","gender":"male","startroom":"/world/area/whale_island/prac4","time_aged":57849,"title":"©À¯à¤OªÌ","guild":"hunter","nickname":"®È¹Î½s¸¹¡G11¸¹[0;2m","id":"ubo","score":(["survive":3998,"kills":370,"elevel":3,]),"class":"hxh_initial","age":23,])
+masters ([])
+apprentices ([])
+skills (["heavy hit":18,"combat":53,"parry":29,"dodge":32,"savage hit":41,])
+learned (["heavy hit":924,"combat":6633,"parry":4044,"dodge":1374,"savage hit":1914,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":1,"combat":4,"parry":2,"dodge":2,"savage hit":3,])
+skill_require (["heavy hit":1620,"combat":14045,"parry":4205,"dodge":5120,"savage hit":8405,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":180,"ap":280,])
+st_current (["mp":80,"hp":230,"ap":280,])
+st_notify (["ap":20,])
+st_point (["attribute":0,"skill":0,"score":0,"learn":346,])
+st_quest ([])
+autoload ([16:(["file":"/world/area/whale_island/npc/eq/rears","amount":1,]),15:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),14:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),13:(["file":"/world/eq/cloth/gray","amount":1,]),12:(["file":"/world/eq/face/cglasses","amount":1,]),11:(["file":"/world/eq/hand/fist","amount":1,]),10:(["file":"/world/area/wild/npc/eq/bear_suit","amount":1,]),9:(["file":"/world/wp/radish","amount":1,]),8:(["file":"/world/wp/radish","amount":1,]),7:(["file":"/world/wp/dagger","amount":1,]),6:(["file":"/world/wp/dagger","amount":1,]),5:(["file":"/world/eq/finger/copper","amount":1,]),4:(["file":"/world/area/whale_island/npc/food/crab_roe","amount":26,]),3:(["file":"/world/area/whale_island/npc/food/crab_meat","amount":36,]),2:(["file":"/world/area/muye/npc/item/cr_egg","amount":15,]),1:(["file":"/world/area/muye/npc/item/cr_feet","amount":26,]),0:(["file":"/world/area/muye/npc/item/cr_antenna","amount":25,]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c",})

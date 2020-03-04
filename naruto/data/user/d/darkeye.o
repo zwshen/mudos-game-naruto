@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":24,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":13335,"level":2,"age":18,"race":"human","target_score":(["combat exp":400,]),"name":"闇眼","guild":"hunter","gender":"male","title":"念能力者","area_info":(["x_axis":24,"y_axis_old":17,"x_axis_old":24,"y_axis":17,]),"birthday":1150388897,"id":"darkeye","class":"hxh_initial","startroom":"/world/area/muye/swanlake","score":(["combat exp":150,"kills":13,"survive":70,]),"bank":693,])
+masters ([])
+apprentices ([])
+skills (["dodge":6,"parry":3,"combat":6,])
+learned (["dodge":479,"parry":0,"combat":156,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,"combat":1,])
+skill_require (["dodge":540,"parry":135,"combat":540,])
+best_skill "dodge"
+st_maximum (["ap":160,"mp":80,"hp":100,])
+st_current (["ap":160,"mp":80,"hp":100,])
+st_notify ([])
+st_point (["attribute":0,"skill":1,"score":0,"learn":257,])
+st_quest ([])
+autoload ([10:(["file":"/world/item/rod","amount":1,]),9:(["file":"/world/wp/dagger","amount":1,]),8:(["file":"/world/eq/armor/turtle","amount":1,]),7:(["file":"/world/area/muye/npc/item/turtle_head","amount":3,]),6:(["file":"/world/wp/dagger","amount":1,]),5:(["file":"/world/item/fish6","amount":15,]),4:(["file":"/world/item/fish3","amount":26,]),3:(["file":"/world/item/fish5","amount":21,]),2:(["file":"/world/item/fish1","amount":19,]),1:(["file":"/world/item/fish2","amount":14,]),0:(["file":"/world/item/fish4","amount":23,]),])
+__flag ""

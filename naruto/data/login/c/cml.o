@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["a":"hp","b":"skills $*",])
+dbase (["board_last_read":(["design":1154116971,"wizard":1236774912,"chat":1186466886,]),"time_aged":2957150,"last_from":"192.104.44.114","last_on":1236880448,"name":"ªL¬Y","body":"/obj/user","id":"cml","channels":({"chat","rumor",}),"creation_time":1233923312,])
+my_body 
+last_age_set 1236880446
+password "$1$22790517$c5JXdhGuMS/aaHV1udaOr0"
+email "@"
+window ([])

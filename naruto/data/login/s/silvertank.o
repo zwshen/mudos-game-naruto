@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["creation_time":1234248482,"time_aged":11731,"body":"/obj/user","channels":({"chat","rumor",}),"id":"silvertank","name":"»È","last_on":1234260180,"last_from":"66.91.64.203",])
+my_body 
+last_age_set 1234260179
+password "$1$20766548$7.HyToidYDcVS0LC7d81b/"
+email "cm089125@hotmail.com"
+window (["width":173,"height":55,"freeze":1,"terminal_type":"zmud",])

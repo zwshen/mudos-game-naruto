@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["time_aged":160,"creation_time":1234243393,"channels":({"chat","rumor",}),"body":"/obj/user","name":"¤Û","id":"iiisaac",])
+my_body 
+last_age_set 1234243520
+password "$1$79880019$iwXM1.QvUHmKZLmfYB3v61"
+email "isaacjeremy@hotmail.com"
+window (["width":100,"height":35,"terminal_type":"ANSI",])

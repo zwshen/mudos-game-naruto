@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["c":"consider $*","sk":"skills","g":"get all from corpse $*","r":"read $*",])
+dbase (["time_aged":24457,"id":"kuger","name":"ÕýÞH","last_from":"122.54.20.211","board_last_read":(["wizard":1151395598,"propose":1115827917,"design":1150693458,"bug":1151492395,"chat":1143174206,]),"last_on":1152410548,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1152313591,])
+password "$1$47588599$.KfykO4sRFrQCGC4.zLNs1"
+email "@"

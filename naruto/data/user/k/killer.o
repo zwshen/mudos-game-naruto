@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":25,"str":38,"con":27,])
+conditions ([])
+dbase (["class":"inferior","guild":"muye","name":"±þ¤â","birthday":1132933704,"gender":"male","level":15,"nickname":"abcde[0;2m","recoverroom":"/world/area/whale_island/mite_hotel","race":"human","age":53,"score":(["kills":1780,"survive":30559,"combat exp":21853,"elevel":29,]),"startroom":"/world/area/whale_island/area","option":(["map_unfreeze":1,]),"id":"killer","title":"¤ì¸­§ø§ÔªÌ","bank":89398,"target_score":(["combat exp":22500,"elevel":5,]),"time_aged":10563,])
+masters ([])
+apprentices ([])
+skills (["continual hit":11,"substitute":1,"animal taming":28,"ninja":19,"heavy hit":33,"dodge":20,"combat":32,"parry":16,"force":1,"savage hit":33,])
+learned (["ninja":200,"heavy hit":6770,"continual hit":1050,"combat":8120,"dodge":0,"parry":600,"animal taming":2440,"savage hit":6770,])
+skill_map (["ninja":"animal taming","dodge":"substitute",])
+skill_flag ([])
+skill_ability (["continual hit":1,"substitute":1,"animal taming":3,"ninja":2,"heavy hit":3,"dodge":1,"combat":3,"parry":1,"force":1,"savage hit":3,])
+skill_require (["ninja":2000,"heavy hit":16335,"continual hit":1815,"combat":15360,"dodge":6000,"parry":3840,"animal taming":3920,"savage hit":16335,])
+best_skill "savage hit"
+st_maximum (["mp":180,"hp":180,"ap":580,])
+st_current (["mp":180,"hp":180,"ap":580,])
+st_notify ([])
+st_point (["learn":322,"skill":11,"score":50,"attribute":0,])
+st_quest (["prize":([13:1,4:1,]),"level_e":([3:1,2:1,1:1,4:1,]),"level_d":([1:1,2:1,]),])
+autoload ([10:(["amount":24,"file":"/world/item/fish6",]),9:(["amount":17,"file":"/world/item/fish1",]),8:(["amount":32,"file":"/world/item/fish5",]),7:(["amount":24,"file":"/world/item/fish3",]),6:(["amount":1,"file":"/world/eq/face/fglasses",]),5:(["amount":42,"file":"/world/item/fish4",]),4:(["amount":24,"file":"/world/item/fish2",]),3:(["amount":1,"file":"/world/wp/dagger",]),2:(["amount":1,"file":"/world/wp/radish",]),1:(["amount":1,"file":"/world/wp/sword",]),0:(["amount":1,"file":"/world/item/rod",]),])
+__flag ""

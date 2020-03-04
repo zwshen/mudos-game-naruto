@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["off":"option map_unfreeze 1","bp":"buy $1 $2 from $3","ehc":"eat hp pill","wr2":"wield radish 2 as lefthand","mapoff":"option map_hidden 1","p":"put $1 in bag","on":"option map_unfreeze 0","sacc":"sac corpse","eaa":"eat big ap pill","mapon":"option map_hidden 0","wr1":"wield radish","g":"get $1 from bag","eab":"eat middle ap pill","eac":"eat ap pill",])
+dbase (["time_aged":946938,"creation_time":1131853855,"board_last_read":(["propose":1131721575,"wizard":1149499546,"bug":1132179215,"newbie":1128936709,"tmr":1132472571,"chat":1132977027,"acme":1133012398,"_MITE_":1131786296,]),"id":"benemaru","name":"¬õ¤Y","last_on":1165567729,"body":"/obj/user","channels":({}),"last_from":"204.32.134.140",])
+password "$1$557181$c1FFCP/Vqi0fr09k4d.cN1"
+email "321@321"

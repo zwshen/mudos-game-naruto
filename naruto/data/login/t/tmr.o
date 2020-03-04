@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["6":"sa icon $BBLU$$HIW$～","bb":"sa block 1","ba":"sa block 0","7":"sa icon $YEL$▂","mm":"option map_unfreeze $1","3":"sa icon $GRN$〃","p":"read new","1":"sa icon $BGRN$$HIW$森","5":"sa icon $GRN$＊","map1":"more /world/area/muye/muye.ansi","j":"sa loads __DIR__npc/crab 2","4":"sa icon $YEL$〃","uu":"update $1","2":"sa icon $HIK$■","m":"map",])
+dbase (["last_from":"127.194.136.220","time_aged":42801701,"creation_time":1128178857,"last_on":1241436081,"signature":"","body":"/obj/user","board_last_read":(["bug":1212249721,"design":1154116971,"aring_b":1130860287,"acme":1234338310,"chat":1186466886,"board":1238740329,"newbie":1136481011,"savior":1136890080,"ayumi":1120542699,"tmr":1234463389,"_MITE_":1151039075,"propose":1236515619,"wizard":1239465932,]),"id":"tmr","name":"奇","channels":({"chat","rumor","sys","wiz","music","news","aucc",}),"profile":"知易行難...",])
+my_body 
+last_age_set 1247172765
+password "$1$10382702$qMW.wPMfj4xWKvpSXPhnB."
+email "hunter@ms5.url.com.tw"
+window (["terminal_type":"zmud","width":153,"height":63,])

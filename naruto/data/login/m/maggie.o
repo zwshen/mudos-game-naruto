@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["b":"buy $1 from $2","td":"train double physique from zhi for $*","gu":"give ubokin $*","gb2":"get $* from bag 2","pb2":"put $* in bag 2","dp":"perform double physique.dp","wd":"withdraw $* silver","av":"advance $*","th":"train continual hit from ka for $*","g":"get $* from corpse","en":"eat noodles","gb":"get $* from bag","c":"charge $*","ad":"advance $1 for $2","fb":"perform force.bump on $*","rm":"remove $*","tm":"train muscle tank from zhi for $*","kf":"kill fly","tf":"transfer $*","t":"train $1 from ka for $2","de":"deposit $* silver","gcc":"give cindy $*","cd":"consider $*","ca":"perform cell activation.ca","tp":"train parry from ka for $*","rr":"remember $*","p":"put $* in bag","tc":"train cell activation from ka for $*","tn":"train ninja from ka for $*","gh":"give hisoka $*","gk":"give kuroro $*","mta":"perform muscle tank.attack on $*","km":"kill monster","pb":"put $* in bag","iy":"identify $*",])
+dbase (["creation_time":1131365709,"time_aged":32670951,"board_last_read":(["newbie":1136481011,"tmr":1131326208,"_MITE_":1188848484,"wizard":1153360538,"propose":1165577434,]),"body":"/obj/user","name":"º¿µX","id":"maggie","channels":({"chat","rumor","aucc",}),"last_from":"203.234.61.61","last_on":1243656386,])
+my_body 
+last_age_set 1243656384
+password "$1$27673239$NjbztTkSF6MmYnJrS6n4v/"
+email "d41920@126.com"
+window (["freeze":1,"terminal_type":"zmud","width":95,"height":31,])

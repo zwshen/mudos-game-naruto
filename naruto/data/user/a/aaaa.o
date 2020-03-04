@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":46,"str":22,])
+conditions ([])
+dbase (["time_aged":8719,"title":"¤ì¸­§ø§ÔªÌ","name":"ªüªüªüªü","gender":"male","guild":"muye","birthday":1142352114,"class":"inferior","bank":10559,"area_info":(["x_axis":24,"y_axis_old":17,"x_axis_old":24,"y_axis":17,]),"target_score":(["elevel":5,"combat exp":22500,]),"startroom":"/world/area/muye/swanlake","id":"aaaa","age":20,"score":(["kills":182,"elevel":14,"combat exp":20004,"survive":996,]),"level":15,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":34,"force":10,"muye wind":10,"continual hit":13,"dodge":18,"heavy hit":34,"parry":15,"savage hit":33,])
+learned (["combat":7209,"force":0,"muye wind":1100,"continual hit":867,"dodge":3040,"heavy hit":1331,"parry":779,"savage hit":10095,])
+skill_map (["combat":"muye wind",])
+skill_flag ([])
+skill_ability (["combat":4,"force":2,"muye wind":1,"continual hit":2,"dodge":3,"heavy hit":4,"parry":2,"savage hit":4,])
+skill_require (["combat":17340,"force":500,"muye wind":1500,"continual hit":2535,"dodge":4860,"heavy hit":17340,"parry":3375,"savage hit":16335,])
+best_skill "combat"
+st_maximum (["ap":380,"mp":80,"hp":330,])
+st_current (["ap":380,"mp":80,"hp":390,])
+st_notify ([])
+st_point (["skill":8,"score":200,"learn":17,"attribute":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([21:(["amount":23,"file":"/obj/money/silver",]),20:(["amount":10,"file":"/world/drug/apill3",]),19:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),18:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),17:(["amount":1,"file":"/world/wp/dagger",]),16:(["amount":1,"file":"/world/eq/finger/silver",]),15:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),14:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_head",]),13:(["amount":1,"file":"/world/eq/belt/hoop",]),12:(["amount":1,"file":"/world/item/rod",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_fur",]),9:(["amount":1,"file":"/world/eq/armor/turtle",]),8:(["amount":1,"file":"/world/eq/neck/crystal",]),7:(["amount":1,"file":"/world/eq/pants/slack",]),6:(["amount":1,"file":"/world/wp/sword",]),5:(["amount":26,"file":"/world/item/fish4",]),4:(["amount":22,"file":"/world/item/fish5",]),3:(["amount":30,"file":"/world/item/fish3",]),2:(["amount":28,"file":"/world/item/fish6",]),1:(["amount":31,"file":"/world/item/fish2",]),0:(["amount":23,"file":"/world/item/fish1",]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["pf":"perform $1 on $2","p":"wear all","on":"option map_upfreeze 0","g":"get all from corpse $1","sk":"skills","k":"kill $1 $2","o":"wield radish as lefthand","off":"option map_upfreeze 1",])
+dbase (["last_from":"252.58.175.218","channels":({"chat","rumor",}),"creation_time":1136528048,"name":"¸ô¦èªk","id":"lucifer","last_on":1137860199,"body":"/obj/user","time_aged":349543,"board_last_read":(["ayumi":1120542699,"tmr":1130217009,]),])
+password "$1$39447889$tQ2co57zOQ8alCxekPKBT/"
+email "walilay.ya@msa.hinet.net"

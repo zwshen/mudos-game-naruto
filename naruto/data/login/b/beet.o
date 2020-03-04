@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":230506,"creation_time":1236836875,"last_from":"75.107.70.219","body":"/obj/user","name":"ÅÚ½³ÀY","last_on":1237067359,"id":"beet",])
+my_body 
+last_age_set 1237067358
+password "$1$9355089$MhZzM2u4g9BzKWfVpcIQj0"
+email "@"
+window (["terminal_type":"vt100","width":117,"height":27,])

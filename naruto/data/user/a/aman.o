@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":22,])
+conditions ([])
+dbase (["level":1,"age":18,"race":"human","name":"µL¦W","id":"aman","class":"commoner","score":(["survive":20,"kills":4,"combat exp":52,]),"gender":"male","time_aged":1665,"birthday":1169311535,])
+masters ([])
+apprentices ([])
+skills (["combat":1,"parry":1,"dodge":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify (["mp":20,"hp":30,"ap":20,])
+st_point (["skill":2,"score":50,"learn":118,"attribute":0,])
+st_quest ([])
+autoload ([2:(["file":"/world/eq/cloth/cloth","amount":1,]),1:(["file":"/world/wp/rattan","amount":1,]),0:(["file":"/obj/money/silver","amount":65,]),])
+__flag ""

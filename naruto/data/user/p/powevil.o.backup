@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":49,"dex":31,"str":20,])
+conditions (["apheal1":(["name":"[42m¢Ñ¯Å´£¯«³N[0;2m","duration":14,]),"hpheal1":(["name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m","duration":91,]),"mpheal1":(["name":"[45m¢Ñ¯Å¤Ñ¦a³N[0;2m","duration":10,]),])
+dbase (["time_aged":57874,"guild":"muye","name":"¨¸­·","title":"¤ì¸­§ø§ÔªÌ","gender":"male","pet":(["long":0,"exp":80,"food":580,"mp":350,"name":"§Ô¤ü","hp":350,"title":0,"ap":350,"nickname":0,"level":7,]),"area_info":(["x_axis":13,"y_axis_old":4,"y_axis":4,"x_axis_old":13,]),"birthday":1139564671,"class":"inferior","option":(["map_unfreeze":1,"map_hidden":1,]),"id":"powevil","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/wizard/wizard","score":(["elevel":90,"combat exp":279203,"kills":1407,"survive":15218,]),"bank":1489,"age":39,"level":20,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":99,"animal taming":54,"cell activation":40,"parry":53,"heavy hit":89,"combat":88,"substitute":1,"continual hit":38,"ninja":51,"savage hit":89,])
+learned (["dodge":33808,"animal taming":2856,"cell activation":636,"parry":25652,"heavy hit":2272,"combat":67932,"continual hit":21352,"ninja":11136,"savage hit":2272,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":6,"animal taming":4,"cell activation":3,"parry":6,"heavy hit":5,"combat":5,"continual hit":3,"ninja":3,"savage hit":5,])
+skill_require (["dodge":1000000,"animal taming":14580,"cell activation":8000,"parry":42135,"heavy hit":118815,"combat":116160,"continual hit":21660,"ninja":13005,"savage hit":118815,])
+best_skill "dodge"
+st_maximum (["ap":500,"mp":240,"hp":500,])
+st_current (["ap":429,"mp":240,"hp":500,])
+st_notify (["ap":0,"hp":10,])
+st_point (["skill":0,"attribute":0,"score":0,"learn":112,])
+st_quest (["prize":([4:1,]),"level_e":([1:1,]),"level_d":([1:1,]),])
+autoload ([14:(["file":"/world/area/sneakhole/npc/eq/belt","amount":1,]),13:(["file":"/world/area/sneakhole/npc/eq/belt","amount":1,]),12:(["file":"/world/eq/finger/bronze","amount":1,]),11:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),10:(["file":"/world/drug/hpill","amount":316,]),9:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),8:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),7:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),6:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),5:(["file":"/world/eq/leg/gai","amount":1,]),4:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),3:(["file":"/world/eq/armor/turtle","amount":1,]),2:(["file":"/world/eq/face/fglasses","amount":1,]),1:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),0:(["file":"/world/area/bone/npc/wp/shield","amount":1,]),])
+__flag ""

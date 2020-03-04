@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["m2":"option map_unfreeze 1","sa":"sac corpse","b":"query -eq $*","m1":"option map_unfreeze 0","a":"perform hundred palm.attack on $*","gg":"get all from corpse","id":"identify $*",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1203237591,"last_from":"237.107.232.125","last_on":1204087511,"body":"/obj/user","board_last_read":(["propose":1203136440,"newbie":1136481011,"_MITE_":1188848484,]),"id":"asia","name":"無法無天","time_aged":361115,])
+password "$1$24980623$2QUrFgYjiBI9eWTKAq//S0"
+email "colagod@gmail.com"

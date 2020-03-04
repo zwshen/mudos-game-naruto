@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills",])
+dbase (["time_aged":7910,"id":"braver","name":"Às","board_last_read":(["newbie":1123023896,"wizard":1151395598,"_MITE_":1151039075,"ayumi":1120542699,]),"last_from":"107.58.140.220","last_on":1151754288,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1151684686,])
+password "$1$91205738$kcbI3Ost97lkWxUrRaBsy1"
+email "duckv@pchome.com.tw"

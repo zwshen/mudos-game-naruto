@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w2":"wield green dragon sword as lefthand","g":"get all from corpse $*","0":"kill fly","tunemap":"option map_hidden $*","kw":"kill elf","sa":"sac corpse","rem":"remember $*","p":"perform chamber fish.$*","pp":"score fish","y":"perform frost closed ball.ball on $*","w1":"wield white tiger blade as righthand",])
+dbase (["time_aged":37542769,"creation_time":1209833887,"name":"²öÎA","id":"mogo","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["bug":1246069199,"_MITE_":1188848484,"wizard":1237821516,]),"last_on":1249295940,"last_from":"130.40.130.220",])
+my_body 
+last_age_set 1249295940
+password "$1$19192200$Pk.w34JnFEYOC4KDUtSc30"
+email "@"
+window (["terminal_type":"zmud","width":152,"height":31,])

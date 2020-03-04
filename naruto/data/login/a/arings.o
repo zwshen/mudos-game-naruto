@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sk":"skills","11":"recall start",])
+dbase (["time_aged":503188,"body":"/obj/user","board_last_read":(["_MITE_":1129959390,"wizard":1151395598,]),"name":"Ây¤s½Þ¤H","id":"arings","channels":({"chat","rumor","aucc",}),"last_on":1240689191,"last_from":"238.100.183.124","creation_time":1129947342,])
+my_body 
+last_age_set 1240689189
+password "$1$72954389$kKnVNAFBPKeAKv7u3Zp3m."
+email "pig@acme.tmr"
+window (["terminal_type":"vt100","width":157,"height":34,])

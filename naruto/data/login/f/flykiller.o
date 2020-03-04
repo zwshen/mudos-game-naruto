@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["co":"consider $*","sp":"sac corpse","dt":"deposit $*","ss":"say ©Þ§¹¤F","sg":"say ©Þ¯ó","ww":"withdraw $*","g":"get all from corpse $*","qq":"query $*",])
+dbase (["last_from":"201.63.230.61","channels":({"chat","rumor",}),"creation_time":1130790511,"last_on":1139256896,"name":"¨¸­ß¤E°­","id":"flykiller","body":"/obj/user","time_aged":281384,"board_last_read":(["wizard":1132743373,"chat":1130765657,"bug":1116281566,"propose":1130204695,"newbie":1130565369,]),])
+password "$1$80729906$Jw5BTgv1kljJ3ZpUxzvRI/"
+email "wadesu520stacy@yahoo.com.tw"

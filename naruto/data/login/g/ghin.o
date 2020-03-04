@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":1485,"last_on":1238750631,"body":"/obj/user","id":"ghin","name":"¬P","last_from":"174.69.233.125","creation_time":1149241727,])
+my_body 
+last_age_set 1238750631
+password "$1$46614278$RCjKKgwc4cNP7QnLXrv.6/"
+email "ghin_l@yahoo.com.tw"
+window (["width":80,"freeze":1,"terminal_type":"ANSI","height":25,])

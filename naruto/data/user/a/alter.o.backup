@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":59,"str":21,])
+conditions ([])
+dbase (["birthday":1164427268,"time_aged":79472,"level":20,"bank":19642,"age":23,"race":"human","guild":"hunter","name":"歐特","id":"alter","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/prac6","class":"hxh_initial","gender":"male","score":(["elevel":27,"kills":1906,"survive":4156,"combat exp":180228,]),"title":"念能力者",])
+masters ([])
+apprentices ([])
+skills (["parry":12,"continual hit":23,"heavy hit":65,"fire variation":3,"dodge":18,"savage hit":65,"variation":33,"combat":65,"electric variation":19,])
+learned (["parry":56,"continual hit":476,"heavy hit":48300,"fire variation":30,"dodge":266,"savage hit":48300,"variation":364,"combat":47138,"electric variation":98,])
+skill_map (["combat":"electric variation",])
+skill_flag ([])
+skill_ability (["parry":1,"continual hit":3,"heavy hit":6,"fire variation":1,"dodge":2,"savage hit":6,"variation":8,"combat":6,"electric variation":5,])
+skill_require (["parry":2160,"continual hit":7935,"heavy hit":63375,"fire variation":540,"dodge":4860,"savage hit":63375,"variation":5445,"combat":63375,"electric variation":6000,])
+best_skill "savage hit"
+st_maximum (["ap":500,"mp":400,"hp":340,])
+st_current (["ap":85,"mp":400,"hp":390,])
+st_notify ([])
+st_point (["attribute":0,"skill":2,"score":0,"learn":0,])
+st_quest (["level_d":([1:1,2:1,]),"prize":([4:1,]),"level_e":([2:1,]),])
+autoload ([13:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),12:(["amount":1,"file":"/world/eq/leg/gai",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),10:(["amount":1,"file":"/world/eq/armor/turtle",]),9:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),8:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),7:(["amount":1,"file":"/world/eq/head/rhino-shit",]),6:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),5:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),4:(["amount":1,"file":"/world/area/wild/npc/wp/snake_tooth",]),3:(["amount":1,"file":"/world/area/wild/npc/wp/snake_tooth",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),1:(["amount":1,"file":"/world/eq/finger/silver",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),])
+__flag ""

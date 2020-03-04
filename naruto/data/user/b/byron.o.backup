@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":22,])
+conditions ([])
+dbase (["level":1,"age":18,"race":"human","recoverroom":"/u/a/ayumi/workroom","id":"byron","name":"¦Ð¤H«DâË","class":"commoner","startroom":"/u/a/ayumi/workroom","score":(["kills":16,"survive":30,"combat exp":246,]),"bank":183,"gender":"male","time_aged":8422,"birthday":1161857045,])
+masters ([])
+apprentices ([])
+skills (["combat":1,"parry":1,"dodge":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":32,"ap":80,])
+st_notify (["mp":50,"hp":50,"ap":50,])
+st_point (["skill":2,"score":50,"learn":148,"attribute":0,])
+st_quest ([])
+autoload ([])
+__flag ""

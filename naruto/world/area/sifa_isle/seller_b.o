@@ -1,0 +1,3 @@
+#/world/area/sifa_isle/seller_b.c
+dbase (["long":"¦]¬°¦³¦Û¥H¬°±jªº®ü¸é·|¶]¨Ó°½Å§¥qªk®q¡A¾É­P®ü­x¤h§L­Ì±`¾ß¨ì¤@¨Ç¥Î¤£¤Wªº®ü¸éª««~¡A²´¦yªº°Ó¤H°¨¤W¬Ý·Ç¤F³o­Ó°Ó¾÷¡A¤d¤ß¸U­W³s¦X¤F©Ò¦³°Ó¤H¤½·|¤§«á²×©ó¦b¬F©²ªº¥qªk®q¤W¶}¤F²Ä¤@®a¤]¬O°ß¤@ªº¤@®a¥ÁÀç¾÷ÁÊ¡C","short":"®ü­x·í¾Q","exits":(["south":(["filename":"/world/area/seven_water/sifa.c","y_axis":76,"x_axis":35,]),]),])
+goods ([1:(["file":"/world/area/seven_water/npc/wp/gun","unit":"§â","class":"[41mªZ¾¹[0;2m","name":"®ü­x¨î¦¡ÅK¯¥","id":"iron gun","value":808,"amount":1,]),])

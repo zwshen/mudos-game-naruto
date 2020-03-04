@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all","r":"recall","cc":"consider $*","gc":"get all from corpse",])
+dbase (["last_on":1237547815,"time_aged":32491,"name":"¼C¼v","body":"/obj/user","id":"godsword","channels":({"chat","rumor",}),"board_last_read":(["propose":1237364643,"wizard":1237542015,"bug":1237469174,"_MITE_":1129952893,"newbie":1136481011,"chat":1186466886,]),"creation_time":1237515353,"last_from":"202.118.62.61",])
+my_body 
+last_age_set 1237547814
+password "$1$88411214$AdNEGIFSDihR0mtRLTMXb0"
+email "dd@yy.com"
+window (["terminal_type":"vt100","width":125,"height":48,])

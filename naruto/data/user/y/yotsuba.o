@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":23,"int":24,"dex":25,"str":30,])
+conditions ([])
+dbase (["target_score":(["combat exp":12100,"elevel":1,]),"title":"念能力者","time_aged":25879,"bank":5510,"name":"四葉","gender":"female","class":"hxh_initial","area_info":(["x_axis":22,"y_axis_old":46,"y_axis":46,"x_axis_old":22,]),"birthday":1130481491,"guild":"hunter","age":19,"id":"yotsuba","recoverroom":"/world/area/whale_island/mite_hotel","level":11,"race":"human","startroom":"/world/area/whale_island/area","score":(["survive":590,"combat exp":10283,"elevel":100,"kills":375,]),])
+masters ([])
+apprentices ([])
+skills (["combat":27,"savage hit":26,"dodge":10,"strength":14,"finger-guessing fist":10,"body strength":1,"continual hit":13,"heavy hit":26,"parry":7,])
+learned (["combat":8172,"savage hit":4488,"dodge":48,"strength":624,"finger-guessing fist":24,"heavy hit":4488,"continual hit":672,"parry":696,])
+skill_map (["strength":"body strength",])
+skill_flag ([])
+skill_ability (["combat":3,"savage hit":3,"dodge":2,"strength":3,"finger-guessing fist":1,"body strength":2,"continual hit":2,"heavy hit":3,"parry":1,])
+skill_require (["combat":10935,"savage hit":10140,"dodge":1500,"strength":980,"finger-guessing fist":500,"heavy hit":10140,"continual hit":2535,"parry":735,])
+best_skill "combat"
+st_maximum (["ap":400,"mp":130,"hp":210,])
+st_current (["ap":102,"mp":130,"hp":210,])
+st_notify ([])
+st_point (["attribute":0,"skill":2,"score":50,"learn":452,])
+st_quest (["level_d":([2:1,]),"level_e":([4:1,]),])
+autoload ([17:(["amount":1,"file":"/world/eq/cloth/gray",]),16:(["amount":1,"file":"/world/eq/belt/hoop",]),15:(["amount":1,"file":"/world/eq/armor/turtle",]),14:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),13:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),12:(["amount":1,"file":"/world/item/bag",]),11:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),10:(["amount":4,"file":"/world/area/wild/npc/item/pig_gut",]),9:(["amount":4,"file":"/world/area/wild/npc/item/snake_gall",]),8:(["amount":5,"file":"/world/area/wild/npc/item/snake_egg",]),7:(["amount":12,"file":"/world/area/muye/npc/item/turtle_head",]),6:(["amount":73,"file":"/obj/money/silver",]),5:(["amount":7,"file":"/world/area/whale_island/npc/food/crab_meat",]),4:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),3:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),2:(["amount":1,"file":"/world/eq/cloth/cloth",]),1:(["amount":1,"file":"/world/area/whale_island/npc/eq/rears",]),0:(["amount":1,"file":"/world/wp/dagger",]),])
+__flag ""

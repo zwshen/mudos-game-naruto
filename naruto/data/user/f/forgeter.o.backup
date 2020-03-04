@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":41,"dex":37,"str":22,"con":20,])
+conditions ([])
+dbase (["bank":514402,"guild":"muye","target_score":(["dlevel":0,"combat exp":200000,]),"name":"µæ¥Ê¥¬","birthday":1128512521,"level":20,"age":68,"race":"human","gender":"male","recoverroom":"/world/area/muye/inn","long":"¤@¶ô¥Î¦Ñµ·¥Ê°µ¦¨ªºµæ¥Ê¥¬ put all in bagput all in bag 2put all in bag 3¤@¶ô¥Î¦Ñµ·¥Ê°µ¦¨ªºµæ¥Ê¥¬¬~°û.¨êÁç¤l©Î¬O¥Î¨Ó¥h¨¤½è³£«Ü¦n¥Î³á\\/\\","area_info":(["x_axis":23,"y_axis_old":17,"x_axis_old":23,"y_axis":17,]),"score":(["dlevel":9,"kills":3217,"survive":53276,"combat exp":112175,"elevel":10,]),"startroom":"/world/area/muye/swanlake","wimpy_dir":"east","title":"¤ì¸­§ø§ÔªÌ","id":"forgeter","nickname":"[1;31mºÆ[1;33m¨g[1;32mµæ[1;34m¤M[0;2m","time_aged":38233,"class":"middle",])
+masters ([])
+apprentices ([])
+skills (["cell activation":92,"animal taming":1,"heavy hit":73,"combat":59,"parry":43,"savage hit":73,"magic":1,"hundred palm":1,"thousand year kill":1,"alter ego":1,"continual hit":36,"muye wind":1,"substitute":1,"ninja":40,"double physique":1,"dodge":66,"force":1,])
+learned (["cell activation":30933,"continual hit":1580,"ninja":0,"heavy hit":18505,"dodge":18016,"combat":12180,"parry":25836,"force":0,"savage hit":15009,"magic":0,])
+skill_map (["ninja":"cell activation",])
+skill_flag ([])
+skill_ability (["cell activation":5,"continual hit":2,"ninja":2,"heavy hit":4,"dodge":4,"combat":4,"parry":3,"force":1,"savage hit":4,"magic":1,])
+skill_require (["cell activation":42320,"continual hit":20535,"ninja":8000,"heavy hit":82140,"dodge":67335,"combat":54000,"parry":29040,"force":20,"savage hit":82140,"magic":20,])
+best_skill "cell activation"
+st_maximum (["mp":155,"hp":200,"ap":400,])
+st_current (["mp":155,"hp":350,"ap":440,])
+st_notify (["mp":0,"hp":15,"ap":10,])
+st_point (["learn":18500,"skill":10,"score":485,"attribute":0,])
+st_quest (["mu":([3:2,]),"prize":([9:1,]),])
+autoload ([17:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),16:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),15:(["file":"/world/wp/radish","amount":1,]),14:(["file":"/world/drug/mp_heal","amount":1,]),13:(["file":"/world/eq/leg/gai","amount":1,]),12:(["file":"/world/area/old_forest/npc/eq/necklace","amount":1,]),11:(["file":"/world/eq/finger/bronze","amount":1,]),10:(["file":"/world/eq/cloth/gray","amount":1,]),9:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),8:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),7:(["file":"/world/item/rod","amount":1,]),6:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),5:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),4:(["file":"/world/eq/head/boiler","amount":1,]),3:(["file":"/world/eq/belt/hoop","amount":1,]),2:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),1:(["file":"/world/book/forget","amount":1,]),0:(["file":"/world/drug/hpill","amount":3,]),])
+__flag ""

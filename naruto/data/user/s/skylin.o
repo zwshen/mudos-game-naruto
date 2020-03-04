@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":21,"str":25,"con":24,"int":20,])
+conditions ([])
+dbase (["class":"hxh_initial","level":5,"race":"human","time_aged":37955,"id":"skylin","birthday":1175043569,"name":"»aªÆª~","gender":"male","age":18,"title":"©À¯à¤OªÌ","bank":4412,"startroom":"/world/area/whale_island/school","score":(["survive":260,"kills":138,]),"guild":"hunter",])
+masters ([])
+apprentices ([])
+skills (["continual hit":5,"dodge":5,"combat":16,"parry":8,"heavy hit":4,"savage hit":4,])
+learned (["continual hit":20,"dodge":124,"combat":25,"parry":100,"heavy hit":20,"savage hit":20,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":1,"dodge":1,"combat":1,"parry":1,"heavy hit":1,"savage hit":1,])
+skill_require (["continual hit":125,"dodge":125,"combat":1280,"parry":320,"heavy hit":80,"savage hit":80,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":0,])
+st_notify (["hp":0,])
+st_point (["attribute":0,"skill":4,"score":250,"learn":6,])
+st_quest (["level_d":([2:1,]),"level_e":([3:1,]),])
+autoload ([8:(["file":"/world/eq/belt/belt","amount":1,]),7:(["file":"/world/area/whale_island/npc/eq/rtail","amount":1,]),6:(["file":"/world/item/rod","amount":1,]),5:(["file":"/world/area/whale_island/npc/eq/rears","amount":1,]),4:(["file":"/world/eq/hand/cotton","amount":1,]),3:(["file":"/world/area/wild/npc/eq/wolf_feet","amount":1,]),2:(["file":"/world/area/wild/npc/eq/wolf_fur","amount":1,]),1:(["file":"/world/eq/armor/armor","amount":1,]),0:(["file":"/world/wp/newblade","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/try_little_skill.c":(["killed":(["/world/area/wild/npc/babypig.c":16,"/world/area/wild/npc/smallsnake.c":0,"/world/area/old_forest/npc/monkeyc.c":0,"/world/area/whale_island/npc/rabbit.c":18,"/world/area/wild/npc/smallwolf.c":0,]),"item":([]),]),"/world/quest/search_zhang.c":(["killed":([]),"item":([]),]),"/world/quest/eat_brain.c":(["killed":([]),"item":([]),]),"/world/quest/amulet.c":(["killed":([]),"item":([]),]),"/world/quest/expel_mouse.c":(["killed":(["/world/area/echo/npc/mouse2.c":8,"/world/area/echo/npc/mouse3.c":0,"/world/area/echo/npc/mouse1.c":9,]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/xie.c","/world/quest/new_quest.c","/world/quest/nurture_pig.c",})

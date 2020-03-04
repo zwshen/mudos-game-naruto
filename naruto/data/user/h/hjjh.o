@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["age":18,"race":"human","guild":"hunter","time_aged":8591,"birthday":1167993485,"class":"hxh_initial","name":"無","id":"hjjh","target_score":(["combat exp":100,]),"title":"念能力者","score":(["survive":70,"combat exp":35,]),"gender":"male","level":1,])
+masters ([])
+apprentices ([])
+skills (["combat":5,])
+learned (["combat":230,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":540,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"attribute":2,"score":50,"learn":0,])
+st_quest ([])
+autoload ([])
+__flag ""

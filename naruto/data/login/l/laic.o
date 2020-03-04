@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["aa":"help advance","p":"sac corpse","q":"quest $*","h":"hp","g":"get all from corpse",])
+dbase (["body":"/obj/user","creation_time":1178144751,"last_on":1178184594,"id":"laic","name":"Ãý¨ý","time_aged":6035,"last_from":"127.125.228.61","channels":({"chat","rumor",}),"board_last_read":(["wizard":1115825470,]),])
+password "$1$21903417$D6nLsCMUDt7T7v6PkcZIN."
+email "onlyuvm740903@yahoo.com.tw"

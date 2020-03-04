@@ -1,0 +1,72 @@
+[m[1;44m¢×¢õ¢õ¢÷¢ú¢ü¢é¢ô«ü¥O[m
+cd          ¤Á´«¥Ø«eªº¤u§@¥Ø¿ý
+cdd         ±N¤u§@¥Ø¿ý¤Á´«¦Ü¥Ø«e©Ò¦b¦aÀÉ®×ªº¥Ø¿ý
+edemote     ½s¿èªí±¡«ü¥O
+goto        Àþ¶¡²¾°Ê
+home        ²¾°Ê¦Ü§Å®v¤u§@«Ç
+ls          ¦C¥X¤u§@¥Ø¿ý¤¤ªºÀÉ®×
+mem         ¬d¸ßª«¥ó¦û¥Îªº°O¾ÐÅé¶q
+more        Åã¥ÜÀÉ®×¤º®e
+pwd         Åã¥Ü¥Ø«e¤u§@¥Ø¿ý(cwd)»P¤u§@ÀÉ®×(cwf)
+status      Åã¥Ü¥Ø«e¨t²Îªº²Î­p¸ê®Æ
+value       ±½ºË¤u§@¥Ø¿ý¤Uªºª««~»ù®æ³]©w¬O§_¥¿½T
+where       Åã¥Ü¨¤¦âªº©Ò¦b¦ì¸m
+which       §ä¥X«ü¥O©Ò¦b¥Ø¿ý
+[1;44m¢å¢ñ£C¢é¢ú¢ì«ü¥O[m
+arrest      ¨ú®ø¯S©w´c¦Hª±®aªº«OÅ@
+call        ©I¥sª«¥ó¨ç¦¡
+cat         ª½±µÅª¨ú¬YÀÉ®×¤º®e
+clone       ½Æ»s¥i²¾°Êª««~
+cost        ´ú¶q¤@­Ó«ü¥O°õ¦æ©Ò»Ýªº®É¶¡
+cp          «þ¨©ÀÉ®×
+daemon      ½s¿è¦UºØdaemon
+data        ¬d¸ß¬Yª«¥óªº¸ê®Æ³]©w
+dest        ¾P·´¤@­Óª«¥ó
+edit        ÀÉ®×½s¿è
+ff          ¬d¸ß¬Yª«¥óªº¨ç¦¡©w¸q¦b­þ­ÓÀÉ®×¤¤
+ilist       ¦C¥X¤@­Óª«¥ó©ÒÄ~©Óªº©Ò¦³ª«¥ó
+info        ¬d¸ß¤@¨Ç¦³Ãö¸Óª«¥óªº¸ê°T
+invis       ¥´¶}©ÎÃö³¬§Å®vªºÁô§Î¥\¯à
+localcmds   ¦C¥X§A¨­¤W©Î¥|©Pªºª««~»P©Ò¦bªºÀô¹Ò´£¨Ñªº©Ò¦³«ü¥O
+log         ¥i¥H°O¿ý°T®§¦b¤u§@¥Ø¿ý¤Uªº .ChangeLog ÀÉ®×¸Ì
+mkdir       «Ø¥ß¤@­Ó¤l¥Ø¿ý
+mudlist     ³z¹Lintermud¨ó©w¨ú±oÁpÃ´ªº¨ä¥¦Mud
+mv          ²¾°Ê¤@­ÓÀÉ®×
+ping        ¥Î¨Ó´ú¸Õ»·ºÝªºMUD¬O§_°õ¦æ¤¤
+qload       Åã¥Ü¥Ø«eCPUªº­t¾á
+quiet       ±N¬Y­Óª±®a¸T¨¥
+rm          §R°£ÀÉ®×
+rmdir       §R°£¥Ø¿ý
+sa          °Ï°ì½s¿è«ü¥O
+snoop       ºÊÅ¥¨ä¥¦¨Ï¥ÎªÌ©Ò±µ¦¬¨ìªº°T®§
+summon      ±N¬Y¤H§ì¨ì§A­±«e
+tail        ª½±µÅª¨ú¬YÀÉ®×³Ì¥¼§Àªº´X¦æ
+ulist       ±N½u¤W©Ò¦³ª±®aªº/obj/user numberÅã¥Ü¥X¨Ó
+update      §ó·sÀÉ®×
+userid      ¬d¬Ý¬Yª±®aªºuserid
+whoami      Åã¥Ü§A¥Ø«eªºUID¤ÎEUID
+[1;44m¢Ï¢ú¢ë¢ð«ü¥O[m
+callouts    ¦C¥X©Ò¦³©µ¿ð©I¥sªºµ{¦¡
+chinese     ¤¤¤å¤Æ
+cleanup     ¹ï©Ò¦³«ü©wÀÉ¦Wªºª«¥ó©I¥s clean_up
+force       ±j­¢¬Y¤H°µ¬Y¨Æ
+heal        «ì´_¬Y¤Hªºª¬ºA
+overview    Åã¥Ü¬ÛÃö¥DÃDªº¦Cªí
+possess     ªþ¨­
+promote     §ó§ï¬Y¤HªºÅv­­µ¥¯Å
+purge       §R°£¨Ï¥ÎªÌÀÉ®×
+reboot      ­«·s±Ò°Ê¹CÀ¸
+reclaim     ±N¦s¦b©ó°O¾ÐÅé¸ÌµL¥ÎªºÅÜ¼Æ²M±¼
+rehash      §ó·s¨t²Î¤º³¡ªº«ü¥Oªí
+reset_okip  ¨ú®øª±®a³]©wªºOKIP¸ê®Æ
+restore     ¨ú¦^¤@­Óª±®aªº³Æ¥÷¸ê®Æ
+wizlock     ­­¨î¬Y­Óµ¥¯Å¥H¤Uªº¨Ï¥ÎªÌ¶i¤J¹CÀ¸
+[1;44m¢Ï¢ì¢õ¢ñ¢ö«ü¥O[m
+chpass      ÅÜ§ó¬Y¨Ï¥ÎªÌªº±K½X
+disassemble ¤Ï²ÕÄ¶¿é¥X
+dump        ¶É¦L©Ò¦³ª«¥óªºÀÉ®×¦b®Ú¥Ø¿ýOBJ_DUMPÀÉ¤¤
+profile     ¶É¦L©Ò¦³«ü¥Oªº¨Ï¥Î²v¦b®Ú¥Ø¿ýPROFILEÀÉ¤¤
+renew       ?
+resurrect   Åý¬Y¤H´_¬¡
+shutdown    °¨¤WÃö³¬¹CÀ¸
+socket      ?

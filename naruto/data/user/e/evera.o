@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":2901,"birthday":1133790480,"guild":"muye","class":"inferior","id":"evera","name":"·LÅHºñ¯ù","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/muye/school","score":(["combat exp":0,"survive":10,]),"gender":"female","target_score":(["combat exp":100,]),"bank":0,"age":18,"level":1,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":4,"parry":1,"combat":1,])
+learned (["dodge":170,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,])
+skill_require (["dodge":240,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":0,"score":50,"learn":63,])
+st_quest ([])
+autoload ([])
+__flag ""

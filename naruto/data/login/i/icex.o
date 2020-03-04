@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","c":"consider $*","adv":"advance $*","sac":"sac corpse",])
+dbase (["last_on":1205660268,"channels":({"chat","rumor",}),"creation_time":1204952248,"last_from":"253.39.86.219","signature":"","profile":"q","body":"/obj/user","board_last_read":(["wizard":1201062195,"chat":1186466886,"_MITE_":1151039075,"propose":1205580822,"ayumi":1120542699,"design":1154116971,"newbie":1136481011,]),"name":"¦B¶ô","id":"icex","time_aged":55110,])
+password "$1$90133908$Eo00N1K0zPceC.iRG4xZi/"
+email "icex117@gmail.com"

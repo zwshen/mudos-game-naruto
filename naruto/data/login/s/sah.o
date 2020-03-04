@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ad":"aucc 賣天地書, 一套10o, 5套以上9折","sk":"skills $*","bal":"balance",])
+dbase (["last_on":1132761322,"channels":({"chat","rumor","music","aucc",}),"last_from":"181.199.92.61","creation_time":1132453889,"id":"sah","name":"獵櫻","body":"/obj/user","time_aged":49595,])
+password "$1$61193483$cp5mjtE3B23583a3naVeb."
+email "a@b.c"

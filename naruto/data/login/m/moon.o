@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills","fi":"fight $*","g":"get all from corpse","ph":"perform force.hin on $*",])
+dbase (["time_aged":3169361,"last_on":1143973104,"id":"moon","name":"¼v¤ë","board_last_read":(["bug":1143259045,"newbie":1136481011,"chat":1143174206,"wizard":1143254649,"_MITE_":1131786296,"propose":1141838792,]),"profile":"","last_from":"10.123.217.61","body":"/obj/user","channels":({"chat","rumor",}),"signature":"","creation_time":1132703468,])
+password "$1$28037575$8l7/18VHokw9m3PZA7..w0"
+email "@"

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":30,"dex":30,"str":30,])
+conditions ([])
+dbase (["time_aged":56734,"cwd":"/daemon/skill/hxh/variation/","name":"©_","birthday":1128178855,"vendetta":(["bandit":1,]),"nickname":"[1;37m®æª«¦Üª¾[0;2m","guild":"hunter","class":"hxh_initial","gender":"male","option":(["map_through":1,"map_unfreeze":1,]),"cwf":"/daemon/skill/hxh/variation/ice_variation.c","recoverroom":"/u/t/tmr/workroom","startroom":"/u/t/tmr/workroom","score":(["kills":11,"combat exp":1600,"elevel":3,"survive":6808,]),"level":5,"race":"human","age":29,"target_score":(["combat exp":2500,]),"id":"tmr","bank":870,"title":"[1;37mÂy¤H¤j®v[0;2m",])
+masters ([])
+apprentices ([])
+skills (["harm touch":200,"combat":99,"savage hit":199,"fire variation":100,"parry":40,"operation":80,"heavy hit":199,"body strength":100,"emit":40,"dragon-strike":199,"hxh_initial":0,"variation":100,"blood-cell revive":60,"special":200,"continual hit":199,"strength":100,"ice variation":100,"holy hand":25,"solid":100,"dodge":40,"finger-guessing fist":200,"middle":0,"psychical bullet":100,])
+learned ([])
+skill_map (["combat":"ice variation","operation":"blood-cell revive","emit":"psychical bullet","special":"harm touch","strength":"body strength","parry":"solid",])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":9999,"ap":1000,"mp":1000,])
+st_current (["hp":10049,"ap":779,"mp":1000,])
+st_notify ([])
+st_point (["attribute":10,"skill":10,"score":250,"learn":762,])
+st_quest (["mu":([5:1,4:1,3:1,2:1,]),"level_e":([4:1,]),])
+autoload ([9:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),8:(["amount":1,"file":"/world/area/whale_island/npc/wp/spider-leg-wp",]),7:(["amount":1,"file":"/u/t/tmr/ch_viewer",]),6:(["amount":1,"file":"/obj/roommaker",]),5:(["amount":1,"file":"/world/item/dice",]),4:(["amount":1,"file":"/u/a/acme/title",]),3:(["amount":1,"file":"/world/item/rod",]),2:(["amount":1,"file":"/world/area/whale_island/npc/eq/rears",]),1:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),0:(["amount":1,"file":"/world/area/whale_island/npc/eq/underpants",]),])
+__flag ""

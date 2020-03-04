@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["9":"get all from corpse","7":"get all","00":"perform animal taming.call","1":"sac corpse","11":"eat essence","000":"perform animal taming.leave","99":"train force from si for 50","0":"score",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1179465961,"signature":"","last_from":"193.99.229.125","last_on":1198840669,"body":"/obj/user","name":"¥d¥d¦è","id":"kakasi","board_last_read":(["design":1154116971,"tmr":1174093857,"_MITE_":1188848484,"propose":1178173271,"ayumi":1120542699,"bug":1182507332,"byron":1177702512,"wizard":1177493711,"newbie":1136481011,"chat":1175828718,"acme":1176111412,]),"time_aged":8022385,"profile":"   Ç_ Ç_    ÇU ÇU \\\\  ¡ý Çi     ¢BÇ_  ¢A    ¢¢¢w¢£",])
+password "$1$56408782$iVAYYsNv7/fINFNlCnj841"
+email "chfn"

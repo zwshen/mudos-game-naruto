@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["race":"human","age":19,"time_aged":3249,"guild":"muye","startroom":"/world/area/wizard/newbie","class":"inferior","name":"¸ë­×","id":"hero","bank":102,"title":"¤ì¸­§ø§ÔªÌ","score":(["elevel":0,"combat exp":10469,"survive":440,]),"gender":"male","target_score":(["elevel":1,"combat exp":12100,]),"birthday":1128741393,"level":11,])
+masters ([])
+apprentices ([])
+skills (["combat":28,"dodge":1,"continual hit":1,"parry":1,"heavy hit":25,"savage hit":25,])
+learned (["combat":530,"dodge":20,"parry":20,"heavy hit":6060,"savage hit":6060,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,"dodge":1,"continual hit":1,"parry":1,"heavy hit":2,"savage hit":2,])
+skill_require (["combat":11760,"dodge":20,"parry":20,"heavy hit":9375,"savage hit":9375,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":13,"score":550,"learn":1100,"attribute":22,])
+st_quest ([])
+autoload ([1:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),0:(["amount":1,"file":"/world/eq/belt/hoop",]),])
+__flag ""

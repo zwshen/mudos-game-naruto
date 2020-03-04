@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":51885,"title":"木葉村忍者","recoverroom":"/world/area/muye/inn","startroom":"/world/area/muye/inn","name":"風中的小草","id":"crd","guild":"muye","score":(["kills":8,"elevel":7,"combat exp":374,"survive":280,]),"age":18,"gender":"female","level":2,"race":"human","class":"inferior","birthday":1142144402,"bank":39,"target_score":(["combat exp":400,]),])
+masters ([])
+apprentices ([])
+skills (["combat":9,"dodge":7,"parry":1,])
+learned (["combat":960,"dodge":550,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":3,"dodge":1,])
+skill_require (["combat":1215,"dodge":735,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":18,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"score":100,"learn":30,"attribute":2,])
+st_quest ([])
+autoload ([3:(["amount":1,"file":"/world/wp/radish",]),2:(["amount":1,"file":"/world/eq/cloth/cloth",]),1:(["amount":1,"file":"/world/eq/cloth/cloth",]),0:(["amount":46,"file":"/obj/money/silver",]),])
+__flag ""

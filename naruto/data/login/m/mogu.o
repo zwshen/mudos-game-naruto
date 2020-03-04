@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w2":"wield shield sword as lefthand","ke":"kill elf","w3":"wield rod as righthand","g":"get all from corpse","he":"perform holy hand.healing on $*","pd":"perform dragon-head draw.summon on $*","tunemap":"option map_hidden $*","rem":"remember $*","sa":"sac corpse","p":"perform change ability.change $*","pp":"perform dragon-head draw.summon on $*","y":"perform harm touch.harming on $*","w1":"wield gao yuan sword as righthand",])
+dbase (["time_aged":14367144,"creation_time":1234857780,"id":"mogu","name":"­¯©t","body":"/obj/user","channels":({"chat","rumor","aucc","news","war",}),"board_last_read":(["bug":1246069199,"propose":1245913026,"wizard":1239465932,]),"last_on":1248492680,"last_from":"248.64.161.118",])
+my_body 
+last_age_set 1249224893
+password "$1$29169341$sXmdyI1J6GOhjRhGb3xZM0"
+email "@"
+window (["terminal_type":"zmud","width":152,"height":31,])

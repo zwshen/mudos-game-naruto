@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":201,"body":"/obj/user","creation_time":1238742983,"name":"³¬","id":"bemusic",])
+my_body 
+last_age_set 1238743122
+password "$1$55393144$tIm3c13QjJjBj9yyQX/Ga/"
+email "loert7@yahoo.com.tw"
+window (["freeze":1,"width":80,"terminal_type":"ANSI","height":25,])

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":267,"title":"獵人考生","startroom":"/world/area/whale_island/school","name":"雅美蝶","id":"yameida","guild":"hunter","age":18,"gender":"female","level":1,"race":"human","class":"commoner","birthday":1142483780,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":2,"score":50,"learn":100,"attribute":2,])
+st_quest ([])
+autoload ([0:(["amount":1,"file":"/world/area/whale_island/npc/item/hunter_exam",]),])
+__flag ""

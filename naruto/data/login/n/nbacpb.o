@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["id":"identify $*","g":"get all from corpse",])
+dbase (["last_from":"2.225.64.61","channels":({"chat","rumor",}),"time_aged":11230,"last_on":1238085237,"creation_time":1137323474,"board_last_read":(["newbie":1136481011,]),"body":"/obj/user","name":"¤p³Ç","id":"nbacpb",])
+my_body 
+last_age_set 1238085235
+password "$1$44270921$nXANqSDHplIwy3lcg.0iN0"
+email "@"
+window (["terminal_type":"vt100","width":157,"height":47,])

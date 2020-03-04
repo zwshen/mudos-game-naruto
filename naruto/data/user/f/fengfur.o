@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":21,"str":21,"con":20,])
+conditions ([])
+dbase (["startroom":"/world/area/muye/ai","level":1,"race":"human","age":18,"name":"­·©Ø","id":"fengfur","birthday":1134149981,"guild":"muye","class":"commoner","bank":200,"gender":"male","title":"¤ì¸­§ø¦¨­û","score":(["combat exp":42,"elevel":2,"survive":30,]),"time_aged":6637,])
+masters ([])
+apprentices ([])
+skills (["parry":1,"dodge":5,"combat":6,])
+learned (["dodge":50,"combat":110,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":375,"combat":540,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["learn":0,"skill":0,"attribute":0,"score":50,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

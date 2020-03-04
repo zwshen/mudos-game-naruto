@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":50,])
+conditions ([])
+dbase (["time_aged":3853,"title":"¤ì¸­§ø§ÔªÌ","name":"¬ü¯½ºü","guild":"muye","gender":"female","birthday":1140449213,"class":"inferior","bank":118569,"target_score":(["elevel":5,"combat exp":22500,]),"area_info":(["x_axis":19,"y_axis_old":15,"y_axis":15,"x_axis_old":19,]),"startroom":"/world/area/muye/swanlake","id":"misao","score":(["elevel":5,"combat exp":20396,"survive":7195,]),"age":30,"level":15,"race":"human",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":630,"mp":80,"hp":80,])
+st_current (["ap":630,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":30,"score":200,"learn":1500,"attribute":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([10:(["amount":62,"file":"/world/item/fish5",]),9:(["amount":70,"file":"/world/item/fish3",]),8:(["amount":53,"file":"/world/item/fish1",]),7:(["amount":74,"file":"/world/item/fish2",]),6:(["amount":51,"file":"/world/item/fish4",]),5:(["amount":61,"file":"/world/item/fish6",]),4:(["amount":1,"file":"/world/wp/radish",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),2:(["amount":1,"file":"/world/eq/face/fglasses",]),1:(["amount":1,"file":"/world/eq/belt/hoop",]),0:(["amount":1,"file":"/world/item/rod",]),])
+__flag ""

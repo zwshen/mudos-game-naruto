@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["con":"consider $*","sa":"sac corpse","gg":"get all from corpse","id":"identify $*",])
+dbase (["last_on":1204866670,"channels":({"chat","rumor",}),"creation_time":1204047146,"last_from":"53.85.91.219","body":"/obj/user","name":"жук∙","id":"amer","time_aged":151820,])
+password "$1$94355403$7Tz6lA0MkgokgDuFmM7/4."
+email "zjh0511@yahoo.com.tw"

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":25,"int":23,"dex":23,"str":21,])
+conditions ([])
+dbase (["time_aged":50263,"level":6,"age":21,"race":"human","guild":"muye","name":"¤p§Ô","gender":"male","target_score":(["combat exp":3600,]),"title":"¤ì¸­§ø§ÔªÌ","birthday":1146203736,"bank":73688,"id":"sca","option":([]),"startroom":"/world/area/muye/bank","class":"inferior","score":(["elevel":4,"kills":191,"survive":1725,"combat exp":3035,]),"nickname":"[45m[1;36m¦Û¤vªº§Ô¹D~*[0;2m",])
+masters ([])
+apprentices ([])
+skills (["savage hit":13,"parry":14,"continual hit":9,"heavy hit":13,"combat":14,"dodge":18,])
+learned (["savage hit":1469,"parry":1027,"continual hit":663,"heavy hit":1469,"combat":234,"dodge":3367,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":1,"parry":2,"continual hit":1,"heavy hit":1,"combat":2,"dodge":2,])
+skill_require (["savage hit":2940,"parry":3375,"continual hit":1500,"heavy hit":2940,"combat":3375,"dodge":5415,])
+best_skill "dodge"
+st_maximum (["ap":200,"mp":130,"hp":150,])
+st_current (["ap":94,"mp":130,"hp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":3,"score":60,"learn":906,])
+st_quest ([])
+autoload ([])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":30,])
+conditions ([])
+dbase (["target_score":(["elevel":2,"combat exp":14400,]),"title":"木葉村忍者","birthday":1149320655,"time_aged":84085,"bank":1130,"guild":"muye","age":33,"name":"提亞斯","id":"isaac","level":12,"race":"human","startroom":"/world/area/whale_island/prac8","gender":"male","score":(["survive":12021,"combat exp":13506,"elevel":11,"kills":1,]),"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["combat":28,"savage hit":37,"dodge":41,"heavy hit":37,"continual hit":18,"parry":40,])
+learned (["combat":20,"savage hit":340,"dodge":14710,"continual hit":3090,"heavy hit":340,"parry":8020,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":3,"savage hit":3,"dodge":3,"heavy hit":3,"continual hit":2,"parry":3,])
+skill_require (["combat":11760,"savage hit":20535,"dodge":25215,"continual hit":4860,"heavy hit":20535,"parry":24000,])
+best_skill "dodge"
+st_maximum (["ap":200,"mp":80,"hp":80,])
+st_current (["ap":17,"mp":80,"hp":13,])
+st_notify ([])
+st_point (["attribute":14,"skill":7,"score":480,"learn":400,])
+st_quest (["level_d":([2:1,]),"level_e":([3:1,4:1,]),])
+autoload ([6:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_head",]),5:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),3:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),2:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),1:(["amount":1,"file":"/world/wp/radish",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["mm2":"option map_unfreeze 1","ma1":"option map_hidden 0","ch":"charge $*","mm1":"option map_unfreeze 0","0":"perform muscle tank.attack on $*","9":"perform double physique.dp","wg1":"wield gao yuan sword","id":"identify $*","sa":"sac corpse","lc":"look corpse","ma2":"option map_hidden 1","wg2":"wield gao yuan sword 2 as lefthand","ge":"get all from corpse","ge2":"get broom from corpse",])
+dbase (["last_from":"50.110.59.210","time_aged":13933178,"creation_time":1190040063,"last_on":1247204983,"board_last_read":(["tmr":1234463389,"_MITE_":1241331390,"bug":1246069199,"propose":1240917122,"acme":1240128067,"wizard":1239465932,]),"body":"/obj/user","name":"ªüªÜ©Ô","id":"afra","channels":({"chat","rumor","aucc","war","news",}),])
+my_body 
+last_age_set 1247256249
+password "$1$94316611$DwKjIwfb2hqIVLRQgCSi50"
+email "afra@.w.w.w.w"
+window (["terminal_type":"vt100","width":125,"height":46,])

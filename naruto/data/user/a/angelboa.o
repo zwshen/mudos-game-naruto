@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":21,"int":21,"dex":23,"str":25,])
+conditions ([])
+dbase (["time_aged":20332,"name":"天使寶兒","guild":"muye","birthday":1130500282,"class":"inferior","gender":"female","startroom":"/world/area/wizard/prac5","score":(["combat exp":2815,"kills":10,"survive":90,]),"level":6,"race":"human","age":18,"target_score":(["combat exp":3600,]),"id":"angelboa","bank":116,"title":"木葉村忍者",])
+masters ([])
+apprentices ([])
+skills (["combat":18,"heavy hit":11,"dodge":3,"continual hit":10,"savage hit":11,"parry":2,])
+learned (["combat":1100,"heavy hit":750,"dodge":70,"continual hit":1050,"savage hit":750,"parry":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,"heavy hit":1,"dodge":1,"continual hit":1,"savage hit":1,"parry":1,])
+skill_require (["combat":4860,"heavy hit":1815,"dodge":135,"continual hit":1500,"savage hit":1815,"parry":60,])
+best_skill "combat"
+st_maximum (["hp":80,"ap":330,"mp":80,])
+st_current (["hp":80,"ap":3,"mp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":5,"score":50,"learn":116,])
+st_quest ([])
+autoload ([2:(["amount":1,"file":"/world/wp/radish",]),1:(["amount":1,"file":"/world/eq/belt/cord",]),0:(["amount":47,"file":"/obj/money/silver",]),])
+__flag ""

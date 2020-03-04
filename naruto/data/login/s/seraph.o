@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ch":"charge $*","gi":"give $1 $2","f":"finger $*","mapfu":"option map_unfreeze 1","mapfr":"option map_unfreeze 0","tr":"train $1 from $2","ig":"ignore $*","gg":"get $1 from $2","pt":"put $1 in $2","trr":"train $1 from $2 for $3","lc":"look corpse","pb":"put $* in bag","rm":"remember $*","sa":"sac corpse","ee":"enable $*","ad":"advance $*","en":"enable $1 with $2","gofc":"get all from corpse $*","ide":"identify $*","re":"recall $*","bb":"buy $1 from $2","fo":"follow $*","gc":"get $1 from corpse $2","c":"consider $*","mv":"move $*",])
+dbase (["body":"/obj/user","last_on":1179000055,"creation_time":1151511536,"name":"¤»Ál¤Ñ¨Ï","id":"seraph","time_aged":61432,"last_from":"135.78.228.61","channels":({"chat","rumor",}),"board_last_read":(["_MITE_":1170658966,"wizard":1175357048,"propose":1172363532,"bug":1176750634,"newbie":1136481011,]),])
+password "$1$52757753$k7K5pjNiS9KNjLL24iZUJ/"
+email "sera@gmail.com"

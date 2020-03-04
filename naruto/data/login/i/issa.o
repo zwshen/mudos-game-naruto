@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["f11":"perform heal buff.heal on $1","yyy":"exp","yyyy":"finger issassdisod","q1":"perform double physique.dp","9":"move $1","ber":"remember $1","1":"eat chicken","q2":"perform four foot.beast","hp222":"hp","迷宮之石槍":"ＥＥＥＷＷＳＥＮＥＥＥＮＷＳ","7":"perform animal taming.feed $*","f3":"perform muscle tank.attack on $1","cons":"consider $1","x":"get all from corpse","2":"eat manto","lber":"remember","chat":"chat* 隨手就把桌子翻倒 (/>.<)/  ┴┴ .陰沈的說﹕【$*】","z":"sac corpse","yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy":"finger issasssssssssssssssssss","3":"eat tea",])
+dbase (["time_aged":33614605,"creation_time":1128354913,"name":"偷心‧盜香帥","id":"issa","channels":({"chat","aucc","rumor","war","news",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1240917122,"ayumi":1120542699,"acme":1234338310,"chat":1237659377,"bug":1244282072,"tmr":1234463389,"byron":1177702512,"design":1154116971,"wizard":1239465932,]),"last_on":1248798946,"last_from":"54.235.104.59",])
+my_body 
+last_age_set 1249298024
+password "$1$14757361$.0i4xIW0//3QEiqquccg01"
+email "fooook2001@yahoo.com.tw"
+window (["terminal_type":"ZMUD","width":156,"height":41,])

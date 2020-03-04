@@ -1,0 +1,79 @@
+[Mar 20 01:41:15]u/b/byron/workroom.c line 15: parse error
+[Mar 20 01:42:00]u/b/byron/workroom.c line 15: parse error
+[Mar 20 01:43:33]u/b/byron/workroom.c line 14: parse error
+[Mar 20 01:53:47]u/b/byron/workroom.c line 18: parse error
+[Mar 20 01:53:59]u/b/byron/workroom.c line 18: parse error
+[Mar 20 14:06:25]u/b/byron/npc/bird.c line 19: Undefined function add_money
+[Mar 20 22:57:05]u/b/byron/workroom.c line 15: parse error
+[Mar 20 22:57:28]u/b/byron/workroom.c line 15: parse error
+[Mar 21 13:07:43]u/b/byron/test/lsword.c line 1: parse error
+[Mar 21 16:45:44]u/b/byron/test/bigpill.c line 2: parse error
+[Mar 21 16:49:32]u/b/byron/test/bigpill.c line 2: parse error
+[Mar 21 16:50:29]u/b/byron/test/bigpill.c line 2: parse error
+[Mar 21 16:51:08]u/b/byron/test/bigpill.c line 11: parse error
+[Mar 21 16:51:13]u/b/byron/test/bigpill.c line 11: parse error
+[Mar 21 16:53:27]u/b/byron/test/bigpill.c line 14: parse error
+[Mar 21 22:51:47]u/b/byron/npc/child.c line 8: parse error
+[Mar 25 19:50:43]u/b/byron/evil/npc/mage-king.c line 7: parse error
+[Mar 25 19:51:19]u/b/byron/evil/npc/mage-king.c line 7: Undefined function set_title
+[Mar 25 19:56:38]u/b/byron/evil/npc/mage-king.c line 7: Undefined function set_title
+[Mar 25 21:53:43]u/b/byron/evil/npc/mage-king.c line 6: Undefined function set_age
+[Mar 26 23:53:52]u/b/byron/goldeq/waist.c line 10: Undefined function setup_armor
+[Mar 27 00:04:37]u/b/byron/goldeq/gloves.c line 10: Undefined function setup_finger_eq
+[Mar 27 01:10:56]u/b/byron/goldeq/sword.c line 13: parse error
+[Mar 28 01:27:01]u/b/byron/evil/npc/ba.c line 14: Undefined variable '__DIR__EQ_'
+[Mar 28 01:27:01]u/b/byron/evil/npc/ba.c line 14: parse error
+[Mar 28 01:29:41]u/b/byron/evil/npc/ba.c line 14: Undefined variable '__DIR__EQ_'
+[Mar 28 01:29:41]u/b/byron/evil/npc/ba.c line 14: parse error
+[Mar 28 01:37:23]u/b/byron/evil/npc/ba.c line 14: parse error
+[Mar 28 01:37:23]u/b/byron/evil/npc/ba.c line 16: End of file in string
+[Mar 28 02:04:10]u/b/byron/evil/npc/eq/pike.c line 13: parse error
+[Apr 23 13:45:40]u/b/byron/evil/shop.c line 9: parse error
+[May 14 23:11:59]u/b/byron/test/horse.c line 3: parse error
+[May 31 19:35:35]u/b/byron/skyclub/area.c line 3: Undefined function set
+[May 31 19:35:35]u/b/byron/skyclub/area.c line 6: Undefined function setup
+[Jun 13 17:14:43]u/b/byron/test/testpike.c line 4: parse error
+[Jun 13 17:17:29]u/b/byron/test/testpike.c line 28: Undefined function init_fork
+[Jun 13 17:17:29]u/b/byron/test/testpike.c line 116: No such inherited function ::attack
+[Jun 13 17:19:33]u/b/byron/test/testpike.c line 26: Undefined function init_fork
+[Jun 13 17:19:33]u/b/byron/test/testpike.c line 102: No such inherited function ::attack
+[Jun 20 02:32:37]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:32:40]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:33:35]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:33:36]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:33:37]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:33:40]u/b/byron/workroom.c line 16: parse error
+[Jun 20 02:33:50]u/b/byron/workroom.c line 16: parse error
+[Jun 25 00:39:25]u/b/byron/evil/npc/ba.c line 27: Wrong number of arguments to set_skills
+    Expected: 1  Got: 2
+[Jun 25 00:39:25]u/b/byron/evil/npc/ba.c line 28: parse error
+[Jun 25 13:23:32]u/b/byron/evil/npc/ba.c line 34: parse error
+[Jun 25 13:25:32]u/b/byron/evil/npc/ba.c line 28: parse error
+[Jun 27 00:45:06]u/b/byron/workroom.c line 6: Undefined function set
+[Jun 27 00:45:06]u/b/byron/workroom.c line 19: Undefined function setup
+[Jun 27 00:45:06]u/b/byron/workroom.c line 28: No such inherited function ::valid_leave
+[Jun 27 00:45:06]u/b/byron/workroom.c line 53: Redeclaration of function create.
+[Jun 27 00:45:06]u/b/byron/workroom.c line 61: Redeclaration of function valid_leave.
+[Jun 27 00:45:10]u/b/byron/workroom.c line 6: Undefined function set
+[Jun 27 00:45:10]u/b/byron/workroom.c line 19: Undefined function setup
+[Jun 27 00:45:10]u/b/byron/workroom.c line 28: No such inherited function ::valid_leave
+[Jun 27 00:45:10]u/b/byron/workroom.c line 53: Redeclaration of function create.
+[Jun 27 00:45:10]u/b/byron/workroom.c line 61: Redeclaration of function valid_leave.
+[Jun 27 00:45:20]u/b/byron/workroom.c line 6: Undefined function set
+[Jun 27 00:45:20]u/b/byron/workroom.c line 19: Undefined function setup
+[Jun 27 00:45:20]u/b/byron/workroom.c line 28: No such inherited function ::valid_leave
+[Jun 27 00:45:20]u/b/byron/workroom.c line 53: Redeclaration of function create.
+[Jun 27 00:45:20]u/b/byron/workroom.c line 61: Redeclaration of function valid_leave.
+[Jun 27 00:46:02]u/b/byron/workroom.c line 5: Undefined function set
+[Jun 27 00:46:02]u/b/byron/workroom.c line 18: Undefined function setup
+[Jun 27 00:46:02]u/b/byron/workroom.c line 27: No such inherited function ::valid_leave
+[Jun 27 00:48:13]u/b/byron/workroom.c line 5: Undefined function set
+[Jun 27 00:48:13]u/b/byron/workroom.c line 18: Undefined function setup
+[Jun 27 00:48:13]u/b/byron/workroom.c line 27: No such inherited function ::valid_leave
+[Jun 27 19:05:50]u/b/byron/npc/bchild.c line 9: parse error
+[Aug  7 00:13:39]u/b/byron/test/horse.c line 3: parse error
+[Aug  7 00:19:35]u/b/byron/test/horse.c line 3: parse error
+[Aug  7 00:20:43]u/b/byron/test/horse.c line 3: parse error
+[Sep 27 00:55:17]u/b/byron/skyclub/area01.c line 12: parse error
+[Sep 27 00:56:24]u/b/byron/skyclub/area01.c line 12: parse error
+[Sep 27 00:56:30]u/b/byron/skyclub/area01.c line 12: parse error

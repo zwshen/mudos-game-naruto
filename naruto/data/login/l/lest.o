@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["-":"id here","tt":"team talk $*",";":"reply $*","gc":"get all from corpse $*","con":"consider $*","tr":"transfer $*",])
+dbase (["body":"/obj/user","time_aged":230726,"name":"©Ô´µ","id":"lest","last_from":"84.86.68.203","last_on":1177153586,"board_last_read":(["_MITE_":1142224362,"tmr":1137496925,]),"channels":({"chat","rumor","aucc","music","news",}),"creation_time":1137394662,])
+password "$1$59615606$X/teOjultCDA8xMXoamdP."
+email "have0204@yahoo.com.tw"

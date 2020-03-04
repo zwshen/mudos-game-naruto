@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills","adv":"advance $*","ac":"advance check","idf":"identify $*",])
+dbase (["last_on":1210596806,"channels":({"chat","rumor",}),"creation_time":1174000123,"last_from":"50.18.203.123","body":"/obj/user","name":"§O¦è¤R","id":"beelzebub","time_aged":2597,])
+password "$1$68854155$RAsX6pTavX91KopVMuvnM0"
+email "a@b.c"

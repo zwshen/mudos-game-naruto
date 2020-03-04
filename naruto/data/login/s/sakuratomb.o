@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["view":"identify $*","id":"identify $*","1":"perform ninja.leave","ofm":"option map_hidden 1","tr1":"train cell activation from ka for $*","3":"perform ninja.state","lc":"look corpse $*","2":"perform ninja.call","4":"perform ninja.feed $*","ca":"perform cell activation.ca","om":"option map_hidden 0","adv":"advance $*","tr":"train $* from ka for 1000","g":"get all from corpse","bal":"balance","tr2":"train double physique from ka for $*","sk":"skills $*","f":"fight $*",])
+dbase (["board_last_read":(["_MITE_":1188848484,"bug":1176111297,"newbie":1173805427,"propose":1205580822,"wizard":1185607006,"chat":1130765657,]),"time_aged":2786583,"last_from":"182.19.203.123","name":"Äå¶ï¬P¥v­¦","body":"/obj/user","last_on":1235801219,"id":"sakuratomb","channels":({"chat","rumor","news","music","aucc",}),"creation_time":1128852556,])
+my_body 
+last_age_set 1235801218
+password "$1$66697481$XF6IW2KxMIrwwtwIQzN/.0"
+email "a@b.c"
+window (["terminal_type":"zmud","width":125,"height":54,])

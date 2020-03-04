@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["dp":"deposit $* silver","w2":"wield $* as twohanded","gc":"get all from corpse $*","e1":"eat essence","cn":"consider $*","wl":"wield $* as lefthand","b":"balance","pp":"perform finger-guessing fist.•€¿Y","go":"transfer $*","sacc":"sac corpse $*","wr":"wield $* as righthand",])
+dbase (["last_on":1208850492,"channels":({"chat","rumor",}),"creation_time":1206312624,"last_from":"9.1.124.122","body":"/obj/user","board_last_read":(["wizard":1188324980,"design":1154116971,"newbie":1136481011,"chat":1173201010,"propose":1139745280,"_MITE_":1151039075,"byron":1174327632,]),"name":"∞a§l","id":"shanth","time_aged":29257,])
+password "$1$37909493$oao6/kmigRo3HTy.Nll.e0"
+email "uygunlin@yahoo.com.tw"

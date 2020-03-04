@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":40,])
+conditions (["hpheal1":(["duration":10,"name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m",]),"apheal2":(["duration":32,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":10244,"level":10,"race":"human","age":20,"guild":"hunter","name":"¶ë©Ô","startroom":"/world/area/wild/wild","gender":"female","target_score":(["combat exp":10000,]),"title":"©À¯à¤OªÌ","area_info":(["x_axis":3,"y_axis_old":7,"x_axis_old":3,"y_axis":7,]),"birthday":1163864054,"bank":34477,"id":"sera","class":"hxh_initial","score":(["elevel":93,"kills":1293,"survive":1347,"combat exp":8469,]),])
+masters ([])
+apprentices ([])
+skills (["parry":21,"heavy hit":26,"continual hit":19,"finger-guessing fist":20,"dodge":25,"savage hit":26,"solid":20,"combat":22,"strength":15,"body strength":15,])
+learned (["parry":3278,"continual hit":2046,"heavy hit":3498,"finger-guessing fist":550,"dodge":7018,"savage hit":3498,"solid":66,"combat":5643,"body strength":0,"strength":0,])
+skill_map (["parry":"solid","combat":"finger-guessing fist","strength":"body strength",])
+skill_flag ([])
+skill_ability (["parry":2,"continual hit":2,"heavy hit":2,"finger-guessing fist":3,"dodge":2,"savage hit":2,"solid":2,"combat":2,"strength":1,"body strength":1,])
+skill_require (["parry":6615,"continual hit":5415,"heavy hit":10140,"finger-guessing fist":2000,"dodge":9375,"savage hit":10140,"solid":2000,"combat":7260,"body strength":1125,"strength":1125,])
+best_skill "savage hit"
+st_maximum (["ap":230,"mp":180,"hp":130,])
+st_current (["ap":220,"mp":164,"hp":144,])
+st_notify (["ap":8,"hp":10,])
+st_point (["skill":1,"attribute":0,"score":200,"learn":19,])
+st_quest ([])
+autoload ([13:(["amount":1,"file":"/world/broom/broom",]),12:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_tail",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),9:(["amount":1,"file":"/world/eq/head/rhino-shit",]),8:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),7:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),6:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),5:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),4:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),3:(["amount":1,"file":"/world/item/rod",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),1:(["amount":11,"file":"/world/drug/apill3",]),0:(["amount":8,"file":"/world/area/whale_island/npc/food/crab_meat",]),])
+__flag ""

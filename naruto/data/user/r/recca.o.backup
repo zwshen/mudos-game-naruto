@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":40,"str":20,"con":20,])
+conditions ([])
+dbase (["level":11,"startroom":"/world/area/wizard/prac8","race":"human","age":21,"name":"¯P¤õ","id":"recca","birthday":1133986941,"guild":"muye","class":"inferior","gender":"male","bank":10613,"target_score":(["combat exp":12100,"elevel":1,]),"title":"¤ì¸­§ø§ÔªÌ","time_aged":55240,"score":(["combat exp":46212,"elevel":0,"survive":1688,"kills":222,]),])
+masters ([])
+apprentices ([])
+skills (["parry":6,"dodge":10,"heavy hit":44,"savage hit":44,"combat":45,"continual hit":1,])
+learned (["parry":180,"dodge":540,"heavy hit":3570,"savage hit":3570,"combat":6650,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":3,"dodge":3,"heavy hit":4,"savage hit":4,"combat":5,"continual hit":3,])
+skill_require (["parry":540,"dodge":1500,"heavy hit":29040,"savage hit":29040,"combat":30375,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":69,])
+st_notify ([])
+st_point (["learn":1861,"skill":0,"score":550,"attribute":2,])
+st_quest (["level_e":([1:1,]),])
+autoload ([0:(["file":"/world/eq/cloth/cloth","amount":1,]),])
+__flag ""

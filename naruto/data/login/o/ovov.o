@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ap":"apprentice","adv":"advance $1","tr":"train $1 from ka for $2","sa":"sac corpse","ke":"keep $1","sk":"skills","ga":"get all from corpse",])
+dbase (["time_aged":20404,"last_on":1146936558,"id":"ovov","name":"ª÷¤ì¤ô¤õ¤g","last_from":"201.38.86.219","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1143736263,])
+password "$1$63734846$R3NCheKj3De5E5znT3dp5."
+email "abc@abc.com"

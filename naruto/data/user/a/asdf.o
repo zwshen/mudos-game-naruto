@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["target_score":(["combat exp":100,]),"title":"念能力者","time_aged":74017,"bank":329112,"name":"菜菜子","gender":"female","option":([]),"class":"hxh_initial","ignore":({"成為獵人→在人間天堂的五行傳送那格按下transfer 2到鯨魚島，read 10","獵人考卷的答案→4232444232","升屬性１點扣屬性點一點，升狀態１點扣潛能點一點，升技能１點技能上限加二十扣技能點一點","http://www.my3q.com/misc/register/register.phtml→建立線上問卷","據說int高sk上升會比較快，dex影響ap的恢復速度，（無動作進行狀態下每次恢復dex/5）","連擊之術至少要2級才可能在戰鬥中出現，10級以上比較容易出現，但機率還是很低","10秒恢愎一次精力","asdf.seraph.kaserine.jackson.apple.madonna","黃色恢復10%綠色恢復15%","99.149.189關卡","掃帚打小螃蟹會掉 蛇人會掉記三個的 通倍利會掉四個的 輝夜一族會掉五個的","auc ?acme 歡樂寶箱","buy 33 24.transfer 1.say 幫忙.give boss paw(quest -d 1)","solid是enable在 parry上的",}),"area_info":(["x_axis":22,"y_axis_old":46,"x_axis_old":22,"y_axis":46,]),"birthday":1151415471,"guild":"hunter","age":21,"id":"asdf","recoverroom":"/world/area/whale_island/mite_hotel","level":1,"race":"human","startroom":"/world/area/whale_island/mite_hotel","score":(["survive":2526,"combat exp":47,"elevel":100,"dlevel":61,]),])
+masters ([])
+apprentices ([])
+skills (["combat":4,"dodge":2,"parry":1,])
+learned (["combat":50,"dodge":60,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"dodge":1,])
+skill_require (["combat":240,"dodge":60,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"attribute":2,"score":50,"learn":100,])
+st_quest (["level_d":([2:1,]),"level_e":([4:1,]),])
+autoload ([7:(["amount":1,"file":"/world/eq/head/boiler",]),6:(["amount":1,"file":"/world/eq/head/boiler",]),5:(["amount":1,"file":"/world/wp/sword",]),4:(["amount":1,"file":"/world/area/old_forest/npc/eq/arm",]),3:(["amount":1,"file":"/world/area/blood_wild/npc/wp/blade2",]),2:(["amount":1,"file":"/world/item/rod",]),1:(["amount":1,"file":"/world/item/bag",]),0:(["amount":2,"file":"/world/item/fish6",]),])
+__flag ""

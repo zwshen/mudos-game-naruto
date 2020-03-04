@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ss":"sac corpse $*","wp":"query -wp $*","sk":"skills $*","re":"recall $*","f":"finger $*","obj":"query -obj $*","fi":"fight $*","npc":"query -npc $*","1":"get all from corpse $*","c":"consider $*","eq":"query -eq $*",])
+dbase (["last_on":1134456437,"creation_time":1130738360,"channels":({"chat","rumor",}),"last_from":"115.89.229.220","name":"Ãz¦Ï¹Îªø","id":"linfish","body":"/obj/user","time_aged":6346,])
+password "$1$26253532$nuvW4jUiftJS2Hjfd9zjY/"
+email "mhnmj@yahoo.com.tw"

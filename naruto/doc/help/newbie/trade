@@ -1,0 +1,49 @@
+[m¡½ ¥æ©ö
+
+¦bNaruto¸Ì¡A¥i¥H¦V°Ó©±©Î¬O¤Hª«ÁÊ¶RªF¦è©Î½æªF¦è¡A¦b¥»MUD¸Ì¡A
+¥æ©ö©Ò»Ý­nªº[1;33mªá¶O¬Ò±q»È¦æ¼W´î[m¡A©Ò¥H¤£»Ý­n±a»È¨â¦b¨­¤W¡C
+
+¦b³o¸ÌÂ²³æ¤¶²Ð¤@¨Ç¥æ©ö©Ò¨Ï¥Îªº«ü¥O¡G
+
+
+¡ó ¦Cªí«ü¥O
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w
+«ü¥O®æ¦¡ : list [¬Y¤H]
+
+³o«ü¥O¥i¥H¦C¥X¬Y¤H©Ò¥¿¦b³c½æªºª««~¦Cªí¡A©Î¬O¬Y¤H¥i¥H°V½mªº§Þ
+¯à¦Cªí¡A­Y¬O¦b·íçE¸Ì¥u»Ý list §Y¥i¦C¥X·íçE³c½æªºª««~¦Cªí¡A¤£
+¥Î¥[¤W¬Y¤Hªº­^¤å¦WºÙ¡C
+
+·í§A¬O­n¦C¥X°Ó©±©Ò³c½æªºª««~¦Cªí¡A¤£¥Î¥[¤W [¬Y¤H] ¡A­Y¬O­n¦C
+¥X°Ó¤H³c½æª««~¦Cªí¡A´N¥²¶·¦b«ü¥O«á­±¥[¤W <°Ó¤HªºID> ¤~·|¦C¥X
+¬Y°Ó¤H³c½æª«¦Cªí¡C
+
+
+¡ó ÁÊ¶R«ü¥O
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w
+«ü¥O®æ¦¡: buy [¼Æ¶q] °Ó«~½s¸¹ [from ¬Y¤H]
+
+³o«ü¥O¥i¥HÅý§A±q°Ó©±¶R¤U¬Y¥ó°Ó«~¡A¤]¥i±q¬Y¤H¨­¤W¶R°Ó«~¡A·í§A
+±q°Ó©±¶Rª««~®É¡A«ü¥O®æ¦¡¤¤¤£»Ý­n¥[¤W from ¬Y¤H¡C¨Ò¡G
+
+buy 3                ±q°Ó©±¶R¤U½s¸¹¬°3ªº°Ó«~
+buy 2 5              ±q°Ó©±¶R¤U¤G­Ó½s¸¹¬°5ªº°Ó«~
+buy 2 from waiter    ±qwater¨­¤W¶R¤U½s¸¹¬°2ªº°Ó«~
+buy 10 7 from waiter ±qwater¨­¤W¶R¤U¤Q­Ó½s¸¹¬°7ªº°Ó«~
+
+·í§A¬O¹ï¤@­Ó°Ó©±¶RªF¦è®É¡A¤£¥Î¥[¤W [from ¬Y¤H] ¡A¦Ó¬O¹ï¤@­Ó°Ó
+¤H¶RªF¦è®É¡A´N¥²¶·¦b«ü¥O«á­±¥[¤W from <°Ó¤HªºID> ¤~¥i¦V¬Y¤@­Ó
+°Ó¤H¶RªF¦è¡C
+
+
+¡ó ³c½æ«ü¥O
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w
+«ü¥O®æ¦¡ : sell [¼Æ¶q] ª««~
+
+³o¥i«ü¥O¥i¥H±N§A¨­¤Wªºª««~½æ¥X¥h¡A³q±`¥u¦³¦b·íçEªº¦a¤è¤~¯à°÷
+³c½æª««~¡C¨Ò¡G
+
+sell blade     ±N¨­¤Wªº²Ä¤@§â¤M½æ¥X¥h
+sell blade 2   ±N¨­¤Wªº²Ä¤G§â¤M½æ¥X¥h
+sell 3 pill    ±N¨­¤Wªºpill½æ¥X¤T­Ó¡A³q±`¥Î©ó¡u½Æ¦Xª««~¡v¤W
+sell 4 pill 2  ±N¨­¤W²Ä¤G°ïªºpill½æ¥X¥|­Ó

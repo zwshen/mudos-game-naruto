@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["pp":"perform double physique.dp","ww":"wield sword","sa":"sac corpse $*","mapon":"option map_unfreeze 0","g":"get all from corpse $*","sap":"eat chicken $*","mapoff":"option map_unfreeze 1",])
+dbase (["time_aged":727584,"body":"/obj/user","id":"nomes","name":"µæ§L","last_on":1194369632,"channels":({"chat","rumor",}),"last_from":"102.17.105.59","creation_time":1191476997,])
+my_body 
+last_age_set 1239993985
+password "$1$63887779$ohLCUb8M5ydEXup7gIBOU."
+email "fat@fat.com.tw"
+window (["terminal_type":"zmud","width":121,"height":42,])

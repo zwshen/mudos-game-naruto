@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wl":"wield sword 2 as lefthand","p3":"put noodles in bag","d2":"disable solid","d1":"disable finger-guessing fist","e3":"eat noodles","p1":"put essence in bag","e2":"enable parry with solid","b1":"buy 10 1 from master","p2":"put manto in bag","e1":"enable combat with finger-guessing fist","g1":"get essence from bag","g2":"get manto from bag","r":"recall","b2":"buy 10 4 from master","g3":"get noodles from bag","sa":"sac corpse","2":"perform holy hand.healing on kooga","ga":"get all from corpse","wr":"wield sword as righthand",])
+dbase (["last_from":"185.164.113.59","last_on":1175073997,"channels":({"chat","rumor",}),"name":"Ëb®q¿û¤ú","id":"kooga","creation_time":1174304968,"body":"/obj/user","time_aged":106561,])
+password "$1$57898082$UV2oEnXM.wIXyFPxg5Gbw1"
+email "shinomukuo@yahoo.com.tw"

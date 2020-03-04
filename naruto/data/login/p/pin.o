@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["h":"hp","sk":"skills",])
+dbase (["body":"/obj/user","id":"pin","name":"¤p¬í","time_aged":227922,"last_on":1181481208,"last_from":"104.88.35.121","creation_time":1173411672,"board_last_read":(["design":1154116971,"tmr":1174093857,"_MITE_":1170658966,"bug":1173272698,"propose":1172363532,"byron":1175028384,"newbie":1136481011,"wizard":1177493711,"acme":1176111412,"ayumi":1120542699,]),"channels":({"chat","rumor",}),])
+password "$1$64495469$6zbJiGIGHqIpPEYdpbPCZ/"
+email "m9022009@cat.hfu.edu.tw"

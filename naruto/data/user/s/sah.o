@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":44,"dex":20,"str":20,])
+conditions (["hpheal1":(["duration":176,"name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m",]),"apheal1":(["duration":175,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":11,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["bank":0,"name":"ÂyÄå","birthday":1132453881,"level":12,"target_score":(["combat exp":14400,"elevel":2,]),"age":18,"race":"human","gender":"female","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","score":(["kills":912,"dlevel":27,"survive":270,"elevel":27,"combat exp":12100,]),"title":"©À¯à¤OªÌ","id":"sah","guild":"hunter","time_aged":50475,"class":"hxh_initial",])
+masters ([])
+apprentices ([])
+skills (["dodge":37,"savage hit":45,"continual hit":23,"parry":24,"combat":35,"heavy hit":44,])
+learned (["dodge":14208,"savage hit":18278,"continual hit":2516,"parry":1628,"combat":7659,"heavy hit":6438,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":3,"savage hit":3,"continual hit":2,"parry":2,"combat":3,"heavy hit":3,])
+skill_require (["dodge":20535,"savage hit":30375,"continual hit":7935,"parry":8640,"combat":18375,"heavy hit":29040,])
+best_skill "savage hit"
+st_maximum (["mp":80,"hp":360,"ap":400,])
+st_current (["mp":80,"hp":375,"ap":400,])
+st_notify (["hp":70,"ap":30,])
+st_point (["score":0,"learn":4476,"skill":8,"attribute":0,])
+st_quest (["level_e":([4:1,]),])
+autoload ([])
+__flag ""

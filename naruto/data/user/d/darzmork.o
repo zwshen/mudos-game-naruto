@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":21,"int":20,"dex":20,"str":21,])
+conditions ([])
+dbase (["score":(["kills":11,"survive":10,"combat exp":177,]),"bank":59,"name":"§Å«Í","id":"darzmork","birthday":1132726948,"level":1,"age":18,"race":"human","gender":"male","time_aged":2251,"class":"commoner",])
+masters ([])
+apprentices ([])
+skills (["dodge":5,"parry":1,"combat":7,])
+learned (["dodge":280,"combat":450,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":540,"combat":960,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":43,"ap":24,])
+st_notify ([])
+st_point (["score":50,"learn":4,"skill":0,"attribute":0,])
+st_quest ([])
+autoload ([])
+__flag ""

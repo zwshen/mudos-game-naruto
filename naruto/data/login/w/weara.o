@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["2":"query -eq","1":"balance",])
+dbase (["last_on":1135386019,"channels":({"chat","rumor",}),"last_from":"97.43.129.140","creation_time":1135165564,"id":"weara","body":"/obj/user","name":"¤õ¾y¼v","time_aged":19902,])
+password "$1$18062021$Lz727ubz3L3fXvDl.oJtK0"
+email "@"

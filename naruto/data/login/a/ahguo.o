@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w2":"wield green dragon sword as lefthand","ke":"kill elf $*","w5":"order _MY_PET_ to wear all","w3":"order _MY_PET_ to wield jiao ji blade as righthand","w4":"order _MY_PET_ to wield green dragon sword as lefthand","tunemap":"option map_hidden $*","rem":"remember $*","p":"perform animal taming.$*","y":"perform muscle tank.attack on $*","w1":"wield jiao ji blade as righthand",])
+dbase (["time_aged":10793970,"creation_time":1237857601,"id":"ahguo","name":"ßbßb¡Á","body":"/obj/user","channels":({"chat","rumor","aucc","war","news",}),"board_last_read":(["bug":1239117288,]),"last_on":1248651503,"last_from":"81.15.43.114",])
+my_body 
+last_age_set 1248651503
+password "$1$24410689$UuRnDeLn2TimjWOkHPdoC/"
+email "@"
+window (["terminal_type":"zmud","width":152,"height":31,])

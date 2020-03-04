@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":30,"str":30,"con":20,])
+conditions ([])
+dbase (["class":"hxh_initial","guild":"hunter","name":"葉兒","birthday":1139935097,"gender":"male","level":10,"age":18,"race":"human","recoverroom":"/world/area/whale_island/mite_hotel","area_info":(["x_axis":22,"y_axis_old":44,"x_axis_old":22,"y_axis":44,]),"startroom":"/world/area/whale_island/area","score":(["survive":310,"kills":353,"combat exp":8740,"elevel":10,]),"id":"yeh","title":"念能力者","bank":2399,"target_score":(["combat exp":10000,]),"time_aged":60813,])
+masters ([])
+apprentices ([])
+skills (["continual hit":13,"combat":24,"parry":7,"dodge":11,])
+learned (["continual hit":320,"parry":870,"dodge":160,"combat":3590,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":1,"parry":1,"dodge":1,"combat":2,])
+skill_require (["continual hit":2535,"parry":960,"dodge":1815,"combat":8640,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify (["hp":30,])
+st_point (["learn":109,"skill":15,"attribute":0,"score":500,])
+st_quest (["level_d":([2:1,]),])
+autoload ([6:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),5:(["amount":1,"file":"/world/wp/radish",]),4:(["amount":1,"file":"/world/area/whale_island/npc/eq/rears",]),3:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),2:(["amount":1,"file":"/world/item/rod",]),1:(["amount":6,"file":"/world/area/whale_island/npc/food/crab_meat",]),0:(["amount":1,"file":"/world/area/whale_island/npc/food/crab_roe",]),])
+__flag ""

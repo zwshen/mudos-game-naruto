@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":60,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1130334059,"time_aged":79598,"guild":"muye","option":([]),"class":"inferior","id":"nask","name":"那斯克","title":"木葉村忍者","startroom":"/world/area/wizard/wizard","score":(["combat exp":132222,"elevel":41,"kills":1360,"survive":7052,]),"gender":"male","bank":49360,"age":29,"level":20,"area_info":(["x_axis":0,"y_axis_old":0,"x_axis_old":0,"y_axis":0,]),"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":49,"parry":30,"heavy hit":90,"muye wind":20,"combat":90,"force":40,"hundred palm":20,"continual hit":43,"savage hit":90,])
+learned (["dodge":29144,"parry":4522,"heavy hit":49538,"muye wind":3016,"combat":43860,"force":860,"hundred palm":892,"continual hit":6188,"savage hit":49708,])
+skill_map (["force":"hundred palm",])
+skill_flag ([])
+skill_ability (["dodge":3,"parry":2,"heavy hit":5,"muye wind":2,"combat":5,"force":3,"hundred palm":2,"continual hit":4,"savage hit":5,])
+skill_require (["dodge":36015,"parry":13500,"heavy hit":121500,"muye wind":6000,"combat":121500,"force":8000,"hundred palm":6000,"continual hit":27735,"savage hit":121500,])
+best_skill "savage hit"
+st_maximum (["ap":500,"mp":180,"hp":500,])
+st_current (["ap":500,"mp":180,"hp":500,])
+st_notify (["ap":0,"hp":20,])
+st_point (["skill":9,"attribute":0,"score":60,"learn":1357,])
+st_quest (["prize":([4:1,]),"level_e":([4:1,1:1,]),])
+autoload ([20:(["file":"/world/eq/leg/gai","amount":1,]),19:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),18:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),17:(["file":"/world/eq/hand/fur","amount":1,]),16:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),15:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),14:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),13:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),12:(["file":"/world/eq/finger/bronze","amount":1,]),11:(["file":"/world/item/bag","amount":1,]),10:(["file":"/world/eq/armor/turtle","amount":1,]),9:(["file":"/world/eq/head/rhino-shit","amount":1,]),8:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),7:(["file":"/world/wp/radish","amount":1,]),6:(["file":"/world/wp/radish","amount":1,]),5:(["file":"/world/drug/apill2","amount":23,]),4:(["file":"/world/drug/apill","amount":23,]),3:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),2:(["file":"/world/eq/wrist/rubber","amount":1,]),1:(["file":"/world/area/old_forest/npc/item/map","amount":1,]),0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""

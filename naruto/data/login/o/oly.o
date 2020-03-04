@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["9":"get all","wir":"wield $* as righthand","8":"sac corpse","q":"quest $*","wil":"wield $* as lefthand","f":"finger $*","pr":"transfer $*","b":"balance","ad":"advance $*","co":"consider $*","0":"get all from corpse $*",])
+dbase (["last_on":1204553416,"channels":({"chat","rumor",}),"creation_time":1203786416,"last_from":"132.39.129.140","body":"/obj/user","board_last_read":(["newbie":1136481011,]),"name":"µL­­¥ð¥Z","id":"oly","time_aged":309043,])
+password "$1$13224650$lwNNugs0.8BxE8rHoTqzi."
+email "oly@pchome.com.tw"

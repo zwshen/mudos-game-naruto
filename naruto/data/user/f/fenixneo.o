@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":22,])
+conditions ([])
+dbase (["time_aged":2109,"birthday":1146959160,"guild":"muye","class":"inferior","name":"·RÄ±Ã¹","id":"fenixneo","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/wizard/propose","score":(["combat exp":48,"kills":4,]),"gender":"male","bank":0,"target_score":(["combat exp":100,]),"age":18,"level":1,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":4,"combat":4,])
+learned (["dodge":230,"combat":40,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":240,"combat":240,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":55,"mp":80,"hp":43,])
+st_notify ([])
+st_point (["skill":0,"attribute":0,"score":50,"learn":110,])
+st_quest ([])
+autoload ([0:(["file":"/obj/money/silver","amount":41,]),])
+__flag ""

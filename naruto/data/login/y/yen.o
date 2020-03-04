@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["點數商品":"exc","w4":"wield sword 2 as lefthand","putall":"put all in bag","sa":"sac corpse","s1":"option map_hidden 0","鯨魚島":"transfer 2","s2":"option map_hidden 1","pe":"perform frost closed ball.ball on $*","getall":"get all from bag","sk":"skills","w2":"wield radish 2 as lefthand","w5":"wield sword 1 as righthand","ga":"get all from corpse","搜索":"search","con":"consider $*","ech":"eat chicken","rem":"remove $*","ide":"identify $*","scm":"balance","w1":"wield radish 1 as righthand",])
+dbase (["time_aged":34755926,"creation_time":1161769278,"name":"波卡","id":"yen","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["propose":1178173271,"wizard":1239465932,]),"last_on":1248280040,"last_from":"84.164.171.218",])
+my_body 
+last_age_set 1248714694
+password "$1$34036082$r7L0552uBLrwXHuuE1v1d0"
+email "yan300070@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":141,"height":54,])

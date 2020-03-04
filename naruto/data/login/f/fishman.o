@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["map":"option map_unfreeze $*","r":"reply $*",])
+dbase (["time_aged":1949415,"last_on":1146201933,"id":"fishman","name":"º®¤Ò","board_last_read":(["bug":1143259045,"wizard":1143254649,"propose":1141838792,]),"last_from":"84.8.160.218","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1139188356,])
+password "$1$79965188$SJlfEJyZ5kkLCCu1svnNl1"
+email "sam@teledata.com.tw"

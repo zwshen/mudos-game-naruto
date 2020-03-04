@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["board_last_read":(["bug":1235630667,"ayumi":1120542699,"design":1154116971,"propose":1211983359,"wizard":1235586729,"chat":1186466886,]),"time_aged":24574288,"last_from":"191.146.231.118","last_on":1237088277,"name":"·R°¨¥K","body":"/obj/user","id":"hermes","channels":({"chat","rumor","aucc",}),"creation_time":1170646731,])
+my_body 
+last_age_set 1237088277
+password "$1$50214609$HDjhSqSzj6nG0IY7TlVeq0"
+email "longislandroy@hotmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":164,"height":39,])

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":40,"dex":30,"str":30,])
+conditions (["apheal3":(["name":"[42m¢Ï¯Å´£¯«³N[0;2m","duration":154,]),"hpheal1":(["name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m","duration":154,]),"apheal2":(["name":"[42m¢Ð¯Å´£¯«³N[0;2m","duration":154,]),])
+dbase (["time_aged":43882,"level":29,"race":"human","age":74,"name":"¤pªk","guild":"muye","gender":"male","target_score":(["dlevel":9,"combat exp":420500,]),"title":"¤ì¸­§ø§ÔªÌ","area_info":(["x_axis":0,"y_axis_old":0,"x_axis_old":0,"y_axis":0,]),"birthday":1155387810,"bank":979693,"id":"alpha","startroom":"/world/area/wizard/wizard","recoverroom":"/world/area/whale_island/mite_hotel","class":"middle","score":(["elevel":100,"dlevel":20,"kills":88,"survive":84922,"combat exp":395535,]),])
+masters ([])
+apprentices ([])
+skills (["savage hit":97,"ninja":1,"parry":47,"heavy hit":97,"continual hit":46,"combat":99,"dodge":74,])
+learned (["savage hit":16800,"parry":10060,"heavy hit":16940,"continual hit":14020,"combat":115720,"dodge":45880,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":5,"ninja":4,"parry":4,"heavy hit":5,"continual hit":4,"combat":6,"dodge":4,])
+skill_require (["savage hit":141135,"parry":33135,"heavy hit":141135,"continual hit":31740,"combat":1000000,"dodge":82140,])
+best_skill "combat"
+st_maximum (["ap":500,"mp":200,"hp":400,])
+st_current (["ap":496,"mp":200,"hp":400,])
+st_notify (["ap":30,"hp":30,])
+st_point (["attribute":17,"skill":26,"score":1040,"learn":1825,])
+st_quest (["level_d":([1:1,]),])
+autoload ([14:(["amount":1,"file":"/world/broom/broom",]),13:(["amount":1,"file":"/world/eq/head/rhino-shit",]),12:(["amount":1,"file":"/world/area/bone/npc/eq/suit",]),11:(["amount":1,"file":"/world/wp/radish",]),10:(["amount":1,"file":"/world/wp/radish",]),9:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),8:(["amount":1,"file":"/world/broom/broom",]),7:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),5:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),3:(["amount":1,"file":"/world/eq/head/shit",]),2:(["amount":1,"file":"/world/item/rod",]),1:(["amount":1,"file":"/world/eq/face/fglasses",]),0:(["amount":1,"file":"/world/eq/belt/hoop",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["tt":"team talk $*","sco":"sac corpse $*","p3":"perform animal taming.state","p1":"perform double fang.atwirl on $*","p4":"perform animal taming.feed $*","1":"option map_hidden 1","pp1":"perform alter ego.destruct","r":"recall","p5":"perform animal taming.call","ass":"assign $*","scc":"score _MY_PET_","qq":"eat big heal mp pill","2":"option map_hidden 0","rem":"remember $*","q":"eat big heal hp pill","p6":"perform animal taming.leave","pp":"perform alter ego.shadow","gg":"get all from corpse $*","p2":"perform four foot.beast","m":"move $*",])
+dbase (["time_aged":12995545,"last_on":1205132081,"name":"¦w¥d","id":"anka","creation_time":1199465734,"body":"/obj/user","last_from":"54.172.132.220","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1215397453
+password "$1$30103742$UiJ5ILRNtWC/Z1ZjZhwbZ0"
+email "@"
+window (["width":108,"height":34,"freeze":1,"terminal_type":"zmud",])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse",])
+dbase (["last_from":"27.61.71.67","channels":({"chat","rumor",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1190540385,]),"creation_time":1193527045,"last_on":1193527977,"name":"Åf","id":"kurai","time_aged":1052,])
+password "$1$24516859$m1Vdf9lrkAj6JsUPCiYsr/"
+email "hemetsu@hotmail.com"

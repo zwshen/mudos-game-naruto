@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":25,"str":25,])
+conditions ([])
+dbase (["target_score":(["combat exp":3600,]),"title":"¤ì¸­§ø§ÔªÌ","time_aged":57543,"bank":19489,"name":"ÂÄ©Ô°Ò¹F","gender":"male","class":"inferior","birthday":1151593477,"guild":"muye","age":18,"id":"fayetag","level":6,"recoverroom":"/world/area/muye/inn","race":"human","startroom":"/world/area/muye/hockshop","score":(["survive":350,"combat exp":3181,"elevel":9,"kills":212,]),])
+masters ([])
+apprentices ([])
+skills (["combat":12,"savage hit":10,"dodge":15,"continual hit":11,"heavy hit":10,"parry":11,])
+learned (["combat":940,"savage hit":1410,"dodge":490,"heavy hit":1410,"continual hit":1810,"parry":760,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"savage hit":1,"dodge":1,"continual hit":1,"heavy hit":1,"parry":1,])
+skill_require (["combat":2940,"savage hit":2160,"dodge":4335,"heavy hit":2160,"continual hit":2535,"parry":2535,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":30,"mp":80,"hp":4,])
+st_notify ([])
+st_point (["skill":6,"attribute":0,"score":300,"learn":295,])
+st_quest (["prize":([4:1,]),])
+autoload ([6:(["amount":10,"file":"/world/drug/apill2",]),5:(["amount":4,"file":"/world/drug/hpill2",]),4:(["amount":1,"file":"/world/wp/rattan",]),3:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),2:(["amount":1,"file":"/world/eq/armor/turtle",]),1:(["amount":1,"file":"/world/area/wild/npc/eq/pig_fur",]),0:(["amount":56,"file":"/obj/money/silver",]),])
+__flag ""

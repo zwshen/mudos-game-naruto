@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["h":"hp","le":"train $1 from $2 for $3","gc":"get all from corpse","tran":"transfer $1","x":"sac corpse",])
+dbase (["creation_time":1244425132,"time_aged":112415,"body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1239465932,]),"id":"donnyliu","name":"²ö¦¨¦]","channels":({"chat","rumor",}),"last_from":"66.128.69.210","last_on":1244537505,])
+my_body 
+last_age_set 1244537505
+password "$1$69305225$AGvCg5S.wTRBy2XuPvEf9/"
+email "donny-j-liu-33@yahoo.com"
+window (["terminal_type":"vt100","freeze":1,"width":125,"height":40,])

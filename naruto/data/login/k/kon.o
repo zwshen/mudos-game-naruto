@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["f":"fight $*","sk":"skills",])
+dbase (["channels":({"chat","rumor",}),"last_from":"184.2.134.220","creation_time":1140359368,"name":"¤pªN","id":"kon","last_on":1140366651,"body":"/obj/user","time_aged":7355,"board_last_read":(["wizard":1132743373,"newbie":1136481011,"ayumi":1120542699,"_MITE_":1139709536,]),])
+password "$1$64233046$KLPR2RbHd3KzhTck8NkWL0"
+email "sangommm@yahoo.com.tw"

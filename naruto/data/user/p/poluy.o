@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":39,"int":20,"dex":30,"str":31,])
+conditions ([])
+dbase (["bank":21133,"name":"«Õ­ß±Ð¥D","birthday":1130135197,"level":20,"race":"human","age":29,"gender":"male","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/wizard/prac5","score":(["kills":354,"survive":7147,"elevel":10,"combat exp":155610,]),"title":"¤ì¸­§ø§ÔªÌ","id":"poluy","guild":"muye","class":"inferior","time_aged":76439,])
+masters ([])
+apprentices ([])
+skills (["muye wind":15,"savage hit":56,"dodge":12,"force":13,"continual hit":20,"parry":9,"combat":56,"heavy hit":56,])
+learned (["muye wind":2390,"savage hit":15580,"dodge":1010,"force":0,"continual hit":4690,"parry":830,"combat":27590,"heavy hit":15580,])
+skill_map (["combat":"muye wind",])
+skill_flag ([])
+skill_ability (["muye wind":1,"savage hit":4,"dodge":1,"force":1,"continual hit":2,"parry":1,"combat":3,"heavy hit":4,])
+skill_require (["muye wind":3375,"savage hit":47040,"dodge":2160,"force":845,"continual hit":6000,"parry":1215,"combat":47040,"heavy hit":47040,])
+best_skill "combat"
+st_maximum (["mp":100,"hp":300,"ap":340,])
+st_current (["mp":100,"hp":400,"ap":44,])
+st_notify ([])
+st_point (["score":500,"learn":174,"skill":23,"attribute":0,])
+st_quest (["level_e":([2:1,]),])
+autoload ([14:(["file":"/obj/money/silver","amount":1,]),13:(["file":"/world/drug/apill","amount":1,]),12:(["file":"/world/eq/face/fglasses","amount":1,]),11:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),10:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),9:(["file":"/world/wp/sword","amount":1,]),8:(["file":"/world/wp/butcher-blade","amount":1,]),7:(["file":"/world/item/rod","amount":1,]),6:(["file":"/world/wp/rattan","amount":1,]),5:(["file":"/world/wp/radish","amount":1,]),4:(["file":"/world/area/wild/npc/eq/pig_fur","amount":1,]),3:(["file":"/world/area/wild/npc/eq/bear_suit","amount":1,]),2:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),1:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),0:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),])
+__flag ""

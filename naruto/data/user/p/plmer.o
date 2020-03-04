@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1161762421,"time_aged":3904,"level":1,"race":"human","age":18,"name":"¥²¥²","id":"plmer","recoverroom":"/world/area/wizard/guildhall","class":"commoner","score":(["survive":30,"combat exp":44,]),"gender":"male","startroom":"/world/area/wizard/academy",])
+masters ([])
+apprentices ([])
+skills (["parry":1,"dodge":6,])
+learned (["dodge":540,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,])
+skill_require (["dodge":735,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify (["hp":80,])
+st_point (["skill":1,"attribute":2,"score":50,"learn":0,])
+st_quest ([])
+autoload ([])
+__flag ""

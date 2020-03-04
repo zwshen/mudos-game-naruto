@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sh":"search","con":"consider $1",])
+dbase (["last_on":1189803510,"board_last_read":(["newbie":1136481011,]),"channels":({"chat","rumor",}),"creation_time":1189799613,"body":"/obj/user","last_from":"148.75.62.61","name":"樂高先生","id":"alldust","time_aged":3925,])
+password "$1$54440463$OmLrmhgbPS.Ch9rTbMQvk1"
+email "alldust2001@yahoo.com.tw"

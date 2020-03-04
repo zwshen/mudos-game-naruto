@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["1":"clone /u/b/byron/npc/cchild","sk":"skills","2":"clone /u/b/byron/test/bigappill.c","phh":"perform hundred palm.attack on $*","z":"perform finger-guessing fist.¥ÛÀY","bb":"balance","c":"perform finger-guessing fist.¥¬","x":"perform finger-guessing fist.°Å¤M","h":"hp",])
+dbase (["time_aged":22613689,"board_last_read":(["acme":1188005608,"_MITE_":1188848484,"tmr":1174093857,"bug":1207673140,"byron2":1214373314,"design":1154116971,"chat":1186466886,"newbie":1136481011,"board":1209367319,"wizard":1214818337,"byron":1178289846,"ayumi":1120542699,"propose":1202372203,]),"last_from":"97.240.222.61","name":"¦Ð¤H«DâË","last_on":1234966051,"body":"/obj/user","invis":1,"id":"byron","channels":({"chat","rumor","wiz","sys","aucc","war",}),"creation_time":1161857075,])
+my_body 
+last_age_set 1234966050
+password "$1$49645723$g5oHOxLCKQtqs6Rcj2iax0"
+email "byron19851224@yahoo.com.tw"
+window (["terminal_type":"vt100","width":177,"height":58,])

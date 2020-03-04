@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":272,"creation_time":1239638666,"board_last_read":(["propose":1115827917,"wizard":1115665665,]),"body":"/obj/user","name":"ªF¥Ö§J¦Ì","id":"dontpkme",])
+my_body 
+last_age_set 1239638888
+password "$1$61066173$EYl9ZP86rtmbx8n/QrxhT1"
+email "dontpkme@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":80,"height":24,])

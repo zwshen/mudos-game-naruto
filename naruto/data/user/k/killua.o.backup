@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":24,"dex":31,"str":38,"con":27,])
+conditions ([])
+dbase (["name":"©_Ëb","birthday":1134746716,"wimpy_dir":"south","level":20,"race":"human","age":31,"gender":"male","area_info":(["x_axis":0,"y_axis_old":48,"x_axis_old":0,"y_axis":48,]),"score":(["survive":7938,"combat exp":114046,"kills":1819,"elevel":9,]),"startroom":"/world/area/wizard/wizard","bank":47711,"long":"¥L¬O¨Ó¦ÛÀs¬Éªº¤@¦W¤Ö¦~·í§A¬Ý¥L®É, ¥u¨£¥L¨­§Î¤@°Ê, §AÁôÁô¬ù¬ù¥u¬Ý¨ì¥Lªº´Ý¼v·í§A·Q¥J²Ó¬Ý²M·¡®É, ´Ý¼v¤w¸g®ø¥¢¤F. §A¥uÄ±±o¥L¤H¦p¨ä¦WµS¦p¤Û¼v..... ¦b§A¦L¶H¤§¤¤ ..........................","nickname":"[1;33mªü[36mÀ±[34mªû[31m¦ò[0;2m","guild":"muye","title":"¤ì¸­§ø§ÔªÌ","id":"killua","time_aged":10589,"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["alter ego":10,"continual hit":29,"substitute":1,"ninja":20,"heavy hit":58,"dodge":68,"parry":55,"combat":50,"force":31,"hundred palm":8,"magic":1,"savage hit":58,])
+learned (["alter ego":0,"continual hit":2856,"ninja":0,"heavy hit":44724,"parry":44928,"combat":8892,"dodge":31632,"force":3372,"hundred palm":0,"savage hit":44724,])
+skill_map (["ninja":"alter ego","force":"hundred palm",])
+skill_flag ([])
+skill_ability (["alter ego":1,"continual hit":3,"substitute":1,"ninja":2,"heavy hit":5,"parry":5,"combat":5,"dodge":5,"force":3,"hundred palm":2,"savage hit":5,])
+skill_require (["alter ego":500,"continual hit":12615,"ninja":2000,"heavy hit":50460,"parry":45375,"combat":37500,"dodge":69360,"force":4805,"hundred palm":960,"savage hit":50460,])
+best_skill "dodge"
+st_maximum (["mp":300,"hp":640,"ap":300,])
+st_current (["mp":300,"hp":370,"ap":11,])
+st_notify (["hp":0,"ap":4,])
+st_point (["learn":3945,"skill":3,"score":0,"attribute":0,])
+st_quest (["level_e":([2:1,]),])
+autoload ([12:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),11:(["file":"/world/area/old_forest/npc/item/map","amount":1,]),10:(["file":"/world/eq/neck/agate","amount":1,]),9:(["file":"/world/wp/butcher-blade","amount":1,]),8:(["file":"/world/item/rod","amount":1,]),7:(["file":"/world/wp/pairrod","amount":1,]),6:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),5:(["file":"/world/area/wild/npc/eq/wolf_fur","amount":1,]),4:(["file":"/world/area/bone/npc/eq/suit","amount":1,]),3:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),2:(["file":"/world/eq/leg/puttee","amount":1,]),1:(["file":"/world/area/muye/npc/eq/dragon_boots","amount":1,]),0:(["file":"/world/drug/apill","amount":205,]),])
+__flag ""

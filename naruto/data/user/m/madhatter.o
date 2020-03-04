@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":26,"dex":20,"str":20,])
+conditions ([])
+dbase (["level":4,"score":(["survive":80,"combat exp":1266,"kills":8,]),"race":"human","age":18,"time_aged":15246,"bank":49,"nickname":"½æ¬õ´U¤p¨k«Ä[0;2m","startroom":"/world/area/wizard/prac7","name":"½æ´U¤H","id":"madhatter","target_score":(["combat exp":1600,]),"class":"inferior","gender":"male","guild":"muye","title":"¤ì¸­§ø§ÔªÌ","wimpy_dir":"south","birthday":1129094709,])
+masters ([])
+apprentices ([])
+skills (["combat":13,"parry":28,"dodge":28,])
+learned (["combat":2041,"parry":2301,"dodge":3406,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"parry":2,"dodge":2,])
+skill_require (["combat":2535,"parry":11760,"dodge":11760,])
+best_skill "dodge"
+st_maximum (["ap":200,"mp":80,"hp":130,])
+st_current (["ap":20,"mp":80,"hp":130,])
+st_notify (["ap":15,])
+st_point (["skill":3,"score":30,"learn":408,"attribute":2,])
+st_quest (["mu":([3:1,]),])
+autoload ([])
+__flag ""

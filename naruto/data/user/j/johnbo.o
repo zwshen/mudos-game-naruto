@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":30,"dex":30,"str":30,])
+conditions ([])
+dbase (["time_aged":55091,"title":"¤ì¸­§ø§ÔªÌ","bank":22020,"name":"¦a¨½¨à","gender":"male","class":"inferior","area_info":(["x_axis":0,"y_axis_old":0,"x_axis_old":0,"y_axis":0,]),"birthday":1129725822,"guild":"muye","age":50,"id":"johnbo","recoverroom":"/world/area/wizard/guildhall","level":20,"race":"human","startroom":"/world/area/wizard/wizard","score":(["survive":29109,"combat exp":406100,"elevel":10,"kills":1467,]),])
+masters ([])
+apprentices ([])
+skills (["combat":98,"savage hit":101,"dodge":83,"force":1,"continual hit":56,"heavy hit":101,"parry":68,])
+learned (["combat":959207,"savage hit":128466,"dodge":58734,"continual hit":558,"heavy hit":128466,"parry":52524,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":6,"savage hit":6,"dodge":5,"force":5,"continual hit":5,"heavy hit":6,"parry":5,])
+skill_require (["combat":1000000,"savage hit":153015,"dodge":103335,"continual hit":47040,"heavy hit":153015,"parry":69360,])
+best_skill "savage hit"
+st_maximum (["ap":550,"mp":80,"hp":610,])
+st_current (["ap":460,"mp":80,"hp":610,])
+st_notify (["ap":15,"hp":10,])
+st_point (["attribute":0,"skill":2,"score":0,"learn":5895,])
+st_quest (["mu":([3:1,5:1,2:1,]),])
+autoload ([18:(["amount":70,"file":"/world/drug/apill",]),17:(["amount":1,"file":"/world/eq/head/rhino-shit",]),16:(["amount":1,"file":"/world/eq/finger/bronze",]),15:(["amount":1,"file":"/world/item/rod",]),14:(["amount":1,"file":"/world/eq/face/fglasses",]),13:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/ghost_boots",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),9:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),7:(["amount":1,"file":"/world/eq/armor/turtle",]),6:(["amount":1,"file":"/world/eq/leg/gai",]),5:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),4:(["amount":1,"file":"/world/wp/radish",]),3:(["amount":1,"file":"/world/item/bag",]),2:(["amount":1,"file":"/world/item/bag",]),1:(["amount":74,"file":"/world/drug/hpill2",]),0:(["amount":484,"file":"/obj/money/silver",]),])
+__flag ""

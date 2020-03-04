@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","sa":"sac corpse","p":"perform ninja.ca",])
+dbase (["channels":({"chat","rumor","aucc",}),"last_from":"130.40.130.220","creation_time":1136858538,"last_on":1139298383,"name":"Às³¥","id":"hifly","body":"/obj/user","board_last_read":(["wizard":1132743373,"chat":1133923712,"ayumi":1120542699,"bug":1137491690,"tmr":1137679531,"propose":1130204695,"newbie":1136481011,"acme":1137682467,"_MITE_":1131786296,]),"time_aged":924458,])
+password "$1$26696755$N0AcBJLk8wTB3v8uitYqg1"
+email "s89127037@yahoo.com.tw"

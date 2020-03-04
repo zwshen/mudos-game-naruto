@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills $*","c":"consider $*","gc":"get all from corpse $*","f":"fight $*","a":"advance $*","ba":"balance","sacc":"sac corpse",])
+dbase (["time_aged":659089,"last_on":1146478627,"id":"boa","name":"Ä_¨à","last_from":"126.214.85.210","board_last_read":(["propose":1139745280,"tmr":1140519889,"wizard":1129917561,"newbie":1136481011,"bug":1131175254,"ayumi":1120542699,"acme":1139855182,]),"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1140353403,])
+password "$1$12753266$Al1dpwbFgrXS4tfLUiqU8."
+email "kiyavskila@yahoo.com.tw"

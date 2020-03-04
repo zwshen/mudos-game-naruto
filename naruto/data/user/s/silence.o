@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["level":1,"bank":0,"age":18,"race":"human","gender":"female","id":"silence","name":"¨IÀq","startroom":"/world/area/whale_island/area","area_info":(["x_axis":48,"y_axis_old":15,"x_axis_old":48,"y_axis":15,]),"time_aged":269,"class":"commoner","birthday":1131422635,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["score":50,"learn":100,"skill":2,"attribute":2,])
+st_quest ([])
+autoload ([])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":42,])
+conditions ([])
+dbase (["time_aged":27213,"guild":"muye","name":"¤pºð","title":"¤ì¸­§ø§ÔªÌ","gender":"female","area_info":(["x_axis":23,"y_axis_old":17,"x_axis_old":23,"y_axis":17,]),"birthday":1140481912,"class":"inferior","id":"smallrei","startroom":"/world/area/muye/swanlake","score":(["combat exp":11029,"elevel":0,"survive":15119,]),"target_score":(["combat exp":12100,"elevel":1,]),"bank":140101,"age":39,"level":11,"race":"human",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":580,"mp":80,"hp":80,])
+st_current (["ap":580,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":22,"score":50,"learn":1100,])
+st_quest ([])
+autoload ([14:(["file":"/world/item/rod","amount":1,]),13:(["file":"/world/wp/butcher-blade","amount":1,]),12:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),11:(["file":"/world/wp/sword","amount":1,]),10:(["file":"/world/area/muye/npc/eq/mouse_head","amount":1,]),9:(["file":"/world/eq/belt/hoop","amount":1,]),8:(["file":"/world/wp/radish","amount":1,]),7:(["file":"/world/area/wild/npc/eq/pig_head","amount":1,]),6:(["file":"/world/item/fish2","amount":80,]),5:(["file":"/world/eq/belt/hoop","amount":1,]),4:(["file":"/world/item/fish3","amount":78,]),3:(["file":"/world/item/fish1","amount":85,]),2:(["file":"/world/item/fish5","amount":77,]),1:(["file":"/world/item/fish6","amount":81,]),0:(["file":"/world/item/fish4","amount":77,]),])
+__flag ""

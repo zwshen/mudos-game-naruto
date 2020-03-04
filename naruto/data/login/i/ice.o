@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sc3":"perform animal taming.state","rep":"reply $*","yyy":"finger","lber":"remember","chat":"chat* 拿出一道聖旨唸道﹕奉天承運，小冰(Ice)詔曰【$*】","ber":"remember $1","7":"perform animal taming.feed $*","9":"move $1","hp222":"hp",])
+dbase (["time_aged":23921106,"creation_time":1137836187,"id":"ice","name":"小冰","body":"/obj/user","channels":({"chat","aucc","rumor",}),"board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1237364643,"ayumi":1120542699,"acme":1176111412,"chat":1186466886,"bug":1239117288,"tmr":1174093857,"design":1154116971,"byron":1178289846,"wizard":1239465932,]),"last_on":1248799112,"last_from":"54.235.104.59",])
+my_body 
+last_age_set 1248799112
+password "$1$71823378$e.TyUoTgyPz8ljCbBY4oM1"
+email "@"
+window (["terminal_type":"ZMUD","width":157,"height":30,])

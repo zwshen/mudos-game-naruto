@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["startroom":"/world/area/wizard/bug","time_aged":553,"level":1,"age":18,"race":"human","id":"youngmen","name":"¥¼ª¾","birthday":1130528278,"class":"commoner","gender":"male","bank":236,"option":(["map_unfreeze":1,]),"recoverroom":"/world/area/wizard/guildhall",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":80,"ap":80,"mp":80,])
+st_current (["hp":80,"ap":80,"mp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([1:(["amount":1,"file":"/world/wp/rattan",]),0:(["amount":1,"file":"/world/wp/sword",]),])
+__flag ""

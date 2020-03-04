@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":1637,"birthday":1145945356,"guild":"muye","class":"inferior","name":"任意門","id":"video","title":"木葉村忍者","score":(["combat exp":0,"survive":10,]),"gender":"male","target_score":(["combat exp":100,]),"bank":0,"age":18,"level":1,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":1,"combat":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":120,"hp":90,])
+st_current (["ap":80,"mp":120,"hp":90,])
+st_notify ([])
+st_point (["skill":0,"attribute":0,"score":0,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""

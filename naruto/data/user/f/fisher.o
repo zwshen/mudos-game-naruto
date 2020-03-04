@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["startroom":"/world/area/muye/swanlake","time_aged":72735,"area_info":(["y_axis":17,"x_axis":24,"x_axis_old":24,"y_axis_old":17,]),"score":(["combat exp":1,"survive":1895,]),"level":1,"age":21,"race":"human","id":"fisher","name":"¶O³·¨à","birthday":1130121194,"class":"commoner","gender":"female","bank":1738,"option":(["map_unfreeze":1,"map_hidden":1,]),"recoverroom":"/world/area/muye/inn",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["hp":80,"ap":80,"mp":80,])
+st_current (["hp":80,"ap":80,"mp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([6:(["amount":4,"file":"/world/item/fish1",]),5:(["amount":1,"file":"/world/item/rod",]),4:(["amount":5,"file":"/world/item/fish4",]),3:(["amount":10,"file":"/world/item/fish5",]),2:(["amount":3,"file":"/world/item/fish6",]),1:(["amount":3,"file":"/world/item/fish2",]),0:(["amount":7,"file":"/world/item/fish3",]),])
+__flag ""

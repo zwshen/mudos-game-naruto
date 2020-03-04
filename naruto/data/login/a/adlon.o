@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["off":"option map_unfreeze 1","ff":"get all from corpse","sk":"skills","on":"option map_unfreeze 0",])
+dbase (["last_on":1200526897,"last_from":"117.10.62.210","channels":({"chat","rumor",}),"creation_time":1143386243,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"newbie":1136481011,]),"name":"·¬¤§¥ú","id":"adlon","time_aged":232269,])
+password "$1$8272806$Lnyj6BFKjWtcvKUj6CS5F1"
+email "www@WWW.WWW.WW"

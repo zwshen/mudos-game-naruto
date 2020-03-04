@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":55,"int":20,"dex":20,"str":20,])
+conditions (["hpheal4":(["duration":5,"name":"[41m¢á¯ÅÁÙ¶§³N[0;2m",]),"mpheal4":(["duration":5,"name":"[45m¢á¯Å¤Ñ¦a³N[0;2m",]),])
+dbase (["time_aged":70821,"level":20,"age":76,"race":"human","guild":"muye","name":"©_©Ô","startroom":"/world/area/muye/ri","gender":"female","title":"¤ì¸­§ø§ÔªÌ","birthday":1132406428,"bank":4901,"id":"chira","option":([]),"recoverroom":"/world/area/muye/inn","class":"inferior","score":(["elevel":26,"kills":685,"survive":68275,"combat exp":651429,]),"wimpy_dir":"east",])
+masters ([])
+apprentices ([])
+skills (["savage hit":117,"parry":82,"ninja":39,"continual hit":76,"heavy hit":117,"double physique":45,"combat":95,"dodge":108,])
+learned (["savage hit":20540,"parry":49998,"ninja":0,"continual hit":8632,"heavy hit":20540,"double physique":624,"combat":92729,"dodge":40105,])
+skill_map (["ninja":"double physique",])
+skill_flag ([])
+skill_ability (["savage hit":6,"parry":5,"ninja":2,"continual hit":4,"heavy hit":6,"double physique":3,"combat":5,"dodge":6,])
+skill_require (["savage hit":208860,"parry":103335,"ninja":8000,"continual hit":88935,"heavy hit":208860,"double physique":10580,"combat":138240,"dodge":178215,])
+best_skill "savage hit"
+st_maximum (["ap":610,"mp":130,"hp":480,])
+st_current (["ap":610,"mp":130,"hp":480,])
+st_notify (["ap":20,"hp":20,])
+st_point (["attribute":5,"skill":3,"score":20,"learn":1261,])
+st_quest (["level_p":([10:1,]),"level_e":([1:1,]),])
+autoload ([1:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),0:(["amount":1,"file":"/world/item/rod",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ppp2":"proskills first-aid plume_bandage -m","sword2":"wield sword $* as lefthand","rrr":"recall start","gg":"get all from corpse $*","pp":"sac corpse $*","off":"option map_unfreeze 1","hhh":"perform ketchup star.die","uu":"use bandage $*","rr":"recall $*","hh":"halt","con":"consider $*","id":"identify $*","on":"option map_unfreeze 0","re":"remember $*","ggg":"get all from skeleton $*","blade3":"wield blade $* as twohanded","ppp":"proskills first-aid snake_skin_bandage -m",])
+dbase (["time_aged":18336305,"creation_time":1197397593,"id":"xyz","name":"©sªi","body":"/obj/user","channels":({"chat","rumor","news","aucc",}),"board_last_read":(["newbie":1136481011,"_MITE_":1129952893,"propose":1210559287,"ayumi":1120542699,"bug":1115718952,"tmr":1130172905,"wizard":1237369012,]),"last_on":1247557459,"last_from":"107.170.192.123",])
+my_body 
+last_age_set 1248720966
+password "$1$69288258$SkJGgatAJ7/XvmsxIVQbK1"
+email "edjack10000@yahoo.com.tw"
+window (["terminal_type":"vt100","freeze":1,"width":94,"height":36,])

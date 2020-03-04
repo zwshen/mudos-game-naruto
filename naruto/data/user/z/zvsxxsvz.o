@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":5603,"guild":"muye","name":"¥©§J¤O","title":"¤ì¸­§ø§ÔªÌ","gender":"female","area_info":(["x_axis":15,"y_axis_old":25,"y_axis":25,"x_axis_old":15,]),"birthday":1147325092,"class":"inferior","id":"zvsxxsvz","startroom":"/world/area/muye/swanlake","score":(["combat exp":88,"elevel":1,"kills":7,"survive":20,]),"target_score":(["combat exp":100,]),"bank":100,"age":18,"level":1,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":6,"combat":1,])
+learned (["dodge":530,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,])
+skill_require (["dodge":540,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":0,"score":50,"learn":30,])
+st_quest ([])
+autoload ([0:(["file":"/obj/money/silver","amount":353,]),])
+__flag ""

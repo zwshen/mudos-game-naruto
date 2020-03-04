@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["off":"option map_unfreeze 1","on":"option map_unfreeze 0",])
+dbase (["channels":({"chat","rumor","aucc",}),"last_from":"32.163.114.59","creation_time":1138096316,"id":"sadwind","body":"/obj/user","name":"´d­·","last_on":1138114396,"time_aged":243496,])
+password "$1$91425119$owMlixTkcDIveZUWWE.Kj0"
+email "sadwind@hotmail.com"

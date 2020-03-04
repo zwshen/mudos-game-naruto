@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":40,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":64830,"title":"木葉村忍者","bank":77326,"name":"山田西南","gender":"male","option":([]),"class":"inferior","area_info":(["x_axis":20,"y_axis_old":21,"y_axis":21,"x_axis_old":20,]),"birthday":1140886525,"guild":"muye","age":98,"id":"adobe","recoverroom":"/world/area/wizard/guildhall","level":20,"race":"human","startroom":"/world/area/muye/sewer","score":(["survive":121052,"combat exp":69523,"elevel":9,"kills":11336,]),"pet":(["title":0,"nickname":0,"food":904,"name":"忍犬","mp":353,"level":8,"hp":353,"ap":353,"exp":93,"long":0,]),])
+masters ([])
+apprentices ([])
+skills (["savage hit":47,"alter ego":40,"continual hit":21,"cell activation":60,"heavy hit":47,"parry":40,"hundred palm":1,"combat":55,"muye wind":1,"animal taming":41,"dodge":44,"substitute":1,"magic":1,"force":1,"ninja":40,"double physique":1,])
+learned (["combat":35916,"savage hit":14616,"animal taming":720,"dodge":936,"alter ego":0,"ninja":0,"continual hit":6560,"heavy hit":14616,"cell activation":0,"parry":11560,])
+skill_map (["muye wind":0,"ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["combat":3,"savage hit":3,"muye wind":1,"animal taming":3,"dodge":3,"alter ego":2,"ninja":2,"continual hit":2,"heavy hit":3,"cell activation":3,"parry":3,])
+skill_require (["combat":45375,"savage hit":33135,"animal taming":8405,"dodge":29040,"alter ego":8000,"ninja":8000,"continual hit":6615,"heavy hit":33135,"cell activation":18000,"parry":24000,])
+best_skill "cell activation"
+st_maximum (["ap":100,"mp":200,"hp":100,])
+st_current (["ap":83,"mp":200,"hp":100,])
+st_notify (["ap":5,"hp":5,])
+st_point (["attribute":20,"skill":12,"score":840,"learn":6049,])
+st_quest (["level_d":([1:1,]),])
+autoload ([10:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),9:(["amount":1,"file":"/world/eq/cloth/cloth",]),8:(["amount":1,"file":"/world/eq/armor/turtle",]),7:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),5:(["amount":1,"file":"/world/eq/head/rhino-shit",]),4:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),3:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),2:(["amount":164,"file":"/world/area/muye/npc/item/cr_antenna",]),1:(["amount":175,"file":"/world/area/muye/npc/item/cr_feet",]),0:(["amount":126,"file":"/world/area/muye/npc/item/cr_egg",]),])
+__flag ""

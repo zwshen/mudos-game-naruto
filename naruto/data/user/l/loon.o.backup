@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions (["apheal2":(["duration":1,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":77646,"birthday":1137435844,"bank":965675,"level":17,"race":"human","age":21,"guild":"hunter","name":"·Ä¤ôªºÁÂ³ö","id":"loon","startroom":"/world/area/wizard/wizard","class":"hxh_initial","score":(["elevel":146,"kills":621,"survive":2537,"combat exp":25600,]),"gender":"male","target_score":(["elevel":7,"combat exp":28900,]),"title":"©À¯à¤OªÌ",])
+masters ([])
+apprentices ([])
+skills (["savage hit":1,"parry":6,"heavy hit":1,"continual hit":1,"solid":1,"combat":1,"body strength":1,"strength":25,"dodge":1,])
+learned (["parry":443,"strength":0,])
+skill_map (["parry":"solid","strength":"body strength",])
+skill_flag ([])
+skill_ability (["parry":1,"solid":1,"body strength":5,"strength":6,])
+skill_require (["parry":540,"strength":3125,])
+best_skill "strength"
+st_maximum (["ap":280,"mp":80,"hp":280,])
+st_current (["ap":23,"mp":80,"hp":330,])
+st_notify ([])
+st_point (["skill":21,"attribute":34,"score":450,"learn":1858,])
+st_quest (["level_d":([2:1,]),"level_e":([1:1,]),])
+autoload ([12:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),11:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),10:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),9:(["amount":40,"file":"/world/drug/apill2",]),8:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),7:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),6:(["amount":1,"file":"/world/eq/head/rhino-shit",]),5:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),1:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

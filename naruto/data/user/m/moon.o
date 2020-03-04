@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":32,"int":33,"dex":35,"str":20,])
+conditions ([])
+dbase (["time_aged":81211,"birthday":1132703462,"guild":"muye","class":"inferior","name":"¼v¤ë","id":"moon","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/wizard/prac7","score":(["elevel":12,"combat exp":332836,"kills":116,"survive":35763,]),"gender":"male","bank":7749,"age":56,"level":20,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":95,"parry":92,"heavy hit":98,"combat":97,"muye wind":4,"substitute":1,"hundred palm":13,"force":13,"savage hit":98,"ninja":1,"continual hit":48,])
+learned (["dodge":52320,"parry":29168,"heavy hit":25328,"combat":110560,"muye wind":15,"hundred palm":2448,"force":672,"savage hit":25344,"continual hit":5904,])
+skill_map (["force":"hundred palm",])
+skill_flag ([])
+skill_ability (["dodge":7,"parry":9,"heavy hit":5,"combat":5,"muye wind":1,"substitute":1,"hundred palm":1,"force":1,"savage hit":5,"ninja":1,"continual hit":4,])
+skill_require (["dodge":135375,"parry":126960,"heavy hit":144060,"combat":141135,"muye wind":375,"hundred palm":2940,"force":980,"savage hit":144060,"continual hit":34560,])
+best_skill "savage hit"
+st_maximum (["ap":650,"mp":80,"hp":510,])
+st_current (["ap":650,"mp":80,"hp":510,])
+st_notify ([])
+st_point (["attribute":0,"skill":0,"score":0,"learn":61,])
+st_quest (["level_d":([1:1,2:1,]),])
+autoload ([15:(["file":"/world/eq/wrist/jag","amount":1,]),14:(["file":"/world/eq/neck/crystal","amount":1,]),13:(["file":"/world/eq/head/redph","amount":1,]),12:(["file":"/world/eq/leg/puttee","amount":1,]),11:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),10:(["file":"/world/eq/belt/belt","amount":1,]),9:(["file":"/world/eq/armor/iron","amount":1,]),8:(["file":"/world/eq/feet/wind","amount":1,]),7:(["file":"/world/eq/face/bglasses","amount":1,]),6:(["file":"/world/eq/cloth/gray","amount":1,]),5:(["file":"/world/eq/finger/silver","amount":1,]),4:(["file":"/world/eq/hand/fur","amount":1,]),3:(["file":"/world/item/rod","amount":1,]),2:(["file":"/world/wp/pairrod","amount":1,]),1:(["file":"/obj/money/silver","amount":156,]),0:(["file":"/world/wp/pairrod","amount":1,]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["1":"give sword to lilina","a":"say 幫忙","aa":"say 拔完了","0":"score",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1176407472,"last_from":"193.99.229.125","last_on":1198840675,"body":"/obj/user","id":"daijiro","name":"加藤大治郎","board_last_read":(["design":1154116971,"chat":1186466886,"propose":1193820020,"_MITE_":1188848484,"bug":1191602432,"wizard":1190540385,]),"time_aged":10755857,])
+password "$1$92335870$CFbYWe3rBKkSAwXN7Cu1i/"
+email "a@a"

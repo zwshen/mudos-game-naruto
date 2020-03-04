@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["R":"reply $*","22":"move 2","11":"move 1","ad":"advance $*",])
+dbase (["last_from":"104.114.69.210","name":"±I¹æ¤§¤Ñ","id":"wesley","channels":({"chat","rumor",}),"last_on":1174456232,"creation_time":1172449625,"body":"/obj/user","time_aged":650133,])
+password "$1$27381013$3zDlACK7JAL9wSvzaWRP7."
+email "pentuim.wes@gmail.com"

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["c":"consider $1","sss":"search","sa":"sac corpse","g":"get all from corpse",])
+dbase (["body":"/obj/user","time_aged":265761,"name":"Âû±Æ¤­¤À¼ô","id":"abcgh","last_on":1180568589,"last_from":"107.32.208.134","creation_time":1180005601,"channels":({"chat","rumor",}),"board_last_read":(["newbie":1136481011,"byron":1177702512,]),])
+password "$1$37532990$azCafvG7x/mMJ.kTGWlLA/"
+email "wuhshyh@pchome.com.tw"

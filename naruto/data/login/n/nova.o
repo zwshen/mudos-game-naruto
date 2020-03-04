@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gc":"get all from corpse",])
+dbase (["channels":({"chat","rumor","news",}),"body":"/obj/user","board_last_read":(["wizard":1186426960,]),"creation_time":1210899316,"name":"©]","id":"nova","time_aged":1813,])
+password "$1$76425316$ZcEB8JOgyh81vonD2FahT0"
+email "lady.nova@gmail.com"

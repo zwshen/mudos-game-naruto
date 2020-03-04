@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["adv":"advance $1 for $2","11":"get all from corpse","22":"sac corpse","con":"consider $*",])
+dbase (["last_from":"157.115.169.218","time_aged":786803,"creation_time":1246515762,"last_on":1247023125,"board_last_read":(["byron":1177702512,]),"body":"/obj/user","id":"jimmyvi","name":"¼Ú¦Ì§Æ´µ","channels":({"chat","rumor",}),])
+my_body 
+last_age_set 1247302550
+password "$1$43903157$bBZtgdFaz8DVEknxjTfuR."
+email "jimmy710912@msn.com"
+window (["terminal_type":"vt100","width":110,"height":38,])

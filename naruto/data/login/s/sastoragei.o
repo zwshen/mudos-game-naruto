@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["bal":"balance","sk":"skills $*","tr":"train cell activation from ka for $*","ct":"chat* 高舉「出售 $*」的牌子。","ep":"eat large ap pill",])
+dbase (["channels":({"chat","rumor","aucc",}),"id":"sastoragei","name":"櫻倉庫一號","last_on":1133503686,"creation_time":1128667591,"board_last_read":(["propose":1130207511,"chat":1116042164,"_MITE_":1130491067,"wizard":1132743373,]),"last_from":"181.199.92.61","body":"/obj/user","time_aged":193086,])
+password "$1$29067556$d.kkvsVj.vETSNB6kTHN6."
+email "a@b.c"

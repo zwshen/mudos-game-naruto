@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":23,"int":35,"dex":39,"str":23,])
+conditions (["apheal1":(["duration":191,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":15,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["birthday":1163852614,"time_aged":82005,"bank":445566,"level":20,"race":"human","age":25,"id":"lolita","guild":"muye","name":"®¦","class":"inferior","startroom":"/world/area/wizard/prac2","score":(["elevel":49,"kills":1262,"survive":5704,"combat exp":70825,]),"gender":"female","wimpy_dir":"north","title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills (["parry":24,"ninja":15,"continual hit":22,"heavy hit":61,"dodge":33,"force":6,"savage hit":61,"alter ego":40,"combat":56,])
+learned (["parry":7460,"ninja":893,"continual hit":1220,"heavy hit":40000,"dodge":13420,"force":0,"savage hit":40000,"alter ego":0,"combat":13280,])
+skill_map (["ninja":"alter ego",])
+skill_flag ([])
+skill_ability (["parry":4,"ninja":4,"continual hit":3,"heavy hit":4,"dodge":4,"force":2,"savage hit":4,"alter ego":4,"combat":4,])
+skill_require (["parry":8640,"ninja":1280,"continual hit":7260,"heavy hit":55815,"dodge":16335,"force":500,"savage hit":55815,"alter ego":8000,"combat":47040,])
+best_skill "savage hit"
+st_maximum (["ap":784,"mp":100,"hp":356,])
+st_current (["ap":174,"mp":100,"hp":325,])
+st_notify (["ap":1,"mp":10,"hp":5,])
+st_point (["skill":7,"attribute":0,"score":0,"learn":725,])
+st_quest (["level_d":([1:1,]),"prize":([4:1,]),"level_e":([1:1,2:1,]),])
+autoload ([16:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),15:(["amount":1,"file":"/world/eq/belt/hoop",]),14:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),13:(["amount":1,"file":"/world/eq/finger/copper",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),10:(["amount":1,"file":"/world/eq/leg/gai",]),9:(["amount":1,"file":"/world/eq/hand/fist",]),8:(["amount":1,"file":"/world/eq/face/cglasses",]),7:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),6:(["amount":1,"file":"/world/wp/radish",]),5:(["amount":1,"file":"/world/wp/radish",]),4:(["amount":1,"file":"/world/eq/wrist/jade",]),3:(["amount":1,"file":"/world/eq/armor/iron",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),1:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),0:(["amount":3,"file":"/world/drug/apill",]),])
+__flag ""

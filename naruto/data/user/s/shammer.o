@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":30,"dex":30,"str":30,])
+conditions (["apheal2":(["duration":2,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":35925,"title":"¤ì¸­§ø§ÔªÌ","name":"¿W©t¸t","gender":"male","guild":"muye","class":"inferior","birthday":1136808950,"bank":246061,"option":(["map_block":1,"map_unfreeze":1,]),"startroom":"/world/area/wizard/heal","nickname":"©t¿W[0;2m","id":"shammer","age":52,"score":(["elevel":91,"kills":4891,"combat exp":207737,"survive":29363,]),"level":20,"userid":"error","race":"human",])
+masters ([])
+apprentices ([])
+skills (["substitute":45,"force":44,"magic":1,"muye wind":1,"dodge":77,"parry":76,"heavy hit":80,"combat":80,"alter ego":40,"continual hit":50,"thousand year kill":4,"ninja":43,"muscle tank":1,"hundred palm":1,"savage hit":80,])
+learned (["substitute":6188,"force":1680,"dodge":74460,"parry":19720,"heavy hit":0,"combat":0,"alter ego":0,"continual hit":5933,"thousand year kill":45,"ninja":2482,"savage hit":0,])
+skill_map (["force":"thousand year kill","dodge":"substitute","ninja":"alter ego",])
+skill_flag ([])
+skill_ability (["substitute":3,"force":4,"dodge":4,"parry":5,"heavy hit":4,"combat":4,"alter ego":2,"continual hit":5,"thousand year kill":1,"ninja":4,"savage hit":4,])
+skill_require (["substitute":10125,"force":9680,"dodge":88935,"parry":86640,"heavy hit":96000,"combat":96000,"alter ego":8000,"continual hit":37500,"thousand year kill":180,"ninja":9245,"savage hit":96000,])
+best_skill "heavy hit"
+st_maximum (["ap":540,"mp":300,"hp":400,])
+st_current (["ap":454,"mp":300,"hp":450,])
+st_notify (["ap":0,"mp":0,"hp":0,])
+st_point (["skill":0,"score":0,"learn":1477,"attribute":0,])
+st_quest (["level_e":([4:1,]),"prize":([13:2,9:1,4:1,]),"level_d":([2:1,1:1,]),"level_p":([10:1,]),"level_c":([1:1,]),])
+autoload ([25:(["amount":1,"file":"/world/wp/radish",]),24:(["amount":1,"file":"/world/wp/radish",]),23:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),22:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),21:(["amount":1,"file":"/world/eq/armor/turtle",]),20:(["amount":1,"file":"/world/area/muye/npc/eq/dragon_boots",]),19:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),18:(["amount":1,"file":"/world/item/rod",]),17:(["amount":1,"file":"/world/eq/leg/gai",]),16:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),15:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),14:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),13:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),10:(["amount":1,"file":"/world/eq/finger/silver",]),9:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),8:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),7:(["amount":20,"file":"/world/drug/apill",]),6:(["amount":22,"file":"/world/drug/apill3",]),5:(["amount":20,"file":"/world/drug/mpill",]),4:(["amount":30,"file":"/world/area/echo/npc/item/fat",]),3:(["amount":27,"file":"/world/area/whale_island/npc/food/crab_meat",]),2:(["amount":23,"file":"/world/area/whale_island/npc/food/crab_roe",]),1:(["amount":9,"file":"/world/drug/hpill",]),0:(["amount":1,"file":"/world/area/echo/npc/item/powder",]),])
+__flag ""

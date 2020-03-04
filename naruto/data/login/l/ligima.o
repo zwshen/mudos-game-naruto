@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["3":"say 拔完了","4":"weed","2":"say 拔草","1":"accept 2",])
+dbase (["body":"/obj/user","channels":({"chat","rumor",}),"time_aged":3032,"last_on":1130065695,"creation_time":1129083581,"last_from":"54.136.163.218","board_last_read":(["propose":1129088273,"wizard":1129917561,]),"id":"ligima","name":"李濟馬",])
+password "$1$551779$5dEPlVWoQKxXVq71rp1rC/"
+email "yzngbolamac@yahoo.com.tw"

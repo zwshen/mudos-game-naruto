@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":32,"dex":38,"str":30,])
+conditions ([])
+dbase (["score":(["kills":1055,"survive":3232,"elevel":12,"combat exp":58292,]),"bank":5690,"title":"¤ì¸­§ø§ÔªÌ","id":"yach","name":"³ÇªN","birthday":1128870621,"level":20,"age":24,"race":"human","gender":"male","guild":"muye","class":"inferior","startroom":"/world/area/wizard/prac4","time_aged":15268,])
+masters ([])
+apprentices ([])
+skills (["dodge":21,"muye wind":18,"savage hit":48,"parry":14,"force":18,"continual hit":13,"combat":50,"heavy hit":49,"ninja":1,])
+learned (["muye wind":3135,"savage hit":21002,"dodge":5715,"force":76,"continual hit":2489,"parry":2128,"combat":15333,"heavy hit":34188,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["muye wind":5,"savage hit":4,"dodge":5,"force":4,"continual hit":4,"parry":5,"combat":5,"heavy hit":4,])
+skill_require (["muye wind":5415,"savage hit":36015,"dodge":7260,"force":1805,"continual hit":2940,"parry":3375,"combat":37500,"heavy hit":37500,])
+best_skill "combat"
+st_maximum (["mp":250,"hp":400,"ap":590,])
+st_current (["mp":250,"hp":400,"ap":48,])
+st_notify ([])
+st_point (["score":0,"learn":260,"skill":4,"attribute":0,])
+st_quest (["prize":([9:1,4:1,]),"or":([2:2,]),])
+autoload ([9:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),8:(["file":"/world/eq/face/fglasses","amount":1,]),7:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),6:(["file":"/world/eq/cloth/gray","amount":1,]),5:(["file":"/world/area/whale_island/npc/eq/rtail","amount":1,]),4:(["file":"/world/eq/head/rhino-shit","amount":1,]),3:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),2:(["file":"/world/eq/hand/fist","amount":1,]),1:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),0:(["file":"/obj/money/silver","amount":54,]),])
+__flag ""

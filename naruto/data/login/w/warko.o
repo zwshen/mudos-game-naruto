@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"creation_time":1243308921,"time_aged":655,"body":"/obj/user","name":"¥Ò¹ÇÅQ","id":"warko",])
+my_body 
+last_age_set 1243309501
+password "$1$52986415$i0MzCCcOG1D1D883oN/fk/"
+email "kk.warko@msa.hinet.net"
+window (["freeze":1,"terminal_type":"vt100","width":110,"height":37,])

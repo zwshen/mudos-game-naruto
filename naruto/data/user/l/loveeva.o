@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":22,])
+conditions ([])
+dbase (["target_score":(["combat exp":100,]),"title":"念能力者","birthday":1150580089,"time_aged":1608,"guild":"hunter","age":18,"id":"loveeva","name":"想","level":1,"race":"human","startroom":"/world/area/whale_island/school","score":(["survive":10,"combat exp":0,]),"gender":"male","class":"hxh_initial",])
+masters ([])
+apprentices ([])
+skills (["combat":1,"dodge":1,"parry":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""

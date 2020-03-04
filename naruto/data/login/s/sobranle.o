@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["0":"say 拔完了","gg":"sac corpse","z":"eat manto","zz":"eat chicken","9":"balance","1":"transfer 2","--":"advance check","00":"say 拔草","g":"get all from corpse","-":"say 溜完了",])
+dbase (["creation_time":1166312371,"body":"/obj/user","last_on":1176710767,"id":"sobranle","name":"洛東雙飛","time_aged":38816,"last_from":"91.157.168.218","channels":({"chat","rumor",}),"board_last_read":(["newbie":1136481011,"wizard":1170676893,]),])
+password "$1$51943029$/mM5bS2I3WzSXV8TbJNhd0"
+email "sobranle@ms29.hinet.net"

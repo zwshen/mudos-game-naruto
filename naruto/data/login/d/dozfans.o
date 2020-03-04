@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["dogout":"perform animal taming.call","si":"perform cell activation.ca","pb":"put all in bag","fs":"fight stake","dogst":"perform animal taming.state","dogin":"perform animal taming.leave","dsc":"score _MY_PET_","es":"eat chicken","dogf":"perform animal taming.feed $*","uup":"perform double physique.dp","gb":"get all from bag",])
+dbase (["last_from":"149.145.228.220","time_aged":3122012,"creation_time":1137084854,"last_on":1245923188,"board_last_read":(["bug":1186997961,"design":1154116971,"acme":1176111412,"wizard":1187329031,]),"body":"/obj/user","name":"±o§Q¥d","id":"dozfans","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1245923187
+password "$1$56075236$oHgxCOqFwnHDtQGN1qKGo0"
+email "@"
+window (["terminal_type":"zmud","width":152,"height":35,])

@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","time_aged":1285742,"last_on":1248937887,"last_from":"93.178.44.114","creation_time":1247652208,"id":"sephiro","name":"·æ«D¬¥",])
+my_body 
+last_age_set 1248937887
+password "$1$30524223$R23oaN68qaCCjX4dwzZ08/"
+email "s1213032@ncnu.edu.tw"
+window (["terminal_type":"zmud","freeze":1,"width":153,"height":50,])

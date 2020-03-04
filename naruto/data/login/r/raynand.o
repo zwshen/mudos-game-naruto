@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ss":"sac corpse","gc":"get all from corpse",])
+dbase (["board_last_read":(["newbie":1136481011,"wizard":1235586729,]),"time_aged":6602,"last_from":"122.55.105.59","last_on":1236087089,"body":"/obj/user","name":"¿ß¿ß­A¼C","id":"raynand","channels":({"chat","rumor",}),"creation_time":1236080538,])
+my_body 
+last_age_set 1236087089
+password "$1$84187756$vrpI7LsVfqSPqcpO6JLOD."
+email "element_cats@yahoo.com.tw"
+window (["terminal_type":"vt100","width":125,"height":46,])

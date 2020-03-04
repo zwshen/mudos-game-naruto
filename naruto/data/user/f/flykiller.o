@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":20,"str":22,"con":22,])
+conditions ([])
+dbase (["class":"inferior","guild":"muye","id":"flykiller","name":"¨¸­ß¤E°­","title":"¤ì¸­§ø§ÔªÌ","birthday":1130790478,"gender":"male","level":4,"age":21,"race":"human","bank":12123,"area_info":(["x_axis":14,"y_axis_old":11,"x_axis_old":14,"y_axis":11,]),"time_aged":38076,"startroom":"/world/area/wizard/wizard","target_score":(["combat exp":1600,]),"score":(["combat exp":1523,"survive":1658,"kills":147,"elevel":8,]),])
+masters ([])
+apprentices ([])
+skills (["combat":13,"parry":10,"dodge":13,])
+learned (["combat":1272,"parry":540,"dodge":888,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"parry":1,"dodge":1,])
+skill_require (["combat":2535,"parry":1500,"dodge":2535,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":280,])
+st_current (["mp":80,"hp":80,"ap":280,])
+st_notify ([])
+st_point (["learn":1025,"skill":5,"attribute":4,"score":0,])
+st_quest ([])
+autoload ([12:(["amount":1,"file":"/world/area/muye/npc/eq/dragon_boots",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),10:(["amount":1,"file":"/world/eq/hand/fist",]),9:(["amount":1,"file":"/world/eq/leg/gai",]),8:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),7:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),5:(["amount":1,"file":"/world/eq/armor/turtle",]),4:(["amount":1,"file":"/world/eq/finger/bronze",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),2:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),1:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["av":"advance $*","cd":"consider $*","rr":"remember $*","tf":"transfer $*","gf":"give franklin $*","gb2":"get $* from bag 2","ec":"eat essence of chicken","gm":"give maggie $*","wd":"withdraw $* silver","g":"get $* from corpse","ad":"advance $1 for $2","ebc":"eat big essence of chicken","gcc":"give cindy $*","de":"deposit $* silver","ts":"train strength from guan for $*","rm":"remove $*","td":"train dodge from guan for $*","pb":"put $* in bag","gb":"get $* from bag","kf":"kill fly","c":"charge $*","emc":"eat middle essence of chicken","iy":"identify $*","tl":"train solid from rao for $*","gk":"give kuroro $*","tp":"train parry from guan for $*","gh":"give hisoka $*",])
+dbase (["last_from":"31.169.112.59","time_aged":8279756,"last_on":1248084683,"creation_time":1239804945,"body":"/obj/user","board_last_read":(["wizard":1236774912,]),"name":"ºÛª÷","id":"ubokin","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1248084682
+password "$1$33768477$QRbzka3THEjxwjoUCJTUT."
+email "d41920@hotmail.com"
+window (["terminal_type":"zmud","width":173,"height":53,])

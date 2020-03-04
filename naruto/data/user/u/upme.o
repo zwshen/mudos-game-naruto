@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":22,"dex":38,"str":35,"con":25,])
+conditions (["apheal1":(["duration":179,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["class":"inferior","guild":"muye","id":"upme","name":"¤p½±","title":"¤ì¸­§ø§ÔªÌ","birthday":1138724604,"gender":"male","level":20,"race":"human","age":22,"bank":73061,"area_info":(["x_axis":12,"y_axis_old":25,"x_axis_old":12,"y_axis":25,]),"score":(["combat exp":40931,"survive":2365,"kills":34,"elevel":61,]),"startroom":"/world/area/wizard/wizard","time_aged":52990,])
+masters ([])
+apprentices ([])
+skills (["alter ego":1,"continual hit":9,"muye wind":1,"ninja":1,"heavy hit":33,"parry":5,"combat":33,"dodge":7,"force":19,"savage hit":33,"hundred palm":6,])
+learned (["heavy hit":16672,"continual hit":962,"combat":15988,"dodge":360,"parry":348,"force":1430,"savage hit":16672,"hundred palm":627,])
+skill_map (["ninja":"alter ego","force":"hundred palm",])
+skill_flag ([])
+skill_ability (["alter ego":1,"continual hit":3,"muye wind":1,"ninja":1,"heavy hit":3,"parry":1,"combat":3,"dodge":1,"force":3,"savage hit":4,"hundred palm":1,])
+skill_require (["heavy hit":19440,"continual hit":2160,"combat":19440,"dodge":1215,"parry":735,"force":2420,"savage hit":19440,"hundred palm":1215,])
+best_skill "savage hit"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":50,"ap":80,])
+st_notify (["ap":20,])
+st_point (["learn":117,"skill":18,"score":1000,"attribute":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([16:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),15:(["amount":1,"file":"/world/eq/leg/puttee",]),14:(["amount":1,"file":"/world/wp/dagger",]),13:(["amount":1,"file":"/world/item/rod",]),12:(["amount":1,"file":"/world/wp/radish",]),11:(["amount":17,"file":"/world/drug/apill",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),9:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),7:(["amount":1,"file":"/world/eq/feet/wind",]),6:(["amount":1,"file":"/world/eq/armor/turtle",]),5:(["amount":1,"file":"/world/eq/finger/silver",]),4:(["amount":1,"file":"/world/eq/face/cglasses",]),3:(["amount":1,"file":"/world/wp/pairrod",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),1:(["amount":1,"file":"/world/eq/head/rhino-shit",]),0:(["amount":1,"file":"/world/eq/neck/agate",]),])
+__flag ""

@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":37,"int":45,"dex":50,"str":33,])
+conditions (["mpheal2":(["name":"[45m¢Ð¯Å¤Ñ¦a³N[0;2m","duration":15,]),"apheal2":(["name":"[42m¢Ð¯Å´£¯«³N[0;2m","duration":14,]),"apheal3":(["name":"[42m¢Ï¯Å´£¯«³N[0;2m","duration":14,]),"apheal1":(["name":"[42m¢Ñ¯Å´£¯«³N[0;2m","duration":14,]),])
+dbase (["name":"¥T¤C","level":35,"race":"human","guild":"muye","gender":"male","startroom":"/world/area/wizard/academy","title":"¤ì¸­§ø§ÔªÌ","help":"cmds/action","bank":225171,"pet":(["food":945,"hp":1996,"ap":1950,"name":"§Ô¤ü","long":0,"level":40,"nickname":0,"exp":2042,"title":0,"mp":2000,]),"time_aged":63260,"id":"bennet","score":(["clevel":7,"combat exp":599604,"survive":52748,"dlevel":30,"elevel":112,"kills":16717,]),"class":"middle","target_score":(["clevel":5,"combat exp":612500,"dlevel":10,]),"vendetta":(["bandit":18,]),"age":62,"birthday":1147505597,])
+masters ([])
+apprentices ([])
+skills (["muye wind":22,"heavy hit":109,"ninja":59,"continual hit":65,"hundred palm":23,"force":80,"dodge":66,"double physique":40,"combat":102,"muscle tank":1,"savage hit":109,"alter ego":40,"parry":46,"thousand year kill":7,"animal taming":61,"cell activation":48,"substitute":31,])
+learned (["muye wind":475,"heavy hit":6830,"ninja":11550,"continual hit":31410,"hundred palm":6803,"force":1100,"dodge":58000,"double physique":75,"combat":39330,"savage hit":6830,"alter ego":175,"parry":25500,"thousand year kill":225,"animal taming":925,"cell activation":700,"substitute":3050,])
+skill_map (["dodge":"substitute","ninja":"cell activation","force":"thousand year kill",])
+skill_flag ([])
+skill_ability (["muye wind":2,"heavy hit":6,"ninja":4,"continual hit":4,"hundred palm":2,"force":5,"dodge":4,"double physique":3,"combat":6,"savage hit":6,"alter ego":3,"parry":4,"thousand year kill":1,"animal taming":4,"cell activation":4,"substitute":2,])
+skill_require (["muye wind":7935,"heavy hit":178215,"ninja":17405,"continual hit":63375,"hundred palm":8640,"force":32805,"dodge":65340,"double physique":8000,"combat":156060,"savage hit":178215,"alter ego":8000,"parry":31740,"thousand year kill":320,"animal taming":18605,"cell activation":11520,"substitute":4805,])
+best_skill "savage hit"
+st_maximum (["hp":1030,"ap":980,"mp":730,])
+st_current (["hp":1130,"ap":952,"mp":724,])
+st_notify (["hp":50,"ap":10,"mp":10,])
+st_point (["skill":10,"score":0,"learn":24631,"attribute":0,])
+st_quest (["prize":([13:1,4:1,9:1,]),])
+autoload ([20:(["file":"/world/area/sneakhole/npc/eq/belt","amount":1,]),19:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),18:(["file":"/world/broom/zong-broom","amount":1,]),17:(["file":"/world/area/bone/npc/wp/spinal","amount":1,]),16:(["file":"/world/area/bone/npc/wp/shield","amount":1,]),15:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),14:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),13:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),12:(["file":"/world/area/wild/npc/eq/snake_legging","amount":1,]),11:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),10:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),9:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),8:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),7:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),6:(["file":"/world/wp/radish","amount":1,]),5:(["file":"/world/area/sneakhole/npc/eq/spider_armor","amount":1,]),4:(["file":"/world/drug/apill","amount":82,]),3:(["file":"/world/drug/apill2","amount":82,]),2:(["file":"/world/drug/apill3","amount":82,]),1:(["file":"/world/drug/mpill2","amount":82,]),0:(["file":"/world/area/echo/npc/eq/ring","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({})

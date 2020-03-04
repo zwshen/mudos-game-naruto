@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["2":"perform ghost chop.attack on $*","ga":"get all","g":"get all from corpse $*","1":"perform chivy tiger.attack on $*","9":"perform wolf blade.flow",])
+dbase (["time_aged":8852181,"creation_time":1240132339,"id":"shubon","name":"Ây©R®v","channels":({"chat","rumor","aucc","news",}),"body":"/obj/user","board_last_read":(["propose":1211297114,"wizard":1239465932,]),"last_on":1248984430,"last_from":"172.128.115.59",])
+my_body 
+last_age_set 1248984430
+password "$1$80035878$XRP7.h8Qe6aCG7E.wZ0/c/"
+email "ss@ss.ss"
+window (["terminal_type":"zmud","width":134,"height":64,])

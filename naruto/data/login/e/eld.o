@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["pp":"perform hundred palm.attack on spider","off":"option map_unfreeze 1","sk":"skills","ga":"get all from corpse","ss":"sac corpse","pc":"perform cell activation.ca","h":"halt","on":"option map_unfreeze 0","gg":"get venom from corpse","ll":"look corpse","con":"consider $*",])
+dbase (["time_aged":17215814,"last_from":"20.237.110.123","last_on":1234955112,"channels":({"chat","rumor","aucc","news",}),"body":"/obj/user","creation_time":1152033258,"board_last_read":(["propose":1193820020,"ayumi":1120542699,"wizard":1201062195,"newbie":1136481011,"_MITE_":1188848484,]),"name":"©_Ëb","id":"eld",])
+my_body 
+last_age_set 1234955111
+password "$1$47473745$FnnJmAQTBMf0n0V6rBiVu0"
+email "godbless911@yahoo.com.tw"
+window (["width":80,"height":25,"terminal_type":"ANSI",])

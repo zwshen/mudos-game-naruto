@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wield2":"wield $* as lefthand","r2":"move 2","km":"kill turtle $*","+d":"advance dex","r1":"move 1","g":"get all from corpse","tk":"train muye wind from ka for $*","q2":"say ©Þ§¹¤F",".":"kill wolf $*","/":"kill dweller $1","q1":"say ©Þ¯ó","kd":"kill dweller","kp":"kill pig $1","z":"remember $1","bank":"balance","'":"kill mouse $*",",":"kill crab $1","2":"give tu 10 meat","1":"say À°¦£","sa":"sac corpse","sk":"skills","f":"fight $*",])
+dbase (["time_aged":353819,"board_last_read":(["newbie":1136481011,"wizard":1153360538,]),"creation_time":1163603852,"name":"Âr¾Ø","id":"fwio","body":"/obj/user","last_on":1164893928,"channels":({"chat","rumor","aucc",}),"last_from":"56.215.169.218",])
+password "$1$93173413$HS8N/S0jiqND08Gc4tcMr."
+email "fwio@yahoo.com.tw"

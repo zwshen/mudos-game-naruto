@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sc":"sac corpse","qq":"eat heal hp pill","g":"get all from corpse","r":"read new","on":"option map_unfreeze 0","aa":"tell garfield Ãö±¼","wa":"transfer $*","off":"option map_unfreeze 1","q":"eat heal ap pill",])
+dbase (["board_last_read":(["wizard":1189486950,]),"time_aged":2860535,"last_from":"162.13.120.59","last_on":1236558577,"body":"/obj/user","name":"¥[µá¿ß","id":"garfield","channels":({"chat","rumor","aucc","war",}),"creation_time":1188814882,])
+my_body 
+last_age_set 1236558577
+password "$1$26718288$FpGwOJ.fgeXPj67CzZd.q/"
+email "1@1.c"
+window (["terminal_type":"zmud","width":85,"height":23,])

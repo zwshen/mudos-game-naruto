@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":21,"str":39,])
+conditions ([])
+dbase (["target_score":(["elevel":7,"combat exp":28900,]),"wimpy_dir":"east","guild":"muye","name":"­w§b¤pµL¼Ä","class":"inferior","gender":"male","area_info":(["x_axis":14,"y_axis_old":31,"x_axis_old":14,"y_axis":31,]),"birthday":1142167681,"level":17,"race":"human","age":23,"recoverroom":"/world/area/wizard/guildhall","id":"grfent","startroom":"/world/area/wizard/wizard","bank":101589,"score":(["elevel":7,"survive":3779,"kills":20,"combat exp":27121,]),"title":"¤ì¸­§ø§ÔªÌ","time_aged":43396,])
+masters ([])
+apprentices ([])
+skills (["savage hit":20,"combat":37,"parry":3,"dodge":4,"muye wind":1,"ninja":1,"force":1,"cell activation":1,"alter ego":1,"continual hit":1,"heavy hit":37,"hundred palm":1,"animal taming":1,"double physique":1,])
+learned (["savage hit":0,"combat":19500,"parry":110,"heavy hit":4140,"dodge":110,])
+skill_map (["ninja":"alter ego",])
+skill_flag ([])
+skill_ability (["combat":5,"savage hit":1,"parry":2,"dodge":2,"ninja":3,"force":3,"heavy hit":3,"continual hit":1,])
+skill_require (["savage hit":6000,"combat":20535,"parry":135,"heavy hit":20535,"dodge":240,])
+best_skill "combat"
+st_maximum (["mp":315,"hp":165,"ap":260,])
+st_current (["mp":315,"hp":165,"ap":260,])
+st_notify (["ap":0,])
+st_point (["skill":14,"score":350,"learn":1766,"attribute":14,])
+st_quest (["prize":([9:1,]),"level_e":([2:1,]),])
+autoload ([5:(["file":"/obj/money/silver","amount":116,]),4:(["file":"/world/wp/rattan","amount":1,]),3:(["file":"/world/item/rod","amount":1,]),2:(["file":"/world/wp/radish","amount":1,]),1:(["file":"/world/drug/hpill2","amount":9,]),0:(["file":"/world/drug/apill2","amount":10,]),])
+__flag ""

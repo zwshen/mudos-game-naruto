@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["r1":"recall start","re2":"remember 2","gc":"get all from corpse","r2":"recall","m2":"move 2","mapon":"option map_unfreeze 0","q":"quest $1","gb":"get $1 from bag","oo":"outward yanlin $1","m1":"move 1","pb":"put $1 in bag","\\\\":"outward yanlin $*","rem":"remember","re1":"remember 1",])
+dbase (["channels":({"chat","rumor","aucc",}),"time_aged":4247538,"creation_time":1177882471,"last_from":"16.193.193.123","name":"»î­¸¾z´²","body":"/obj/user","last_on":1235029967,"id":"jiunlin",])
+my_body 
+last_age_set 1235029967
+password "$1$89691384$r1pypY2ABhaZmXfi7f5eQ."
+email "f8970022@yahoo.com.tw"
+window (["terminal_type":"vt100","freeze":1,"width":111,"height":39,])

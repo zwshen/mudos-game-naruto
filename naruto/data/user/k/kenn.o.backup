@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":23,"int":23,"dex":23,"str":27,])
+conditions ([])
+dbase (["time_aged":14438,"title":"念能力者","wimpy_dir":"west","name":"睡個大頭覺","gender":"male","guild":"hunter","birthday":1128511052,"class":"hxh_initial","bank":51411,"option":([]),"recoverroom":"/u/t/tmr/workroom","startroom":"/u/t/tmr/workroom","id":"kenn","score":(["elevel":9,"kills":118,"combat exp":454578,"survive":70665,]),"age":78,"level":20,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["strength":1,"dodge":17,"parry":14,"heavy hit":100,"solid":1,"combat":101,"body strength":1,"finger-guessing fist":1,"continual hit":41,"savage hit":100,])
+learned (["combat":14,"strength":0,"dodge":1708,"continual hit":13454,"parry":2002,"heavy hit":149142,"savage hit":148582,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["strength":1,"dodge":2,"parry":2,"heavy hit":6,"solid":1,"combat":6,"body strength":1,"finger-guessing fist":1,"continual hit":3,"savage hit":6,])
+skill_require (["combat":153015,"strength":20,"dodge":4335,"continual hit":25215,"parry":3375,"heavy hit":150000,"savage hit":150000,])
+best_skill "combat"
+st_maximum (["ap":300,"mp":281,"hp":300,])
+st_current (["ap":300,"mp":281,"hp":300,])
+st_notify (["ap":30,"hp":30,])
+st_point (["skill":11,"score":359,"learn":2297,"attribute":24,])
+st_quest ([])
+autoload ([17:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),16:(["amount":1,"file":"/world/area/old_forest/npc/wp/lance",]),15:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),14:(["amount":1,"file":"/world/eq/finger/bronze",]),13:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),12:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),10:(["amount":1,"file":"/world/eq/face/cglasses",]),9:(["amount":1,"file":"/world/area/old_forest/npc/eq/monkey_arm",]),8:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_hand",]),7:(["amount":1,"file":"/world/eq/head/redhood",]),6:(["amount":1,"file":"/world/area/lake/npc/eq/shell",]),5:(["amount":97,"file":"/obj/money/silver",]),4:(["amount":4,"file":"/world/drug/hpill2",]),3:(["amount":2,"file":"/world/drug/apill2",]),2:(["amount":1,"file":"/world/area/wild/npc/wp/blade",]),1:(["amount":1,"file":"/world/wp/radish",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

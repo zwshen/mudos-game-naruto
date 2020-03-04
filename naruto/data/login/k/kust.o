@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["board_last_read":(["newbie":1123023896,"acme":1115745789,]),"time_aged":553,"last_from":"165.78.130.220","last_on":1237277359,"body":"/obj/user","name":"¤p¥d","id":"kust","channels":({"chat","rumor",}),"creation_time":1237276828,])
+my_body 
+last_age_set 1237277359
+password "$1$59068727$nqowXPFtar7nOR61F8yW20"
+email "a@"
+window (["terminal_type":"vt100","width":74,"height":34,])

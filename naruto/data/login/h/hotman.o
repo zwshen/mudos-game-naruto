@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["rec":"recall","pq":"perform ninja.leave","sa":"sac corpse","sk":"skills","ps":"perform ninja.state","ge":"get all from corpse","t":"time","pd":"perform ninja.call","ga":"get all from bag","pa":"put all in bag",])
+dbase (["time_aged":4169569,"last_on":1145168117,"id":"hotman","name":"«¢¯S°Ò","board_last_read":(["chat":1143174206,"newbie":1136481011,"wizard":1143254649,"_MITE_":1139709536,"propose":1141838792,]),"last_from":"149.32.231.125","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1132641127,])
+password "$1$32865542$cpOxURFNL3v4GfBFHZi2B/"
+email "@"

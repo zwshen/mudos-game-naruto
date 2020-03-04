@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["2":"perform fight body.check","1":"perform kick haze.kick on $*",])
+dbase (["time_aged":2050704,"creation_time":1246646534,"name":"¬î¬õ","id":"fallred","channels":({"chat","rumor",}),"body":"/obj/user","board_last_read":(["design":1154116971,"wizard":1239465932,]),"last_on":1248697214,"last_from":"87.177.121.122",])
+my_body 
+last_age_set 1248697213
+password "$1$54262762$8ILQ9uWd1MlDW.J9SPLqu/"
+email "1@1"
+window (["freeze":1,"terminal_type":"vt100","width":125,"height":47,])

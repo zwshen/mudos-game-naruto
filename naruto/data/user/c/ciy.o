@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":32,])
+conditions ([])
+dbase (["time_aged":84652,"level":7,"race":"human","age":73,"target_score":(["combat exp":4900,]),"name":"¦è®¦","guild":"muye","gender":"male","title":"¤ì¸­§ø§ÔªÌ","area_info":(["x_axis":15,"y_axis_old":4,"x_axis_old":15,"y_axis":4,]),"birthday":1139632746,"option":([]),"id":"ciy","recoverroom":"/world/area/muye/inn","class":"inferior","nickname":"fish[0;2m","startroom":"/world/area/wizard/wizard","score":(["combat exp":3604,"survive":62635,]),"bank":357097,])
+masters ([])
+apprentices ([])
+skills (["dodge":21,"parry":15,"combat":1,])
+learned (["dodge":1490,"parry":2510,"combat":60,])
+skill_map (["combat":0,])
+skill_flag ([])
+skill_ability (["dodge":4,"parry":3,"combat":1,])
+skill_require (["dodge":6615,"parry":3375,"combat":135,])
+best_skill "dodge"
+st_maximum (["ap":130,"mp":80,"hp":330,])
+st_current (["ap":130,"mp":80,"hp":330,])
+st_notify (["ap":10,"hp":10,])
+st_point (["skill":6,"attribute":2,"score":50,"learn":700,])
+st_quest (["level_c":([1:1,]),])
+autoload ([])
+__flag ""

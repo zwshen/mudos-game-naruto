@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":23,"int":20,"dex":23,"str":23,])
+conditions ([])
+dbase (["name":"»a¤ë¼é","level":5,"recoverroom":"/world/area/whale_island/mite_hotel","race":"human","guild":"muye","gender":"male","startroom":"/world/area/whale_island/hock","title":"¤ì¸­§ø§ÔªÌ","bank":11405,"help":"quest/0/","time_aged":39631,"score":(["survive":250,"kills":72,"elevel":5,]),"id":"ushio","class":"inferior","age":18,"birthday":1174899130,])
+masters ([])
+apprentices ([])
+skills (["dodge":9,"savage hit":1,"parry":7,"heavy hit":1,"combat":10,"continual hit":1,])
+learned (["dodge":172,"parry":92,"combat":248,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"savage hit":1,"parry":1,"heavy hit":1,"combat":1,"continual hit":1,])
+skill_require (["dodge":405,"parry":245,"combat":500,])
+best_skill "combat"
+st_maximum (["hp":80,"ap":330,"mp":80,])
+st_current (["hp":80,"ap":330,"mp":80,])
+st_notify (["hp":30,])
+st_point (["skill":4,"score":0,"learn":55,"attribute":1,])
+st_quest (["level_e":([1:1,]),])
+autoload ([8:(["file":"/world/wp/sword","amount":1,]),7:(["file":"/world/wp/dagger","amount":1,]),6:(["file":"/world/area/whale_island/npc/eq/rears","amount":1,]),5:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),4:(["file":"/world/drug/noodle","amount":1,]),3:(["file":"/world/item/rod","amount":1,]),2:(["file":"/world/area/wild/npc/eq/wolf_fur","amount":1,]),1:(["file":"/world/area/wild/npc/eq/wolf_tail","amount":1,]),0:(["file":"/world/area/wild/npc/eq/wolf_feet","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/try_little_skill.c":(["item":([]),"killed":(["/world/area/whale_island/npc/rabbit.c":2,"/world/area/wild/npc/smallwolf.c":0,"/world/area/old_forest/npc/monkeyc.c":0,"/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallsnake.c":0,]),]),"/world/quest/kbug.c":(["item":([]),"killed":(["/world/area/muye/npc/cockroach.c":12,]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/xie.c",})

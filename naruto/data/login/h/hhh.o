@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["1111":"perform chamber fish.state","11":"perform chamber fish.destruct","gb":"give six abalone","hunter":"tell hhh 皇帝emperor(強化) 兒子son(放出) 瑪莎mahttias(變化冰) 基加美修gilgamesh(具現)","22":"perform eaves family.destruct","111":"perform chamber fish.feed","ret":"recall start","sk":"skills","newbie":"say say 報名say 模擬考,請分別用answer來回答...1-4, 2-2, 3-3, 4-2, 5-4, 6-4, 7-4, 8-3, 9-3, 10-2","mm":"move 2","ad":"help advance","1":"perform chamber fish.fish","re":"recall","z":"sac corpse","m":"move 1","2":"perform eaves family.family","x":"get all from corpse",])
+dbase (["time_aged":8476986,"signature":"就是愛現","body":"/obj/user","board_last_read":(["bug":1151492395,"design":1154116971,"acme":1174556454,"chat":1154117225,"_MITE_":1241331390,"newbie":1136481011,"propose":1172363532,"wizard":1239465932,]),"name":"獵現","id":"hhh","channels":({"chat","rumor","aucc","music",}),"last_on":1242552905,"last_from":"144.180.6.174","profile":"海拔五千公尺以上可可西里，方圓八點三萬平方公里，高寒缺氧，常年大風。被當地人稱做「生命的禁區」，因為人跡罕至使得可可西里成為人類的禁地。可可西里附近居民深信傳說中的守護神獵現跟聖豹\一族會永遠守護卡卡西里。狩獵集團曾派出五千多個精英獵人佔領卡卡西里，卻被一個獵人剿滅的紀錄，因此數千年以來狩獵集團一直對這個可畏的獵人敬而遠之。","creation_time":1130712364,])
+my_body 
+last_age_set 1242606654
+password "$1$34763278$lhLVw3HVAUe7zCLZHQA9b0"
+email "@"
+window (["terminal_type":"zmud","width":153,"height":66,])

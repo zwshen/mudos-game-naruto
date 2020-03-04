@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ps":"perform psychical bullet.shoot on $*","ds":"deposit $* silver","uw":"unwield blade","ww":"wield axe as twohanded","c":"consider $*","sa":"sac corpse $*","de":"deposit $* silver","g":"get all from corpse $*","sap":"eat chicken",])
+dbase (["time_aged":1531138,"body":"/obj/user","board_last_read":(["bug":1189952159,"design":1154116971,"_MITE_":1188848484,"newbie":1136481011,"propose":1237364643,"wizard":1239465932,]),"id":"samson","name":"±j­ô","last_on":1239722660,"channels":({"chat","rumor","war","aucc",}),"last_from":"48.227.74.211","creation_time":1189747203,])
+my_body 
+last_age_set 1239993985
+password "$1$98291846$1t2QkvCJLcKCbH/qfP78N/"
+email "s5866195@yahoo.com.tw"
+window (["terminal_type":"zmud","width":121,"height":44,])

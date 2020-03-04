@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w3":"order dog to wield blade as righthand","w4":"order dog to wield sword as lefthand","c":"charge $*","p2":"perform ninja.ca on supo","sa":"sac corpse","p1":"perform double physique.dp","p":"perform animal taming.$*","pp":"perform ninja.ca","w2":"wield green dragon sword as lefthand","w5":"order dog to wear all","g":"get all from corpse $*","tunemap":"option map_hidden $*","cb":"charge bandit","rem":"remember $*","cx":"charge xoanon","km":"kill mindflayer","w1":"wield blade as righthand",])
+dbase (["time_aged":63219204,"creation_time":1128425648,"name":"Ä¬´¶","id":"supo","channels":({"chat","rumor","aucc","news","war",}),"body":"/obj/user","board_last_read":(["bug":1246069199,"newbie":1136481011,"propose":1245913026,"wizard":1239465932,]),"last_on":1248492680,"last_from":"248.64.161.118",])
+my_body 
+last_age_set 1249298290
+password "$1$56231581$U8yKFQ45CBc5.BnUCBUGn."
+email "rsk030@yahoo.com.tw"
+window (["terminal_type":"zmud","width":152,"height":31,])

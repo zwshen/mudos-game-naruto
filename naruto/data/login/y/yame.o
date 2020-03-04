@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ma1":"option map_hidden 0","wg2":"wield gao yuan sword as lefthand","0":"perform fight body.check","wg1":"wield gao yuan sword 2","3":"use mp help","1":"use ap help","lc":"look corpse","gub":"get all from bag","ge":"get all from corpse","pub":"put all in bag","ma2":"option map_hidden 1","mm2":"option map_unfreeze 1","ch":"charge $*","9":"perform body gang.defence","id":"identify $*","sa":"sac corpse","mm1":"option map_unfreeze 0","2":"use hp help",])
+dbase (["last_from":"20.4.134.140","time_aged":12756437,"last_on":1246654552,"creation_time":1186896811,"body":"/obj/user","board_last_read":(["newbie":1136481011,"bug":1238077912,"_MITE_":1188848484,"design":1154116971,"propose":1237364643,"chat":1237659377,"wizard":1238125681,]),"id":"yame","name":"§r«}","channels":({"chat","rumor","war","aucc","news",}),])
+my_body 
+last_age_set 1247299088
+password "$1$52809482$fpCWN9txcKjY7C4lp9y2D."
+email "yame@pc.com.ww"
+window (["terminal_type":"VT100","width":125,"height":46,])

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["gl":"get all from bag $*","di":"disable combat","ws":"wield sword","re":"recall","wp":"query -wp $*","sa":"sac corpse $*","eq":"query -eq $*","kkk":"perform thousand year kill.attack on $*","ps":"perform alter ego.shadow","ut":"unwield tooth $*","fe":"perform animal taming.feed $*","p":"put all in bag $*","st":"perform animal taming.state","ks":"kill snake $*","dp":"perform ninja.dp","lc":"look corpse $*","ca":"perform animal taming.call","le":"perform animal taming.leave","g":"get all from corpse $*","ko":"kill owl $*","at":"team talk $*","pd":"perform alter ego.destruct","m0":"option map_unfreeze 0","ec":"eat chicken $*","mh0":"option map_hidden 0","geta":"get all from corpse $*","km":"kill mouse $*","m1":"option map_unfreeze 1","ka":"kill anemone $*","mh1":"option map_hidden 1","kc":"kill clown $*",])
+dbase (["time_aged":39744235,"signature":"","creation_time":1137341234,"name":"§ÂÄ_¨©","id":"justine","body":"/obj/user","channels":({"aucc","rumor",}),"board_last_read":(["newbie":1136481011,"_MITE_":1130000043,"propose":1148557370,"ayumi":1120542699,"chat":1154117225,"bug":1212892283,"design":1154116971,"wizard":1237724585,]),"last_on":1249004122,"profile":"","last_from":"116.177.193.123",])
+my_body 
+last_age_set 1249004121
+password "$1$78309846$xGlaVL2TSHTbc5JQnhYGO1"
+email "."
+window (["terminal_type":"vt100","width":110,"height":27,])

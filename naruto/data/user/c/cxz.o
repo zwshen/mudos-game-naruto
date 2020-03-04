@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":27,"int":55,"dex":28,"str":20,])
+conditions (["ca":(["heal":24,"dex":6,"str":6,"name":"[1;36m²Ó­M¬¡¤Æ[0;2m","duration":7,]),])
+dbase (["time_aged":47465,"long":"¤Ñªü~ ªá¿úªá¯u¥û","guild":"muye","name":"¤ü©]¤e","title":"¤ì¸­§ø§ÔªÌ","gender":"male","pet":(["long":0,"exp":6976,"food":894,"mp":1400,"name":"§Ô¤ü","hp":1400,"ap":1316,"title":0,"nickname":0,"level":28,]),"birthday":1135093139,"class":"middle","id":"cxz","recoverroom":"/world/area/muye/inn","startroom":"/world/area/wizard/newbie","score":(["elevel":11,"combat exp":648853,"kills":21004,"survive":20208,"dlevel":9,]),"target_score":(["combat exp":450000,"dlevel":10,]),"bank":157913,"nickname":"[1;36mÁÈ¿ú¤¤...[0;2m","age":44,"level":30,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":131,"animal taming":80,"cell activation":123,"parry":99,"heavy hit":149,"magic":1,"combat":122,"substitute":1,"force":1,"savage hit":149,"ninja":62,"continual hit":99,])
+learned (["dodge":62464,"animal taming":4169,"cell activation":2976,"parry":77236,"heavy hit":107520,"combat":93184,"savage hit":111584,"ninja":7040,"continual hit":981021,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["dodge":7,"animal taming":5,"cell activation":7,"parry":6,"heavy hit":8,"combat":7,"savage hit":9,"ninja":4,"continual hit":6,])
+skill_require (["dodge":257415,"animal taming":32000,"cell activation":75645,"parry":1000000,"heavy hit":2000000,"combat":223260,"savage hit":2000000,"ninja":19220,"continual hit":1000000,])
+best_skill "savage hit"
+st_maximum (["ap":700,"mp":300,"hp":950,])
+st_current (["ap":700,"mp":221,"hp":1000,])
+st_notify (["ap":10,"hp":50,])
+st_point (["attribute":20,"skill":1,"score":290,"learn":17811,])
+st_quest (["level_e":([1:1,]),"level_d":([1:1,]),])
+autoload ([23:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),22:(["file":"/world/area/old_forest/npc/item/fruit4","amount":11,]),21:(["file":"/world/eq/head/rhino-shit","amount":1,]),20:(["file":"/world/area/sneakhole/npc/eq/pants","amount":1,]),19:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),18:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),17:(["file":"/obj/money/silver","amount":119,]),16:(["file":"/world/drug/ap_heal2","amount":34,]),15:(["file":"/world/wp/radish","amount":1,]),14:(["file":"/world/wp/radish","amount":1,]),13:(["file":"/world/eq/leg/gai","amount":1,]),12:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),11:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),10:(["file":"/world/eq/finger/silver","amount":1,]),9:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),8:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),7:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),6:(["file":"/world/area/sneakhole/npc/eq/spider_armor","amount":1,]),5:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),4:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),3:(["file":"/world/drug/apill","amount":11,]),2:(["file":"/world/drug/apill3","amount":10,]),1:(["file":"/world/drug/hpill","amount":11,]),0:(["file":"/world/drug/apill2","amount":11,]),])
+__flag ""

@@ -1,0 +1,25 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["score":(["kills":1,"survive":10,]),"time_aged":2056,"age":18,"name":"®É¶¡","id":"time","long":"hihihi","level":1,"birthday":1246756551,"gender":"male","help":"cmds/others","class":"commoner","race":"human","startroom":"/world/area/wizard/elf_door",])
+masters ([])
+apprentices ([])
+skills (["dodge":2,"combat":4,])
+learned (["dodge":14,"combat":32,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":20,"combat":80,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":76,"ap":0,])
+st_notify ([])
+st_point (["score":50,"learn":132,"skill":0,"attribute":2,])
+st_quest ([])
+autoload ([1:(["amount":1,"file":"/world/wp/newblade",]),0:(["amount":82,"file":"/obj/money/silver",]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/new_fight.c",})
+level_scope ({75,150,225,300,375,})
+pro_sk ([])
+camp ([])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["t":"train $* from hang for 30","con":"consider $*","a":"train $* from hang for 1","id":"identify $*","f":"fight $*",])
+dbase (["time_aged":343432,"last_on":1151835593,"body":"/obj/user","channels":({"chat","rumor",}),"id":"kagetora","name":"Äå·¬»R","creation_time":1151830568,"last_from":"15.221.104.59",])
+password "$1$72491691$/pNRDS8ERm.TGexbMp3ZJ."
+email "loterdia@msn.com"

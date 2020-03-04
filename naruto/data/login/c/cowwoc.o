@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["0":"get all from corpse","9":"sac corpse","1":"train combat from ka for 100",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1206860618,"name":"¤û","id":"cowwoc","time_aged":1575,])
+password "$1$19957873$.Md3/aP/YQxzOJWsCOTXr0"
+email "@"

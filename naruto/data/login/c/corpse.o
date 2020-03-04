@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["db":"perform ninja.db","dp":"perform ninja.dp","g":"get all from corpse $*",])
+dbase (["channels":({"chat","rumor",}),"last_from":"173.144.217.61","creation_time":1133582307,"id":"corpse","name":"«ÍÊ^","last_on":1135596486,"body":"/obj/user","board_last_read":(["wizard":1132743373,"ayumi":1120542699,"tmr":1132472571,"acme":1123819024,"_MITE_":1131786296,]),"time_aged":1183519,])
+password "$1$81497415$4jUI1b4sIx6DHV/P/escS/"
+email "pili_marry@yahoo.com.tw"

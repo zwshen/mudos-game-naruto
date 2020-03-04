@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":50,"str":30,"con":20,"int":20,])
+conditions ([])
+dbase (["level":31,"race":"human","option":(["map_unfreeze":1,]),"birthday":1129644667,"name":"­·¨à","target_score":(["dlevel":10,"clevel":1,"combat exp":480500,]),"gender":"male","recoverroom":"/world/area/wizard/guildhall","title":"¤ì¸­§ø§ÔªÌ","bank":36354,"score":(["dlevel":12,"elevel":154,"clevel":0,"survive":1381763,"combat exp":7468650,"kills":5015,]),"startroom":"/world/area/wizard/guildhall","guild":"muye","class":"middle","time_aged":84053,"id":"cjtumax","nickname":"¤Ñ¤Ñ±¾°²¤H[0;2m","age":314,"wimpy_dir":"south",])
+masters ([])
+apprentices ([])
+skills (["continual hit":60,"dodge":200,"alter ego":80,"parry":200,"substitute":7,"force":54,"combat":99,"heavy hit":121,"ninja":67,"savage hit":121,"thousand year kill":1,])
+learned (["continual hit":0,"dodge":0,"alter ego":0,"parry":0,"substitute":70,"force":0,"combat":22120,"heavy hit":23884,"ninja":15162,"savage hit":23884,"thousand year kill":0,])
+skill_map (["ninja":"alter ego",])
+skill_flag (["combat":32768,])
+skill_ability (["continual hit":3,"dodge":10,"alter ego":4,"parry":10,"substitute":1,"force":4,"combat":5,"heavy hit":7,"ninja":4,"savage hit":7,"thousand year kill":1,])
+skill_require (["continual hit":54000,"dodge":600000,"alter ego":32000,"parry":600000,"substitute":320,"force":15125,"combat":1000000,"heavy hit":219615,"ninja":22445,"savage hit":219615,"thousand year kill":20,])
+best_skill "parry"
+st_maximum (["mp":280,"hp":300,"ap":500,])
+st_current (["mp":280,"hp":300,"ap":274,])
+st_notify (["mp":15,"hp":0,"ap":0,])
+st_point (["attribute":33,"skill":6,"score":1360,"learn":3540,])
+st_quest (["level_c":([1:1,]),"prize":([9:1,]),])
+autoload ([26:(["file":"/world/area/wild/npc/item/snake_skin","amount":20,]),25:(["file":"/world/drug/hpill","amount":5,]),24:(["file":"/world/joke/nice_guy","amount":1,]),23:(["file":"/world/joke/super_nice_guy","amount":1,]),22:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),21:(["file":"/world/area/whale_island/npc/food/crab_roe","amount":1,]),20:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),19:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),18:(["file":"/world/wp/radish","amount":1,]),17:(["file":"/world/wp/radish","amount":1,]),16:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),15:(["file":"/world/eq/head/rhino-shit","amount":1,]),14:(["file":"/obj/money/silver","amount":2883,]),13:(["file":"/world/area/muye/npc/eq/leaf_hat","amount":1,]),12:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),11:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),10:(["file":"/world/eq/finger/bronze","amount":1,]),9:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),8:(["file":"/world/eq/armor/turtle","amount":1,]),7:(["file":"/world/eq/leg/gai","amount":1,]),6:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),5:(["file":"/world/eq/hand/fist","amount":1,]),4:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),3:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),2:(["file":"/world/eq/wrist/rubber","amount":1,]),1:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),0:(["file":"/world/area/muye/npc/eq/dragon_boots","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({})

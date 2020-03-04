@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":29937,"title":"¤ì¸­§ø§ÔªÌ","bank":10492,"name":"ºaÄ£","gender":"male","option":(["map_unfreeze":1,]),"class":"inferior","birthday":1150296297,"guild":"muye","age":22,"id":"pride","level":20,"race":"human","startroom":"/world/area/muye/hockshop","score":(["survive":2629,"elevel":10,"combat exp":45376,"kills":145,]),"pet":(["title":0,"nickname":0,"mp":400,"name":"§Ô¤ü","food":725,"hp":400,"level":8,"ap":400,"exp":120,"long":0,]),])
+masters ([])
+apprentices ([])
+skills (["combat":49,"animal taming":41,"savage hit":48,"dodge":10,"ninja":20,"heavy hit":48,"continual hit":13,"parry":8,])
+learned (["combat":9576,"animal taming":292,"savage hit":30492,"dodge":742,"ninja":0,"heavy hit":30492,"continual hit":2212,"parry":1176,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["combat":4,"savage hit":4,"animal taming":4,"dodge":2,"ninja":1,"heavy hit":4,"continual hit":2,"parry":2,])
+skill_require (["combat":36015,"animal taming":8405,"savage hit":34560,"dodge":1500,"ninja":2000,"heavy hit":34560,"continual hit":2535,"parry":1215,])
+best_skill "combat"
+st_maximum (["ap":230,"mp":80,"hp":280,])
+st_current (["ap":230,"mp":80,"hp":280,])
+st_notify ([])
+st_point (["attribute":40,"skill":17,"score":650,"learn":1329,])
+st_quest (["level_e":([1:1,]),])
+autoload ([8:(["amount":1,"file":"/world/eq/head/rhino-shit",]),7:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),6:(["amount":1,"file":"/world/area/whale_island/npc/eq/underpants",]),5:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),4:(["amount":1,"file":"/world/item/rod",]),3:(["amount":106,"file":"/world/drug/apill",]),2:(["amount":106,"file":"/world/drug/apill2",]),1:(["amount":80,"file":"/world/drug/apill3",]),0:(["amount":1,"file":"/world/broom/broom",]),])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":32,"str":20,])
+conditions ([])
+dbase (["time_aged":46395,"title":"©À¯à¤OªÌ","name":"©_Ëb","gender":"male","guild":"hunter","birthday":1139386314,"class":"hxh_initial","bank":6573,"area_info":(["x_axis":15,"y_axis_old":11,"x_axis_old":15,"y_axis":11,]),"target_score":(["combat exp":3600,]),"startroom":"/world/area/wild/wild","nickname":"°­¤§¯P±þ[0;2m","id":"boss","score":(["kills":332,"combat exp":3193,"survive":200,]),"age":18,"level":6,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":17,"dodge":16,"continual hit":1,"parry":11,"heavy hit":1,"savage hit":1,])
+learned (["combat":910,"dodge":3630,"parry":1370,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":4,"dodge":6,"parry":2,])
+skill_require (["combat":4335,"dodge":3840,"parry":1815,])
+best_skill "combat"
+st_maximum (["ap":310,"mp":80,"hp":150,])
+st_current (["ap":164,"mp":80,"hp":78,])
+st_notify ([])
+st_point (["skill":0,"score":0,"learn":108,"attribute":0,])
+st_quest ([])
+autoload ([9:(["amount":2,"file":"/obj/money/silver",]),8:(["amount":1,"file":"/world/area/wild/npc/wp/snake_tooth",]),7:(["amount":1,"file":"/world/area/old_forest/npc/eq/monkey_leather",]),6:(["amount":1,"file":"/world/area/whale_island/npc/eq/rears",]),5:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),4:(["amount":5,"file":"/world/area/muye/npc/item/cr_egg",]),3:(["amount":9,"file":"/world/area/muye/npc/item/cr_feet",]),2:(["amount":13,"file":"/world/area/muye/npc/item/cr_antenna",]),1:(["amount":1,"file":"/world/area/wild/npc/item/snake_gall",]),0:(["amount":2,"file":"/world/area/wild/npc/item/snake_skin",]),])
+__flag ""

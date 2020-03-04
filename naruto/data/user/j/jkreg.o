@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":63,"int":31,"dex":29,"str":30,])
+conditions (["apheal1":(["duration":49,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":49,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),"apheal3":(["duration":31,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),])
+dbase (["title":"¤ì¸­§ø§ÔªÌ","target_score":(["clevel":1,"combat exp":480500,"dlevel":10,]),"time_aged":34457,"bank":2359631,"name":"¤d®V","wimpy_dir":"south","gender":"female","class":"middle","area_info":(["x_axis":37,"y_axis_old":21,"x_axis_old":37,"y_axis":21,]),"birthday":1143891046,"nickname":"[5m[1;37m¤f­ü¤p¤p§Ô[0;2m","guild":"muye","age":39,"id":"jkreg","recoverroom":"/world/area/muye/inn","level":31,"race":"human","startroom":"/world/area/muye/muye","score":(["survive":14906,"clevel":15,"elevel":10,"combat exp":461047,"kills":667,"dlevel":29,]),])
+masters ([])
+apprentices ([])
+skills (["savage hit":100,"alter ego":1,"continual hit":41,"cell activation":19,"heavy hit":100,"parry":25,"hundred palm":1,"combat":100,"muye wind":1,"animal taming":1,"dodge":18,"substitute":1,"magic":1,"force":1,"ninja":17,"double physique":1,])
+learned (["savage hit":45259,"alter ego":0,"continual hit":22449,"cell activation":0,"heavy hit":45274,"parry":848,"hundred palm":15,"combat":71701,"muye wind":0,"animal taming":0,"dodge":3248,"substitute":0,"magic":0,"force":0,"ninja":1190,"double physique":0,])
+skill_map (["ninja":"cell activation","force":"hundred palm",])
+skill_flag ([])
+skill_ability (["savage hit":6,"alter ego":1,"continual hit":5,"cell activation":3,"heavy hit":6,"parry":5,"hundred palm":1,"combat":6,"muye wind":1,"animal taming":1,"dodge":3,"substitute":1,"magic":1,"force":1,"ninja":2,"double physique":1,])
+skill_require (["savage hit":150000,"alter ego":20,"continual hit":25215,"cell activation":2000,"heavy hit":150000,"parry":9375,"hundred palm":60,"combat":150000,"muye wind":60,"animal taming":20,"dodge":4860,"substitute":20,"magic":20,"force":20,"ninja":1620,"double physique":20,])
+best_skill "combat"
+st_maximum (["ap":500,"mp":400,"hp":950,])
+st_current (["ap":500,"mp":400,"hp":950,])
+st_notify (["ap":0,])
+st_point (["attribute":0,"skill":18,"score":490,"learn":0,])
+st_quest ([])
+autoload ([27:(["amount":69,"file":"/world/drug/hp_heal2",]),26:(["amount":3,"file":"/world/area/wild/npc/item/bear_paw",]),25:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),24:(["amount":1,"file":"/world/wp/radish",]),23:(["amount":1,"file":"/world/wp/radish",]),22:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),21:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),20:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),19:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),18:(["amount":1,"file":"/world/eq/hand/fist",]),17:(["amount":1,"file":"/world/eq/leg/gai",]),16:(["amount":1,"file":"/world/area/muye/npc/eq/ghost_boots",]),15:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),14:(["amount":1,"file":"/world/area/sneakhole/npc/eq/belt",]),13:(["amount":1,"file":"/world/area/sneakhole/npc/eq/guard",]),12:(["amount":1,"file":"/world/area/bone/npc/wp/spinal",]),11:(["amount":1,"file":"/world/area/echo/npc/eq/ring",]),10:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),9:(["amount":1,"file":"/world/drug/mpill3",]),8:(["amount":11,"file":"/world/drug/mp_heal2",]),7:(["amount":2,"file":"/world/area/thorn_pine/npc/item/ghost_pill",]),6:(["amount":4,"file":"/world/drug/ap_heal",]),5:(["amount":1,"file":"/world/drug/hpill4",]),4:(["amount":1,"file":"/world/drug/hp_heal",]),3:(["amount":7,"file":"/world/drug/ap_heal2",]),2:(["amount":174,"file":"/world/drug/apill3",]),1:(["amount":152,"file":"/world/drug/apill2",]),0:(["amount":151,"file":"/world/drug/apill",]),])
+__flag ""

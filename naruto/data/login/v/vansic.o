@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["www":"wield radish as lefthand","d4":"perform animal taming.leave","maphide":"option map_hidden 1","4":"weed 雜草","c":"sac corpse","d5":"perform animal taming.set","dp1":"perform animal taming.feed heal ap pill","gg":"get all from bag","aa":"eat manto","e1":"enable ninja with cell activation","p1":"perform cell activation.ca","d3":"perform animal taming.feed $1","d1":"perform animal taming.state","p":"hp","d33":"perform animal taming.feed big heal ap pill","sk":"skills","2":"say 拔草","d11":"score _MY_PET_","dep":"deposit $1 silver","q":"wear all","d2":"perform animal taming.call","g":"get all from corpse $1","mapon":"option map_unfreeze 0","a":"eat chicken","mapoff":"option map_unfreeze 1","h":"get all","qq":"remove all","3":"say 拔完了","mapunhide":"option map_hidden 0","ww":"wield lance as twohanded",])
+dbase (["time_aged":12053115,"creation_time":1145177326,"name":"凡賽斯","id":"vansic","channels":({"rumor","aucc","chat",}),"body":"/obj/user","board_last_read":(["bug":1177857540,"propose":1236014139,"tmr":1234463389,"ayumi":1120542699,"wizard":1177493711,"acme":1240128067,]),"last_on":1248856696,"last_from":"69.150.46.114",])
+my_body 
+last_age_set 1248856695
+password "$1$69960339$jW2NVBuQfctsn9b8Eqj6C/"
+email "yzngbolamac@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":125,"height":48,])

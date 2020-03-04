@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1149874651,"time_aged":4889,"bank":870022,"age":38,"name":"¤j«B¤£°±¤U","id":"rainy","level":1,"race":"human","startroom":"/world/area/muye/swanlake","gender":"male","score":(["survive":17803,]),"class":"commoner","area_info":(["x_axis":25,"y_axis_old":20,"y_axis":20,"x_axis_old":25,]),])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([1:(["amount":1,"file":"/world/broom/broom",]),0:(["amount":1,"file":"/world/item/rod",]),])
+__flag ""

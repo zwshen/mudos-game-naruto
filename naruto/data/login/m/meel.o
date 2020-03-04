@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["gg":"get all from $1","b":"buy $*","lll":"train $1 from ka for $2","bb":"buy $1 from master","ll":"train $1 from ka for 1","lm":"list master","cc":"consider $*","g":"get $1 from corpse",])
+dbase (["time_aged":858343,"body":"/obj/user","board_last_read":(["bug":1115718717,"ayumi":1120542699,"newbie":1128936709,"propose":1116249297,"acme":1115817011,"wizard":1129650950,"chat":1123993602,]),"id":"meel","name":"ªÙ√√°E§G","last_on":1241536710,"channels":({"chat","rumor",}),"last_from":"50.25.142.220","creation_time":1129225717,])
+my_body 
+last_age_set 1241536709
+password "$1$73219365$MS0aZHV4M3GAamXyoxi/x."
+email "bardmeel@yahoo.com.tw"
+window (["terminal_type":"vt100","width":111,"height":39,])

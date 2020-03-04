@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["aset":"perform animal taming.set $*","dog":"score _MY_PET_","hh":"team","hid":"option map_hidden $*","fi":"perform force.fireass on $*","co":"consider $*","ena":"enable ninja with animal taming","sa":"sac corpse $*","o":"order _MY_PET_ to $*","r":"reply $*","books":"strbook conbook learn","char":"dogg","fe":"perform animal taming.feed $*","st":"perform animal taming.state","sk":"skills $*","dp":"perform double physique.dp","f":"perform muscle tank.attack on $*","ca":"perform animal taming.call","le":"perform animal taming.leave","end":"enable ninja with double physique","com":"enable combat","m0":"option map_unfreeze 0","ha":"halt","rem":"remember $*","mh0":"option map_hidden 0","geta":"get all from corpse $*","m1":"option map_unfreeze 1","ka":"kill anemone $*",])
+dbase (["time_aged":46561177,"creation_time":1139150704,"name":"¼v»RªÌ","id":"jose","body":"/obj/user","channels":({"rumor","aucc","chat",}),"board_last_read":(["propose":1245913026,"ayumi":1120542699,"chat":1244623264,"bug":1246069199,"byron":1177702512,"wizard":1239465932,]),"last_on":1249004052,"last_from":"116.177.193.123",])
+my_body 
+last_age_set 1249004051
+password "$1$36447323$MepgQ6J3UwagDWGfIcgKb/"
+email "hoty26@ms61.hinet.net"
+window (["terminal_type":"vt100","width":106,"height":25,])

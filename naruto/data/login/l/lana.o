@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ca":"perform cell activation.ca","ide":"identify $*","adv":"advance $*",])
+dbase (["last_on":1210969242,"channels":({"chat","rumor","aucc","war","music","news",}),"creation_time":1210125036,"last_from":"50.18.203.123","body":"/obj/user","board_last_read":(["wizard":1209379195,"design":1154116971,"newbie":1136481011,"propose":1210908901,"chat":1186466886,"bug":1210675897,]),"name":"©Ô®R","id":"lana","time_aged":753658,])
+password "$1$60957259$BdKhS0HeVIWOpywX2baUs."
+email "a@b.c"

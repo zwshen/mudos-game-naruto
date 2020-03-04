@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["aa":"say 拔完了","9":"get all from corpse","6":"look","0":"score","a":"say 幫忙",])
+dbase (["last_on":1191735918,"board_last_read":(["_MITE_":1170658966,]),"channels":({"chat","rumor","aucc",}),"creation_time":1176381395,"body":"/obj/user","last_from":"84.97.229.125","id":"fulisu","name":"富力士","time_aged":2704338,])
+password "$1$7400728$EpZJ5.SxIRssQVB6O9rkC/"
+email "a@a"

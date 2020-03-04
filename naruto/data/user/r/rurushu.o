@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":26,])
+conditions ([])
+dbase (["time_aged":83545,"level":3,"age":18,"race":"human","name":"¾|¾|­×","guild":"muye","startroom":"/world/area/muye/bank","gender":"male","target_score":(["combat exp":900,]),"title":"¤ì¸­§ø§ÔªÌ","birthday":1163849350,"bank":83,"id":"rurushu","class":"inferior","score":(["elevel":8,"kills":60,"survive":640,"combat exp":654,]),])
+masters ([])
+apprentices ([])
+skills (["parry":10,"combat":9,"dodge":8,])
+learned (["parry":380,"combat":1000,"dodge":620,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,"combat":1,"dodge":1,])
+skill_require (["parry":1500,"combat":1215,"dodge":960,])
+best_skill "parry"
+st_maximum (["ap":130,"mp":80,"hp":130,])
+st_current (["ap":130,"mp":80,"hp":130,])
+st_notify ([])
+st_point (["attribute":0,"skill":3,"score":50,"learn":229,])
+st_quest (["level_d":([2:1,]),"level_e":([1:1,]),])
+autoload ([8:(["amount":1,"file":"/world/item/fish1",]),7:(["amount":2,"file":"/world/item/fish4",]),6:(["amount":1,"file":"/world/area/muye/npc/item/turtle_head",]),5:(["amount":1,"file":"/world/wp/radish",]),4:(["amount":1,"file":"/world/eq/head/boiler",]),3:(["amount":1,"file":"/world/eq/armor/turtle",]),2:(["amount":1,"file":"/world/item/rod",]),1:(["amount":1,"file":"/world/eq/belt/hoop",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),])
+__flag ""

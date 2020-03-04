@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":21,"con":21,"int":20,])
+conditions ([])
+dbase (["level":1,"class":"hxh_initial","race":"human","birthday":1180995586,"id":"zing","name":"¶®ÄÉ","time_aged":59235,"area_info":(["y_axis":19,"y_axis_old":19,"x_axis":25,"x_axis_old":25,]),"gender":"female","help":"newbie/","age":19,"recoverroom":"/world/area/muye/inn","startroom":"/world/area/muye/inn","title":"©À¯à¤OªÌ","bank":76869,"score":(["survive":1120,"kills":96,]),"guild":"hunter",])
+masters ([])
+apprentices ([])
+skills (["combat":10,"parry":5,])
+learned (["parry":66,"combat":74,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"parry":1,])
+skill_require (["parry":125,"combat":500,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":100,"ap":100,])
+st_current (["mp":80,"hp":100,"ap":100,])
+st_notify ([])
+st_point (["attribute":0,"skill":0,"score":10,"learn":851,])
+st_quest ([])
+autoload ([8:(["file":"/world/eq/armor/turtle","amount":1,]),7:(["file":"/world/eq/belt/hoop","amount":1,]),6:(["file":"/world/wp/dagger","amount":1,]),5:(["file":"/world/eq/head/boiler","amount":1,]),4:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),3:(["file":"/world/item/rod","amount":1,]),2:(["file":"/world/drug/noodle","amount":2,]),1:(["file":"/obj/money/silver","amount":10,]),0:(["file":"/world/drug/hpill","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/amulet.c":(["killed":([]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/new_fight.c","/world/quest/new_quest.c","/world/quest/kbug.c","/world/quest/xie.c",})

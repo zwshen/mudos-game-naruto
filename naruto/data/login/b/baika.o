@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w3":"wield blade 1 as righthand","pph":"perform heal buff.heal","w4":"wield sword 1 as righthand","getall":"get all from bag","sa":"sac corpse","s1":"option map_hidden 0","pnhp":"perform hand heal.hp to $*","存款":"balance","鯨魚島":"transfer 2","s2":"option map_hidden 1","sk":"skills","w2":"wield radish 2 as lefthand","w5":"wield sword 2 as lefthand","ga":"get all from corpse","scm":"balance","搜索":"search","pnap":"perform hand heal.ap to $*","pn2":"perform hand heal.hp to $*","con":"consider $*","pn":"perform cell activation.ca","獲得技能點":"gain","putall":"put all in bag","rem":"remove $*","w1":"wield radish as righthand",])
+dbase (["time_aged":35922270,"creation_time":1174011963,"name":"跛腳","id":"baika","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["wizard":1201062195,]),"last_on":1249056978,"last_from":"2.167.171.218",])
+my_body 
+last_age_set 1249056977
+password "$1$81782315$rqUevLqTTqNe3XT3zULmk1"
+email "yan300070@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":141,"height":54,])

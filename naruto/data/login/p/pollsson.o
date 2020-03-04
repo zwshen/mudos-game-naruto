@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","aa":"buy $* 1 from master","whit":"balance","dep":"deposit $* silver","wi2":"wield $* as lefthand","ride":"transfer $*","adv":"advance $*","wi3":"wield $* as twohanded","wi1":"wield $* as righthand",])
+dbase (["last_from":"254.189.69.210","channels":({"chat","rumor","aucc",}),"body":"/obj/user","creation_time":1191951216,"id":"pollsson","name":"¨Ì¬X","last_on":1192601584,"time_aged":197908,])
+password "$1$25035092$yNBRdbKt9F6uPHhhyMbGB1"
+email "vichy0804@yahoo.com.tw"

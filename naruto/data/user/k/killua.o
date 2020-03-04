@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":24,"dex":31,"str":38,"con":27,])
+conditions (["apheal1":(["duration":195,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["class":"inferior","wimpy_dir":"south","guild":"muye","name":"©_Ëb","birthday":1134746716,"gender":"male","level":20,"nickname":"[1;33mªü[36mÀ±[34mªû[31m¦ò[0;2m","race":"human","age":31,"area_info":(["x_axis":4,"y_axis_old":34,"x_axis_old":4,"y_axis":34,]),"score":(["survive":8498,"combat exp":117617,"kills":1819,"elevel":9,]),"startroom":"/world/area/wizard/wizard","long":"¥L¬O¨Ó¦ÛÀs¬Éªº¤@¦W¤Ö¦~·í§A¬Ý¥L®É, ¥u¨£¥L¨­§Î¤@°Ê, §AÁôÁô¬ù¬ù¥u¬Ý¨ì¥Lªº´Ý¼v·í§A·Q¥J²Ó¬Ý²M·¡®É, ´Ý¼v¤w¸g®ø¥¢¤F. §A¥uÄ±±o¥L¤H¦p¨ä¦WµS¦p¤Û¼v..... ¦b§A¦L¶H¤§¤¤ ..........................","id":"killua","title":"¤ì¸­§ø§ÔªÌ","bank":0,"time_aged":72857,])
+masters ([])
+apprentices ([])
+skills (["alter ego":10,"continual hit":29,"substitute":1,"ninja":20,"heavy hit":59,"dodge":68,"parry":56,"combat":51,"force":31,"hundred palm":8,"magic":1,"savage hit":59,])
+learned (["alter ego":0,"continual hit":6336,"ninja":0,"heavy hit":36300,"parry":1476,"combat":13020,"dodge":34776,"force":3372,"hundred palm":0,"savage hit":36300,])
+skill_map (["ninja":"alter ego","force":"hundred palm",])
+skill_flag ([])
+skill_ability (["alter ego":1,"continual hit":3,"substitute":1,"ninja":2,"heavy hit":5,"parry":5,"combat":5,"dodge":5,"force":3,"hundred palm":2,"savage hit":5,])
+skill_require (["alter ego":500,"continual hit":12615,"ninja":2000,"heavy hit":52215,"parry":47040,"combat":39015,"dodge":69360,"force":4805,"hundred palm":960,"savage hit":52215,])
+best_skill "dodge"
+st_maximum (["mp":300,"hp":640,"ap":300,])
+st_current (["mp":300,"hp":640,"ap":195,])
+st_notify (["hp":0,"ap":4,])
+st_point (["learn":3945,"skill":3,"score":0,"attribute":0,])
+st_quest (["level_e":([2:1,]),])
+autoload ([])
+__flag ""

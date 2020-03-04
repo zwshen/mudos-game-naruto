@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":29,"str":23,"con":26,])
+conditions ([])
+dbase (["class":"inferior","guild":"muye","id":"hugog","title":"¤ì¸­§ø§ÔªÌ","name":"¼C»î","birthday":1140098703,"gender":"male","level":10,"bank":36458,"race":"human","age":20,"area_info":(["x_axis":6,"y_axis_old":42,"x_axis_old":6,"y_axis":42,]),"time_aged":27851,"target_score":(["combat exp":10000,]),"score":(["survive":1076,"combat exp":8940,"kills":113,"elevel":6,]),"startroom":"/world/area/wizard/wizard",])
+masters ([])
+apprentices ([])
+skills (["combat":26,])
+learned (["combat":572,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":7,])
+skill_require (["combat":10935,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["learn":704,"skill":13,"score":500,"attribute":2,])
+st_quest (["level_e":([2:1,]),])
+autoload ([])
+__flag ""

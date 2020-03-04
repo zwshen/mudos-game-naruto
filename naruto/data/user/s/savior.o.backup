@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":30,"dex":21,"str":25,"con":20,])
+conditions ([])
+dbase (["cwd":"/u/s/savior/","name":"¬õ¤s¦Ï","target_score":(["combat exp":10000,]),"birthday":1133923030,"level":10,"race":"human","age":18,"gender":"male","cwf":"/u/s/savior/test.c","score":(["kills":1,"combat exp":8100,"survive":230,"elevel":6,]),"bank":600,"startroom":"/world/area/muye/muye","guild":"muye","title":"¤ì¸­§ø§ÔªÌ","id":"savior","option":(["map_through":1,]),"time_aged":47062,"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["heavy hit":19,"continual hit":1,"dodge":5,"parry":1,"combat":25,"savage hit":19,])
+learned (["heavy hit":4560,"dodge":225,"combat":5580,"savage hit":4455,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":2,"continual hit":2,"dodge":1,"combat":3,"savage hit":2,])
+skill_require (["heavy hit":5415,"dodge":375,"combat":9375,"savage hit":5415,])
+best_skill "combat"
+st_maximum (["mp":9999,"hp":9999,"ap":9999,])
+st_current (["mp":9999,"hp":9780,"ap":8518,])
+st_notify ([])
+st_point (["learn":901,"skill":10,"score":100,"attribute":4,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

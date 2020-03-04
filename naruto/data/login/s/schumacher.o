@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["rem":"remember $*","sk":"skills",])
+dbase (["time_aged":33534927,"signature":"","creation_time":1165918600,"id":"schumacher","name":"µÎ°¨§J","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["bug":1234803985,"propose":1211983359,"wizard":1214818337,]),"profile":"","last_on":1248788897,"last_from":"146.1.231.125",])
+my_body 
+last_age_set 1248788896
+password "$1$68219339$4oytNrjL4QXFTcC88eDiu1"
+email "alul123@hotmail.com"
+window (["terminal_type":"zmud","width":83,"height":21,])

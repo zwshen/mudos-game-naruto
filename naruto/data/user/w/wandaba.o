@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":58,"str":20,"con":20,"int":22,])
+conditions ([])
+dbase (["level":20,"race":"human","birthday":1137218220,"name":"¤f¤O¤f¤f¨½","area_info":(["y_axis":7,"y_axis_old":7,"x_axis":27,"x_axis_old":27,]),"gender":"female","recoverroom":"/world/area/whale_island/mite_hotel","title":"©À¯à¤OªÌ","bank":5048,"score":(["elevel":9,"survive":1505,"combat exp":40103,"kills":1274,]),"guild":"hunter","class":"hxh_initial","id":"wandaba","time_aged":14413,"startroom":"/world/area/whale_island/seacoast","nickname":"¤f¤Õ¤f¨½¨t[0;2m","age":21,])
+masters ([])
+apprentices ([])
+skills (["continual hit":19,"dodge":17,"parry":14,"body strength":1,"combat":36,"finger-guessing fist":30,"heavy hit":37,"solid":14,"savage hit":37,"strength":23,])
+learned (["continual hit":933,"dodge":2257,"parry":2656,"combat":15803,"finger-guessing fist":2821,"heavy hit":9353,"solid":1111,"savage hit":9353,"strength":77,])
+skill_map (["parry":"solid","combat":"finger-guessing fist",])
+skill_flag ([])
+skill_ability (["continual hit":2,"dodge":2,"parry":1,"body strength":1,"combat":2,"finger-guessing fist":2,"heavy hit":2,"solid":1,"savage hit":2,"strength":2,])
+skill_require (["continual hit":6000,"dodge":4860,"parry":3375,"combat":20535,"finger-guessing fist":4500,"heavy hit":21660,"solid":1125,"savage hit":21660,"strength":2880,])
+best_skill "savage hit"
+st_maximum (["mp":100,"hp":400,"ap":400,])
+st_current (["mp":100,"hp":400,"ap":400,])
+st_notify (["hp":10,"ap":0,])
+st_point (["attribute":0,"skill":23,"score":340,"learn":351,])
+st_quest (["level_d":([2:1,]),])
+autoload ([15:(["file":"/world/area/muye/npc/item/mouse_eye","amount":1,]),14:(["file":"/world/area/muye/npc/item/mouse_feet","amount":1,]),13:(["file":"/world/area/muye/npc/item/mouse_tail","amount":1,]),12:(["file":"/world/area/echo/npc/item/brain","amount":1,]),11:(["file":"/world/area/whale_island/npc/eq/rtail","amount":1,]),10:(["file":"/world/eq/belt/cord","amount":1,]),9:(["file":"/world/eq/head/boiler","amount":1,]),8:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),7:(["file":"/world/item/rod","amount":1,]),6:(["file":"/world/drug/hpill3","amount":1,]),5:(["file":"/world/drug/apill3","amount":1,]),4:(["file":"/world/wp/butcher-blade","amount":1,]),3:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),2:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),1:(["file":"/world/eq/leg/gai","amount":1,]),0:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({})

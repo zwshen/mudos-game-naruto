@@ -1,0 +1,32 @@
+[Jul  3 23:44:13]u/y/york/workroom.c line 14: parse error
+[Jul  3 23:46:08]u/y/york/workroom.c line 14: parse error
+[Jul  4 00:26:40]u/y/york/workroom.c line 11: parse error
+[Jul  4 00:26:40]u/y/york/workroom.c line 20: End of file in string
+[Jul  4 19:11:33]u/y/york/jump.c line 3: parse error
+[Jul  4 20:52:12]u/y/york/stone.c line 33: parse error
+[Jul  4 20:55:23]u/y/york/stone2.c line 33: parse error
+[Jul  4 20:56:10]u/y/york/stone.c line 33: parse error
+[Jul  4 21:02:40]u/y/york/st.c line 33: parse error
+[Jul  4 21:03:25]u/y/york/s.c line 33: parse error
+[Jul  4 21:11:34]u/y/york/ss.c line 22: Undefined function this_palyer
+[Jul  4 21:11:34]u/y/york/ss.c line 22: Type mismatch ( object vs unknown ) when initializing me
+[Jul  4 21:11:34]u/y/york/ss.c line 34: parse error
+[Jul  4 21:13:24]u/y/york/s.c line 23: Undefined function this_palyer
+[Jul  4 21:13:24]u/y/york/s.c line 23: Type mismatch ( object vs unknown ) when initializing me
+[Jul  4 21:13:24]u/y/york/s.c line 35: parse error
+[Jul  4 21:13:57]u/y/york/ss.c line 35: parse error
+[Jul  4 22:05:00]u/y/york/stone.c line 26: Illegal lvalue
+[Jul  4 22:05:00]u/y/york/stone.c line 26: Bad argument 1 to x--: "object "
+[Jul  4 22:05:00]u/y/york/stone.c line 26: Warning: Value of conditional expression is unused
+[Jul  4 22:05:00]u/y/york/stone.c line 27: Illegal lvalue
+[Jul  4 22:05:00]u/y/york/stone.c line 27: Bad argument 1 to x--: "object "
+[Jul  4 22:05:00]u/y/york/stone.c line 27: Warning: Value of conditional expression is unused
+[Jul  4 22:06:17]u/y/york/stone.c line 9: parse error
+[Jul  4 22:06:17]u/y/york/stone.c line 11: Illegal terminator
+[Jul  4 22:12:33]u/y/york/jump.c line 41: Wrong number of arguments to set
+    Expected: 2  Got: 0
+[Jul  4 22:12:33]u/y/york/jump.c line 41: parse error
+[Jul  4 22:12:33]u/y/york/jump.c line 48: End of file in string
+[Jul  4 22:13:34]u/y/york/jump.c line 41: Wrong number of arguments to set
+    Expected: 2  Got: 0
+[Jul  4 22:13:34]u/y/york/jump.c line 41: parse error

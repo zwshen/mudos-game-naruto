@@ -1,0 +1,22 @@
+[Mar 28 18:13:56]daemon/pro_skill/first-aid/plume_bandage.c line 71: Left argument of -> is not a class
+[Mar 28 18:13:56]daemon/pro_skill/first-aid/plume_bandage.c line 75: Undefined function rnadom
+[Mar 28 18:13:56]daemon/pro_skill/first-aid/plume_bandage.c line 75: Bad left argument to '>' : "unknown "
+[Mar 28 18:14:27]daemon/pro_skill/first-aid/plume_bandage.c line 75: Undefined function rnadom
+[Mar 28 18:14:27]daemon/pro_skill/first-aid/plume_bandage.c line 75: Bad left argument to '>' : "unknown "
+[Mar 28 22:36:19]world/area/wizard/npc/obj/shovel.c line 6: parse error
+[Mar 28 22:36:41]world/area/wizard/npc/obj/shovel.c line 6: parse error
+[Mar 29 01:26:04]cmds/usr/buff.c line 26: Undefined variable 'buffering'
+[Mar 29 01:26:04]cmds/usr/buff.c line 29: 'buf' is not a local or a global variable.
+[Mar 29 01:26:04]cmds/usr/buff.c line 30: Undefined variable 'tmp'
+[Mar 29 01:26:04]cmds/usr/buff.c line 31: Undefined variable 'buf'
+[Mar 29 01:26:04]cmds/usr/buff.c line 33: Undefined variable 'sk'
+[Mar 29 01:26:04]cmds/usr/buff.c line 49: Reserved type name unexpected.
+[Mar 29 01:26:40]cmds/usr/buff.c line 31: Undefined variable 'tmp'
+[Mar 29 01:26:40]cmds/usr/buff.c line 34: Undefined variable 'sk'
+[Mar 29 01:26:40]cmds/usr/buff.c line 50: Reserved type name unexpected.
+[Mar 29 01:26:40]cmds/usr/buff.c line 50: parse error
+[Mar 29 01:27:25]cmds/usr/buff.c line 50: Reserved type name unexpected.
+[Mar 29 01:27:25]cmds/usr/buff.c line 50: parse error
+[Mar 29 01:29:14]cmds/usr/buff.c line 54: Reserved type name unexpected.
+[Mar 29 01:29:14]cmds/usr/buff.c line 54: parse error
+[Mar 29 01:37:42]cmds/usr/buff.c line 50: Undefined variable 'br'

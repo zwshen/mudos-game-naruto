@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["1":"get all from corpse","gb":"get box from bag","gb2":"get box from bag 2","sa":"sac corpse","pb":"put all in bag","pb2":"put all in bag 2",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1128434369,"last_from":"146.145.228.220","last_on":1203218106,"body":"/obj/user","board_last_read":(["chat":1116042164,"newbie":1128936709,"wizard":1170840971,]),"id":"scratch","name":"¤û¥¤¥¬¤B","time_aged":6137869,])
+password "$1$22045539$swiXtZvS8lpyhaeeZZ01T0"
+email "scratch@ms19.url.com.tw"

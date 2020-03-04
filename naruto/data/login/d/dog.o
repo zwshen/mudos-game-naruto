@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all from corpse","a":"identify $*","z":"sac corpse","q":"consider $*",])
+dbase (["creation_time":1172385074,"time_aged":2248186,"board_last_read":(["newbie":1136481011,"ayumi":1120542699,"_MITE_":1188848484,"design":1154116971,"acme":1188005608,"chat":1237659377,"tmr":1174093857,"bug":1242216185,"byron":1177702512,"wizard":1239465932,"propose":1240917122,]),"body":"/obj/user","name":"§Ô¤ü","id":"dog","channels":({"chat","rumor","aucc","music",}),"last_from":"118.140.64.61","last_on":1242649139,])
+my_body 
+last_age_set 1243564324
+password "$1$89426803$MFMs6GlYIv00lFAPPf6Q1/"
+email "hkr1231@yahoo.com.tw"
+window (["terminal_type":"ANSI","width":80,"height":25,])

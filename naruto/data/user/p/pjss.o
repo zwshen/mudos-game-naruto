@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":22,"str":20,])
+conditions ([])
+dbase (["score":(["survive":470,"combat exp":3553,]),"name":"¼ï¤p¹ê","id":"pjss","birthday":1132556525,"level":1,"age":18,"race":"human","gender":"male","startroom":"/world/area/wizard/prac5","time_aged":84309,"class":"commoner",])
+masters ([])
+apprentices ([])
+skills (["dodge":5,"parry":1,"combat":18,])
+learned (["dodge":0,"combat":4560,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":375,"combat":4860,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":130,])
+st_current (["mp":80,"hp":80,"ap":106,])
+st_notify ([])
+st_point (["score":0,"learn":0,"skill":0,"attribute":0,])
+st_quest ([])
+autoload ([])
+__flag ""

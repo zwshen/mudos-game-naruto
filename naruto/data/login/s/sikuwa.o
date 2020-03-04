@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["sk":"skills $*","-":"get all from corpse $*","wl":"wield $1 $2 as lefthand","wi":"wield $1 $2 as righthand",])
+dbase (["time_aged":164875,"id":"sikuwa","name":"¦t¥Ð¦õ¥ú","board_last_read":(["newbie":1136481011,"wizard":1151395598,"propose":1131721575,"_MITE_":1131786296,"ayumi":1120542699,"bug":1137491690,"tmr":1134409039,"chat":1133923712,"acme":1136370213,]),"last_from":"53.130.74.211","last_on":1151934716,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1128439623,])
+password "$1$53534532$9p5dgidjmSJ3wn6QuBHW/1"
+email "cholid_wilson@yahoo.com.tw"

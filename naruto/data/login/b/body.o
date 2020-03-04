@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sc3":"perform animal taming.state","yyy":"finger bodybodybody","lber":"remember","ad":"whisper orz 天之子$*鬼童丸","chat":"chat* 終於來到了最後一項竟然是『  $*  』...  .. . Ｏｒｚ...","ber":"remember $1","7":"perform animal taming.feed $*","9":"move $1","hp222":"hp",])
+dbase (["time_aged":26899210,"creation_time":1131858502,"name":"十項全能","id":"body","body":"/obj/user","channels":({"news","aucc","chat","rumor",}),"board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1237364643,"ayumi":1120542699,"acme":1234338310,"chat":1237659377,"bug":1239968374,"tmr":1234463389,"design":1154116971,"byron":1177702512,"wizard":1239465932,]),"last_on":1248799110,"last_from":"54.235.104.59",])
+my_body 
+last_age_set 1248799110
+password "$1$28304557$Cn.OT9pn3f/7XZjijgLXs."
+email "nothing@y"
+window (["terminal_type":"ZMUD","width":118,"height":24,])

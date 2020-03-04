@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sd":"seedoor","ep":"eat pill $*","sf":"sfly $*","gafc":"get all from corpse","sp":"sac corpse","q":"quest $*","pp":"perform psychical bullet.shoot on $*","ga":"get all","pf":"perform finger-guessing fist.°Å¤M","ec":"eat chicken",])
+dbase (["last_from":"69.135.77.119","time_aged":4834582,"creation_time":1240421285,"last_on":1245255853,"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"bug":1239968374,"propose":1240917122,"design":1154116971,"wizard":1239465932,"chat":1237659377,]),"id":"titan","name":"©Z¨à","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1245255851
+password "$1$61759517$FEr3dpmiDXqdxEfO6zKVc."
+email "tsun1101@gmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":139,"height":55,])

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":35,"dex":45,"str":20,])
+conditions ([])
+dbase (["birthday":1145101090,"time_aged":35126,"guild":"muye","class":"inferior","name":"±þ±þ","id":"yipan","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/wizard/bank","score":(["elevel":9,"combat exp":37179,"kills":119,"survive":3381,]),"gender":"male","bank":161,"age":24,"level":20,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["animal taming":1,"parry":1,"alter ego":1,"heavy hit":43,"double physique":1,"combat":45,"force":1,"savage hit":37,"dodge":1,"cell activation":9,"muye wind":1,"magic":1,"substitute":10,"hundred palm":12,"ninja":9,"continual hit":15,])
+learned (["cell activation":60,"substitute":135,"hundred palm":400,"heavy hit":17957,"savage hit":11781,"ninja":0,"continual hit":3344,"combat":18210,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["cell activation":2,"substitute":2,"hundred palm":2,"heavy hit":5,"savage hit":3,"ninja":2,"continual hit":10,"combat":10,])
+skill_require (["cell activation":500,"substitute":605,"hundred palm":2535,"heavy hit":27735,"savage hit":20535,"ninja":500,"continual hit":3840,"combat":30375,])
+best_skill "combat"
+st_maximum (["ap":750,"mp":120,"hp":370,])
+st_current (["ap":750,"mp":120,"hp":370,])
+st_notify (["ap":0,"hp":10,])
+st_point (["skill":4,"attribute":0,"score":0,"learn":336,])
+st_quest ([])
+autoload ([])
+__flag ""

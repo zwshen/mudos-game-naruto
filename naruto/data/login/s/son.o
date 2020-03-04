@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["mm2":"option map_unfreeze 1","mm1":"option map_unfreeze 0","wg1":"wield gao yuan sword","pr":"proskills produce green_sap -m","1":"use ap help","sk":"skills","pub":"put all in bag","gub":"get all from bag","ge":"get all from corpse $*","wi2":"wield sword as lefthand","ma1":"option map_hidden 0","ch":"charge $*","sa":"sac corpse","id":"identify $*","ma2":"option map_hidden 1","wi1":"wield blade","wg2":"wield gao yuan sword 2 as lefthand","gse":"get all from skeleton $*","2":"use hp help",])
+dbase (["last_from":"110.178.192.123","time_aged":23239984,"creation_time":1172602124,"last_on":1247261506,"body":"/obj/user","board_last_read":(["bug":1246069199,"design":1154116971,"acme":1234338310,"chat":1244623264,"newbie":1136481011,"ayumi":1120542699,"tmr":1234463389,"_MITE_":1188848484,"propose":1240917122,"byron":1177702512,"wizard":1239465932,]),"id":"son","name":"ирдl","channels":({"chat","rumor","aucc","war",}),])
+my_body 
+last_age_set 1247261506
+password "$1$2909179$wSFfcTgXrv4CjYUcz0oF7/"
+email "son@w.w.w"
+window (["terminal_type":"vt100","width":125,"height":46,])

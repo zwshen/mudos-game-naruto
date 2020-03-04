@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":21,"str":28,"con":26,"int":25,])
+conditions (["cd_food_real_heal":(["duration":16,"name":"[34m(§N«o)[1;30mÃÄ«~[0;2m",]),])
+dbase (["level":10,"race":"human","name":"¤p¬í","birthday":1173411667,"gender":"male","help":"class/ninja/skill/lee/","recoverroom":"/world/area/whale_island/mite_hotel","title":"©À¯à¤OªÌ","bank":26130,"score":(["elevel":17,"survive":1731,"kills":1880,]),"guild":"hunter","class":"hxh_initial","time_aged":64592,"id":"pin","startroom":"/world/area/wizard/bank","age":20,])
+masters ([])
+apprentices ([])
+skills (["continual hit":20,"variation":7,"dodge":32,"parry":24,"fire variation":1,"ice variation":1,"combat":48,"heavy hit":43,"finger-guessing fist":20,"solid":14,"savage hit":43,"electric variation":1,])
+learned (["variation":200,"continual hit":460,"dodge":3800,"parry":2240,"combat":8860,"heavy hit":6610,"finger-guessing fist":0,"solid":20,"savage hit":6610,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":2,"variation":1,"dodge":2,"parry":2,"combat":4,"heavy hit":3,"finger-guessing fist":1,"solid":1,"savage hit":3,"electric variation":1,])
+skill_require (["variation":245,"continual hit":2000,"dodge":5120,"parry":2880,"combat":11520,"heavy hit":9245,"finger-guessing fist":2000,"solid":980,"savage hit":9245,])
+best_skill "combat"
+st_maximum (["mp":130,"hp":260,"ap":350,])
+st_current (["mp":130,"hp":330,"ap":327,])
+st_notify (["mp":10,"hp":5,"ap":5,])
+st_point (["attribute":0,"skill":0,"score":0,"learn":799,])
+st_quest (["prize":([4:1,]),"level_d":([1:1,2:1,]),])
+autoload ([15:(["file":"/world/area/muye/npc/eq/dragon_boots","amount":1,]),14:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),13:(["file":"/world/eq/leg/gai","amount":1,]),12:(["file":"/world/eq/head/copper","amount":1,]),11:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),10:(["file":"/world/area/bone/npc/eq/suit","amount":1,]),9:(["file":"/world/drug/hp_heal","amount":5,]),8:(["file":"/world/eq/finger/bronze","amount":1,]),7:(["file":"/world/eq/hand/fist","amount":1,]),6:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),5:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),4:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),3:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),2:(["file":"/world/wp/pairrod","amount":1,]),1:(["file":"/world/wp/pairrod","amount":1,]),0:(["file":"/world/drug/ap_heal","amount":6,]),])
+__flag ""
+toDoList (["/world/quest/kmouse.c":(["killed":(["/world/area/muye/npc/mouse.c":0,]),"item":([]),]),"/world/quest/search_zhang.c":(["killed":([]),"item":([]),]),"/world/quest/amulet.c":(["killed":([]),"item":([]),]),"/world/quest/eat_brain.c":(["killed":([]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/expel_mouse.c","/world/quest/new_fight.c","/world/quest/new_quest.c","/world/quest/sea_monkey.c","/world/quest/xie.c","/world/quest/try_little_skill.c","/world/quest/nurture_pig.c","/world/quest/get_crab.c",})

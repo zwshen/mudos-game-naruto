@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse","gg":"sac corpse",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"newbie":1136481011,]),"creation_time":1203698956,"name":"¥¢¸¨¶³¼v","id":"square","time_aged":16881,])
+password "$1$32094236$/s.b3OpmNqFYBkX79C2Qt0"
+email "doomtwix@hotmail.com"

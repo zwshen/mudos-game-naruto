@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":30,"int":24,"dex":42,"str":24,])
+conditions (["apheal1":(["duration":60,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":26,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),"apheal3":(["duration":136,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),])
+dbase (["title":"¤ì¸­§ø§ÔªÌ","time_aged":43232,"bank":426,"name":"¾|¥d¯Ç","gender":"male","class":"inferior","area_info":(["x_axis":16,"y_axis_old":6,"x_axis_old":16,"y_axis":6,]),"birthday":1134694564,"nickname":"¤ì¸­¯P­·[0;2m","guild":"muye","age":53,"id":"wear","recoverroom":"/world/area/wizard/guildhall","level":20,"race":"human","startroom":"/world/area/wild/forest","score":(["survive":31226,"combat exp":385700,"elevel":52,"kills":2811,"dlevel":12,]),"long":"¥L¬Ý°_¨ÓÂ×«º­^°¶¡M®ð¦t°a©ù¡M½T¬O¤H¤¤Às»ñ¡M¹ê¤D¤ì¸­¤§¬Ã©_²§Ã~¤]",])
+masters ([])
+apprentices ([])
+skills (["combat":97,"savage hit":98,"muye wind":26,"dodge":26,"force":40,"thousand year kill":14,"continual hit":40,"heavy hit":98,"parry":21,])
+learned (["combat":128876,"savage hit":8512,"muye wind":126,"dodge":7784,"force":0,"thousand year kill":924,"continual hit":9692,"heavy hit":14404,"parry":1680,])
+skill_map (["combat":"muye wind",])
+skill_flag ([])
+skill_ability (["combat":6,"savage hit":6,"muye wind":2,"dodge":2,"force":3,"thousand year kill":1,"continual hit":3,"heavy hit":6,"parry":2,])
+skill_require (["combat":141135,"savage hit":144060,"muye wind":10140,"dodge":10140,"force":8000,"thousand year kill":980,"continual hit":24000,"heavy hit":144060,"parry":6615,])
+best_skill "heavy hit"
+st_maximum (["ap":568,"mp":240,"hp":432,])
+st_current (["ap":523,"mp":240,"hp":482,])
+st_notify ([])
+st_point (["attribute":0,"skill":9,"score":0,"learn":120,])
+st_quest (["level_d":([1:1,]),"prize":([9:1,4:1,]),"level_e":([3:1,]),])
+autoload ([17:(["amount":3,"file":"/world/area/wild/npc/item/wolf_lung",]),16:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_tail",]),15:(["amount":1,"file":"/world/area/wild/npc/item/wolf_heart",]),14:(["amount":1,"file":"/world/area/wild/npc/eq/wolf_fur",]),13:(["amount":1,"file":"/world/wp/radish",]),12:(["amount":1,"file":"/world/wp/radish",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),10:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),9:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),8:(["amount":1,"file":"/world/eq/hand/fist",]),7:(["amount":1,"file":"/world/eq/finger/silver",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),5:(["amount":1,"file":"/world/area/muye/npc/eq/dragon_boots",]),4:(["amount":1,"file":"/world/eq/leg/gai",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),2:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),1:(["amount":1,"file":"/world/area/old_forest/npc/item/map",]),0:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),])
+__flag ""

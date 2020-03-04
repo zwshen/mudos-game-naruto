@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wil":"wield $* as lefthand","wir":"wield $* as righthand","ad":"advance $*","9":"get all","q":"quest $*","f":"finger $*","b":"balance","8":"sac corpse","co":"consider $*","0":"get all from corpse $*","pr":"transfer $*",])
+dbase (["last_on":1204553879,"channels":({"chat","rumor",}),"creation_time":1203996193,"last_from":"132.39.129.140","body":"/obj/user","id":"hun","name":"¼uÂ®²y","time_aged":314131,])
+password "$1$25566155$IH.Bl5RCFqg1vf1QDlNpO/"
+email "hun@pchome.com.tw"

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":22,"str":24,])
+conditions ([])
+dbase (["time_aged":33074,"level":4,"race":"human","age":18,"guild":"muye","name":"ÆQ¯NÂD³½","gender":"female","target_score":(["combat exp":1600,]),"title":"¤ì¸­§ø§ÔªÌ","birthday":1160567439,"bank":27250,"id":"ablegod","startroom":"/world/area/wizard/guildhall","class":"inferior","score":(["elevel":2,"kills":30,"survive":220,"combat exp":1280,]),"nickname":"·w­Ë¦º[0;2m",])
+masters ([])
+apprentices ([])
+skills (["combat":14,"dodge":5,])
+learned (["combat":1920,"dodge":364,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":1,"dodge":1,])
+skill_require (["combat":2940,"dodge":540,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":54,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":6,"attribute":0,"score":200,"learn":114,])
+st_quest ([])
+autoload ([1:(["amount":1,"file":"/world/wp/rattan",]),0:(["amount":24,"file":"/obj/money/silver",]),])
+__flag ""

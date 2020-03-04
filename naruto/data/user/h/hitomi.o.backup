@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":63,])
+conditions (["apheal3":(["duration":8,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":178,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),"hpheal1":(["duration":198,"name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m",]),"apheal1":(["duration":198,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":81161,"title":"¤ì¸­§ø§ÔªÌ","name":"¬ü","gender":"male","guild":"muye","class":"middle","birthday":1140405692,"bank":27541,"area_info":(["x_axis":16,"y_axis_old":24,"x_axis_old":16,"y_axis":24,]),"target_score":(["combat exp":220500,"dlevel":1,]),"recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/whale_island/seacoast","id":"hitomi","age":34,"score":(["elevel":699,"kills":25081,"combat exp":286904,"clevel":2,"dlevel":0,"survive":11057,]),"level":21,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":62,"force":39,"continual hit":31,"dodge":73,"hundred palm":33,"parry":72,"heavy hit":56,"savage hit":56,])
+learned (["combat":11466,"force":0,"dodge":48926,"continual hit":10954,"heavy hit":38154,"parry":36102,"hundred palm":11544,"savage hit":38154,])
+skill_map (["force":"hundred palm",])
+skill_flag ([])
+skill_ability (["combat":4,"force":3,"continual hit":3,"dodge":5,"hundred palm":5,"parry":5,"heavy hit":4,"savage hit":4,])
+skill_require (["combat":57660,"force":8000,"dodge":82140,"continual hit":15360,"heavy hit":48735,"parry":82140,"hundred palm":17340,"savage hit":48735,])
+best_skill "dodge"
+st_maximum (["ap":300,"mp":80,"hp":400,])
+st_current (["ap":300,"mp":80,"hp":400,])
+st_notify ([])
+st_point (["skill":9,"score":560,"learn":28141,"attribute":0,])
+st_quest (["level_e":([4:1,]),"level_d":([2:1,]),"level_p":([10:1,]),"level_c":([1:1,]),])
+autoload ([11:(["amount":1,"file":"/world/area/whale_island/npc/eq/underpants",]),10:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),9:(["amount":1,"file":"/world/eq/head/shit",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),7:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),6:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),5:(["amount":331,"file":"/world/drug/apill",]),4:(["amount":331,"file":"/world/drug/apill2",]),3:(["amount":377,"file":"/world/drug/apill3",]),2:(["amount":331,"file":"/world/drug/hpill",]),1:(["amount":51,"file":"/world/area/whale_island/npc/food/crab_roe",]),0:(["amount":61,"file":"/world/area/whale_island/npc/food/crab_meat",]),])
+__flag ""

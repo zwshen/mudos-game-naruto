@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":21,"con":21,"int":20,])
+conditions ([])
+dbase (["level":1,"birthday":1143852872,"name":"¦Ï«§«§","race":"human","gender":"male","recoverroom":"/world/area/whale_island/mite_hotel","guild":"hunter","score":(["elevel":1,"survive":780,"combat exp":32,]),"bank":100,"title":"©À¯à¤OªÌ","class":"hxh_initial","id":"capri","time_aged":53757,"age":19,"startroom":"/world/area/whale_island/mite_hotel","target_score":(["combat exp":100,]),])
+masters ([])
+apprentices ([])
+skills (["combat":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":8,"ap":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":2,"score":50,"learn":120,])
+st_quest (["level_d":([2:1,]),])
+autoload ([])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/meet_hung.c",})

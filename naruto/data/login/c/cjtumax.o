@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["mapoff":"option map_unfreeze 1","tk":"team talk $*","ga":"get all from corpse $*","ch":"charge $*","oq":"out 出入口","scp":"sac corpse","wb":"wield blade as twohanded","pr":"perform ninja.destruct","jl":"jump 湖","sl":"search","mapon":"option map_unfreeze 0","ee":"enter 遺跡","pa":"put all in bag","lc":"look corpse","ps":"perform ninja.shadow","h":"halt",])
+dbase (["creation_time":1129644671,"body":"/obj/user","last_on":1178206952,"time_aged":25248697,"id":"cjtumax","name":"風兒","last_from":"162.120.115.59","channels":({"chat","rumor","aucc",}),"board_last_read":(["_MITE_":1131786296,"chat":1154117225,"propose":1148557370,"newbie":1130565369,"bug":1151492395,"tmr":1132472571,"wizard":1177493711,"acme":1133012398,"ayumi":1120542699,"design":1154116971,]),])
+password "$1$44097790$ibdmaILnznILNGWVV3sKB/"
+email "cjtumax@yahoo.com.tw"

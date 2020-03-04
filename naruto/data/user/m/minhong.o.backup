@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":21,"int":20,"dex":21,"str":20,])
+conditions ([])
+dbase (["time_aged":2587,"level":2,"race":"human","age":18,"target_score":(["combat exp":400,]),"name":"¦ò¼C¤À»¡","guild":"muye","long":"¦ò¼C¤§¸ô¡A¤£¥Ñ¤À»¡","gender":"male","title":"¤ì¸­§ø§ÔªÌ","area_info":(["x_axis":29,"y_axis_old":39,"x_axis_old":29,"y_axis":39,]),"birthday":1149359945,"id":"minhong","class":"inferior","startroom":"/world/area/muye/muye","nickname":"[44m±þ¥Í¬°Å@¥Í[44m[0;2m","score":(["combat exp":298,"kills":20,]),"bank":2762,])
+masters ([])
+apprentices ([])
+skills (["dodge":8,"parry":1,"combat":8,])
+learned (["dodge":390,"combat":380,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":960,"combat":960,])
+best_skill "combat"
+st_maximum (["ap":130,"mp":80,"hp":80,])
+st_current (["ap":47,"mp":80,"hp":24,])
+st_notify ([])
+st_point (["skill":2,"attribute":2,"score":50,"learn":191,])
+st_quest ([])
+autoload ([1:(["file":"/world/eq/armor/turtle","amount":1,]),0:(["file":"/world/area/wild/npc/wp/snake_tooth","amount":1,]),])
+__flag ""

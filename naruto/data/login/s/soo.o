@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["0":"sac corpse","on":"option map_unfreeze 0","off":"option map_unfreeze 1","9":"get all from corpse",])
+dbase (["channels":({"chat","rumor",}),"time_aged":2131321,"creation_time":1235201226,"last_from":"151.245.21.163","last_on":1235625940,"name":"Ĭ","body":"/obj/user","id":"soo",])
+my_body 
+last_age_set 1237332519
+password "$1$29688324$9fwVMZ6xrFlgsBgH9I6q8."
+email "a19810823@yahoo.com.tw"
+window (["terminal_type":"vt100","width":157,"height":37,])

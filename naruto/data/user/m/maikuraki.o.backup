@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":11455,"birthday":1161598218,"bank":349,"level":1,"age":18,"race":"human","guild":"muye","id":"maikuraki","name":"­Ü¤ì³Â¦ç","class":"inferior","score":(["elevel":10,"kills":7,"survive":80,"combat exp":70,]),"gender":"female","target_score":(["combat exp":100,]),"title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/muye/school",])
+masters ([])
+apprentices ([])
+skills (["parry":5,"combat":5,"dodge":1,])
+learned (["parry":180,"combat":100,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,"combat":1,])
+skill_require (["parry":375,"combat":375,])
+best_skill "parry"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":42,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":0,"score":50,"learn":68,])
+st_quest (["level_e":([1:1,]),])
+autoload ([4:(["amount":1,"file":"/world/eq/armor/bamboo",]),3:(["amount":1,"file":"/world/wp/radish",]),2:(["amount":1,"file":"/world/eq/belt/cord",]),1:(["amount":10,"file":"/obj/money/silver",]),0:(["amount":1,"file":"/world/eq/belt/cord",]),])
+__flag ""

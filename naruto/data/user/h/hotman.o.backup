@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":42,"dex":23,"str":30,"con":25,])
+conditions ([])
+dbase (["pet":(["exp":3136,"nickname":0,"long":0,"title":0,"name":"§Ô¤ü","food":985,"level":44,"mp":2200,"hp":2200,"ap":1626,]),"name":"«¢¯S°Ò","birthday":1132641124,"level":20,"race":"human","age":53,"gender":"male","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/wizard/prac2","score":(["combat exp":459445,"survive":31600,"kills":9287,"elevel":10,]),"bank":604024,"guild":"muye","title":"¤ì¸­§ø§ÔªÌ","id":"hotman","time_aged":68806,"class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["ninja":25,"heavy hit":60,"continual hit":56,"parry":60,"dodge":100,"combat":100,"savage hit":60,"animal taming":99,])
+learned (["ninja":1750,"heavy hit":0,"continual hit":11775,"parry":28925,"dodge":22925,"combat":0,"savage hit":0,"animal taming":138075,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["ninja":2,"heavy hit":3,"continual hit":3,"parry":4,"dodge":6,"combat":5,"savage hit":3,"animal taming":5,])
+skill_require (["ninja":3125,"heavy hit":54000,"continual hit":47040,"parry":54000,"dodge":150000,"combat":150000,"savage hit":54000,"animal taming":500000,])
+best_skill "dodge"
+st_maximum (["mp":80,"hp":400,"ap":350,])
+st_current (["mp":80,"hp":400,"ap":228,])
+st_notify (["hp":30,"ap":0,])
+st_point (["learn":6598,"skill":9,"attribute":0,"score":410,])
+st_quest (["level_d":([2:1,]),])
+autoload ([19:(["file":"/world/eq/leg/gai","amount":1,]),18:(["file":"/world/eq/hand/fist","amount":1,]),17:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),16:(["file":"/world/wp/radish","amount":1,]),15:(["file":"/world/wp/radish","amount":1,]),14:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),13:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),12:(["file":"/world/eq/finger/silver","amount":1,]),11:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),10:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),9:(["file":"/world/eq/head/rhino-shit","amount":1,]),8:(["file":"/world/eq/armor/turtle","amount":1,]),7:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),6:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),5:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),4:(["file":"/world/drug/apill3","amount":21,]),3:(["file":"/world/drug/apill2","amount":107,]),2:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),1:(["file":"/world/item/fish1","amount":343,]),0:(["file":"/world/drug/apill","amount":1233,]),])
+__flag ""

@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":30,"con":20,"int":20,])
+conditions ([])
+dbase (["level":5,"race":"human","name":"文森","birthday":1177176920,"area_info":(["y_axis":45,"y_axis_old":45,"x_axis":22,"x_axis_old":22,]),"gender":"male","help":"newbie/","title":"念能力者","bank":63562,"score":(["elevel":1,"dlevel":111,"survive":2861,"kills":171,]),"startroom":"/world/area/whale_island/area","guild":"hunter","class":"hxh_initial","time_aged":28606,"id":"vencent","age":22,"wimpy_dir":"east",])
+masters ([])
+apprentices ([])
+skills (["continual hit":1,"dodge":13,"combat":15,"parry":11,"heavy hit":7,"savage hit":7,])
+learned (["continual hit":5,"dodge":665,"combat":390,"parry":250,"heavy hit":120,"savage hit":120,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":1,"dodge":1,"combat":1,"parry":1,"heavy hit":1,"savage hit":1,])
+skill_require (["continual hit":20,"dodge":845,"combat":1125,"parry":605,"heavy hit":245,"savage hit":245,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":330,])
+st_current (["mp":80,"hp":200,"ap":330,])
+st_notify (["hp":40,"ap":30,])
+st_point (["attribute":0,"skill":4,"score":0,"learn":441,])
+st_quest (["prize":([4:1,]),])
+autoload ([27:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),26:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),25:(["file":"/world/area/wild/npc/eq/snake_belt","amount":1,]),24:(["file":"/world/item/rod","amount":1,]),23:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),22:(["file":"/world/area/muye/npc/eq/g_cloth","amount":1,]),21:(["file":"/world/eq/leg/gai","amount":1,]),20:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),19:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),18:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),17:(["file":"/world/eq/head/watermelon-hat","amount":1,]),16:(["file":"/world/area/bone/npc/eq/suit","amount":1,]),15:(["file":"/world/eq/finger/silver","amount":1,]),14:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),13:(["file":"/world/area/old_forest/npc/wp/lance","amount":1,]),12:(["file":"/world/broom/broom","amount":1,]),11:(["file":"/world/drug/apill4","amount":1,]),10:(["file":"/world/drug/apill2","amount":2,]),9:(["file":"/world/drug/hpill","amount":3,]),8:(["file":"/world/eq/belt/hoop","amount":1,]),7:(["file":"/world/eq/head/boiler","amount":1,]),6:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),5:(["file":"/world/item/fish6","amount":69,]),4:(["file":"/world/item/fish2","amount":72,]),3:(["file":"/world/item/fish4","amount":68,]),2:(["file":"/world/item/fish5","amount":74,]),1:(["file":"/world/item/fish1","amount":71,]),0:(["file":"/world/item/fish3","amount":72,]),])
+__flag ""
+toDoList ([])
+solved ({})

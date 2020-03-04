@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ii":"incubate egg","lc":"look corpse $*","roe":"give boss roe","gb2":"get $* from bag 2","g":"get all from corpse $*","pb":"put $* in bag","ep":"eat pill","c":"consider $*","php":"eat heal hp pill","enterlake":"enter ¿ò§}","rm":"remember $*","pb2":"put $* in bag 2","fs":"fight stake $*","hid":"option map_hidden $*","gb":"get $* from bag","sa":"sac corpse $*","q":"halt","mm":"proskills first-aid snake_skin_bandage -m","m":"use bandage","op":"say À°¦£","pd":"perform ketchup star.die","outlake":"out ¿ò¸ñ",])
+dbase (["time_aged":7264366,"channels":({"chat","rumor","aucc",}),"body":"/obj/user","last_on":1234665423,"creation_time":1205434405,"board_last_read":(["_MITE_":1188848484,"propose":1211983359,"bug":1212464633,"wizard":1212213844,]),"name":"¦Û¦b","id":"lpor","last_from":"222.101.123.140",])
+my_body 
+last_age_set 1234664480
+password "$1$58737164$oBnv/euogLlKyQ5lX.mBz1"
+email "aysour@gmail.com"
+window (["width":128,"height":41,"terminal_type":"TINTIN++",])

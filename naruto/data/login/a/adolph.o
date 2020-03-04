@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sc":"sac corpse","ps":"perform body strength.powerup","aaa":"tell elegance k","aa":"tell adolph Ãö±¼","r":"read new","g":"get all from corpse","on":"option map_unfreeze 0","qq":"eat heal hp pill","wa":"transfer $*","p":"perform destory fist.attack on $*","off":"option map_unfreeze 1","q":"eat heal ap pill",])
+dbase (["board_last_read":(["propose":1205580822,]),"time_aged":2640982,"last_from":"162.13.120.59","body":"/obj/user","name":"ªü¹D¤Ò","last_on":1236518945,"id":"adolph","channels":({"chat","rumor","aucc",}),"creation_time":1204169830,])
+my_body 
+last_age_set 1236518943
+password "$1$71973145$9Vpcvx7wYj4SbDKQ0Eegc1"
+email "1@1.com"
+window (["terminal_type":"zmud","width":85,"height":23,])

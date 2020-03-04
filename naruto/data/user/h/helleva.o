@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":33,"dex":47,"str":20,])
+conditions ([])
+dbase (["time_aged":38622,"level":20,"race":"human","age":40,"name":"Às¤§¤¶","guild":"muye","gender":"male","title":"¤ì¸­§ø§ÔªÌ","area_info":(["x_axis":13,"y_axis_old":4,"x_axis_old":13,"y_axis":4,]),"birthday":1139731388,"option":(["map_unfreeze":1,"map_hidden":1,]),"id":"helleva","recoverroom":"/world/area/wizard/guildhall","class":"inferior","startroom":"/world/area/wizard/wizard","score":(["combat exp":410409,"elevel":37,"kills":1572,"survive":15917,]),"bank":710,])
+masters ([])
+apprentices ([])
+skills (["dodge":85,"parry":41,"heavy hit":83,"muye wind":24,"combat":82,"substitute":5,"force":47,"savage hit":82,"continual hit":34,])
+learned (["dodge":51403,"parry":23671,"heavy hit":11076,"muye wind":2380,"combat":69616,"substitute":60,"force":3840,"savage hit":67636,"continual hit":80,])
+skill_map (["combat":0,])
+skill_flag ([])
+skill_ability (["dodge":6,"parry":6,"heavy hit":5,"muye wind":2,"combat":5,"substitute":1,"force":3,"savage hit":5,"continual hit":3,])
+skill_require (["dodge":108375,"parry":26460,"heavy hit":103335,"muye wind":8640,"combat":100860,"substitute":125,"force":11520,"savage hit":100860,"continual hit":17340,])
+best_skill "dodge"
+st_maximum (["ap":660,"mp":80,"hp":500,])
+st_current (["ap":652,"mp":80,"hp":500,])
+st_notify (["ap":0,"hp":10,])
+st_point (["attribute":0,"skill":4,"score":0,"learn":1965,])
+st_quest (["level_d":([1:1,2:1,]),"level_e":([1:1,]),"prize":([4:1,]),])
+autoload ([11:(["file":"/world/area/sneakhole/npc/eq/spider_armor","amount":1,]),10:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),9:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),8:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),7:(["file":"/world/area/thorn_pine/npc/wp/lines_sword","amount":1,]),6:(["file":"/world/area/sneakhole/npc/eq/guard","amount":1,]),5:(["file":"/world/area/sneakhole/npc/eq/guard","amount":1,]),4:(["file":"/world/area/sneakhole/npc/eq/pants","amount":1,]),3:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),2:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),1:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),0:(["file":"/world/area/thorn_pine/npc/eq/owl_wings","amount":1,]),])
+__flag ""

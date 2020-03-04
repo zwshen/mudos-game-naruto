@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["perform":"perform","pok":"perform operation.revive on kld","/":"recall","q":"quest $*","pe":"perform","por":"perform operation.revive on $*","eq":"inventory",])
+dbase (["last_on":1174131936,"id":"kld","name":"°ò¼w","board_last_read":(["propose":1172363532,"tmr":1134381588,"wizard":1173709064,]),"body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_from":"63.64.218.61","creation_time":1172123652,"time_aged":400980,])
+password "$1$16425384$WwKU0uj7Lp7roBo1FBfcV/"
+email "jalo7022@yahoo.com.tw"

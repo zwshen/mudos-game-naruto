@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":34,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["level":7,"birthday":1174795855,"name":"¤Û¯º¤Ñ","race":"human","gender":"male","area_info":(["y_axis":22,"x_axis":13,"y_axis_old":22,"x_axis_old":13,]),"help":"cmds/combat","guild":"muye","score":(["kills":513,"elevel":4,"survive":2325,]),"bank":74284,"title":"¤ì¸­§ø§ÔªÌ","class":"inferior","time_aged":45678,"id":"nonol","age":21,"startroom":"/world/area/wild/wild",])
+masters ([])
+apprentices ([])
+skills (["dodge":25,"combat":41,"heavy hit":34,"continual hit":6,"parry":19,"savage hit":32,])
+learned (["dodge":1253,"combat":1981,"heavy hit":3192,"continual hit":28,"parry":1183,"savage hit":2933,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,"combat":4,"heavy hit":2,"continual hit":2,"parry":2,"savage hit":2,])
+skill_require (["dodge":3125,"combat":8405,"heavy hit":5780,"continual hit":180,"parry":1805,"savage hit":5120,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":210,"ap":300,])
+st_current (["mp":80,"hp":177,"ap":122,])
+st_notify (["hp":10,"ap":0,])
+st_point (["attribute":0,"skill":0,"score":0,"learn":546,])
+st_quest (["prize":([4:1,]),])
+autoload ([8:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),7:(["file":"/world/area/wild/npc/wp/gao_sword","amount":1,]),6:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),5:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),4:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),3:(["file":"/world/eq/head/watermelon-hat","amount":1,]),2:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),1:(["file":"/world/eq/face/fglasses","amount":1,]),0:(["file":"/world/area/muye/npc/eq/ghost_boots","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/newbie.c":(["item":([]),"killed":([]),]),"/world/quest/nurture_pig.c":(["item":([]),"killed":(["/world/area/wild/npc/smallpig.c":5,"/world/area/wild/npc/babypig.c":4,]),]),"/world/quest/new_fight.c":(["item":([]),"killed":(["/world/npc/dog.c":0,]),]),])
+solved ({})

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":82467,"guild":"muye","name":"¢Ý¢ú£C","title":"¤ì¸­§ø§ÔªÌ","gender":"male","area_info":(["x_axis":25,"y_axis_old":19,"y_axis":19,"x_axis_old":25,]),"birthday":1140687952,"class":"inferior","option":(["map_unfreeze":1,"map_hidden":1,]),"id":"demon","recoverroom":"/world/area/muye/inn","startroom":"/world/area/muye/swanlake","score":(["elevel":0,"combat exp":11878,"survive":22115,]),"bank":41912,"target_score":(["elevel":1,"combat exp":12100,]),"nickname":"¦A¥@¤p§õ[0;2m","age":45,"level":11,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":20,"parry":19,"heavy hit":23,"combat":25,"continual hit":1,"savage hit":23,])
+learned (["dodge":0,"parry":3850,"heavy hit":7560,"combat":8610,"savage hit":7560,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,"heavy hit":2,"combat":2,"continual hit":1,"savage hit":2,])
+skill_require (["dodge":6000,"parry":5415,"heavy hit":7935,"combat":9375,"savage hit":7935,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":13,"attribute":22,"score":550,"learn":1100,])
+st_quest ([])
+autoload ([10:(["file":"/world/item/fish1","amount":35,]),9:(["file":"/world/item/fish2","amount":31,]),8:(["file":"/world/item/fish5","amount":42,]),7:(["file":"/world/item/fish3","amount":29,]),6:(["file":"/world/item/fish6","amount":31,]),5:(["file":"/world/item/fish4","amount":34,]),4:(["file":"/world/wp/sword","amount":1,]),3:(["file":"/world/area/muye/npc/eq/mouse_head","amount":1,]),2:(["file":"/world/wp/radish","amount":1,]),1:(["file":"/world/area/muye/npc/eq/go_mouth","amount":1,]),0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""

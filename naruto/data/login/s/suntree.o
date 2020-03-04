@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["k1":"kill traveller","g":"get all from corpse","sa":"sac corpse","w2":"wield rattan 2 as lefthand","ea2":"eat middle ap pill","w1":"wield blade as twohanded","p":"perform ninja.ca","sk":"skills","eh1":"eat hp pill","ea1":"eat ap pill",])
+dbase (["time_aged":450068,"body":"/obj/user","channels":({"chat","rumor",}),"last_on":1132442056,"creation_time":1131827369,"board_last_read":(["wizard":1123561007,"newbie":1128936709,]),"id":"suntree","name":"²`·R¤Ó¶§","last_from":"92.147.168.218",])
+my_body 
+last_age_set 1234277025
+password "$1$88324695$LNVUFNhVbBV2QWAokJITK/"
+email "suntree318@yahoo.com.tw"
+window (["width":80,"height":25,"freeze":1,"terminal_type":"ANSI",])

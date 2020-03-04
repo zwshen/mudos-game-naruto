@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["level":1,"age":18,"race":"human","name":"¦B´P","id":"iceakira","class":"commoner","startroom":"/world/area/wizard/wizard","gender":"male","area_info":(["x_axis":3,"y_axis_old":16,"x_axis_old":3,"y_axis":16,]),"time_aged":755,"birthday":1170469704,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["skill":2,"score":50,"learn":100,"attribute":2,])
+st_quest ([])
+autoload ([])
+__flag ""

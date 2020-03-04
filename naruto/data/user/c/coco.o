@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["level":1,"age":18,"race":"human","gender":"male","id":"coco","name":"ах","startroom":"/world/area/muye/swanlake","area_info":(["x_axis":23,"y_axis_old":16,"x_axis_old":23,"y_axis":16,]),"time_aged":294,"class":"commoner","birthday":1131289999,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["score":50,"learn":100,"skill":2,"attribute":2,])
+st_quest ([])
+autoload ([1:(["file":"/world/item/rod","amount":1,]),0:(["file":"/world/item/fish3","amount":1,]),])
+__flag ""

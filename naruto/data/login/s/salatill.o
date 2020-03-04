@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["llv":"list vendor $*","gg":"get all from corpse $*","ssa":"sell all",])
+dbase (["time_aged":606747,"name":"ÂÄ©Ô´£º¸","id":"salatill","last_from":"70.92.70.203","board_last_read":(["newbie":1130565369,]),"last_on":1132234485,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1130970707,])
+password "$1$26524035$TGgH5121zZgKzxPU/OioC0"
+email "salatill@gmail.com"

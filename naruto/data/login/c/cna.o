@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["al":"get all from corpse $*","sa":"sac corpse",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1188754067,"name":"к╓ож","id":"cna","time_aged":1582,])
+password "$1$85652486$LE1E9ssEYoHR.RE57TUjc/"
+email "dennmoon@hotmail.com"

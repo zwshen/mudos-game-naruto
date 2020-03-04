@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["z":"remember $*","gg":"get all from corpse","p":"sac corpse",])
+dbase (["last_on":1237476357,"time_aged":3193030,"body":"/obj/user","name":"·¨©É","id":"tavia","channels":({"chat","rumor","aucc",}),"creation_time":1234283368,"last_from":"151.176.204.123",])
+my_body 
+last_age_set 1237476356
+password "$1$61347759$Hfs3aSeRo/oAPbVf.w.h20"
+email "joannnewk@yahoo.com.tw"
+window (["terminal_type":"vt100","freeze":1,"width":125,"height":46,])

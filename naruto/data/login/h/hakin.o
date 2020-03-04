@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["tr":"transfer $*",])
+dbase (["body":"/obj/user","creation_time":1175042697,"last_on":1175212228,"time_aged":142612,"id":"hakin","name":"¤pª÷","last_from":"206.75.161.218","channels":({"chat","rumor",}),])
+password "$1$75333485$ceycsHXU.c.tiOd4k.AYg1"
+email "hokin@yahoo.com.tw"

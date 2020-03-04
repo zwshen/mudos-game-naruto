@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["level":1,"class":"commoner","race":"human","name":"¤ñ¥q¦N","id":"besgi","birthday":1183610525,"time_aged":4206,"age":33,"gender":"female","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","score":(["survive":12830,]),"bank":501625,])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([8:(["file":"/world/item/fish1","amount":7,]),7:(["file":"/world/item/fish6","amount":7,]),6:(["file":"/world/item/fish5","amount":9,]),5:(["file":"/world/item/fish2","amount":11,]),4:(["file":"/world/item/fish4","amount":6,]),3:(["file":"/world/item/fish3","amount":8,]),2:(["file":"/world/broom/broom","amount":1,]),1:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({})

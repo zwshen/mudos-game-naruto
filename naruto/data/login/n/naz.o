@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["tc":"train cell activation from ka for $1","sacc":"sac corpse","off":"option map_unfreeze 1","pp":"put $1 in bag 2","ppp":"put $1 in bag 3","eaa":"eat big ap pill","enmi":"enter ¯µ¥Þ","wb1":"wield blade","enmu":"enable combat with muye wind","ct":"climb ¾ð®Ú","emb":"eat middle mp pill","wl":"wield lance as twohanded","ehc":"eat hp pill","eha":"eat big hp pill","ch":"charge bear $1","gg":"get $1 from bag 2","ehb":"eat middle hp pill","pfa":"perform force.fireass on $1","ws1":"wield sword","emw":"enable combat with muye wind","tf":"train force from ka for $1","p":"put $1 in bag","wb":"wield blade","bp":"buy $1 $2 from $3","ggg":"get $1 from bag 3","mapoff":"option map_hidden 1","eac":"eat ap pill","1":"disable muye wind","on":"option map_unfreeze 0","ws2":"wield sword 2 as lefthand","eas":"eat large ap pill","cs":"charge spider 1","eab":"eat middle ap pill","emc":"eat mp pill","east":"go east","ehs":"eat large hp pill","mapon":"option map_hidden 0","g":"get $1 from bag","tm":"train muye wind from ka for $1",])
+dbase (["time_aged":3740801,"body":"/obj/user","board_last_read":(["bug":1139305926,"acme":1139855182,"chat":1133923712,"_MITE_":1139709536,"tmr":1137954741,"ayumi":1120542699,"newbie":1130565369,"propose":1139745280,"wizard":1132743373,]),"name":"¯Ç¯÷","id":"naz","channels":({"auc","aucc","rumor","chat",}),"last_on":1242015761,"last_from":"20.4.134.140","creation_time":1128708761,])
+my_body 
+last_age_set 1242015761
+password "$1$97504227$tft2gdx8jkJ7a6PjGslEe0"
+email "m9305789@hotmail.com"
+window (["terminal_type":"VT100","width":111,"height":39,])

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":22,"dex":20,"str":20,])
+conditions ([])
+dbase (["bank":0,"name":"¤ò¤ò","birthday":1129916050,"level":1,"race":"human","age":18,"target_score":(["combat exp":100,]),"gender":"male","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/wizard/prac6","score":(["combat exp":48,]),"title":"©À¯à¤OªÌ","id":"pupu","guild":"hunter","class":"hxh_initial","time_aged":2538,])
+masters ([])
+apprentices ([])
+skills (["combat":5,])
+learned (["combat":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":375,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":130,])
+st_current (["mp":80,"hp":80,"ap":130,])
+st_notify ([])
+st_point (["score":0,"learn":100,"attribute":0,"skill":0,])
+st_quest ([])
+autoload ([4:(["file":"/world/area/old_forest/npc/item/monkey_brain","amount":2,]),3:(["file":"/world/area/old_forest/npc/item/fruit4","amount":1,]),2:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),1:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),0:(["file":"/world/area/wild/npc/wp/blade","amount":1,]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["sk":"skills",])
+dbase (["last_from":"82.78.130.220","time_aged":31177938,"creation_time":1173008101,"last_on":1246599016,"body":"/obj/user","board_last_read":(["newbie":1136481011,"bug":1213114984,"propose":1211983359,"acme":1188005608,"wizard":1214818337,]),"id":"kimi","name":"¢ó¢ñ¢õ¢ñ","channels":({"chat","rumor",}),])
+my_body 
+last_age_set 1246599014
+password "$1$18815635$FcxBElxxE83ahkU8tswq80"
+email "lexusabc@yahoo.com.tw"
+window (["terminal_type":"zmud","width":83,"height":20,])

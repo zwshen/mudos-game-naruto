@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["em1":"emote 全身念力爆漲，右拳一記「超‧破壞拳」朝著「$*」重重擊去！","t2":"team talk  (／‵口′)／ ╧╧                     $*                     ╰(‵皿′＊)╯","t1":"team talk  （☆￣▽￣）     $*      【可惜無法彩色碼】","ga":"get all from corpse $*","pa":"perform destory fist.attack on $*","pf":"perform finger-guessing fist.石頭","rt":"eat heal hp pill","pcut":"perform finger-guessing fist.剪刀","em2":"emote  (／‵口′)／~ ╧╧        $*      ╰(‵皿′＊)╯","pbu":"perform finger-guessing fist.布","4":"perform chamber fish.state","1":"perform chamber fish.fish","enfist":"enable combat with finger-guessing fist","pu":"perform body strength.powerup","sa1":"say  \\(╯o╰)/   $*    ~(￣▽￣)~","2":"perform chamber fish.feed","3":"perform chamber fish.destruct","rr":"eat heal ap pill","-":"quit",])
+dbase (["time_aged":6110459,"body":"/obj/user","board_last_read":(["bug":1238077912,"design":1154116971,"chat":1237659377,"_MITE_":1188848484,"ayumi":1120542699,"newbie":1136481011,"propose":1237364643,"wizard":1239465932,]),"name":"貝克司","id":"bacchus","channels":({"chat","rumor","aucc","news",}),"last_on":1238350818,"last_from":"243.226.173.218","creation_time":1234276708,])
+my_body 
+last_age_set 1240387087
+password "$1$47238987$VqUphxPs3Vfpiw9XsqKuS0"
+email "1@1.1.1"
+window (["terminal_type":"zmud","width":80,"height":25,])

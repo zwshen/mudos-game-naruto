@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":30,"dex":30,"str":20,"con":25,])
+conditions ([])
+dbase (["class":"inferior","guild":"muye","id":"firemen","title":"¤ì¸­§ø§ÔªÌ","name":"¤p­D­D","birthday":1137025890,"gender":"male","level":20,"bank":4379,"age":26,"race":"human","time_aged":81847,"startroom":"/world/area/wizard/prac5","score":(["kills":122,"survive":5036,"combat exp":127604,"elevel":9,]),])
+masters ([])
+apprentices ([])
+skills (["alter ego":20,"continual hit":31,"substitute":20,"ninja":20,"heavy hit":71,"parry":17,"dodge":7,"combat":71,"savage hit":71,])
+learned (["alter ego":0,"continual hit":2685,"substitute":0,"ninja":0,"heavy hit":15450,"parry":3855,"dodge":612,"combat":25830,"savage hit":15450,])
+skill_map (["ninja":"alter ego","dodge":"substitute",])
+skill_flag ([])
+skill_ability (["alter ego":2,"continual hit":2,"substitute":2,"ninja":2,"heavy hit":5,"parry":2,"dodge":2,"combat":5,"savage hit":5,])
+skill_require (["alter ego":2000,"continual hit":14415,"substitute":2000,"ninja":2000,"heavy hit":75615,"parry":4335,"dodge":735,"combat":75615,"savage hit":75615,])
+best_skill "combat"
+st_maximum (["mp":100,"hp":590,"ap":550,])
+st_current (["mp":100,"hp":590,"ap":36,])
+st_notify ([])
+st_point (["learn":217,"skill":13,"attribute":15,"score":0,])
+st_quest ([])
+autoload ([15:(["amount":1,"file":"/world/item/rod",]),14:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),13:(["amount":1,"file":"/world/wp/radish",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/dragon_boots",]),11:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),10:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),9:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),8:(["amount":1,"file":"/world/eq/wrist/rubber",]),7:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),5:(["amount":1,"file":"/world/area/old_forest/npc/wp/lance",]),4:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),3:(["amount":1,"file":"/world/eq/leg/gai",]),2:(["amount":1,"file":"/world/eq/hand/fist",]),1:(["amount":1,"file":"/world/eq/finger/copper",]),0:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),])
+__flag ""

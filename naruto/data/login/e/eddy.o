@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall","opt3":"option map_hidden 1","opt2":"option map_unfreeze 0","opt1":"option map_unfreeze 1","m":"eat heal hp pill","t7":"perform chamber fish.fish","t":"perform psychical bullet.shoot on $*","t5":"perform dragon-head draw.summon on $*","t8":"perform chamber fish.destruct","t6":"perform chamber fish.feed","mm":"use hp help","opt4":"option map_hidden 0",])
+dbase (["time_aged":12642210,"creation_time":1236649805,"name":"жул╥","id":"eddy","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["bug":1246069199,"_MITE_":1188848484,"propose":1245913026,"wizard":1239465932,]),"last_on":1248959345,"last_from":"16.67.8.124",])
+my_body 
+last_age_set 1249292000
+password "$1$23593584$tfxeoDPnZHCM65xzKyJ2B1"
+email "ninemoon@hotmail.com"
+window (["freeze":1,"terminal_type":"zmud","width":122,"height":45,])

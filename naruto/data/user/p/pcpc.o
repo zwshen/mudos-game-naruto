@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":23,"con":23,"int":20,])
+conditions ([])
+dbase (["birthday":1171648901,"title":"¤ì¸­§ø§ÔªÌ","name":"¶³¤Ñ","id":"pcpc","startroom":"/world/area/muye/swanlake","score":(["survive":30,"kills":8,]),"gender":"male","area_info":(["x_axis_old":10,"y_axis":20,"x_axis":10,"y_axis_old":20,]),"guild":"muye","time_aged":4663,"level":3,"race":"human","bank":32,"class":"inferior","age":18,])
+masters ([])
+apprentices ([])
+skills (["parry":1,"dodge":1,"combat":6,])
+learned (["combat":320,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":6,])
+skill_require (["combat":540,])
+best_skill "combat"
+st_maximum (["mp":130,"hp":130,"ap":130,])
+st_current (["mp":130,"hp":76,"ap":115,])
+st_notify (["hp":60,"ap":60,])
+st_point (["attribute":0,"skill":0,"score":0,"learn":110,])
+st_quest ([])
+autoload ([])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c",})

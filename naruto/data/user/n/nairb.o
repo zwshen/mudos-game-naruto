@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":24,"int":24,"dex":48,"str":24,])
+conditions ([])
+dbase (["time_aged":81941,"title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/wild/land","id":"nairb","name":"»È«ô","age":37,"guild":"muye","gender":"male","score":(["elevel":14,"kills":2283,"combat exp":134377,"survive":13773,]),"level":20,"race":"human","class":"inferior","birthday":1139507128,"bank":58604,"area_info":(["x_axis":23,"y_axis_old":37,"x_axis_old":23,"y_axis":37,]),])
+masters ([])
+apprentices ([])
+skills (["substitute":1,"force":37,"muye wind":21,"dodge":50,"parry":39,"heavy hit":54,"combat":53,"continual hit":29,"savage hit":54,])
+learned (["combat":40508,"force":0,"muye wind":2574,"continual hit":10088,"dodge":21996,"parry":6084,"heavy hit":20800,"savage hit":20800,])
+skill_map (["combat":"muye wind",])
+skill_flag ([])
+skill_ability (["substitute":1,"force":3,"muye wind":2,"dodge":3,"parry":3,"heavy hit":4,"combat":4,"continual hit":2,"savage hit":4,])
+skill_require (["combat":42135,"force":6845,"muye wind":6615,"continual hit":12615,"dodge":37500,"parry":22815,"heavy hit":43740,"savage hit":43740,])
+best_skill "savage hit"
+st_maximum (["ap":495,"mp":250,"hp":495,])
+st_current (["ap":495,"mp":250,"hp":605,])
+st_notify (["ap":5,"hp":10,])
+st_point (["skill":14,"score":0,"learn":0,"attribute":0,])
+st_quest (["prize":([4:1,]),"level_d":([2:1,]),])
+autoload ([12:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),11:(["amount":1,"file":"/world/wp/butcher-blade",]),10:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),9:(["amount":1,"file":"/world/eq/finger/silver",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),7:(["amount":1,"file":"/world/eq/belt/hoop",]),6:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),5:(["amount":1,"file":"/world/eq/armor/turtle",]),4:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),3:(["amount":1,"file":"/world/item/rod",]),2:(["amount":1,"file":"/world/eq/neck/crystal",]),1:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),])
+__flag ""

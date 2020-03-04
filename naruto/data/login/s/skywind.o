@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["t":"train $* from master for 30","aa":"train $* from ka for 1","a":"train $* from master for 1","1":"perform muscle tank on $*","id":"identify $*","f":"fight $*","b":"buy 1 $* from master","con":"consider $*",])
+dbase (["time_aged":235310,"id":"skywind","name":"¤Ñ¼C§u­·","last_from":"187.106.74.211","board_last_read":(["_MITE_":1130219802,]),"last_on":1151905207,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1151594666,])
+password "$1$33489256$p4a39PV3MWjtGm/vZgwC11"
+email "loterdia@msn.com"

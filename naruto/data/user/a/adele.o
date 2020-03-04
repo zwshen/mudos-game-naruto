@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":21,"str":21,])
+conditions ([])
+dbase (["startroom":"/world/area/wild/land","time_aged":1463,"birthday":1148996794,"score":(["combat exp":36,"kills":3,]),"level":1,"gender":"male","age":18,"race":"human","id":"adele","name":"ªü¼wº¸","area_info":(["x_axis":18,"y_axis_old":2,"x_axis_old":18,"y_axis":2,]),"class":"commoner",])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":3,"combat":4,])
+learned (["parry":50,"combat":220,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,"combat":1,])
+skill_require (["parry":135,"combat":240,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":37,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"attribute":0,"score":50,"learn":85,])
+st_quest ([])
+autoload ([0:(["file":"/obj/money/silver","amount":3,]),])
+__flag ""

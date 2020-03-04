@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["c":"consider $*",])
+dbase (["last_on":1142523157,"time_aged":1051,"id":"zaq","name":"Øp","channels":({"chat","rumor",}),"creation_time":1141813870,"body":"/obj/user","last_from":"126.214.85.210",])
+password "$1$95874062$cy0P9vBYRvgiceRr.lEbh."
+email "@"

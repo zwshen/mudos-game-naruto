@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wl":"wield radish as lefthand","sk":"skills","rr":"recall","bk":"balance","rs":"recall start",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1135164416,"name":"�ߪΨm","id":"pickupsoap","board_last_read":(["ayumi":1120542699,"bug":1131175254,"propose":1127911949,"_MITE_":1130491067,"wizard":1129787875,"tmr":1134381588,"acme":1131028120,"newbie":1128936709,]),"last_on":1135355428,"last_from":"240.147.13.163","body":"/obj/user","time_aged":57798,])
+password "$1$75120127$C/jD7sDTdrL.StQKznMz71"
+email "123@hotmail.com"

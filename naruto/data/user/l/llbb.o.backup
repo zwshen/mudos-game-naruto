@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":80,"int":40,"dex":30,"str":30,])
+conditions (["apheal3":(["duration":5,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":5,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),"mpheal2":(["duration":41,"name":"[45m¢Ð¯Å¤Ñ¦a³N[0;2m",]),"dp":(["duration":19,"attack":50,"name":"[1;32m­¿¤Æ³N[0;2m","armor":50,"hp":600,]),"apheal1":(["duration":5,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":84685,"title":"¤ì¸­§ø§ÔªÌ","name":"¤p¶Â","guild":"muye","gender":"male","birthday":1135972541,"class":"middle","bank":372079,"area_info":(["x_axis":21,"y_axis_old":0,"x_axis_old":21,"y_axis":0,]),"recoverroom":"/world/area/muye/inn","nickname":"[1;30m¶Â[1;33m¶À[1;35mªá[1;37m¥Õ[1;32m~[1;30m¤@¶Â[0;2m","startroom":"/world/area/wild/wild","id":"llbb","score":(["elevel":93,"kills":54858,"combat exp":1534209,"clevel":26,"dlevel":149,"survive":57715,]),"age":70,"vendetta":(["wheya":3,"bandit":221,]),"level":40,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["force":20,"dodge":122,"parry":109,"heavy hit":169,"double physique":200,"combat":153,"alter ego":80,"continual hit":122,"ninja":40,"muscle tank":137,"savage hit":169,])
+learned (["force":0,"dodge":118947,"parry":52218,"heavy hit":284830,"double physique":0,"combat":127857,"alter ego":0,"continual hit":30452,"ninja":0,"muscle tank":10204,"savage hit":284830,])
+skill_map (["force":"muscle tank","ninja":"double physique",])
+skill_flag ([])
+skill_ability (["force":1,"dodge":7,"parry":7,"heavy hit":9,"double physique":10,"combat":8,"alter ego":4,"continual hit":7,"ninja":2,"muscle tank":7,"savage hit":9,])
+skill_require (["force":2000,"dodge":223260,"parry":178215,"heavy hit":428415,"double physique":200000,"combat":351135,"alter ego":32000,"continual hit":223260,"ninja":8000,"muscle tank":93845,"savage hit":428415,])
+best_skill "double physique"
+st_maximum (["ap":1030,"mp":480,"hp":1530,])
+st_current (["ap":1023,"mp":430,"hp":2230,])
+st_notify (["ap":10,"hp":30,])
+st_point (["skill":9,"score":200,"learn":1176372,"attribute":0,])
+st_quest (["prize":([13:2,]),])
+autoload ([24:(["amount":1,"file":"/world/area/old_forest/npc/eq/monkey_leather",]),23:(["amount":1,"file":"/world/area/echo/npc/eq/ring",]),22:(["amount":1,"file":"/world/area/bone/npc/eq/mask",]),21:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),20:(["amount":1,"file":"/world/area/sneakhole/npc/eq/pants",]),19:(["amount":1,"file":"/world/eq/hand/fist",]),18:(["amount":1,"file":"/world/area/old_forest/npc/wp/tree_sword",]),17:(["amount":1,"file":"/world/area/echo/npc/eq/necklace",]),16:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),15:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),14:(["amount":1,"file":"/world/area/sneakhole/npc/eq/guard",]),13:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),11:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),10:(["amount":1,"file":"/world/eq/head/rhino-shit",]),9:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),8:(["amount":1,"file":"/world/eq/leg/gai",]),7:(["amount":1,"file":"/world/area/sneakhole/npc/eq/spider_armor",]),6:(["amount":1,"file":"/world/area/old_forest/npc/eq/arm",]),5:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),4:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),3:(["amount":1,"file":"/world/area/sneakhole/npc/eq/belt",]),2:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),1:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

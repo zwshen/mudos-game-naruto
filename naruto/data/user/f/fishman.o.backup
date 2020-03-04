@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":26,"dex":20,"str":22,])
+conditions (["apheal1":(["name":"[42m¢Ñ¯Å´£¯«³N[0;2m","duration":48,]),"apheal2":(["name":"[42m¢Ð¯Å´£¯«³N[0;2m","duration":48,]),])
+dbase (["time_aged":33741,"guild":"muye","name":"º®¤Ò","title":"¤ì¸­§ø§ÔªÌ","gender":"male","area_info":(["x_axis":27,"y_axis_old":0,"x_axis_old":27,"y_axis":0,]),"birthday":1139188349,"class":"inferior","option":(["map_unfreeze":1,]),"id":"fishman","recoverroom":"/world/area/muye/inn","startroom":"/world/area/wild/land","score":(["elevel":13,"combat exp":1571,"survive":16202,]),"bank":344,"target_score":(["combat exp":1600,]),"age":40,"level":4,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":4,"parry":10,"combat":15,])
+learned (["dodge":26,"parry":1131,"combat":2171,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,"parry":2,"combat":2,])
+skill_require (["dodge":240,"parry":1500,"combat":3375,])
+best_skill "combat"
+st_maximum (["ap":280,"mp":80,"hp":80,])
+st_current (["ap":197,"mp":80,"hp":79,])
+st_notify ([])
+st_point (["skill":2,"attribute":0,"score":0,"learn":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([2:(["file":"/world/item/rod","amount":1,]),1:(["file":"/world/drug/apill","amount":45,]),0:(["file":"/world/drug/apill2","amount":20,]),])
+__flag ""

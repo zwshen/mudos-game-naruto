@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1141513899,"time_aged":2215,"bank":22,"age":18,"id":"mingly","name":"±s¥S","level":1,"race":"human","startroom":"/world/area/wizard/wizard","gender":"male","score":(["combat exp":113,"kills":10,]),"class":"commoner","area_info":(["x_axis":14,"y_axis_old":32,"x_axis_old":14,"y_axis":32,]),])
+masters ([])
+apprentices ([])
+skills (["combat":1,"dodge":5,"parry":5,])
+learned (["dodge":300,"parry":30,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,])
+skill_require (["dodge":375,"parry":375,])
+best_skill "dodge"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":27,"mp":80,"hp":79,])
+st_notify ([])
+st_point (["attribute":2,"skill":0,"score":50,"learn":83,])
+st_quest ([])
+autoload ([1:(["amount":16,"file":"/obj/money/silver",]),0:(["amount":1,"file":"/world/eq/cloth/cloth",]),])
+__flag ""

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["bank":2800,"name":"非常女","birthday":1131738224,"level":10,"target_score":(["combat exp":10000,]),"race":"human","age":19,"gender":"female","startroom":"/world/area/wizard/prac7","score":(["survive":500,"elevel":28,"combat exp":8284,]),"title":"木葉村忍者","id":"top","option":(["map_unfreeze":1,]),"guild":"muye","time_aged":3131,"class":"inferior",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":530,"ap":80,])
+st_current (["mp":80,"hp":530,"ap":20,])
+st_notify ([])
+st_point (["score":50,"learn":1000,"attribute":20,"skill":20,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

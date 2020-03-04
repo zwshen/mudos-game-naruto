@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["mapon":"option map_unfreeze 0","sap":"eat chicken","mapoff":"option map_unfreeze 1","ds":"deposit $* silver","sa":"sac corpse","g":"get all from corpse $*",])
+dbase (["time_aged":77739,"body":"/obj/user","board_last_read":(["_MITE_":1130296684,"wizard":1149181869,]),"id":"meta","name":"°¨¶ð","last_on":1239737253,"channels":({"chat","rumor","aucc",}),"last_from":"48.227.74.211","creation_time":1192726784,])
+my_body 
+last_age_set 1239773902
+password "$1$39541319$dT05b.BsUxdaSer.xBCGf."
+email "ncs@ncs.com.tw"
+window (["freeze":1,"terminal_type":"zmud","width":120,"height":42,])

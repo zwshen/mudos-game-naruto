@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":40,"str":20,"con":20,"int":40,])
+conditions ([])
+dbase (["level":20,"race":"human","option":([]),"name":"§Nºz","birthday":1131343059,"gender":"male","startroom":"/world/area/wizard/guildhall","recoverroom":"/world/area/wizard/guildhall","title":"¤ì¸­§ø§ÔªÌ","bank":1048083,"score":(["elevel":100,"survive":124037,"combat exp":130226,"kills":3688,]),"guild":"muye","class":"inferior","time_aged":42505,"id":"icman","age":102,])
+masters ([])
+apprentices ([])
+skills (["continual hit":34,"dodge":44,"parry":43,"combat":77,"heavy hit":80,"savage hit":80,"ninja":49,"cell activation":50,])
+learned (["continual hit":11012,"dodge":23158,"parry":14944,"combat":28984,"heavy hit":81368,"savage hit":81390,"ninja":8360,"cell activation":4380,])
+skill_map (["ninja":"cell activation",])
+skill_flag ([])
+skill_ability (["continual hit":5,"dodge":3,"parry":3,"combat":5,"heavy hit":5,"savage hit":5,"ninja":3,"cell activation":3,])
+skill_require (["continual hit":18375,"dodge":30375,"parry":29040,"combat":91260,"heavy hit":98415,"savage hit":98415,"ninja":12005,"cell activation":12500,])
+best_skill "savage hit"
+st_maximum (["mp":280,"hp":480,"ap":480,])
+st_current (["mp":199,"hp":480,"ap":480,])
+st_notify (["ap":0,])
+st_point (["attribute":0,"skill":8,"score":0,"learn":1313,])
+st_quest (["prize":([9:1,4:1,13:1,]),"level_d":([1:1,]),])
+autoload ([3:(["file":"/world/area/muye/npc/eq/mouse_head","amount":1,]),2:(["file":"/world/eq/belt/hoop","amount":1,]),1:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({})

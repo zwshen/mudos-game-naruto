@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ad":"advance $* for 1","getc":"get all from corpse","cons":"consider $*","re":"recall","chat":"chat* ®³µÛÁ³±Û¤Y«ã§q ¡i$*¡j","dep":"deposit $* silver","id":"identify $*","tak":"train $* from ka for 100","sk":"skills","as":"alias $*","en":"enable $*","wield2":"wield $* as lefthand","p1":"perform ninja.shadow","p2":"perform ninja.destruct",])
+dbase (["body":"/obj/user","last_on":1179672349,"creation_time":1160484895,"name":"¶Æ®ðµ¾","id":"mildseven","time_aged":1076605,"last_from":"60.50.62.61","channels":({"chat","rumor","aucc","news",}),"board_last_read":(["chat":1154117225,"propose":1148557370,"newbie":1136481011,"bug":1136817938,"tmr":1150731334,"wizard":1170689153,"acme":1116038206,"ayumi":1120542699,"design":1154116971,]),])
+password "$1$49528942$9NppVXBSAxGlWzTz1UtF20"
+email "hihibbs2kimo@yahoo.com.tw"

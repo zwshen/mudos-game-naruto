@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse $*","sa":"sell all","bb":"balance","ll":"look corpse","1":"perform ninja.ca","hh":"halt","wa":"wear all","dd":"deposit $* silver","ga":"get all","c":"consider $*","ss":"sac corpse",])
+dbase (["body":"/obj/user","name":"§Nºz","id":"icman","time_aged":7297456,"last_on":1182245226,"last_from":"123.142.240.123","creation_time":1131343066,"channels":({}),"board_last_read":(["wizard":1132743373,"newbie":1128936709,]),])
+password "$1$74330377$uikxtH3WvutI.T59trkiK."
+email "beautymynini@yahoo.com.tw"

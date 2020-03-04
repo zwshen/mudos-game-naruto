@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["li":"list $*","wie":"wield $*","g":"get $*","s1":"sac corpse","/":"recall $*","adv":"advance $*","dep":"deposit $*","qu":"quest $*","ide":"identify $*","f":"fight $*","g1":"get all from corpse","con":"consider $*","ªZªL¸s«L":"l 5555","11":"perform hundred palm.attack on $*","sa":"say $*",])
+dbase (["channels":({"chat","rumor","news","aucc",}),"last_from":"82.8.127.59","creation_time":1173741442,"last_on":1203592088,"body":"/obj/user","board_last_read":(["tmr":1174093857,"byron":1177702512,"design":1154116971,"ayumi":1120542699,"_MITE_":1188848484,"chat":1186466886,"acme":1188005608,"newbie":1136481011,"wizard":1201062195,]),"id":"charming","name":"¨ÈÄõ¯S","time_aged":268029,])
+password "$1$4802927$z4/ECfEtWoP5l8WdEmGpn0"
+email "ilikecharming@yahoo.com.tw"

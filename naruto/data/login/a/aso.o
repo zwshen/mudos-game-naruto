@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["0":"wield blade as twohanded","2":"train dodge from guan for 200","v":"look skateboard","con":"consider $*","pro":"proskills first-aid snake_skin_bandage -m","wie":"wield $* as lefthand","g":"get all from corpse","ge":"get $* from corpse","on":"option map_unfreeze 0","a":"eat chicken","1":"perform body strength.powerup","off":"option map_unfreeze 1","re":"recall start","q":"use bandage","3":"train parry from guan for 200",])
+dbase (["board_last_read":(["_MITE_":1188848484,"bug":1235877137,"propose":1236014139,"wizard":1236177249,"chat":1186466886,]),"time_aged":2366081,"last_from":"175.66.233.125","name":"¥j","body":"/obj/user","last_on":1235792767,"id":"aso","channels":({"chat","rumor",}),"creation_time":1233948451,])
+my_body 
+last_age_set 1236314499
+password "$1$91946986$.SUfk76GX36pEWUGBR.Jt/"
+email "amos_ka125@hotmail.com"
+window ([])

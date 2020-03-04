@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["quest":"q","sc":"score",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1204242979,"last_from":"211.178.186.129","last_on":1204311117,"body":"/obj/user","board_last_read":(["propose":1117023794,"newbie":1128936709,"wizard":1123689397,"design":1154116971,]),"id":"shannara","name":"ªQ¥»®Ò¶³","time_aged":985,])
+password "$1$58929260$MwxtWzcV1fDFSllDnYiNi."
+email "shannara@hotmail.com"

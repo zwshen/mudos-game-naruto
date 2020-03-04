@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["at2":"perform animal taming.leave","at3":"perform animal taming.state","at4":"perform animal taming.feed $1","p1":"perform hundred palm.attack on $1","at1":"perform animal taming.call",])
+dbase (["board_last_read":(["_MITE_":1188848484,"bug":1234803985,"newbie":1136481011,"propose":1211983359,"wizard":1235586729,]),"time_aged":1833429,"last_from":"229.78.114.140","last_on":1235739494,"name":"¼Ú©i","body":"/obj/user","id":"orm","channels":({"chat","rumor","aucc",}),"creation_time":1233906126,])
+my_body 
+last_age_set 1235739493
+password "$1$10098781$Rsu59bzv5zf2Y7XfVbS7i0"
+email "juichi.liang@gmail.com"
+window (["width":177,"height":49,])

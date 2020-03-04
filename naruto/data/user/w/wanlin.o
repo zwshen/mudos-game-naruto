@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":20,"int":22,"dex":20,"str":20,])
+conditions ([])
+dbase (["level":1,"class":"commoner","name":"¤ô¤ì»f¸»","id":"wanlin","score":(["survive":380,"kills":13,"elevel":2,]),"race":"human","gender":"male","startroom":"/world/area/muye/pool","age":18,"guild":"muye","title":"¤ì¸­§ø¦¨­û","birthday":1173969450,"time_aged":52018,"bank":271,])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":1,"combat":14,])
+learned (["combat":687,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":980,])
+best_skill "combat"
+st_maximum (["hp":110,"ap":100,"mp":80,])
+st_current (["hp":110,"ap":46,"mp":80,])
+st_notify ([])
+st_point (["skill":0,"score":0,"learn":142,"attribute":0,])
+st_quest ([])
+autoload ([0:(["file":"/world/wp/newblade","amount":1,]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/new_fight.c",})

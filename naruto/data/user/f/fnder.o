@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["age":18,"race":"human","time_aged":1216,"birthday":1167965926,"class":"commoner","name":"¹C¤H","id":"fnder","startroom":"/world/area/wizard/newbie","gender":"male","level":1,])
+masters ([])
+apprentices ([])
+skills (["parry":4,])
+learned (["parry":230,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["parry":1,])
+skill_require (["parry":240,])
+best_skill "parry"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":1,"attribute":0,"score":50,"learn":57,])
+st_quest ([])
+autoload ([])
+__flag ""

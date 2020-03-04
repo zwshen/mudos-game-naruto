@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ga":"get all from corpse",])
+dbase (["last_on":1235619899,"time_aged":776150,"body":"/obj/user","name":"¥¯¤Ñ°ó","id":"owee","channels":({"chat","rumor","aucc",}),"last_from":"239.67.174.218","board_last_read":(["newbie":1136481011,"wizard":1170650932,"_MITE_":1130219802,"acme":1116383551,]),"creation_time":1234843786,])
+my_body 
+last_age_set 1235619898
+password "$1$24811396$K0SdfAmXDYtsnq3BSBLtJ0"
+email "owee@mail.com"
+window (["terminal_type":"vt100","width":125,"freeze":1,"height":46,])

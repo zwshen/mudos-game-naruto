@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
+dbase (["last_on":1142655894,"board_last_read":(["newbie":1136481011,"wizard":1140511389,"_MITE_":1139709536,"propose":1116226666,"chat":1133923712,"tmr":1130172905,"ayumi":1120542699,"acme":1115832156,]),"time_aged":2965814,"id":"shammer","name":"¿W©t¸t","channels":({"chat","rumor","news","aucc","music",}),"creation_time":1136808963,"body":"/obj/user","last_from":"138.213.169.202","profile":"","signature":"",])
+password "$1$86015752$58Y4IGYPASOvLVkcV46KR/"
+email "yuh_hung@yahoo.co.uk"

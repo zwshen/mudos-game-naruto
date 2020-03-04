@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":44,])
+conditions ([])
+dbase (["time_aged":6190,"guild":"muye","name":"®R¦ÒÅS","title":"¤ì¸­§ø§ÔªÌ","gender":"female","birthday":1140398443,"class":"inferior","id":"nacolulu","startroom":"/world/area/muye/bank","score":(["combat exp":13277,"elevel":2,"kills":23,"survive":18896,]),"target_score":(["combat exp":14400,"elevel":2,]),"bank":1824673,"age":43,"level":12,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":1,"combat":30,])
+learned (["combat":3360,])
+skill_map (["dodge":0,"parry":0,])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":13500,])
+best_skill "combat"
+st_maximum (["ap":580,"mp":80,"hp":80,])
+st_current (["ap":580,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":22,"score":100,"learn":1251,])
+st_quest (["level_e":([1:1,]),])
+autoload ([0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""

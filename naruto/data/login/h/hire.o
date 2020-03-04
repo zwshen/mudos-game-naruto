@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gt":"get all from corpse $*","rs":"recall start","tr":"transfer $*","f":"finger $*","/":"recall","gl":"get all","ot":"order dog to $*","ps":"perform animal taming.state","cc":"sac corpse","pp":"perform force.bump on $*","wb":"wield blade as twohanded","pf":"perform animal taming.feed $*","pn":"pushdown 機關","pe":"perform ninja.destruct","un":"unwield $*","tz":"train $* from zhi for 1000","gb":"get $* from bag","re":"remove all","pb":"put $* in bag","sl":"sell all","pc":"perform animal taming.call","pl":"perform animal taming.leave","wl":"wield lance as twohanded","pu":"pushup 機關","cbk":"climb 樹根","tk":"train $* from ka for 1000",])
+dbase (["board_last_read":(["tmr":1132472571,"byron":1174327346,"chat":1143174206,"acme":1188005608,"propose":1188200368,"bug":1166667027,"wizard":1188375771,"ayumi":1120542699,"newbie":1136481011,"_MITE_":1170658966,]),"channels":({"aucc","news","chat","war",}),"creation_time":1128942023,"last_on":1188437071,"last_from":"5.165.71.219","body":"/obj/user","id":"hire","name":"飛影","time_aged":15900394,])
+password "$1$56812333$nAQGiZzH7xNsz3YGPPE5M0"
+email "g9213006@ms2.pccu.edu.tw"

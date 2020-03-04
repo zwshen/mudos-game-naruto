@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ga":"get all from corpse","on":"option map_unfreeze 0","off":"option map_unfreeze 1","sk":"skills","ss":"sac corpse","ll":"look corpse",])
+dbase (["last_on":1206794066,"channels":({"chat","rumor","aucc",}),"creation_time":1160489929,"last_from":"25.237.110.123","body":"/obj/user","board_last_read":(["ayumi":1120542699,"acme":1188005608,"tmr":1174093857,"_MITE_":1151039075,]),"name":"คัยล","id":"tender","time_aged":10671529,])
+password "$1$90366444$6qN1/PGfTppz3YTe9On1S/"
+email "godbless911@yahoo.com.tw"

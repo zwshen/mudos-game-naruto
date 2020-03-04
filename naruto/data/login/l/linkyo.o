@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_on":1249218513,"time_aged":11057480,"creation_time":1238161161,"last_from":"58.105.105.59","id":"linkyo","name":"¯óîK¨Ê",])
+my_body 
+last_age_set 1249218513
+password "$1$81639665$VDtuq/vJc5fZCvHGlVIM90"
+email "lsp0317@hotmail.com"
+window (["freeze":1,"terminal_type":"ZMUD","width":108,"height":32,])

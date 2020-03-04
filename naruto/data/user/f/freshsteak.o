@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":1095,"birthday":1145127723,"class":"commoner","name":"¤û±Æ","id":"freshsteak","startroom":"/world/area/wizard/wizard","gender":"male","score":(["combat exp":89,"kills":5,]),"bank":15,"age":18,"level":1,"race":"human","area_info":(["x_axis":42,"y_axis_old":6,"y_axis":6,"x_axis_old":42,]),])
+masters ([])
+apprentices ([])
+skills (["dodge":1,"parry":1,"combat":5,])
+learned (["combat":150,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":2,])
+skill_require (["combat":375,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":32,"mp":80,"hp":76,])
+st_notify ([])
+st_point (["skill":0,"attribute":2,"score":50,"learn":122,])
+st_quest ([])
+autoload ([3:(["file":"/obj/money/silver","amount":26,]),2:(["file":"/world/wp/rattan","amount":1,]),1:(["file":"/world/eq/belt/cord","amount":1,]),0:(["file":"/world/wp/rattan","amount":1,]),])
+__flag ""

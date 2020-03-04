@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["char":"fishhhhh",])
+dbase (["body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1248779407,"time_aged":1953736,"creation_time":1209923089,"last_from":"171.221.115.140","name":"³¨³½¤H","id":"fishh",])
+my_body 
+last_age_set 1248779406
+password "$1$97215272$9Kvlt8308n3IjFhSkkdc21"
+email "vic@cc.nthu.edu.tw"
+window (["terminal_type":"VT100","width":125,"height":31,])

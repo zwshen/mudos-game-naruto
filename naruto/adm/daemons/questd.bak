@@ -1,0 +1,86 @@
+/* questd.c  write by -Acme-
+   這裡是專門提供MUD中所有任務的列表，並統一任務過程的設定值和觸發語句
+   可配合指令 quest 的使用
+ 
+   資料結構
+   quest = ([ "level_e": ([ ID: ([ "name": "", "detail": "" ]),
+                            ID: ([]),
+                            ID: ([]),
+                            ID: ([]),
+                            ID: ([]),
+                         ]),
+              "level_d": ([]),
+              "level_c": ([]),
+              "level_b": ([]),
+              "level_a": ([]),
+              "level_s": ([]),
+              "prize": ([]),
+           ])
+*/
+
+#pragma save_binary
+#include <ansi.h>
+
+inherit F_CLEAN_UP;
+inherit F_SAVE;
+
+mapping quest;
+
+void create()
+{
+    seteuid(getuid());
+    if( !restore() && !mapp(quest) )
+        quest = ([]);
+}
+
+string query_save_file()
+{
+    return DATA_DIR + "questd";
+}
+
+mapping query_quests()
+{
+    return quest;
+}
+
+mapping query_branch(string branch)
+{
+    if( !stringp(branch) )
+        return 0;
+    if( undefinedp(quest[branch]) )
+        return 0;
+    return quest[branch];
+}
+
+mapping query_quest(string branch, int qid)
+{
+    if( !stringp(branch) || !intp(qid) )
+        return 0;
+    if( undefinedp(quest[branch]) )
+        return 0;
+    if( undefinedp(quest[branch][qid]) )
+        return 0;
+    return quest[branch][qid];
+}
+
+int set_quest(string branch, int qid, mapping info)
+{
+    if( !stringp(branch) || !intp(qid) || !mapp(info) )
+        return 0;
+    if( undefinedp(quest[branch]) )
+        quest[branch] = ([]);
+    quest[branch][qid] = info;
+    save();
+    return 1;
+}
+
+int del_quest(string branch, int qid)
+{
+    if( undefinedp(quest[branch]) )
+        return 1;
+    if( undefinedp(quest[branch][qid]) )
+        return 1;
+    if( map_delete(quest[branch], qid) )
+        return 1;
+    return 0;
+}

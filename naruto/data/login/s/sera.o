@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["en2":"enable combat","wield2":"wield $* as lefthand","r2":"move 2","r1":"move 1","g":"get all from corpse $*","en1":"enable combat with finger-guessing fist","+s":"advance str",".":"kill crab $*","z":"remember $*","bank":"balance","'":"kill mouse $*","2":"give tu 10 meat",",":"kill cockroach $*","1":"say À°¦£","sa":"sac corpse","sk":"skills","f":"fight stake","+c":"advance con",])
+dbase (["time_aged":168665,"board_last_read":(["_MITE_":1151039075,]),"creation_time":1163864073,"name":"¶ë©Ô","id":"sera","body":"/obj/user","last_on":1164893892,"channels":({"chat","rumor","aucc",}),"last_from":"56.215.169.218",])
+password "$1$21466815$bBPdfBG3whehrIcri/6BN/"
+email "fwio@yahoo.com.tw"

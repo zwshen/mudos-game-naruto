@@ -1,0 +1,4 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1203910823,"id":"test","name":"ด๚ธี","time_aged":423,])
+password "$1$74935871$FH5rJhdbBuU31eLYlgg6U."
+email "test@hotmail.com"

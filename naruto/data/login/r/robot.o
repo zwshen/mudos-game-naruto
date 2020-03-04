@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["n":"go south","re":"reply $*","s":"go north","mm":"remember $*","e3":"eat tea","kk":"kill elf $*","e1":"eat chicken","ss":"sell all","ee":"enter","m":"move $*","2":"perform animal taming.state","dd":"deposit $* silver","sd":"seedoor","3":"perform alter ego.shadow","33":"perform alter ego.destruct","22":"perform animal taming.feed $*","ccc":"keep none","rrr":"recall start","t":"train parry from yaa for 500","e2":"eat manto","rr":"recall","bb":"balance","tt":"transfer $*","xx":"disable $*","1":"perform animal taming.call","11":"perform animal taming.leave","sw":"go northwest","nw":"go southwest","c":"consider $*","cc":"keep all","se":"go northeast","ii":"identify $*","ne":"go southeast",])
+dbase (["time_aged":7591058,"body":"/obj/user","board_last_read":(["wizard":1236177249,]),"name":"¾÷¾¹¤H","id":"robot","channels":({"chat","rumor","aucc",}),"last_on":1241529187,"last_from":"57.169.173.218","creation_time":1234863353,])
+my_body 
+last_age_set 1242454379
+password "$1$67026589$HnPUd.UYr4wcr1oazc5Yk."
+email "boy20011012@yahoo.com.tw"
+window (["terminal_type":"vt100","width":139,"height":53,])

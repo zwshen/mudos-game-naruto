@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":21,"str":21,])
+conditions ([])
+dbase (["birthday":1144732041,"time_aged":4421,"guild":"muye","class":"inferior","id":"scsc","name":"¤p±þ¨à","title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/muye/ai4","score":(["combat exp":60,"kills":1,"survive":20,]),"gender":"female","bank":3,"target_score":(["combat exp":100,]),"age":18,"level":1,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":5,"combat":5,])
+learned (["dodge":0,"combat":250,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":375,"combat":375,])
+best_skill "combat"
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":0,"attribute":0,"score":50,"learn":65,])
+st_quest (["level_e":([2:1,1:1,]),])
+autoload ([0:(["file":"/world/area/muye/npc/item/turtle_head","amount":1,]),])
+__flag ""

@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":20,"int":23,"dex":20,"str":25,])
+conditions ([])
+dbase (["name":"¦h¼¯µ¾¤Ó®Ô","level":4,"race":"human","guild":"muye","area_info":(["y_axis":21,"y_axis_old":21,"x_axis":20,"x_axis_old":20,]),"startroom":"/world/area/muye/sewer","gender":"male","nickname":"§Ú¬O·s¤â[0;2m","title":"¤ì¸­§ø§ÔªÌ","help":"cmds/combat","bank":574,"time_aged":80776,"score":(["survive":570,"kills":152,]),"id":"tobo","class":"inferior","age":18,"birthday":1174052261,])
+masters ([])
+apprentices ([])
+skills (["dodge":9,"parry":7,"combat":18,])
+learned (["dodge":336,"parry":168,"combat":1444,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,"combat":2,])
+skill_require (["dodge":405,"parry":245,"combat":1620,])
+best_skill "combat"
+st_maximum (["hp":150,"ap":210,"mp":80,])
+st_current (["hp":150,"ap":210,"mp":80,])
+st_notify (["ap":10,])
+st_point (["skill":4,"score":0,"learn":384,"attribute":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([1:(["file":"/world/drug/noodle","amount":2,]),0:(["file":"/world/wp/newblade","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/amulet.c":(["item":([]),"killed":([]),]),"/world/quest/get_crab.c":(["item":([]),"killed":(["/world/area/whale_island/npc/crab2.c":0,"/world/area/whale_island/npc/crab.c":0,]),]),"/world/quest/meet_hung.c":(["item":([]),"killed":([]),]),"/world/quest/delete_cockroach.c":(["item":([]),"killed":(["/world/area/whale_island/npc/cockroach2.c":0,"/world/area/muye/npc/cockroach3.c":15,"/world/area/muye/npc/cockroach2.c":14,"/world/area/whale_island/npc/cockroach3.c":0,]),]),"/world/quest/new_quest.c":(["item":([]),"killed":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/new_fight.c","/world/quest/travel_whale_island.c",})

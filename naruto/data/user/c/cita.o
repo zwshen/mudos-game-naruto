@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":39,"int":20,"dex":20,"str":33,])
+conditions ([])
+dbase (["time_aged":76126,"title":"念能力者","startroom":"/world/area/whale_island/school","name":"風","id":"cita","gender":"male","guild":"hunter","age":21,"score":(["elevel":9,"kills":91,"combat exp":26706,"survive":1736,]),"level":17,"race":"human","class":"hxh_initial","birthday":1143053526,"bank":722,"target_score":(["elevel":7,"combat exp":28900,]),])
+masters ([])
+apprentices ([])
+skills (["combat":36,"body strength":13,"continual hit":12,"dodge":9,"parry":7,"savage hit":31,])
+learned (["combat":5490,"body strength":100,"continual hit":40,"dodge":1670,"parry":1040,"savage hit":7760,])
+skill_map (["strength":"body strength",])
+skill_flag ([])
+skill_ability (["combat":8,"body strength":6,"continual hit":2,"dodge":1,"parry":1,"savage hit":10,])
+skill_require (["combat":19440,"body strength":980,"continual hit":2160,"dodge":1815,"parry":1215,"savage hit":14415,])
+best_skill "combat"
+st_maximum (["ap":371,"mp":365,"hp":304,])
+st_current (["ap":56,"mp":365,"hp":304,])
+st_notify ([])
+st_point (["skill":6,"score":50,"learn":100,"attribute":2,])
+st_quest (["level_p":([10:1,]),])
+autoload ([])
+__flag ""

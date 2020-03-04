@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["z":"sac corpse","g":"get all from bag","on":"option map_unfreeze 0","off":"option map_unfreeze 1","tr2":"transfer 2","fi":"fight stake","p":"put all in bag","x":"get all from corpse","sk":"skills","q":"search here",])
+dbase (["time_aged":1437137,"body":"/obj/user","channels":({"chat","rumor",}),"id":"paper","name":"¯È","board_last_read":(["newbie":1136481011,"wizard":1149499546,"_MITE_":1142224362,]),"creation_time":1150362929,])
+password "$1$65402065$LqqkxWPUaiP.WI16H7Q.z0"
+email "hot82034@yahoo.com.tw"

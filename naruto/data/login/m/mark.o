@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["h":"sac corpse","g":"get all from corpse","sk":"skills","ba":"balance","pe":"perform force.hit on $*","c":"consider $*","/":"recall",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1131656848,"board_last_read":(["propose":1130204695,"wizard":1132743373,"newbie":1130565369,]),"id":"mark","name":"°¨§J","last_on":1132886205,"last_from":"151.121.169.221","body":"/obj/user","time_aged":311994,])
+password "$1$2132345$T/w9KmfV9UIAiK0NC7Kjw1"
+email "smalllu0421@yahoo.com.tw"

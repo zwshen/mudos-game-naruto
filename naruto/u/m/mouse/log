@@ -1,0 +1,13 @@
+[Mar 28 16:59:42]u/m/mouse/test.c line 1018: parse error
+[Mar 28 16:59:42]u/m/mouse/test.c line 1022: parse error
+[Mar 28 16:59:42]u/m/mouse/test.c line 1026: parse error
+[Mar 28 16:59:42]u/m/mouse/test.c line 1027: Illegal LHS
+[Mar 28 16:59:42]u/m/mouse/test.c line 1028: Illegal LHS
+[Mar 28 16:59:42]u/m/mouse/test.c line 1029: Illegal LHS
+[Mar 28 17:35:13]u/m/mouse/test.c line 2: Warning: /* found in comment.
+[Mar 28 17:35:13]u/m/mouse/test.c line 963: parse error
+[Mar 28 17:35:13]u/m/mouse/test.c line 965: parse error
+[Mar 28 17:35:13]u/m/mouse/test.c line 967: parse error
+[Mar 28 17:35:13]u/m/mouse/test.c line 968: Illegal LHS
+[Mar 28 17:35:13]u/m/mouse/test.c line 969: Illegal LHS
+[Mar 28 17:35:13]u/m/mouse/test.c line 970: Illegal LHS

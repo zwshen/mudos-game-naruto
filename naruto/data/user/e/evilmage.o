@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":45,"str":35,])
+conditions (["hpheal4":(["duration":11,"name":"[41m¢·Ø≈¡Ÿ∂ß≥N[0;2m",]),"hpheal1":(["duration":1,"name":"[41m¢—Ø≈¡Ÿ∂ß≥N[0;2m",]),"hpheal3":(["duration":1,"name":"[41m¢œØ≈¡Ÿ∂ß≥N[0;2m",]),"hpheal2":(["duration":1,"name":"[41m¢–Ø≈¡Ÿ∂ß≥N[0;2m",]),])
+dbase (["time_aged":31487,"level":20,"race":"human","age":53,"guild":"hunter","name":"¨€πJ¶≥Ωt","gender":"male","title":"©¿Ø‡§O™Ã","birthday":1149077616,"bank":1688,"id":"evilmage","option":([]),"class":"hxh_initial","score":(["elevel":227,"dlevel":2,"kills":7303,"survive":37637,"combat exp":580744,]),"wimpy_dir":"east","nickname":"[1;31m§@Æ±[1;36m°„[1;34m¨›[1;36m°„[1;33m[5m°∏°π[0;2m","startroom":"/world/area/whale_island/prac8",])
+masters ([])
+apprentices ([])
+skills (["parry":65,"heavy hit":99,"continual hit":49,"finger-guessing fist":1,"dodge":81,"savage hit":99,"combat":99,"body strength":41,"strength":41,])
+learned (["savage hit":631512,"parry":49692,"heavy hit":198120,"continual hit":27744,"combat":145092,"body strength":5364,"strength":4584,"dodge":47436,])
+skill_map (["strength":"body strength",])
+skill_flag ([])
+skill_ability (["parry":4,"heavy hit":6,"continual hit":4,"finger-guessing fist":1,"dodge":5,"savage hit":6,"combat":6,"body strength":4,"strength":4,])
+skill_require (["savage hit":1000000,"parry":63375,"heavy hit":1000000,"continual hit":36015,"combat":1000000,"body strength":8405,"strength":8405,"dodge":98415,])
+best_skill "savage hit"
+st_maximum (["ap":300,"mp":200,"hp":630,])
+st_current (["ap":52,"mp":200,"hp":680,])
+st_notify (["ap":0,"hp":0,])
+st_point (["attribute":0,"skill":0,"score":110,"learn":394,])
+st_quest (["level_p":([10:1,]),"level_e":([2:1,4:1,]),])
+autoload ([16:(["amount":1,"file":"/world/wp/radish",]),15:(["amount":1,"file":"/world/wp/radish",]),14:(["amount":1,"file":"/world/broom/broom",]),13:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),12:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),11:(["amount":1,"file":"/world/eq/leg/gai",]),10:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),9:(["amount":1,"file":"/world/area/muye/npc/eq/ghost_boots",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),7:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),5:(["amount":1,"file":"/world/eq/hand/fist",]),4:(["amount":1,"file":"/world/eq/finger/silver",]),3:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),2:(["amount":1,"file":"/world/area/muye/npc/eq/leaf_hat",]),1:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),0:(["amount":1,"file":"/world/area/whale_island/npc/item/spider-bag",]),])
+__flag ""

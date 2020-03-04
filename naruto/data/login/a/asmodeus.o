@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["adv":"advance $*","sk":"skills","1":"eat chicken","b":"balance","ac":"advance check","ide":"identify $*","2":"eat manto",])
+dbase (["last_on":1210596959,"channels":({"chat","rumor","aucc",}),"creation_time":1173867806,"last_from":"50.18.203.123","body":"/obj/user","board_last_read":(["wizard":1115665665,]),"id":"asmodeus","name":"ªüµ·¼¯¸¦µ·","time_aged":123142,])
+password "$1$10219992$2qCkvCBPUSSukvI76SKnp1"
+email "a@b.c"

@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":52,"str":20,"con":20,])
+conditions ([])
+dbase (["title":"¤ì¸­§ø§ÔªÌ","guild":"muye","id":"vuy","name":"ÂPÂP","level":20,"birthday":1137148525,"age":20,"race":"human","bank":1000,"gender":"male","class":"inferior","time_aged":68395,"startroom":"/world/area/muye/muye","score":(["kills":6,"survive":1379,"combat exp":40174,"elevel":9,]),])
+masters ([])
+apprentices ([])
+skills (["continual hit":17,"muye wind":1,"heavy hit":43,"dodge":4,"parry":1,"combat":43,"force":15,"savage hit":39,])
+learned (["heavy hit":270,"continual hit":2190,"parry":10,"dodge":30,"combat":18480,"force":100,"savage hit":6680,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["continual hit":1,"muye wind":1,"heavy hit":3,"parry":1,"dodge":1,"combat":3,"force":4,"savage hit":3,])
+skill_require (["heavy hit":27735,"continual hit":4335,"parry":20,"dodge":240,"combat":27735,"force":1125,"savage hit":22815,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":430,"ap":530,])
+st_current (["mp":80,"hp":430,"ap":52,])
+st_notify ([])
+st_point (["learn":404,"skill":23,"attribute":8,"score":200,])
+st_quest (["level_e":([1:1,]),])
+autoload ([])
+__flag ""

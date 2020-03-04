@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":6276136,"creation_time":1239983231,"body":"/obj/user","name":"«C","id":"parry",])
+my_body 
+last_age_set 1246259274
+password "$1$43473221$q/47MMupILEAno8VIXJOh1"
+email "cataknight@yahoo.com.tw"
+window (["terminal_type":"vt100","width":74,"height":33,])

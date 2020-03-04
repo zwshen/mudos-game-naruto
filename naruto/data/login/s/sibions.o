@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"last_on":1237953964,"time_aged":436049,"body":"/obj/user","id":"sibions","name":"£¬","creation_time":1237953945,"last_from":"10.49.8.124",])
+my_body 
+last_age_set 1238389961
+password "$1$50355572$AeYJWsKN78sYMiCDM7Nke0"
+email "sibions@anet.net.tw"
+window (["width":125,"terminal_type":"vt100","height":48,])

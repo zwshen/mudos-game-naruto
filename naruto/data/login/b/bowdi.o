@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["11":"get all from corpse","12":"sac corpse",])
+dbase (["board_last_read":(["ayumi":1120542699,"newbie":1136481011,"wizard":1116210005,]),"time_aged":7731,"body":"/obj/user","name":"Ä_§Ì","id":"bowdi","channels":({"chat","rumor",}),"creation_time":1140621844,])
+my_body 
+last_age_set 1237193700
+password "$1$89555344$Zw.IMbRK4i4Rb/OHpPypw."
+email "gary2432@yahoo.com.tw"
+window (["terminal_type":"vt100","width":74,"height":34,])

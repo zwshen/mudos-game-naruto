@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["perform":"p","w":"go north","ea":"eat heal ap pill","g":"get all from corpse $*","eh":"eat heal hp pill","v":"score","d":"go east","a":"go west",])
+dbase (["last_on":1190996033,"board_last_read":(["chat":1130754677,"wizard":1170676893,"propose":1178173271,"newbie":1136481011,]),"channels":({"chat","rumor","music",}),"creation_time":1170080510,"body":"/obj/user","last_from":"60.3.192.123","name":"¹p¼Ú¼v¤b","id":"joe","time_aged":234278,])
+password "$1$18714464$1dIMgsrLlnsBJZdFNXfJp1"
+email "ss741qaz@yahoo.com.tw"

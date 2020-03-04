@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["a":"alias","ga":"get all","co":"consider",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1198869211,"id":"ryan","name":"µÜ®¦©Ô´µ","time_aged":6558,])
+password "$1$34408822$bK9Btdx2LT20uRRg0NFJW."
+email "ryan910814@gmail.com"

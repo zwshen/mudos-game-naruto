@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["adv":"advance $*","bal":"balance","wl":"wield $* as lefthand","t":"train $* from ka for 1","ide":"identify $*","wr":"wield $* as righthand",])
+dbase (["time_aged":277405,"id":"score","name":"Δεͺα³·","board_last_read":(["newbie":1136481011,"wizard":1130649586,]),"last_from":"61.3.126.140","last_on":1150755769,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1150130704,])
+password "$1$51754365$XGyas/g6SvI5GsVMcZ3OY0"
+email "rulaifist@yahoo.com.tw"

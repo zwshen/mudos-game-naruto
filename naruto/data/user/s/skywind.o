@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":35,"dex":31,"str":24,])
+conditions ([])
+dbase (["birthday":1151594661,"target_score":(["combat exp":22500,"elevel":5,]),"title":"¤ì¸­§ø§ÔªÌ","time_aged":63060,"bank":0,"guild":"muye","age":20,"id":"skywind","name":"¤Ñ¼C§u­·","level":15,"race":"human","startroom":"/world/area/wizard/bug","score":(["survive":1839,"combat exp":21180,"elevel":6,"kills":578,]),"gender":"male","class":"inferior",])
+masters ([])
+apprentices ([])
+skills (["combat":40,"savage hit":41,"dodge":22,"muscle tank":1,"continual hit":20,"heavy hit":41,"parry":18,])
+learned (["combat":20300,"savage hit":6560,"dodge":1140,"heavy hit":6560,"continual hit":2860,"parry":2853,])
+skill_map (["force":"muscle tank",])
+skill_flag ([])
+skill_ability (["combat":4,"savage hit":4,"dodge":3,"muscle tank":2,"continual hit":3,"heavy hit":4,"parry":3,])
+skill_require (["combat":24000,"savage hit":25215,"dodge":7260,"heavy hit":25215,"continual hit":6000,"parry":4860,])
+best_skill "savage hit"
+st_maximum (["ap":700,"mp":80,"hp":210,])
+st_current (["ap":700,"mp":80,"hp":310,])
+st_notify (["ap":0,"hp":0,])
+st_point (["skill":7,"attribute":0,"score":0,"learn":691,])
+st_quest (["prize":([13:1,9:1,]),])
+autoload ([])
+__flag ""

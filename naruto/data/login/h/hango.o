@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ii":"identify $*","t":"train $* from ka for 50","qq":"quest $*","f":"fishing","c":"consider $*","ff":"giveup","ee":"eat chicken","g":"get all from corpse $*","pk1":"proskills first-aid snake_skin_bandage -m","x":"sac corpse","p1":"perform cell activation.ca","pp":"perform hundred palm.attack on $*","ss":"sell all","gg":"get all","a":"advance $*",])
+dbase (["last_on":1208054686,"time_aged":212673,"profile":"qq","name":"µL«§","body":"/obj/user","id":"hango","board_last_read":(["byron":1177702512,"wizard":1123566674,]),"channels":({"chat","rumor","war",}),"creation_time":1206586760,"signature":"","last_from":"51.32.117.122",])
+my_body 
+last_age_set 1237513106
+password "$1$35581948$RCW2emcWxdYx9zbdF.bjI/"
+email "chfn £«·f"
+window (["terminal_type":"ANSI","width":80,"height":25,])

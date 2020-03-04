@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["co":"consider $*","r":"reply $*",])
+dbase (["channels":({"chat","rumor",}),"last_from":"112.111.160.218","creation_time":1202269971,"last_on":1202273303,"body":"/obj/user","board_last_read":(["propose":1202040786,"newbie":1136481011,"wizard":1190540385,]),"name":"²ÕÂ´¤½¥Á","id":"public","time_aged":3436,])
+password "$1$75599866$aKcAYGQc7qLF41fLU1TN1."
+email "hoty.chen@msa.hinet.net"

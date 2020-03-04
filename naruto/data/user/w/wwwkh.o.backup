@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":46,"str":20,])
+conditions (["body_strength_cond":(["duration":0,"armor":6,"attack":10,"name":"[1;33m¦×Åé±j¤Æ[0;2m",]),])
+dbase (["time_aged":20063,"level":13,"race":"human","age":25,"target_score":(["elevel":3,"combat exp":16900,]),"name":"¯e­·¡E¤ý","guild":"hunter","gender":"male","title":"©À¯à¤OªÌ","birthday":1147660412,"id":"wwwkh","recoverroom":"/world/area/whale_island/mite_hotel","class":"hxh_initial","startroom":"/world/area/whale_island/school","score":(["elevel":173,"combat exp":15794,"kills":3142,"survive":3661,]),"bank":20749,])
+masters ([])
+apprentices ([])
+skills (["dodge":22,"parry":18,"heavy hit":28,"strength":30,"continual hit":20,"savage hit":28,"combat":28,"body strength":30,])
+learned (["dodge":6154,"parry":2000,"heavy hit":5532,"strength":718,"combat":8856,"savage hit":5532,"continual hit":0,"body strength":718,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,"parry":2,"heavy hit":2,"strength":2,"continual hit":2,"savage hit":2,"combat":2,"body strength":2,])
+skill_require (["dodge":7260,"parry":4860,"heavy hit":11760,"strength":4500,"combat":11760,"savage hit":11760,"continual hit":6000,"body strength":4500,])
+best_skill "strength"
+st_maximum (["ap":220,"mp":220,"hp":450,])
+st_current (["ap":218,"mp":52,"hp":455,])
+st_notify ([])
+st_point (["attribute":0,"skill":10,"score":0,"learn":3,])
+st_quest (["level_d":([2:1,]),"level_e":([4:1,]),"level_p":([10:1,]),])
+autoload ([17:(["file":"/world/area/muye/npc/eq/mouse_tooth","amount":1,]),16:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),15:(["file":"/world/eq/finger/bronze","amount":1,]),14:(["file":"/world/area/sneakhole/npc/eq/belt","amount":1,]),13:(["file":"/world/area/wild/npc/eq/bear_suit","amount":1,]),12:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),11:(["file":"/world/area/echo/npc/eq/necklace","amount":1,]),10:(["file":"/world/area/wild/npc/eq/bandit_boots","amount":1,]),9:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),8:(["file":"/world/eq/head/rhino-shit","amount":1,]),7:(["file":"/world/area/bone/npc/wp/shield","amount":1,]),6:(["file":"/world/wp/scalpel","amount":1,]),5:(["file":"/world/item/rod","amount":1,]),4:(["file":"/world/area/muye/npc/eq/cr_wing","amount":1,]),3:(["file":"/world/broom/broom","amount":1,]),2:(["file":"/world/drug/apill2","amount":4,]),1:(["file":"/world/area/whale_island/npc/food/crab_roe","amount":2,]),0:(["file":"/world/area/whale_island/npc/food/crab_meat","amount":9,]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["fi":"fight $*","sk":"skills","chat":"chat ¡u $* ¡v","re":"recall","fol":"follow $*","sec":"keep $*",])
+dbase (["time_aged":314121,"last_on":1145611887,"id":"lkk","name":"ÄÆ³·","board_last_read":(["tmr":1132472571,"newbie":1128936709,"ayumi":1120542699,"wizard":1132743373,"acme":1133012398,"_MITE_":1131786296,]),"last_from":"241.117.167.149","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1132817883,])
+password "$1$84924092$/LBV.fflRLfPtZC4EQitK/"
+email "h@h"

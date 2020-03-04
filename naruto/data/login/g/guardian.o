@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["gb":"get $* from bag","lc":"look corpse $*","sa":"sac corpse $*","pb":"put $* in bag","c":"consider $*","op":"say À°¦£","m":"use bandage","adlv":"advance level","rm":"remember $*","enterlake":"enter ¿ò§}","outlake":"out ¿ò¸ñ","z":"kill elf $*","hid":"option map_hidden $*",])
+dbase (["time_aged":2551404,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1234665837,"creation_time":1210575825,"board_last_read":(["bug":1212892283,"propose":1211983359,]),"id":"guardian","name":"¦uÅ@ªÌ¢Ù","last_from":"221.101.123.140",])
+my_body 
+last_age_set 1234665835
+password "$1$46884593$.a2uu1.8jEwkcosRmE2KU/"
+email "aysour@gmail.com"
+window ([])

@@ -1,0 +1,183 @@
+/* quest.c wirte by -Acme-
+
+   任務的格式
+   ID = ([ "name":                  // 任務名稱
+           "detail":                // 任務細節說明
+        ]);
+*/
+
+#include <ansi.h>
+//#include <quest.h>
+
+inherit "/adm/daemons/questd.c";
+
+int do_list_quest(string branch, string name)
+{
+    int index, size;
+    mapping bran;
+    string msg;
+
+    msg  = "╭─────────────────────────────╮\n";
+    msg += sprintf("│%-58s│\n", name+"任務列表" );
+    msg += "├─────────────────────────────┤\n";
+    msg += sprintf("│"BRED"%6s"NOR" "BBLU"%|51s"NOR"│\n", " 編號 ", " 任務名稱 ");
+
+    if( mapp(bran = QUEST_D->query_branch(branch)) && (size = sizeof(bran)) ) {
+        for(index=1;index<=size;index++) {
+            if( undefinedp(bran[index]) ) continue;
+            msg += sprintf("│%|6d %-51s│\n", index, bran[index]["name"] );
+        }
+    }
+
+    msg += "╰─────────────────────────────╯";
+
+    this_player()->start_more(msg);
+
+    return 1;
+}
+
+int do_show_detail(string branch, int id)
+{
+    string msg;
+    mapping quest;
+
+    if( !mapp(quest = QUEST_D->query_quest(branch, id)) )
+        return notify_fail("沒有這個任務編號。\n");
+
+    msg  = sprintf(BRED"%|6d"NOR" "BBLU"%|55s"NOR"\n", id,  quest["name"] );
+    msg += "───────────────────────────────\n";
+    msg += quest["detail"] + "\n";
+    msg += "───────────────────────────────";
+
+    this_player()->start_more(msg);
+
+    return 1;
+}
+
+int xml_parser()
+{
+    string file, text;
+    string category, name, detail;
+    string *lines;
+    int i;
+        int ct;
+    int ct_s = 0,
+        ct_a = 0,
+        ct_b = 0,
+        ct_c = 0,
+        ct_d = 0,
+        ct_e = 0,
+        ct_p = 0;
+
+    seteuid(geteuid(this_player(1)));
+
+      file = "/doc/help/QuestS.xml";
+
+    if( file_size(file) < 0 ) 
+                notify_fail("沒有 "+file+" 這個檔案。\n");
+
+    if( !text = read_file(file) )
+        notify_fail("該檔案沒有任何內容。");
+    
+    lines = explode( text, "\n");
+
+
+    for(i=0;i<sizeof(lines); ) {
+                if( sscanf(lines[i], "<category>%s</category>", category ) != 1)
+                        return notify_fail("XML Parsing error line " + i + " : tag<category>\n");
+                i++;
+                if( sscanf(lines[i], "<name>%s</name>",name ) != 1)
+                        return notify_fail("XML Parsing error line " + i + " : tag<name>\n");
+                i++;
+                if( lines[i] != "<detail>" )
+                        return notify_fail("XML Parsing error line " + i + " : tag<detail>\n");
+                i++;
+                detail = "";
+                while( i < sizeof(lines) ) {
+                        if( lines[i] == "</detail>" ) break;
+                        detail += lines[i] + "\n";
+                        i++;
+                }
+        
+                // insert into...
+                switch( category ) {
+                        case "level_s": ct_s++; ct = ct_s; break;
+                        case "level_a": ct_a++; ct = ct_a; break;
+                        case "level_b": ct_b++; ct = ct_b; break;
+                        case "level_c": ct_c++; ct = ct_c; break;
+                        case "level_d": ct_d++; ct = ct_d; break;
+                        case "level_e": ct_e++; ct = ct_e; break;
+                        case "prize": ct_p++; ct = ct_p; break;
+                        default:
+                                return notify_fail("XML Parsing error: no such quest category\n");
+                                break;
+                }
+
+                QUEST_D->set_quest(category, ct, (["name":name, "detail":detail ]) );
+                i+=2; // for a empty line
+         }
+
+        return notify_fail("XML Parsing ok!!!\n");
+}
+
+string getCategory(string select)
+{
+        switch( select ) {
+            case "s": return "level_s";
+            case "a": return "level_a";
+            case "b": return "level_b";
+            case "c": return "level_c";
+            case "d": return "level_d";
+            case "e": return "level_e";
+            case "p": return "prize";
+        }
+        return "NO_SUCH_CATEGORY";
+
+}
+int main(object me, string arg)
+{
+    int id;
+    string select;
+
+    if( !arg ) 
+	return notify_fail("指令格式：quest <任務選項>，或請參照help quest說明文件。\n");
+
+    if( arg == "scan" && wizardp(me) ) 
+        return xml_parser();
+
+    if( sscanf(arg, "-%s %d", select, id) == 2 )
+        return do_show_detail(getCategory(select) , id);
+
+    if( sscanf(arg, "-%s", select) == 1 ) {
+        switch( select ) {
+            case "s": return do_list_quest("level_s", "Ｓ級任務"); break;
+            case "a": return do_list_quest("level_a", "Ａ級任務"); break;
+            case "b": return do_list_quest("level_b", "Ｂ級任務"); break;
+            case "c": return do_list_quest("level_c", "Ｃ級任務"); break;
+            case "d": return do_list_quest("level_d", "Ｄ級任務"); break;
+            case "e": return do_list_quest("level_e", "Ｅ級任務"); break;
+            case "p": return do_list_quest("prize", "獎賞型任務"); break;
+            default: return notify_fail("參數錯誤，請輸入 help quest 了解指令格式。\n");
+        }
+    }
+
+    return 1;
+}
+
+int help(object me)
+{
+    write(@HELP
+指令格式：
+  quest <任務選項>           列出某忍者村的所有任務
+                             如： quest -s    會列出所有Ｓ級的任務列表。
+  quest <任務選項> <編號>    如： quest -s 1  會顯示Ｓ級第１個任務說明。
+
+任務選項：
+  s - Ｓ級任務               a - Ａ級任務
+　b - Ｂ級任務               c - Ｃ級任務
+　d - Ｄ級任務             　e - Ｅ級任務
+　p - 獎賞型任務
+HELP);
+    return 1;
+}
+

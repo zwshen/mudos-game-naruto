@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ga":"get all from corpse","wi2":"wield $* as lefthand","rs":"recall start","9":"get all from corpse","wiblade":"wield blade as twohanded","p2":"eat pill 2","0":"sac corpse","sk":"skills","on":"option map_unfreeze 0","sac":"sac corpse","off":"option map_unfreeze 1","gc":"get all from corpse","wi":"wield $*","uwi":"unwield $*","p":"eat pill","con":"do consider $*",])
+dbase (["channels":({"chat","rumor","aucc",}),"name":"¦Ñ¤H","id":"cckk","last_on":1133856386,"creation_time":1130990932,"board_last_read":(["newbie":1130565369,"_MITE_":1131786296,"wizard":1130649586,]),"last_from":"6.218.186.146","time_aged":475709,"body":"/obj/user",])
+password "$1$63565474$pAg4naTNja/aaQDPDR2Xa/"
+email "cckkcckk1@hotmail.com"

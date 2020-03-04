@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["birthday":1160685883,"time_aged":1214,"level":1,"bank":0,"race":"human","age":18,"guild":"muye","name":"©]®V","id":"yagi","startroom":"/world/area/muye/book","class":"inferior","score":(["combat exp":3,]),"gender":"female","target_score":(["combat exp":100,]),"title":"¤ì¸­§ø§ÔªÌ",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":2,"attribute":2,"score":50,"learn":100,])
+st_quest ([])
+autoload ([])
+__flag ""

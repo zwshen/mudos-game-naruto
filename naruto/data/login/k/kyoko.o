@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["w5":"wield shan feng sword as lefthand","w2":"wield radish 2 as lefthand","ech":"eat chicken","pe2":"perform chivy tiger.attack on $*","·j¯Á":"search","w4":"wield gao yuan sword as righthand","pe1":"perform ghost chop.attack on $*","s1":"option map_hidden 0","s2":"option map_hidden 1","w1":"wield radish as righthand",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","time_aged":14493632,"last_on":1248283619,"last_from":"84.164.171.218","creation_time":1196073741,"id":"kyoko","name":"¨Ê¤l",])
+my_body 
+last_age_set 1249056963
+password "$1$62030178$xu83zmdw2cRSUn0xkkVCc1"
+email "yan300070@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"vt100","width":141,"height":55,])

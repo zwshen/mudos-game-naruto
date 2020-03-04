@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":28,])
+conditions ([])
+dbase (["score":(["survive":3777,"kills":19,]),"name":"¥¿¦r","id":"popost","class":"inferior","level":4,"race":"human","startroom":"/world/area/muye/swanlake","area_info":(["y_axis":22,"y_axis_old":22,"x_axis":24,"x_axis_old":24,]),"gender":"male","age":23,"guild":"muye","title":"¤ì¸­§ø§ÔªÌ","time_aged":36405,"bank":184932,"birthday":1173667461,])
+masters ([])
+apprentices ([])
+skills (["dodge":3,"parry":1,"combat":6,])
+learned (["dodge":31,"parry":16,"combat":48,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,"combat":1,])
+skill_require (["dodge":45,"parry":20,"combat":180,])
+best_skill "combat"
+st_maximum (["hp":130,"ap":230,"mp":80,])
+st_current (["hp":130,"ap":230,"mp":80,])
+st_notify ([])
+st_point (["skill":5,"score":0,"learn":37,"attribute":0,])
+st_quest ([])
+autoload ([12:(["file":"/world/broom/broom","amount":1,]),11:(["file":"/world/item/rod","amount":1,]),10:(["file":"/world/eq/face/fglasses","amount":1,]),9:(["file":"/world/area/muye/npc/eq/mouse_head","amount":1,]),8:(["file":"/world/area/wild/npc/eq/wolf_head","amount":1,]),7:(["file":"/world/wp/sword","amount":1,]),6:(["file":"/world/eq/head/boiler","amount":1,]),5:(["file":"/world/item/fish4","amount":71,]),4:(["file":"/world/item/fish3","amount":67,]),3:(["file":"/world/item/fish6","amount":76,]),2:(["file":"/world/item/fish2","amount":78,]),1:(["file":"/world/item/fish1","amount":76,]),0:(["file":"/world/item/fish5","amount":71,]),])
+__flag ""
+toDoList ([])
+solved ({"/world/quest/newbie.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/travel_muye.c","/world/quest/new_fight.c",})

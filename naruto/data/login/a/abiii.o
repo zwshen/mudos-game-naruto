@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse $*","c":"consider $*","fs":"fight stake",])
+dbase (["last_on":1142447182,"board_last_read":(["bug":1116561966,"newbie":1136481011,"wizard":1140511389,"propose":1141838792,"chat":1133923712,"tmr":1141308013,"ayumi":1120542699,"acme":1115817011,]),"time_aged":23457,"name":"¢é¢ê¢ñ¢ñ¢ñ","id":"abiii","channels":({"chat","rumor",}),"creation_time":1142350462,"body":"/obj/user","last_from":"69.18.73.203",])
+password "$1$24024280$o/gtbI6YwjcaSsFTWKOBQ1"
+email "@"

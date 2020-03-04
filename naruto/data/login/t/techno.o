@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ec":"eat chicken","gafc":"get all from corpse","kw":"kill wolf","q":"quest $*","sa":"sac corpse","rb":"remember $*","sd":"seedoor","ga":"get all","mv":"move $*",])
+dbase (["last_from":"69.135.77.119","time_aged":3890140,"creation_time":1241451466,"last_on":1245341504,"board_last_read":(["bug":1212747485,"design":1154116971,"acme":1240128067,"newbie":1136481011,"ayumi":1120542699,"tmr":1234463389,"_MITE_":1241331390,"byron":1177702512,"wizard":1239465932,]),"body":"/obj/user","name":"©Z§J¿Õ","id":"techno","channels":({"chat","rumor","aucc","news",}),])
+my_body 
+last_age_set 1245341504
+password "$1$29094369$i7kOEfKGlKVQhjnGeC7Wn/"
+email "tsun1101@gmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":139,"height":55,])

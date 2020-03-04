@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":30,"str":40,])
+conditions ([])
+dbase (["age":22,"race":"human","guild":"muye","time_aged":82202,"birthday":1165546187,"class":"inferior","id":"komugi","name":"ªL¦v¨k","target_score":(["elevel":5,"combat exp":22500,]),"title":"¤ì¸­§ø§ÔªÌ","startroom":"/world/area/wizard/wizard","score":(["elevel":9,"survive":3386,"kills":150,"combat exp":19608,]),"gender":"female","bank":228,"area_info":(["x_axis":9,"y_axis_old":29,"x_axis_old":9,"y_axis":29,]),"level":15,])
+masters ([])
+apprentices ([])
+skills (["magic":1,"substitute":1,"combat":32,"savage hit":31,"parry":8,"dodge":9,"ninja":1,"force":1,"continual hit":1,"heavy hit":31,])
+learned (["combat":6100,"parry":420,"savage hit":12770,"dodge":1130,"heavy hit":12770,])
+skill_map (["dodge":"substitute",])
+skill_flag ([])
+skill_ability (["force":1,"substitute":1,"combat":4,"parry":4,"savage hit":4,"dodge":2,"heavy hit":4,"continual hit":1,])
+skill_require (["combat":15360,"parry":1215,"savage hit":14415,"dodge":1500,"heavy hit":14415,])
+best_skill "combat"
+st_maximum (["ap":510,"mp":80,"hp":300,])
+st_current (["ap":11,"mp":80,"hp":300,])
+st_notify ([])
+st_point (["attribute":0,"skill":9,"score":100,"learn":1947,])
+st_quest ([])
+autoload ([])
+__flag ""

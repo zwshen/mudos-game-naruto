@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":46,"dex":24,"str":30,"con":20,])
+conditions (["ca":(["dex":2,"str":2,"heal":11,"duration":4,"name":"[1;36m²Ó­M¬¡¤Æ[0;2m",]),])
+dbase (["class":"inferior","guild":"muye","name":"Às³¥","birthday":1136858523,"gender":"male","level":20,"nickname":"[1;33m([1;35m/[1;34m¡Ã[1;36m__[1;34m¡Ã[1;33m)[1;35m/[5m[1;31m¢r¢r[0;2m","race":"human","age":28,"score":(["combat exp":168909,"survive":6113,"kills":7775,"elevel":251,]),"startroom":"/world/area/whale_island/heal","id":"hifly","title":"¤ì¸­§ø§ÔªÌ","bank":9599,"time_aged":71738,])
+masters ([])
+apprentices ([])
+skills (["cell activation":56,"continual hit":30,"muye wind":16,"ninja":40,"heavy hit":64,"parry":47,"dodge":82,"combat":62,"force":38,"savage hit":63,])
+learned (["cell activation":13661,"continual hit":13586,"muye wind":208,"ninja":2481,"heavy hit":60477,"combat":47428,"dodge":96546,"parry":9711,"force":0,"savage hit":34685,])
+skill_map (["ninja":"cell activation","combat":"muye wind",])
+skill_flag ([])
+skill_ability (["cell activation":4,"continual hit":2,"muye wind":2,"ninja":3,"heavy hit":4,"combat":4,"dodge":5,"parry":3,"force":3,"savage hit":4,])
+skill_require (["cell activation":16245,"continual hit":14415,"muye wind":5415,"ninja":8405,"heavy hit":63375,"combat":59535,"dodge":103335,"parry":34560,"force":8000,"savage hit":61440,])
+best_skill "dodge"
+st_maximum (["mp":400,"hp":440,"ap":400,])
+st_current (["mp":112,"hp":440,"ap":265,])
+st_notify ([])
+st_point (["learn":18,"skill":6,"score":0,"attribute":0,])
+st_quest (["prize":([4:1,]),"level_d":([2:1,]),])
+autoload ([0:(["amount":4,"file":"/world/drug/hpill2",]),])
+__flag ""

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ofm":"option map_hidden 1","sk":"skills $*","chat":"chat* 的屍體(Corpse of Panda)上斜插著一塊寫著「$*」的小牌子。","ch2":"chat* 的肉體(Body of Panda)︰$*","f":"fight $*","bal":"balance",])
+dbase (["channels":({"chat","rumor","aucc","music","news",}),"id":"panda","name":"大熊貓","last_on":1133685974,"board_last_read":(["propose":1131721575,"tmr":1131615637,"_MITE_":1131786296,"wizard":1132743373,]),"creation_time":1130999470,"last_from":"181.199.92.61","time_aged":1682559,"body":"/obj/user",])
+password "$1$83535600$hWxYE7q7jnyh1nbAPH9IX1"
+email "a@b.c"

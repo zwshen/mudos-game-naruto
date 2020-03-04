@@ -1,0 +1,25 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["recoverroom":"/world/area/wizard/guildhall","cwf":"/world/item/fish2.c","nickname":"[30m[5m[41mIDLE[0;2m[0;2m","name":"°K¥@³Í","title":"µo§b¨ÏªÌ","long":"ºÎÄ±§a«z«¢«¢~~~~","class":"commoner","score":(["kills":1,"survive":827414,"combat exp":7,]),"time_aged":49489,"age":227,"cwd":"/world/item/","id":"alickyuen","level":-99,"birthday":1129248393,"gender":"male","startroom":"/world/area/wizard/guildhall","help":"class/ninja/skill/yaa/","race":"human",])
+masters ([])
+apprentices ([])
+skills (["animal taming":100,"ninja":100,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["score":50,"learn":102,"skill":2,"attribute":2,])
+st_quest ([])
+autoload ([])
+__flag ""
+toDoList ([])
+solved ({})
+level_scope ({75,150,225,300,375,})
+pro_sk ([])
+camp ([])

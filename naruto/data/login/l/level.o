@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["pub":"put all in bag",])
+dbase (["channels":({"chat","rumor",}),"time_aged":1257,"last_from":"50.110.59.210","creation_time":1186835132,"name":"曾志偉那麼高","body":"/obj/user","last_on":1235267036,"id":"level",])
+my_body 
+last_age_set 1235267035
+password "$1$27867663$e2V24ZrQOpa58oP4z9YgP/"
+email "w@w.w.w"
+window (["terminal_type":"vt100","width":125,"height":46,])

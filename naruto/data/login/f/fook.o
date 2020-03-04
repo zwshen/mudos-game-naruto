@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ber":"remember $1","9":"move $1","lber":"remember",])
+dbase (["time_aged":13590615,"creation_time":1129965520,"name":"¶Æ¥b¥P","id":"fook","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1124705491,"chat":1244623264,"bug":1246069199,"tmr":1130256095,"design":1154116971,"wizard":1239465932,]),"last_on":1249034810,"last_from":"67.99.70.219",])
+my_body 
+last_age_set 1249205321
+password "$1$15879368$jYHtEMBlpTfpe.hedV0z6/"
+email "@"
+window (["terminal_type":"vt100","width":157,"height":30,])

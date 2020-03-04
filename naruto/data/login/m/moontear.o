@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ba":"balance","ll":"look corpse","sa":"sac corpse","gg":"get all from corpse",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1131691923,"last_from":"110.204.130.220","last_on":1203506447,"body":"/obj/user","board_last_read":(["bug":1115718717,"_MITE_":1188848484,"chat":1116042164,"propose":1115827917,"newbie":1136481011,"wizard":1190540385,]),"name":"Âk³·","id":"moontear","time_aged":61575,])
+password "$1$48373170$6VPx7Sw7qBCaI5g9iGfUp/"
+email "691231qq@yahoo.com.tw"

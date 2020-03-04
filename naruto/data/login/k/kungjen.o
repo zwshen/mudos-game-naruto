@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["r":"read $*",])
+dbase (["board_last_read":(["newbie":1136481011,]),"channels":({"chat","rumor",}),"creation_time":1172029664,"last_on":1188311969,"last_from":"118.2.120.122","body":"/obj/user","id":"kungjen","name":"¶Æ»y","time_aged":700,])
+password "$1$83556294$9WalLYNwX8UcJJadoptgu1"
+email "leolian2002@yahoo.com.tw"

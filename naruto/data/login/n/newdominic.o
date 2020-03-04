@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["rs":"recall start","sacc":"sac corpse","f":"fight $*","g":"get all from corpse","c":"consider $*","re":"recall",])
+dbase (["last_from":"86.141.116.122","channels":({"chat","rumor",}),"last_on":1213116554,"board_last_read":(["ayumi":1120542699,"_MITE_":1151039075,"wizard":1186179534,"newbie":1136481011,"propose":1187617576,]),"creation_time":1188405257,"body":"/obj/user","name":"¤Ó¤½¡E±æ","id":"newdominic","time_aged":533297,])
+password "$1$88938553$jOgl3tgBHR2jDYucl.8Qd/"
+email "newdominic@hotmail.com"

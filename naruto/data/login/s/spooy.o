@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all","r":"recall",])
+dbase (["last_from":"250.44.163.218","time_aged":54506,"last_on":1246028459,"creation_time":1245973983,"body":"/obj/user","board_last_read":(["_MITE_":1170658966,]),"name":"ª÷","id":"spooy","channels":({"chat","rumor",}),])
+my_body 
+last_age_set 1246028459
+password "$1$45370721$yfakJR8Tjt/5uEvgDG1r6/"
+email "s8140331213@yahoo.com.tw"
+window (["terminal_type":"vt100","width":83,"height":29,])

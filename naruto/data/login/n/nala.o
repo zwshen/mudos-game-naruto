@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall","`":"get all from corpse","1":"get all","4":"option map_hidden 0","2":"wield rod","22":"wield sword as lefthand","11":"do wield blade as righthand,wield sword as lefthand,wear all","44":"option map_hidden 1","``":"sac corpse",])
+dbase (["time_aged":37250722,"signature":"","board_last_read":(["bug":1132179215,"chat":1132977027,"_MITE_":1131786296,"ayumi":1120542699,"newbie":1130565369,"propose":1131721575,"wizard":1172500785,]),"body":"/obj/user","name":"®R©Ô","id":"nala","channels":({"chat","rumor","music","aucc",}),"last_on":1242767380,"last_from":"247.104.62.61","profile":"","creation_time":1131197625,])
+my_body 
+last_age_set 1242767380
+password "$1$92136554$t/A6AnK/UeP4M8qhQ7Uj7/"
+email "nala@nala.com"
+window (["freeze":1,"terminal_type":"vt100","width":125,"height":47,])

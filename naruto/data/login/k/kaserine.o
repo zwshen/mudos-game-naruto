@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ds":"deposit $* silver","mapfr":"option map_unfreeze 0","fo":"follow $*","en":"enable $1 with $2","gi":"give $1 $2","gg":"get $1 from $2","ad":"advance $*","ee":"enable $*","ig":"ignore $*","ide":"identify $*","mapfu":"option map_unfreeze 1","tr":"train $1 from $2 for $3","c":"consider $*","re":"recall $*","bb":"buy $1 from $2","trr":"train $1 from $2 for $3","f":"finger $*","lc":"look corpse $*","gofc":"get all from corpse $*","mv":"move $*","pt":"put $1 in $2","gc":"get $1 from corpse $2","ht":"perform harm touch.harming on $*","rm":"remember $*","ch":"charge $*","sa":"sac corpse","hh":"perform holy hand.healing on $*",])
+dbase (["last_on":1206215345,"channels":({"chat","rumor","aucc",}),"creation_time":1151416547,"last_from":"161.84.228.61","body":"/obj/user","board_last_read":(["wizard":1177493711,"design":1154116971,"ayumi":1120542699,"tmr":1130172905,"bug":1180176737,"_MITE_":1188848484,"byron":1175028384,"chat":1175828718,"acme":1115787696,"newbie":1136481011,"propose":1178173271,]),"name":"³Í¼»µY","id":"kaserine","time_aged":469118,])
+password "$1$72009849$s3rZl0mNsL3zrCQMc/eOq."
+email "lotus@yahoo.com"

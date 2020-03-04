@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["p1":"perform force.hin on $*","mm":"get all from corpse $*","sk":"skills $*","cons":"consider $*","ac":"sac corpse","id":"identify $*","ba":"balance $*",])
+dbase (["last_on":1208964074,"channels":({"chat","rumor",}),"creation_time":1131985792,"last_from":"49.116.67.203","signature":"","profile":"","body":"/obj/user","board_last_read":(["wizard":1143254649,"ayumi":1120542699,"newbie":1136481011,"propose":1141838792,"acme":1116161998,"tmr":1137954741,"bug":1115718717,"_MITE_":1188848484,]),"name":"дт╢я","id":"pata","time_aged":4213645,])
+password "$1$63525433$.2rps/jmvTaA8z0odiE1v."
+email "sie-mail@yahoo.com.tw"

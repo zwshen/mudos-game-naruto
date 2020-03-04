@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all","gc":"get all from corpse $*","sac":"sac corpse",])
+dbase (["body":"/obj/user","id":"erasers","name":"®¦©Ü¦è","time_aged":5249,"last_on":1181539792,"last_from":"92.106.126.122","creation_time":1180080005,"board_last_read":(["wizard":1116210005,"newbie":1136481011,]),"channels":({"chat","rumor",}),])
+password "$1$32802995$UPn6cH4Wx/NtcnhvBU1yi."
+email "s3300360@yahoo.com.tw"

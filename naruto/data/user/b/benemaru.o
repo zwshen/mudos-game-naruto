@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":60,"str":20,])
+conditions (["apheal1":(["duration":47,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal3":(["duration":47,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":47,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["time_aged":357,"level":20,"age":29,"race":"human","guild":"muye","name":"¬õ¤Y","startroom":"/world/area/wizard/guildhall","gender":"male","title":"¤ì¸­§ø§ÔªÌ","birthday":1131853848,"bank":6204,"id":"benemaru","option":([]),"recoverroom":"/world/area/muye/inn","class":"inferior","score":(["elevel":14,"dlevel":1,"kills":347,"survive":6419,"combat exp":645475,]),"wimpy_dir":"east",])
+masters ([])
+apprentices ([])
+skills (["savage hit":104,"parry":50,"continual hit":56,"heavy hit":104,"combat":99,"dodge":98,])
+learned (["savage hit":16016,"parry":16632,"continual hit":10990,"heavy hit":16016,"combat":240534,"dodge":16576,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["savage hit":6,"parry":4,"continual hit":4,"heavy hit":6,"combat":5,"dodge":5,])
+skill_require (["savage hit":162240,"parry":37500,"continual hit":47040,"heavy hit":162240,"combat":1000000,"dodge":144060,])
+best_skill "savage hit"
+st_maximum (["ap":530,"mp":80,"hp":530,])
+st_current (["ap":530,"mp":80,"hp":442,])
+st_notify (["ap":10,"hp":20,])
+st_point (["attribute":0,"skill":10,"score":100,"learn":12421,])
+st_quest (["level_e":([1:1,]),])
+autoload ([3:(["amount":1,"file":"/world/area/old_forest/npc/eq/arm",]),2:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),1:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),0:(["amount":1,"file":"/world/area/wild/npc/wp/gao_sword",]),])
+__flag ""

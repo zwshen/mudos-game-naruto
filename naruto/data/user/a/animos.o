@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":22,"str":20,])
+conditions ([])
+dbase (["score":(["kills":7,"survive":10,"combat exp":161,]),"bank":0,"id":"animos","name":"量子物理","birthday":1131640323,"level":1,"race":"human","age":18,"gender":"female","class":"commoner","time_aged":1539,])
+masters ([])
+apprentices ([])
+skills (["dodge":6,"combat":6,])
+learned (["dodge":120,"combat":320,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":540,"combat":540,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":130,"ap":80,])
+st_current (["mp":80,"hp":112,"ap":13,])
+st_notify ([])
+st_point (["score":0,"learn":116,"attribute":0,"skill":0,])
+st_quest ([])
+autoload ([])
+__flag ""

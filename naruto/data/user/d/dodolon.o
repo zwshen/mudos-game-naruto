@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":22,"con":20,"int":20,])
+conditions ([])
+dbase (["birthday":1179570962,"name":"¨§¨§Às","gender":"male","title":"©À¯à¤OªÌ","help":"setup/exp/","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","bank":0,"class":"hxh_initial","score":(["survive":120,]),"age":18,"time_aged":18577,"id":"dodolon","guild":"hunter","level":3,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["muscle tank":1,])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["attribute":4,"skill":6,"score":150,"learn":0,])
+st_quest (["prize":([13:2,]),])
+autoload ([44:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),43:(["file":"/world/drug/hpill3","amount":10,]),42:(["file":"/world/drug/hpill4","amount":15,]),41:(["file":"/world/drug/mp_heal","amount":28,]),40:(["file":"/world/drug/ap_heal","amount":53,]),39:(["file":"/world/drug/hp_heal","amount":36,]),38:(["file":"/world/drug/mpill","amount":12,]),37:(["file":"/world/drug/mpill2","amount":13,]),36:(["file":"/world/drug/mpill4","amount":12,]),35:(["file":"/world/drug/mpill3","amount":22,]),34:(["file":"/world/area/thorn_pine/npc/item/god_pill","amount":20,]),33:(["file":"/world/drug/mp_heal2","amount":15,]),32:(["file":"/world/area/thorn_pine/npc/item/ghost_pill","amount":14,]),31:(["file":"/world/drug/hp_heal2","amount":27,]),30:(["file":"/world/drug/ap_heal2","amount":19,]),29:(["file":"/world/area/thorn_pine/npc/item/man_pill","amount":15,]),28:(["file":"/world/area/thorn_pine/npc/item/hp_help","amount":1,]),27:(["file":"/world/area/thorn_pine/npc/item/mp_help","amount":1,]),26:(["file":"/world/area/thorn_pine/npc/item/mp_help","amount":1,]),25:(["file":"/world/area/thorn_pine/npc/item/ap_help","amount":1,]),24:(["file":"/world/item/goaway","amount":1,]),23:(["file":"/world/item/purple_rice","amount":6,]),22:(["file":"/world/wp/scalpel","amount":1,]),21:(["file":"/world/item/bag","amount":1,]),20:(["file":"/world/area/sneakhole/npc/eq/spider_armor","amount":1,]),19:(["file":"/world/eq/head/rhino-shit","amount":1,]),18:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),17:(["file":"/world/area/whale_island/npc/item/spider-eye","amount":1,]),16:(["file":"/world/area/whale_island/npc/item/spider-leg","amount":2,]),15:(["file":"/world/area/bone/npc/item/lantern","amount":1,]),14:(["file":"/world/area/thorn_pine/npc/item/mp_help","amount":1,]),13:(["file":"/world/area/thorn_pine/npc/item/mp_help","amount":1,]),12:(["file":"/world/area/sneakhole/npc/item/sample","amount":1,]),11:(["file":"/world/area/muye/npc/item/noodle","amount":15,]),10:(["file":"/world/area/thorn_pine/npc/item/hp_help","amount":1,]),9:(["file":"/world/area/thorn_pine/npc/item/ap_help","amount":1,]),8:(["file":"/world/area/thorn_pine/npc/item/mp_help","amount":1,]),7:(["file":"/world/item/peanut","amount":2,]),6:(["file":"/world/area/whale_island/npc/eq/underpants","amount":1,]),5:(["file":"/world/eq/head/plume","amount":1,]),4:(["file":"/world/item/gold_adzuki","amount":2,]),3:(["file":"/world/area/bone/npc/eq/suit","amount":1,]),2:(["file":"/world/drug/apill4","amount":42,]),1:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),0:(["file":"/world/drug/noodle","amount":2,]),])
+__flag ""
+toDoList (["/world/quest/meet_hung.c":(["item":([]),"killed":([]),]),])
+solved ({})

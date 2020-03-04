@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["wr":"wield $* as righthand","dp":"deposit $* silver","w2":"wield $* as twohanded","p1":"perform ghost chop.attack on $*","cn":"consider $*","ide":"identify $*","p2":"perform chivy tiger.attack on $*","h":"halt","e1":"eat essence","sacc":"sac corpse","gc":"get all from corpse $*","wl":"wield $* as lefthand","b":"balance",])
+dbase (["last_on":1207183737,"channels":({"chat","rumor",}),"creation_time":1206572213,"last_from":"11.0.124.122","body":"/obj/user","board_last_read":(["wizard":1201062195,"ayumi":1120542699,"tmr":1174093857,"propose":1205079160,"newbie":1136481011,"acme":1144388900,]),"name":"¤ë¤}ÆF","id":"uygunlin","time_aged":93374,])
+password "$1$25603360$6d9N1Zq75QOfYAXTt3WeI."
+email "uygunlin@yahoo.com.tw"

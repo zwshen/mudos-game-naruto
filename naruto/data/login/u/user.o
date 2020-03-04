@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["ee":"eat essence","on":"option map_hidden 0","off":"option map_hidden 1","k":"kill elf","t":"transfer 1",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1188298153,"last_from":"13.200.78.213","last_on":1188553923,"body":"/obj/user","name":"¨Ï¥ÎªÌ","id":"user","time_aged":18119,])
+password "$1$55411376$wfuEheGVhqPp12GAoSGGn/"
+email "have_a_break04@hotmail.com"

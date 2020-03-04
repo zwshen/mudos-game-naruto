@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["rem":"remember $*","gg":"get all","pp":"get all from corpse","c":"consider $*","p":"sac corpse","pro":"proskills","/":"recall","de":"deposit $*","wi":"withdraw $*","id":"identify $*","bal":"balance","adv":"advance $*",])
+dbase (["time_aged":277431,"body":"/obj/user","channels":({"chat","rumor",}),"last_on":1234663949,"creation_time":1234354956,"board_last_read":(["_MITE_":1188848484,"propose":1211983359,"wizard":1234523588,"acme":1115745789,"newbie":1136481011,"ayumi":1120542699,]),"id":"amyyu","name":"´å´å","last_from":"152.31.230.61",])
+my_body 
+last_age_set 1234632354
+password "$1$44134775$48XVsg6HeSJ4WvwAbAIuH1"
+email "skyinblue5@hotmail.com"
+window (["width":207,"height":67,"freeze":1,"terminal_type":"vt100",])

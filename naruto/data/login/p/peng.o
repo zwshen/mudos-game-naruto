@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["roll":"chat* 倒在地上滾來滾去。","sa":"sac corpse","p3":"eat mp pill","orz":"chat* 頓時感到無比的挫折與失落，竟心灰意冷的拜倒在地。","sk":"skills","fmd":"perform concrete.destruct","kfc":"chat* 倒在地上大哭大喊...這不是肯的雞...這不是肯的雞...這不是肯的雞....","ds2":"disable savage hit","uwil":"unwield lance","pa":"put all in bag","p":"eat ap pill","wis":"wield gao yuan sword","ds1":"disable heavy hit","en2":"enable savage hit","wil":"wield lance as twohanded","uwi":"do unwield $*","gg":"none","em":"perform emit.shoot on $*","uwis":"unwield sword","rs":"recall start","wir2":"wield radish 2 as righthand","p2":"eat middle ap pill","wis2":"wield sword 2 as lefthand","en1":"enable heavy hit","fm":"perform concrete.family","wir":"wield radish as lefthand","ga":"get all from corpse","p4":"eat middle mp pill",])
+dbase (["time_aged":10393576,"last_on":1146781682,"id":"peng","name":"極地企鵝","board_last_read":(["bug":1115718717,"wizard":1143254649,"acme":1116038206,"propose":1141838792,"_MITE_":1142224362,]),"last_from":"151.0.162.69","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"creation_time":1131746575,])
+password "$1$87221348$Npayw5MM78y0/wKpr3L5z1"
+email "cckkcckk1@hotmail.com"

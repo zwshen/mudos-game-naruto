@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":20,"str":20,"con":120,])
+conditions (["hpheal2":(["duration":21,"name":"[41m¢Ð¯ÅÁÙ¶§³N[0;2m",]),"apheal2":(["duration":151,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),"apheal4":(["duration":0,"name":"[42m¢á¯Å´£¯«³N[0;2m",]),"mpheal1":(["duration":189,"name":"[45m¢Ñ¯Å¤Ñ¦a³N[0;2m",]),"apheal1":(["duration":187,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal3":(["duration":2,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),"dp":(["armor":36,"duration":11,"hp":435,"name":"[1;32m­¿¤Æ³N[0;2m","attack":36,]),"ca":(["dex":6,"str":6,"heal":24,"duration":6,"name":"[1;36m²Ó­M¬¡¤Æ[0;2m",]),"hpheal1":(["duration":179,"name":"[41m¢Ñ¯ÅÁÙ¶§³N[0;2m",]),])
+dbase (["startroom":"/world/area/whale_island/seacoast","option":([]),"name":"¤jºµ¿ß","birthday":1130999463,"class":"middle","gender":"female","recoverroom":"/world/area/whale_island/mite_hotel","area_info":(["x_axis":9,"y_axis_old":1,"x_axis_old":9,"y_axis":1,]),"score":(["dlevel":45,"combat exp":794325,"elevel":9,"survive":13992,"clevel":10,"kills":11050,]),"level":40,"race":"human","age":38,"id":"panda","guild":"muye","bank":349501,"title":"¤ì¸­§ø§ÔªÌ","time_aged":43558,])
+masters ([])
+apprentices ([])
+skills (["parry":74,"double physique":144,"heavy hit":114,"combat":102,"continual hit":70,"force":19,"dodge":100,"muscle tank":99,"savage hit":115,"cell activation":119,"ninja":39,])
+learned (["parry":77254,"double physique":11791,"heavy hit":108484,"combat":70082,"continual hit":9400,"force":0,"dodge":12330,"muscle tank":0,"savage hit":31836,"cell activation":0,"ninja":0,])
+skill_map (["force":"muscle tank","ninja":"cell activation",])
+skill_flag ([])
+skill_ability (["parry":5,"double physique":8,"heavy hit":7,"combat":6,"continual hit":4,"force":1,"dodge":6,"muscle tank":5,"savage hit":7,"cell activation":6,"ninja":2,])
+skill_require (["parry":84375,"double physique":105125,"heavy hit":198375,"combat":159135,"continual hit":75615,"force":2000,"dodge":153015,"muscle tank":50000,"savage hit":201840,"cell activation":72000,"ninja":8000,])
+best_skill "double physique"
+st_maximum (["mp":100,"hp":1740,"ap":1000,])
+st_current (["mp":100,"hp":233,"ap":1000,])
+st_notify (["hp":10,"ap":30,])
+st_point (["learn":12684,"skill":23,"attribute":0,"score":400,])
+st_quest (["prize":([13:2,]),])
+autoload ([])
+__flag ""

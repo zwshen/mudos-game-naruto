@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["6":"perform alter ego.shadow","wg2":"wield shan feng sword as lefthand",".":"enable combat","000":"order dog to $*","7":"perform four foot.beast","wg1":"wield blade","3":"use mp help","wi2":"wield blade as twohanded","pug":"put box in bag","5":"perform cell activation.ca","sk":"skills","km":"kill mouse $*","gj":"get jade from corpse","ma2":"option map_hidden 1","mm2":"option map_unfreeze 1","ch":"charge $*","9":"perform animal taming.state","tam":"train animal taming from ka for $*","dd":"drop 1 silver","ma1":"option map_hidden 0","00":"perform animal taming.leave","/":"disable combat","0":"perform animal taming.call","火山的":"23 12","1":"use ap help","lc":"look corpse $*","66":"perform alter ego.destruct","ge":"get all from corpse $*","gub":"get all from bag $*","pub":"put all in bag $*","lm":"look mouse","8":"perform animal taming.feed $*","con":"consider $*","id":"identify $*","sa":"sac corpse","cm":"charge mouse","77":"perform double fang.atwirl on $*","mm1":"option map_unfreeze 0","2":"use hp help",])
+dbase (["last_from":"110.178.192.123","time_aged":42260215,"last_on":1247306798,"creation_time":1128423905,"body":"/obj/user","board_last_read":(["bug":1239117288,"design":1154116971,"acme":1234338310,"chat":1237659377,"newbie":1173805427,"ayumi":1120542699,"_MITE_":1188848484,"tmr":1234463389,"byron":1177702512,"propose":1240917122,"wizard":1239465932,]),"id":"mother","name":"比司吉","channels":({"aucc","chat","rumor","war","news",}),])
+my_body 
+last_age_set 1247306798
+password "$1$83365958$1Su8cAHME8DsWrEUPbe9o."
+email "mother@t1.w.w"
+window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["g":"get all from corpse $*",])
+dbase (["time_aged":658,"board_last_read":(["propose":1148557370,"design":1154116971,"newbie":1136481011,"bug":1151492395,"chat":1154117225,"wizard":1153360538,]),"last_from":"81.103.132.140","id":"gomu","name":"¥_·¥ºµ","body":"/obj/user","last_on":1159938518,"channels":({"chat","rumor",}),"creation_time":1159937934,])
+password "$1$18275718$yCkr2SbOMCutqBrGho0B20"
+email "mamanomi@hotmail.com"

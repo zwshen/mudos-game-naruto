@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["t":"transfer $1","8":"deposit 10000 silver","b":"balance","\\":"wield gao yuan sword as lefthand","cd":"consider $1","re":"recall","?":"eat pill","0":"wear all","9":"eat chicken","gc":"get all from corpse","v":"kill elf","g":"get all","ad":"advance $1","-":"wield shan feng sword",])
+dbase (["last_from":"245.71.114.140","time_aged":5509297,"creation_time":1239794636,"last_on":1245303903,"signature":"","body":"/obj/user","board_last_read":(["acme":1240128067,"chat":1237659377,"newbie":1136481011,"ayumi":1120542699,"tmr":1234463389,"_MITE_":1240893079,"propose":1240917122,"byron":1177702512,"wizard":1239465932,]),"name":"¤Z","id":"leefan","channels":({"chat","rumor","aucc",}),"profile":",",])
+my_body 
+last_age_set 1245303902
+password "$1$38287777$Z8Tgb1auQJQAdrdxJ484N/"
+email "cd10067@yahoo.com.tw"
+window (["terminal_type":"vt100","width":100,"height":26,])

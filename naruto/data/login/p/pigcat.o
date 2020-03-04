@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall",])
+dbase (["board_last_read":(["bug":1235877137,"acme":1188005608,"propose":1211983359,"tmr":1174093857,"design":1154116971,"wizard":1212213844,"chat":1186466886,"_MITE_":1188848484,]),"time_aged":4269979,"last_from":"191.146.231.118","name":"Ноиp","last_on":1237088211,"body":"/obj/user","id":"pigcat","channels":({"chat","rumor","aucc","war","music","news",}),"creation_time":1164184102,])
+my_body 
+last_age_set 1237088211
+password "$1$23232464$JkGrOfWo41CUKpjwWf7bf."
+email "longislandroy@hotmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":156,"height":59,])

@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gt":"get all from corpse $*","rs":"recall start","tr":"transfer $*","f":"finger $*","/":"recall","gl":"get all","cc":"sac corpse","po":"perform operation.revive on $*","un":"unwield","gb":"get $* from bag","ts":"train solid from rao for 1000","re":"remove all","pb":"put $* in bag","sl":"sell all","pc":"perform concrete.family","pl":"perform concrete.destruct","ggg":"say À°¦£ give spiderman 10 mucus",])
+dbase (["board_last_read":(["tmr":1132472571,"acme":1133012398,"chat":1186466886,"propose":1188577603,"wizard":1188375771,"bug":1186997961,"newbie":1136481011,"ayumi":1120542699,"_MITE_":1170658966,]),"channels":({"chat","rumor","aucc","music",}),"creation_time":1130476156,"last_from":"5.165.71.219","last_on":1188146568,"body":"/obj/user","id":"hirehxh","name":"©_Ëb","time_aged":13256470,])
+password "$1$78865407$UGbOti/ISVeyRbKCIzvzO0"
+email "g9213006@ms2.pccu.edu.tw"

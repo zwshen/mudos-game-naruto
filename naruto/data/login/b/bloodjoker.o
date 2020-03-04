@@ -1,0 +1,7 @@
+#/obj/login.c
+dbase (["channels":({"chat","rumor",}),"time_aged":116,"last_from":"185.45.112.59","creation_time":1235097925,"last_on":1235098003,"name":"­D­D","body":"/obj/user","id":"bloodjoker",])
+my_body 
+last_age_set 1235098001
+password "$1$29653237$5RAAU2E5wW9066njT95go1"
+email "dancil@gmail.com"
+window (["terminal_type":"vt100","width":125,"height":48,])

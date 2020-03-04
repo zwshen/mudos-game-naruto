@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["on":"option map_unfreeze 0","1":"fishing","wr":"wield rod","mapon":"option map_hidden 0","mapoff":"option map_hidden 1","off":"option map_unfreeze 1",])
+dbase (["last_from":"205.32.134.140","time_aged":331702,"body":"/obj/user","channels":({"chat","rumor",}),"id":"fisher","name":"¶O³·¨à","creation_time":1130121202,"last_on":1130605115,"board_last_read":(["propose":1130207511,"wizard":1129917561,"bug":1129700893,"chat":1129371061,]),])
+password "$1$2525295$59ACsn.vxwDQx/y1sXHrC."
+email "m3321@321.r21"

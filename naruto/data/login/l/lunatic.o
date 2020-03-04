@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["stop":"halt","ll":"train $1 from zoro for $2","dd1":"eat chicken","pu":"perform wolf blade.flow","ee":"eat manto","dd":"eat heal ap pill",])
+dbase (["board_last_read":(["tmr":1174093857,"byron":1177702512,"wizard":1209379195,"ayumi":1120542699,"_MITE_":1188848484,"acme":1188005608,"chat":1186466886,"bug":1210675897,"design":1154116971,"propose":1211297114,"newbie":1136481011,]),"channels":({"chat","rumor","aucc",}),"creation_time":1210554752,"last_from":"99.80.8.124","body":"/obj/user","id":"lunatic","name":"¦ã´µ","last_on":1211762943,"time_aged":233822,])
+password "$1$13208368$TIzytF.VQ0NID7E5gTMRa."
+email "aa@aa.aa.aa.aa"

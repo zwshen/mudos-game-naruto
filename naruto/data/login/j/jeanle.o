@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["00":"say 拔完了","g":"get all from corpse","0":"say 拔草","h":"sac corpse",])
+dbase (["channels":({"chat","rumor",}),"creation_time":1136727561,"name":"十二少","body":"/obj/user","id":"jeanle","time_aged":2877394,"board_last_read":(["wizard":1132743373,"ayumi":1120542699,"tmr":1134409039,"newbie":1136481011,"acme":1136370213,]),])
+password "$1$86449661$nMjsOXXA21e3HSb3ubMKL/"
+email "jeanleisme@yahoo.com.tw"

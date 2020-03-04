@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":50,"dex":20,"str":30,])
+conditions (["apheal3":(["duration":16,"name":"[42m¢Ï¯Å´£¯«³N[0;2m",]),"apheal1":(["duration":14,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),"apheal2":(["duration":14,"name":"[42m¢Ð¯Å´£¯«³N[0;2m",]),])
+dbase (["bank":4023,"name":"¶­","birthday":1131465532,"level":20,"race":"human","age":27,"gender":"male","recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/prac5","score":(["kills":940,"dlevel":23,"survive":5081,"combat exp":97307,"elevel":128,]),"title":"©À¯à¤OªÌ","id":"yane","option":([]),"guild":"hunter","class":"hxh_initial","time_aged":19415,])
+masters ([])
+apprentices ([])
+skills (["savage hit":62,"dodge":17,"variation":1,"parry":14,"strength":1,"electric variation":1,"harm touch":1,"ice variation":1,"concrete":1,"finger-guessing fist":11,"heavy hit":62,"psychical bullet":1,"special":1,"fire variation":1,"holy hand":1,"solid":11,"continual hit":27,"combat":62,"emit":1,"body strength":1,"operation":1,])
+learned (["dodge":3770,"savage hit":4872,"continual hit":3480,"finger-guessing fist":170,"combat":4872,"parry":1421,"heavy hit":4872,"solid":42,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":2,"savage hit":4,"finger-guessing fist":1,"continual hit":3,"combat":4,"parry":2,"heavy hit":4,"solid":1,])
+skill_require (["dodge":4335,"savage hit":57660,"continual hit":10935,"finger-guessing fist":605,"combat":57660,"parry":2940,"heavy hit":57660,"solid":605,])
+best_skill "savage hit"
+st_maximum (["mp":300,"hp":440,"ap":500,])
+st_current (["mp":300,"hp":490,"ap":62,])
+st_notify (["mp":10,"hp":15,"ap":0,])
+st_point (["score":0,"learn":1609,"attribute":0,"skill":19,])
+st_quest (["prize":([4:1,]),"level_e":([3:1,]),])
+autoload ([11:(["file":"/world/wp/radish","amount":1,]),10:(["file":"/world/wp/radish","amount":1,]),9:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),8:(["file":"/world/eq/armor/turtle","amount":1,]),7:(["file":"/world/area/whale_island/npc/eq/spider-gloves","amount":1,]),6:(["file":"/world/area/muye/npc/eq/g_pants","amount":1,]),5:(["file":"/world/area/wild/npc/eq/pig_fur","amount":1,]),4:(["file":"/world/area/muye/npc/eq/moon_neck","amount":1,]),3:(["file":"/world/eq/feet/cloth-shoes","amount":1,]),2:(["file":"/world/eq/head/shit","amount":1,]),1:(["file":"/world/area/wild/npc/eq/wrist","amount":1,]),0:(["file":"/world/eq/face/fglasses","amount":1,]),])
+__flag ""

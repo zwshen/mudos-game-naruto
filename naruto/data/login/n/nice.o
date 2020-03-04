@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["tran":"transfer $*","k":"kill $*","ident":"identify $*","r":"recall","on":"option map_unfreeze 0","g":"get all from corpse","off":"option map_unfreeze 1","sa":"sac corpse",])
+dbase (["last_on":1207115191,"channels":({"chat","rumor",}),"creation_time":1200289167,"last_from":"98.180.124.59","body":"/obj/user","board_last_read":(["wizard":1201062195,"design":1154116971,"ayumi":1120542699,"tmr":1174093857,"_MITE_":1188848484,"bug":1116836812,"byron":1177702512,"newbie":1136481011,"propose":1202040786,"acme":1115817011,"chat":1186466886,]),"name":"¬P»k","id":"nice","time_aged":511911,])
+password "$1$26080315$s2YihdvDqpCvzX.Qoj.IW/"
+email "nice1227@hotmail.com"

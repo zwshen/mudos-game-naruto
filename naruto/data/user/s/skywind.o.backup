@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":31,"dex":31,"str":20,])
+conditions ([])
+dbase (["time_aged":85242,"title":"¤ì¸­§ø§ÔªÌ","target_score":(["elevel":1,"combat exp":12100,]),"bank":12370,"name":"¤Ñ¼C§u­·","gender":"male","class":"inferior","area_info":(["x_axis":19,"y_axis_old":15,"x_axis_old":19,"y_axis":15,]),"birthday":1151594661,"guild":"muye","age":19,"id":"skywind","level":11,"race":"human","startroom":"/world/area/muye/swanlake","score":(["survive":1290,"elevel":4,"combat exp":10167,"kills":516,]),])
+masters ([])
+apprentices ([])
+skills (["combat":29,"savage hit":29,"dodge":21,"muscle tank":1,"heavy hit":29,"continual hit":18,"parry":18,])
+learned (["combat":3869,"savage hit":10489,"dodge":3153,"continual hit":1296,"heavy hit":10489,"parry":1473,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":3,"savage hit":3,"dodge":3,"muscle tank":2,"heavy hit":3,"continual hit":3,"parry":3,])
+skill_require (["combat":12615,"savage hit":12615,"dodge":6615,"continual hit":4860,"heavy hit":12615,"parry":4860,])
+best_skill "savage hit"
+st_maximum (["ap":630,"mp":80,"hp":80,])
+st_current (["ap":630,"mp":80,"hp":130,])
+st_notify (["ap":5,"hp":10,])
+st_point (["attribute":0,"skill":2,"score":0,"learn":38,])
+st_quest (["prize":([9:1,13:1,]),])
+autoload ([18:(["amount":1,"file":"/world/eq/head/watermelon-hat",]),17:(["amount":1,"file":"/world/eq/belt/hoop",]),16:(["amount":1,"file":"/world/eq/face/cglasses",]),15:(["amount":1,"file":"/world/eq/finger/silver",]),14:(["amount":1,"file":"/world/eq/armor/turtle",]),13:(["amount":1,"file":"/world/item/rod",]),12:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),11:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),9:(["amount":1,"file":"/world/area/muye/npc/eq/g_pants",]),8:(["amount":1,"file":"/world/area/muye/npc/eq/g_cloth",]),7:(["amount":1,"file":"/world/wp/longsword",]),6:(["amount":1,"file":"/world/area/whale_island/npc/eq/spider-gloves",]),5:(["amount":1,"file":"/world/item/fish5",]),4:(["amount":2,"file":"/world/item/fish2",]),3:(["amount":2,"file":"/world/item/fish4",]),2:(["amount":2,"file":"/world/item/fish1",]),1:(["amount":3,"file":"/world/item/fish6",]),0:(["amount":4,"file":"/world/item/fish3",]),])
+__flag ""

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["op1":"option map_unfreeze 1","p1":"perform finger-guessing fist.¥ÛÀY","con":"consider $*","op0":"option map_unfreeze 0","r":"recall",])
+dbase (["last_from":"221.5.38.114","time_aged":10524307,"last_on":1245036206,"creation_time":1234511917,"body":"/obj/user","board_last_read":(["newbie":1136481011,"bug":1234803985,"_MITE_":1188848484,"propose":1211983359,"byron":1177702512,"wizard":1236774912,]),"name":"ÁÂªü¤ò","id":"shimao","channels":({"chat","rumor","news","aucc",}),])
+my_body 
+last_age_set 1245036206
+password "$1$33093379$Xb.uQbXO1PxHHhL7vYcTc1"
+email "cworder@yahoo.com.tw"
+window (["terminal_type":"vt100","width":125,"height":46,])

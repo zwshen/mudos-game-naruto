@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["putall":"put all in bag","getall":"get all from bag",])
+dbase (["creation_time":1196073419,"time_aged":9941792,"body":"/obj/user","id":"reborn","name":"и╜е]ож","channels":({"chat","rumor","aucc",}),"last_from":"14.169.171.218","last_on":1237965426,])
+my_body 
+last_age_set 1244512560
+password "$1$8901475$kSKKKRzuaiwmKB6iZ.cKm0"
+email "yan300070@yahoo.com.tw"
+window (["terminal_type":"vt100","width":141,"height":54,])

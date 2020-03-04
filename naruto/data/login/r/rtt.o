@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall","on":"map_unfreeze 1","si":"balance","chadel":"perform chamber fish.destruct","chafeed":"perform chamber fish.feed","off":"map_unfreeze 0","eq":"look rtt","//":"recall start","ffish":"perform chamber fish.state","cha":"perform chamber fish.fish",])
+dbase (["last_from":"38.86.74.211","time_aged":18019226,"creation_time":1205910270,"last_on":1247264362,"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1130000043,"bug":1237910698,"propose":1210908901,"wizard":1237955225,"chat":1237659377,]),"id":"rtt","name":"¢à¢ü¢ü","channels":({"chat","rumor","aucc",}),])
+my_body 
+last_age_set 1247264362
+password "$1$83707168$4OjiP5SBWhQHTqVN2Oet7."
+email "lsp0317@hotmail.com"
+window ([])

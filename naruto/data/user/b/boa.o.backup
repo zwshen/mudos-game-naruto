@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":32,"dex":30,"str":23,])
+conditions ([])
+dbase (["time_aged":34164,"title":"¤ì¸­§ø§ÔªÌ","wimpy_dir":"east","name":"Ä_¨à","gender":"female","guild":"muye","birthday":1140353394,"class":"inferior","bank":20433,"area_info":(["x_axis":1,"y_axis_old":0,"x_axis_old":1,"y_axis":0,]),"target_score":(["elevel":8,"combat exp":32400,]),"startroom":"/world/area/wizard/wizard","id":"boa","score":(["elevel":18,"kills":1225,"combat exp":31403,"survive":3210,]),"age":24,"level":18,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["combat":42,"dodge":36,"continual hit":18,"ninja":38,"heavy hit":45,"parry":26,"cell activation":1,"savage hit":45,])
+learned (["combat":20060,"dodge":12331,"continual hit":4598,"ninja":0,"heavy hit":11267,"parry":361,"savage hit":11267,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["combat":3,"dodge":3,"continual hit":1,"ninja":2,"heavy hit":5,"parry":2,"savage hit":4,])
+skill_require (["combat":26460,"dodge":19440,"continual hit":4860,"ninja":7220,"heavy hit":30375,"parry":10140,"savage hit":30375,])
+best_skill "savage hit"
+st_maximum (["ap":630,"mp":230,"hp":230,])
+st_current (["ap":73,"mp":230,"hp":230,])
+st_notify (["ap":4,"hp":1,])
+st_point (["skill":16,"score":50,"learn":624,"attribute":11,])
+st_quest (["prize":([9:1,]),])
+autoload ([8:(["amount":1,"file":"/world/wp/radish",]),7:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),6:(["amount":1,"file":"/world/eq/belt/hoop",]),5:(["amount":1,"file":"/world/item/rod",]),4:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),2:(["amount":1,"file":"/world/eq/head/shit",]),1:(["amount":1,"file":"/world/eq/armor/turtle",]),0:(["amount":30,"file":"/obj/money/silver",]),])
+__flag ""

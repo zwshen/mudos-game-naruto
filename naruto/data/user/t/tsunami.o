@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":40,"dex":20,"str":20,"con":30,])
+conditions ([])
+dbase (["class":"inferior","guild":"muye","name":"¯P¼É­·","birthday":1132467767,"gender":"male","level":18,"race":"human","age":20,"recoverroom":"/world/area/muye/inn","score":(["survive":1279,"combat exp":31312,"elevel":16,]),"startroom":"/world/area/wizard/prac5","title":"¤ì¸­§ø§ÔªÌ","id":"tsunami","bank":792,"target_score":(["combat exp":32400,"elevel":8,]),"time_aged":54118,])
+masters ([])
+apprentices ([])
+skills (["ninja":20,"heavy hit":45,"continual hit":10,"combat":45,"parry":2,"dodge":2,"animal taming":24,"savage hit":45,])
+learned (["ninja":0,"heavy hit":8280,"continual hit":320,"combat":8280,"parry":40,"dodge":0,"animal taming":0,"savage hit":8280,])
+skill_map (["ninja":"animal taming",])
+skill_flag ([])
+skill_ability (["ninja":1,"heavy hit":3,"continual hit":1,"combat":3,"parry":1,"dodge":1,"animal taming":3,"savage hit":3,])
+skill_require (["ninja":2000,"heavy hit":30375,"continual hit":1500,"combat":30375,"parry":60,"dodge":60,"animal taming":2880,"savage hit":30375,])
+best_skill "savage hit"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":14,])
+st_notify ([])
+st_point (["learn":105,"skill":20,"attribute":6,"score":900,])
+st_quest (["level_e":([1:1,]),])
+autoload ([1:(["amount":1,"file":"/world/wp/radish",]),0:(["amount":1,"file":"/world/wp/radish",]),])
+__flag ""

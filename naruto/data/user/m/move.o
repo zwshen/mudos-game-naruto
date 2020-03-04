@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":20,"int":20,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":19272,"class":"inferior","name":"¥Ñ","bank":32750,"gender":"male","birthday":1128748345,"area_info":(["x_axis":9,"y_axis_old":26,"x_axis_old":9,"y_axis":26,]),"level":1,"race":"human","age":19,"guild":"muye","startroom":"/world/area/muye/swanlake","id":"move","title":"¤ì¸­§ø§ÔªÌ","score":(["elevel":10,"combat exp":0,"survive":510,]),"target_score":(["combat exp":100,]),])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["ap":80,"mp":80,"hp":80,])
+st_current (["ap":80,"mp":80,"hp":80,])
+st_notify ([])
+st_point (["skill":2,"score":50,"learn":100,"attribute":2,])
+st_quest ([])
+autoload ([15:(["amount":38,"file":"/world/item/fish3",]),14:(["amount":43,"file":"/world/item/fish2",]),13:(["amount":38,"file":"/world/item/fish5",]),12:(["amount":40,"file":"/world/item/fish4",]),11:(["amount":37,"file":"/world/item/fish1",]),10:(["amount":31,"file":"/world/item/fish6",]),9:(["amount":1,"file":"/world/wp/butcher-blade",]),8:(["amount":1,"file":"/world/wp/dagger",]),7:(["amount":1,"file":"/world/wp/radish",]),6:(["amount":1,"file":"/world/wp/radish",]),5:(["amount":1,"file":"/world/wp/butcher-blade",]),4:(["amount":1,"file":"/world/item/rod",]),3:(["amount":1,"file":"/world/wp/radish",]),2:(["amount":1,"file":"/world/eq/belt/hoop",]),1:(["amount":1,"file":"/world/eq/head/boiler",]),0:(["amount":1,"file":"/world/area/wild/npc/eq/pig_head",]),])
+__flag ""

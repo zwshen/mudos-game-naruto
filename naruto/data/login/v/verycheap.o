@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["1":"get all from corpse","3":"eat chicken","2":"sac corpse",])
+dbase (["time_aged":287465,"body":"/obj/user","id":"verycheap","name":"«D±`«K©y","channels":({"chat","rumor",}),"last_on":1239442705,"last_from":"68.105.102.218","creation_time":1239155283,])
+my_body 
+last_age_set 1239442704
+password "$1$50286349$7Uqvmfdai.zy4/eddYpdp/"
+email "pocketwaiwai@hotmail.com"
+window (["terminal_type":"vt100","width":125,"height":46,])

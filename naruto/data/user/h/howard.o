@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":60,"dex":20,"str":20,"con":20,])
+conditions (["apheal1":(["duration":133,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["level":20,"race":"human","age":41,"guild":"muye","name":"¤jÀY½Þ","id":"howard","birthday":1132200268,"class":"inferior","bank":9812,"title":"¤ì¸­§ø§ÔªÌ","gender":"male","area_info":(["x_axis":4,"y_axis_old":10,"x_axis_old":4,"y_axis":10,]),"score":(["kills":375,"survive":17367,"combat exp":284016,"elevel":19,]),"startroom":"/world/area/wild/forest","time_aged":84598,])
+masters ([])
+apprentices ([])
+skills (["heavy hit":115,"continual hit":62,"combat":101,"dodge":92,"parry":55,"savage hit":115,])
+learned (["heavy hit":102531,"continual hit":53658,"combat":64845,"dodge":119097,"parry":13464,"savage hit":102564,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":6,"continual hit":4,"combat":6,"dodge":5,"parry":3,"savage hit":6,])
+skill_require (["heavy hit":198375,"continual hit":57660,"combat":153015,"dodge":126960,"parry":45375,"savage hit":198375,])
+best_skill "savage hit"
+st_maximum (["mp":100,"hp":560,"ap":580,])
+st_current (["mp":100,"hp":560,"ap":578,])
+st_notify (["ap":20,])
+st_point (["learn":3989,"skill":10,"score":0,"attribute":0,])
+st_quest (["level_e":([1:1,]),])
+autoload ([0:(["file":"/world/area/whale_island/npc/item/spider-bag","amount":1,]),])
+__flag ""

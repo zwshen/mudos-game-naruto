@@ -1,0 +1,25 @@
+#/obj/user.c
+attribute (["con":80,"int":60,"dex":20,"str":20,])
+conditions ([])
+dbase (["recoverroom":"/world/area/whale_island/mite_hotel","startroom":"/world/area/whale_island/mite_hotel","nickname":"³¨³½·s¤â[0;2m","guild":"hunter","bank":5986127,"name":"Ây²{","title":"©À¯à¤OªÌ","long":"µL¦l¤£¦¨°Ó¡A¤Q¨¬ªº¦l°Ó¼Ëªº¦Ñ¦l°Ó¤H¡C","class":"hxh_intermediate","option":(["map_unfreeze":1,]),"score":(["dlevel":76,"kills":8597,"combat exp":2132919,"elevel":18,"survive":162930,"clevel":9,]),"time_aged":12581,"age":114,"vendetta":(["bandit":7,]),"id":"hhh","gender":"male","level":40,"birthday":1130712338,"help":"class/hunter/skill/strength/","race":"human","area_info":(["y_axis_old":30,"x_axis_old":16,"y_axis":30,"x_axis":16,]),])
+masters ([])
+apprentices ([])
+skills (["parry":111,"chamber fish":101,"heavy hit":200,"concrete":100,"continual hit":133,"combat":200,"savage hit":200,"eaves family":126,"dodge":159,])
+learned (["parry":151684,"chamber fish":46930,"heavy hit":0,"concrete":1080,"continual hit":2306,"combat":0,"savage hit":0,"eaves family":60448,"dodge":335340,])
+skill_map (["savage hit":0,"heavy hit":0,])
+skill_flag ([])
+skill_ability (["parry":7,"chamber fish":10,"heavy hit":10,"concrete":8,"continual hit":8,"combat":10,"savage hit":10,"eaves family":7,"dodge":10,])
+skill_require (["parry":184815,"chamber fish":51005,"heavy hit":600000,"concrete":50000,"continual hit":265335,"combat":600000,"savage hit":600000,"eaves family":79380,"dodge":379215,])
+best_skill "savage hit"
+st_maximum (["mp":940,"hp":1650,"ap":650,])
+st_current (["mp":0,"hp":1650,"ap":650,])
+st_notify ([])
+st_point (["score":0,"learn":883,"skill":0,"attribute":0,])
+st_quest (["level_e":([4:1,3:1,]),])
+autoload ([5:(["amount":1,"file":"/world/item/rod",]),4:(["amount":1,"file":"/world/eq/head/rhino-shit",]),3:(["amount":1,"file":"/world/area/whale_island/npc/eq/underpants",]),2:(["amount":1,"file":"/world/eq/feet/cloth-shoes",]),1:(["amount":3,"file":"/world/area/echo/npc/item/powder",]),0:(["amount":3,"file":"/world/drug/mpill3",]),])
+__flag ""
+toDoList (["/world/quest/spider_poison.c":(["item":([]),"killed":([]),]),"/world/quest/nurture_pig.c":(["item":([]),"killed":(["/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallpig.c":0,]),]),"/world/quest/try_little_skill.c":(["item":([]),"killed":(["/world/area/whale_island/npc/rabbit.c":0,"/world/area/wild/npc/babypig.c":0,"/world/area/old_forest/npc/monkeyc.c":0,"/world/area/wild/npc/smallwolf.c":0,"/world/area/wild/npc/smallsnake.c":0,]),]),"/world/quest/peanut.c":(["item":([]),"killed":([]),]),"/world/quest/try_big_skill.c":(["item":([]),"killed":(["/world/area/wild/npc/bigsnake.c":3,"/world/area/whale_island/npc/spider2.c":4,"/world/area/wild/npc/bigpig.c":2,"/world/area/wild/npc/bigwolf.c":0,]),]),"/world/quest/ice_heal.c":(["item":([]),"killed":([]),]),"/world/quest/expel_mouse.c":(["item":([]),"killed":(["/world/area/echo/npc/mouse3.c":1,"/world/area/echo/npc/mouse1.c":2,"/world/area/echo/npc/mouse2.c":0,]),]),"/world/quest/xie.c":(["item":([]),"killed":([]),]),"/world/quest/dig_cave.c":(["item":([]),"killed":([]),]),"/world/quest/new_quest.c":(["item":([]),"killed":([]),]),"/world/quest/almighty_creation.c":(["item":([]),"killed":([]),]),"/world/quest/verygood_crab_meat.c":(["item":([]),"killed":(["/world/area/lake/npc/crab.c":0,]),]),])
+solved ({"/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/new_fight.c","/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c",})
+level_scope ({75,150,225,300,375,})
+pro_sk ([])
+camp ([])

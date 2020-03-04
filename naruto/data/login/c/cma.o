@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["al":"get all from corpse $*","sa":"sac corpse",])
+dbase (["board_last_read":(["wizard":1170689153,]),"channels":({"chat","rumor",}),"creation_time":1188745800,"last_on":1188755233,"last_from":"131.182.169.221","body":"/obj/user","name":"ªÖ¨È","id":"cma","time_aged":9490,])
+password "$1$89090127$CF2oSbiIQ0/SIyGJDWG8/1"
+email "dennray@yahoo.com.tw"

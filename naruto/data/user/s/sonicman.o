@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["title":"¤ì¸­§ø§ÔªÌ","time_aged":8318,"level":3,"race":"human","class":"inferior","score":(["survive":50,"combat exp":853,]),"startroom":"/world/area/wizard/prac9","name":"­µ","id":"sonicman","target_score":(["combat exp":900,]),"guild":"muye","age":18,"gender":"male","birthday":1128931585,])
+masters ([])
+apprentices ([])
+skills (["parry":1,"dodge":1,"combat":12,])
+learned (["combat":850,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["combat":2160,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":28,])
+st_notify ([])
+st_point (["skill":4,"score":150,"attribute":6,"learn":300,])
+st_quest ([])
+autoload ([])
+__flag ""

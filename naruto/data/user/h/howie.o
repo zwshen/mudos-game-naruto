@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":40,"dex":20,"str":40,"con":20,])
+conditions (["apheal1":(["duration":44,"name":"[42m¢Ñ¯Å´£¯«³N[0;2m",]),])
+dbase (["class":"inferior","guild":"muye","name":"¤p½Þ","birthday":1129574668,"gender":"male","level":20,"race":"human","age":78,"nickname":"[5m[1;37m^(OO)^[0;2m","area_info":(["x_axis":6,"y_axis_old":17,"x_axis_old":6,"y_axis":17,]),"score":(["combat exp":621284,"survive":69571,"kills":838,"elevel":62,]),"startroom":"/world/area/wild/land","long":"^(OO)^","title":"¤ì¸­§ø§ÔªÌ","id":"howie","bank":22594,"time_aged":10908,])
+masters ([])
+apprentices ([])
+skills (["cell activation":37,"continual hit":76,"ninja":40,"heavy hit":133,"parry":79,"combat":120,"dodge":100,"force":1,"savage hit":132,])
+learned (["ninja":0,"heavy hit":149799,"cell activation":1104,"continual hit":46412,"parry":89771,"dodge":0,"combat":0,"savage hit":201931,])
+skill_map (["ninja":"cell activation",])
+skill_flag ([])
+skill_ability (["ninja":2,"heavy hit":7,"cell activation":2,"continual hit":4,"parry":4,"dodge":5,"combat":6,"savage hit":7,])
+skill_require (["ninja":8000,"heavy hit":265335,"cell activation":6845,"continual hit":86640,"parry":93615,"dodge":150000,"combat":216000,"savage hit":261360,])
+best_skill "heavy hit"
+st_maximum (["mp":100,"hp":640,"ap":500,])
+st_current (["mp":100,"hp":690,"ap":500,])
+st_notify (["hp":20,"ap":20,])
+st_point (["learn":2141,"skill":3,"attribute":0,"score":0,])
+st_quest (["mu":([4:1,3:2,]),"level_e":([1:1,]),])
+autoload ([17:(["amount":1,"file":"/world/area/whale_island/npc/eq/rtail",]),16:(["amount":1,"file":"/world/area/wild/npc/eq/bear_suit",]),15:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),14:(["amount":1,"file":"/world/wp/radish",]),13:(["amount":1,"file":"/world/wp/radish",]),12:(["amount":1,"file":"/world/area/old_forest/npc/wp/lance",]),11:(["amount":1,"file":"/world/eq/head/rhino-shit",]),10:(["amount":1,"file":"/world/area/wild/npc/eq/snake_belt",]),9:(["amount":1,"file":"/world/eq/hand/fist",]),8:(["amount":1,"file":"/world/area/wild/npc/eq/wrist",]),7:(["amount":1,"file":"/world/area/wild/npc/eq/bandit_boots",]),6:(["amount":1,"file":"/world/area/muye/npc/eq/go_mouth",]),5:(["amount":1,"file":"/world/eq/finger/bronze",]),4:(["amount":1,"file":"/world/item/rod",]),3:(["amount":1,"file":"/world/area/muye/npc/eq/moon_neck",]),2:(["amount":1,"file":"/world/eq/leg/gai",]),1:(["amount":10,"file":"/world/drug/apill",]),0:(["amount":35,"file":"/obj/money/silver",]),])
+__flag ""

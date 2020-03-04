@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":20,"str":20,"con":22,])
+conditions ([])
+dbase (["startroom":"/world/area/muye/bank","option":(["map_unfreeze":1,]),"name":"茹比","birthday":1129819907,"class":"hxh_initial","gender":"male","target_score":(["combat exp":100,]),"recoverroom":"/world/area/muye/inn","score":(["dlevel":492,"combat exp":0,"survive":21084,]),"level":1,"race":"human","age":45,"id":"ruby","guild":"hunter","bank":3927,"title":"念能力者","time_aged":22768,])
+masters ([])
+apprentices ([])
+skills (["dodge":2,"combat":2,])
+learned (["dodge":0,"combat":0,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"combat":1,])
+skill_require (["dodge":60,"combat":60,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":130,])
+st_current (["mp":80,"hp":80,"ap":130,])
+st_notify ([])
+st_point (["learn":98,"skill":0,"attribute":0,"score":0,])
+st_quest ([])
+autoload ([0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""

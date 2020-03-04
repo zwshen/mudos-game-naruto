@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":20,"str":20,"con":20,"int":20,])
+conditions ([])
+dbase (["class":"commoner","level":1,"race":"human","name":"ø�Ϯv","id":"mapper","birthday":1179246773,"time_aged":43403,"gender":"male","age":18,"recoverroom":"/world/area/whale_island/mite_hotel","bank":8800,"score":(["elevel":88,"survive":340,]),"startroom":"/world/area/whale_island/mite_hotel",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":80,])
+st_notify ([])
+st_point (["attribute":2,"skill":2,"score":50,"learn":190,])
+st_quest (["level_e":([3:1,]),])
+autoload ([3:(["file":"/world/wp/rattan","amount":1,]),2:(["file":"/world/eq/belt/cord","amount":1,]),1:(["file":"/world/eq/belt/belt","amount":1,]),0:(["file":"/world/drug/noodle","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/xie.c":(["killed":([]),"item":([]),]),"/world/quest/travel_muye.c":(["killed":([]),"item":([]),]),"/world/quest/new_fight.c":(["killed":(["/world/npc/dog.c":0,]),"item":([]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c",})

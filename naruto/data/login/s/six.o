@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["mm":"move 2","m":"move 1","z":"sac corpse","ret":"recall start","re":"recall",])
+dbase (["board_last_read":(["propose":1178173271,"design":1154116971,"bug":1180176737,"chat":1175828718,"wizard":1177493711,"newbie":1136481011,"_MITE_":1170658966,]),"channels":({"chat","rumor","aucc",}),"creation_time":1174972173,"last_on":1189466850,"body":"/obj/user","id":"six","name":"六個人一起","last_from":"82.132.82.24","time_aged":620912,])
+password "$1$31578630$eO8IPXwXMdHJ2J1/4c4BS0"
+email "@"

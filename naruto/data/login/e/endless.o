@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["bs":"perform body strength.powerup","g":"get all from corpse","p1":"perform destory fist.attack on $*","lc":"look corpse","0":"sac corpse",])
+dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1183795681,"last_from":"186.39.126.122","last_on":1194778039,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"propose":1189484975,"wizard":1201062195,]),"name":"µLºÉ","id":"endless","time_aged":12317601,])
+password "$1$37362718$Tk8i95H2YvOvHGJIIwN2V1"
+email "endless@guest.net"

@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":21,"str":29,"con":20,"int":20,])
+conditions ([])
+dbase (["birthday":1173808119,"level":5,"name":"¤õ¿U","race":"human","bank":9603,"gender":"female","time_aged":53198,"startroom":"/world/area/wizard/game5","title":"¤ì¸­§ø§ÔªÌ","guild":"muye","option":(["map_unfreeze":1,]),"id":"hothot","score":(["survive":380,"kills":163,"elevel":63,]),"class":"inferior","age":18,])
+masters ([])
+apprentices ([])
+skills (["heavy hit":2,"continual hit":1,"combat":8,"parry":7,"savage hit":1,"dodge":9,])
+learned (["heavy hit":10,"combat":200,"parry":110,"dodge":85,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":1,"continual hit":1,"combat":6,"parry":1,"dodge":1,])
+skill_require (["heavy hit":45,"combat":405,"parry":320,"dodge":500,])
+best_skill "dodge"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":16,"ap":80,])
+st_notify ([])
+st_point (["attribute":0,"skill":0,"score":250,"learn":318,])
+st_quest (["level_e":([1:1,]),])
+autoload ([24:(["file":"/world/wp/butcher-blade","amount":1,]),23:(["file":"/world/drug/hpill","amount":3,]),22:(["file":"/world/eq/armor/turtle","amount":1,]),21:(["file":"/world/area/wild/npc/eq/pig_head","amount":1,]),20:(["file":"/world/area/wild/npc/eq/pig_fur","amount":1,]),19:(["file":"/world/drug/noodle","amount":1,]),18:(["file":"/world/eq/belt/belt","amount":1,]),17:(["file":"/world/eq/face/fglasses","amount":1,]),16:(["file":"/world/eq/head/boiler","amount":1,]),15:(["file":"/world/eq/hand/fur","amount":1,]),14:(["file":"/world/eq/feet/straw","amount":1,]),13:(["file":"/world/area/whale_island/npc/eq/rears","amount":1,]),12:(["file":"/world/area/whale_island/npc/food/crab_roe","amount":17,]),11:(["file":"/world/area/whale_island/npc/food/crab_meat","amount":21,]),10:(["file":"/obj/money/silver","amount":56,]),9:(["file":"/world/eq/armor/armor","amount":1,]),8:(["file":"/world/area/muye/npc/item/cr_egg","amount":9,]),7:(["file":"/world/drug/apill","amount":8,]),6:(["file":"/world/area/muye/npc/item/mouse_tail","amount":4,]),5:(["file":"/world/area/muye/npc/item/mouse_feet","amount":4,]),4:(["file":"/world/area/muye/npc/item/mouse_eye","amount":3,]),3:(["file":"/world/area/muye/npc/item/cr_feet","amount":11,]),2:(["file":"/world/area/muye/npc/item/cr_antenna","amount":10,]),1:(["file":"/world/area/wild/npc/eq/pig_fur","amount":1,]),0:(["file":"/world/area/wild/npc/item/pig_gut","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/sea_monkey.c":(["item":([]),"killed":(["/world/npc/beggar.c":3,"/world/npc/child.c":6,"/world/npc/passerby.c":5,]),]),"/world/quest/expel_mouse.c":(["item":([]),"killed":(["/world/area/echo/npc/mouse1.c":0,"/world/area/echo/npc/mouse2.c":0,"/world/area/echo/npc/mouse3.c":0,]),]),"/world/quest/try_little_skill.c":(["item":([]),"killed":(["/world/area/whale_island/npc/rabbit.c":13,"/world/area/wild/npc/smallsnake.c":0,"/world/area/old_forest/npc/monkeyc.c":0,"/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallwolf.c":0,]),]),"/world/quest/amulet.c":(["item":([]),"killed":([]),]),"/world/quest/delete_cockroach.c":(["item":([]),"killed":(["/world/area/muye/npc/cockroach2.c":9,"/world/area/whale_island/npc/cockroach3.c":2,"/world/area/whale_island/npc/cockroach2.c":3,"/world/area/muye/npc/cockroach3.c":12,]),]),"/world/quest/kbug.c":(["item":([]),"killed":(["/world/area/muye/npc/cockroach.c":6,]),]),"/world/quest/search_zhang.c":(["item":([]),"killed":([]),]),"/world/quest/kmouse.c":(["item":([]),"killed":(["/world/area/muye/npc/mouse.c":8,]),]),"/world/quest/nurture_pig.c":(["item":(["/world/area/wild/npc/item/pig_gut.c":2,]),"killed":(["/world/area/wild/npc/smallpig.c":4,"/world/area/wild/npc/babypig.c":5,]),]),])
+solved ({"/world/quest/newbie.c","/world/quest/travel_muye.c","/world/quest/meet_ka.c","/world/quest/new_fight.c","/world/quest/travel_whale_island.c","/world/quest/meet_hung.c","/world/quest/new_quest.c","/world/quest/get_crab.c",})

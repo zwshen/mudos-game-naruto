@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["gg":"get all from corpse","con":"consider $*","cc":"chat* $*","11":"sac corpse",])
+dbase (["last_from":"159.20.23.163","body":"/obj/user","time_aged":505752,"board_last_read":(["newbie":1128255489,]),"last_on":1129057811,"name":"¯v","id":"pushen","channels":({"chat","rumor",}),"creation_time":1128430721,])
+password "$1$72478626$4Y13lbZdwqp6ucmLQN52i1"
+email "cute.afro@msa.hinet.net"

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["g":"get all","re":"get all from corpse",])
+dbase (["time_aged":446825,"body":"/obj/user","creation_time":1238218836,"id":"kapu","name":"¾å","channels":({"chat","rumor",}),"last_on":1238302726,"board_last_read":(["newbie":1123023896,"wizard":1238249949,"_MITE_":1188848484,]),"last_from":"144.244.232.125",])
+my_body 
+last_age_set 1238665605
+password "$1$47635478$9GjK7ZrGxeTDiEvIxn.W0/"
+email "dirkskimo@yahoo.com.tw"
+window (["width":125,"terminal_type":"vt100","height":46,])

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["pp":"perform body strength.powerup","ww":"wield sword","mapon":"option map_unfreeze 0","sap":"eat chicken $*","mapoff":"option map_unfreeze 1",])
+dbase (["time_aged":746637,"body":"/obj/user","id":"fat","name":"ªÎ¯S","last_on":1239722605,"channels":({"chat","rumor",}),"last_from":"48.227.74.211","creation_time":1191476951,])
+my_body 
+last_age_set 1239993985
+password "$1$76367693$IM/K9sqe6ve4gVfH9cpuF1"
+email "fat@fat.com.tw"
+window (["terminal_type":"zmud","width":121,"height":44,])

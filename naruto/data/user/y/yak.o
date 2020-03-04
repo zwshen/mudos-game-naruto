@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":20,"dex":20,"str":20,"con":20,])
+conditions ([])
+dbase (["name":"ÄÆÂÅ","id":"yak","birthday":1134436332,"level":1,"race":"human","age":18,"gender":"male","time_aged":776,"score":(["kills":1,"combat exp":38,]),"area_info":(["x_axis":30,"y_axis_old":8,"y_axis":8,"x_axis_old":30,]),"startroom":"/world/area/wizard/wizard","class":"commoner",])
+masters ([])
+apprentices ([])
+skills ([])
+learned ([])
+skill_map ([])
+skill_flag ([])
+skill_ability ([])
+skill_require ([])
+best_skill ""
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":78,"ap":52,])
+st_notify ([])
+st_point (["learn":101,"skill":2,"score":50,"attribute":2,])
+st_quest ([])
+autoload ([0:(["file":"/world/eq/belt/cord","amount":1,]),])
+__flag ""

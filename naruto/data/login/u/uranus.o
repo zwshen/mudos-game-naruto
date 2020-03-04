@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["5":"perform ninja.feed $*","gg":"get all from bag $*","w1":"wield staff as lefthand","6":"put all in bag 2","r":"put $* in bag","s2":"disable savage hit","2":"perform ninja.call","fv":"fight vagabond $*","7":"put all in bag","h":"halt","pp":"perform force.hit on $*","z":"get all from corpse","8":"wield lance as twohanded","q":"get $* from corpse","11":"enable ninja with animal taming","'":"wield radish as lefthand","0":"wield Tree sword as lefthand","44":"enable ninja with double physique","s3":"disable combat","g":"gain","c":"look corpse $*","o":"put all in bag 3","x":"sac corpse","p":"exp","-":"wield radish","3":"score _MY_PET_","fd":"fight stake $*","e1":"enable heavy hit","e3":"enable combat","s1":"disable heavy hit","4":"perform ninja.dp","20":"perform ninja.leave","9":"wield gao yuan sword","a":"get silver from corpse","t":"team","/":"recall","1":"perform ninja.state","e2":"enable savage hit",])
+dbase (["time_aged":3993901,"channels":({"chat","auc","aucc","news","music","rumor",}),"body":"/obj/user","last_on":1234084676,"creation_time":1128782813,"profile":"","board_last_read":(["bug":1149834286,"chat":1149650037,"acme":1144388900,"ayumi":1120542699,"_MITE_":1142224362,"propose":1148557370,"tmr":1144575983,"wizard":1149499546,"newbie":1136481011,]),"id":"uranus","name":"­ß¤ý¬P","signature":"","last_from":"160.177.127.122",])
+my_body 
+last_age_set 1234084676
+password "$1$20036603$Mtfan6AXLsMEYPUkWqE/40"
+email "neighbor_uranus@hotmail.com"
+window (["width":177,"height":58,"terminal_type":"vt100",])

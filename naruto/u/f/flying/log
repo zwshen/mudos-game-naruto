@@ -1,0 +1,95 @@
+[Jul  4 14:20:20]u/f/flying/wp/sword.c line 2: parse error
+[Jul  4 14:21:13]u/f/flying/wp/sword.c line 2: parse error
+[Jul  4 14:51:50]u/f/flying/wp/sword2.c line 1: parse error
+[Jul  4 15:10:49]u/f/flying/wp/sword.c line 2: parse error
+[Jul  4 15:21:37]u/f/flying/wp/sword.c line 1: parse error
+[Jul  4 15:44:03]u/f/flying/wp/sword.c line 2: parse error
+[Jul  5 00:11:34]u/f/flying/wp/test.c line 7: Undefined variable 'CYN'
+[Jul  5 00:11:34]u/f/flying/wp/test.c line 7: parse error
+[Jul  5 05:00:08]u/f/flying/wp/jhan-shou-blade.c line 7: Undefined variable 'CYN'
+[Jul  5 05:00:08]u/f/flying/wp/jhan-shou-blade.c line 7: parse error
+[Jul  5 07:17:43]u/f/flying/wp/jhan-shou-blade.c line 7: Undefined variable 'CYN'
+[Jul  5 07:17:43]u/f/flying/wp/jhan-shou-blade.c line 7: parse error
+[Jul  5 07:17:52]u/f/flying/wp/jhan-shou-blade.c line 7: Undefined variable 'CYN'
+[Jul  5 07:17:52]u/f/flying/wp/jhan-shou-blade.c line 7: parse error
+[Jul  5 07:18:11]u/f/flying/wp/jhan-shou-blade.c line 7: Undefined variable 'CYN'
+[Jul  5 07:18:11]u/f/flying/wp/jhan-shou-blade.c line 7: parse error
+[Jul  5 07:39:53]u/f/flying/wp/blade2.c line 55: Redeclaration of function create.
+[Jul  5 07:55:03]u/f/flying/eq/helmet.c line 19: parse error
+[Jul  5 07:55:03]u/f/flying/eq/helmet.c line 19: Illegal terminator
+[Jul  5 07:55:59]u/f/flying/eq/helmet.c line 22: parse error
+[Jul  5 07:55:59]u/f/flying/eq/helmet.c line 31: End of file in string
+[Jul  5 07:58:55]u/f/flying/eq/helmet.c line 22: parse error
+[Jul  5 07:58:55]u/f/flying/eq/helmet.c line 32: End of file in string
+[Jul  5 07:59:23]u/f/flying/eq/helmet.c line 22: parse error
+[Jul  5 07:59:23]u/f/flying/eq/helmet.c line 32: End of file in string
+[Jul  5 10:15:42]u/f/flying/wp/jhan-shou-blade.c line 7: Undefined variable 'CYN'
+[Jul  5 10:15:42]u/f/flying/wp/jhan-shou-blade.c line 7: parse error
+[Jul  5 12:08:05]u/f/flying/wp/blade3.c line 8: $var illegal outside of function pointer
+[Jul  5 12:08:05]u/f/flying/wp/blade3.c line 8: parse error
+[Jul  5 12:08:05]u/f/flying/wp/blade3.c line 8: $var illegal outside of function pointer
+[Jul  5 12:08:05]u/f/flying/wp/blade3.c line 8: $var illegal outside of function pointer
+[Jul  5 12:08:05]u/f/flying/wp/blade3.c line 8: $var illegal outside of function pointer
+[Jul  5 13:56:39]u/f/flying/wp/blade2.c line 8: $var illegal outside of function pointer
+[Jul  5 13:56:39]u/f/flying/wp/blade2.c line 8: parse error
+[Jul  5 13:56:39]u/f/flying/wp/blade2.c line 8: $var illegal outside of function pointer
+[Jul  5 13:56:39]u/f/flying/wp/blade2.c line 8: $var illegal outside of function pointer
+[Jul  5 13:56:39]u/f/flying/wp/blade2.c line 8: $var illegal outside of function pointer
+[Jul  5 19:55:29]u/f/flying/wp/Thunder-god sword.c line 8: Undefined variable 'BBLKHIC'
+[Jul  5 19:55:29]u/f/flying/wp/Thunder-god sword.c line 8: parse error
+[Jul  6 00:21:23]u/f/flying/wp/sword2.c line 31: "#pragma strict_types" requires type of function
+[Jul  6 00:21:23]u/f/flying/wp/sword2.c line 32: parse error
+[Jul  6 13:27:10]u/f/flying/wp/sword3.c line 23: parse error
+[Jul  6 13:28:05]u/f/flying/wp/sword3.c line 24: parse error
+[Jul  6 13:28:59]u/f/flying/wp/sword3.c line 19: Wrong number of arguments to set
+    Expected: 2  Got: 1
+[Jul  6 13:28:59]u/f/flying/wp/sword3.c line 20: Wrong number of arguments to set
+    Expected: 2  Got: 1
+[Jul  6 13:28:59]u/f/flying/wp/sword3.c line 24: parse error
+[Jul  6 13:31:27]u/f/flying/wp/sword3.c line 22: parse error
+[Jul  6 13:32:12]u/f/flying/wp/sword3.c line 22: parse error
+[Jul  6 13:32:28]u/f/flying/wp/sword3.c line 22: parse error
+[Jul  7 12:34:27]u/f/flying/eq/newbie/newbie-armor.c line 19: parse error
+[Jul  7 12:43:16]u/f/flying/eq/newbie/newbie-boots.c line 8: parse error
+[Jul  7 12:43:24]u/f/flying/eq/newbie/newbie-boots.c line 8: parse error
+[Aug 10 21:05:59]u/f/flying/eq/bao2.c line 21: Undefined variable 'z'
+[Aug 10 21:05:59]u/f/flying/eq/bao2.c line 21: parse error
+[Aug 10 21:06:06]u/f/flying/eq/bao2.c line 21: Undefined variable 'z'
+[Aug 10 21:06:06]u/f/flying/eq/bao2.c line 21: parse error
+[Aug 10 21:06:12]u/f/flying/eq/bao2.c line 21: Undefined variable 'z'
+[Aug 10 21:06:12]u/f/flying/eq/bao2.c line 21: parse error
+[Aug 10 21:13:08]u/f/flying/kusopill.c line 20: parse error
+[Aug 10 21:21:02]u/f/flying/eq/bao3.c line 8: parse error
+[Aug 10 21:21:02]u/f/flying/eq/bao3.c line 15: Illegal terminator
+[Aug 10 22:08:51]u/f/flying/workroom.c line 5: Undefined variable 'MAG'
+[Aug 10 22:08:51]u/f/flying/workroom.c line 5: parse error
+[Aug 10 23:14:43]u/f/flying/eq/beq/barmor.c line 1: parse error
+[Aug 10 23:15:21]u/f/flying/eq/beq/barmor.c line 1: parse error
+[Aug 14 12:36:56]u/f/flying/mei.c line 7: Undefined variable 'MAG'
+[Aug 14 12:36:56]u/f/flying/mei.c line 7: parse error
+[Aug 14 20:46:59]u/f/flying/npc/mei.c line 21: parse error
+[Aug 22 14:40:16]u/f/flying/workroom.c line 24: parse error
+[Aug 23 01:19:31]u/f/flying/workroom.c line 2: parse error
+[Oct  5 15:30:44]u/f/flying/wp/goldradish.c line 8: parse error
+[Oct  5 15:30:44]u/f/flying/wp/goldradish.c line 16: Illegal terminator
+[Oct  5 15:31:42]u/f/flying/wp/goldradish.c line 8: parse error
+[Oct  5 15:31:42]u/f/flying/wp/goldradish.c line 16: Illegal terminator
+[Oct  5 15:32:36]u/f/flying/wp/goldradish.c line 8: parse error
+[Oct  5 15:32:36]u/f/flying/wp/goldradish.c line 16: Illegal terminator
+[Mar 22 00:58:10]u/f/flying/food/bug.c line 3: parse error
+[Mar 22 00:58:23]u/f/flying/food/bug.c line 3: parse error
+[Mar 22 01:24:56]u/f/flying/item/book1.c line 4: parse error
+[Mar 22 01:34:36]u/f/flying/item/book-str.c line 4: parse error
+[Mar 22 01:35:06]u/f/flying/item/book-str.c line 4: parse error
+[Mar 22 02:01:37]u/f/flying/item/strbook.c line 4: parse error
+[Mar 22 02:02:34]u/f/flying/item/strbook.c line 4: parse error
+[Mar 22 02:03:38]u/f/flying/item/strbook.c line 4: parse error
+[Mar 22 02:04:07]u/f/flying/item/strbook.c line 4: parse error
+[Mar 22 02:04:44]u/f/flying/item/strbook.c line 4: parse error
+[Mar 22 02:07:39]u/f/flying/food/newbie-pill2.c line 3: parse error
+[Mar 22 02:09:33]u/f/flying/food/food1.c line 3: parse error
+[Mar 22 02:19:12]u/f/flying/food/pill2.c line 3: parse error
+[Mar 22 02:33:23]u/f/flying/food/test1.c line 3: parse error
+[Mar 22 02:34:09]u/f/flying/food/test1.c line 3: parse error
+[Mar 22 02:38:42]u/f/flying/item/gbook.c line 4: parse error
+[Mar 22 02:39:14]u/f/flying/item/gbook.c line 4: parse error

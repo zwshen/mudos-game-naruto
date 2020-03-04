@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["int":22,"dex":24,"str":24,"con":20,])
+conditions ([])
+dbase (["level":7,"age":18,"race":"human","name":"¥PÀq","birthday":1134579552,"target_score":(["combat exp":4900,]),"title":"¤ì¸­§ø§ÔªÌ","gender":"male","recoverroom":"/world/area/muye/inn","score":(["kills":91,"survive":180,"combat exp":4096,"elevel":1,]),"startroom":"/world/area/wizard/prac4","guild":"muye","id":"power","class":"inferior","bank":2712,"time_aged":37370,])
+masters ([])
+apprentices ([])
+skills (["heavy hit":18,"continual hit":1,"dodge":10,"parry":7,"combat":20,"savage hit":18,])
+learned (["heavy hit":495,"dodge":1296,"combat":2398,"parry":492,"savage hit":495,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["heavy hit":1,"continual hit":1,"dodge":1,"combat":2,"parry":1,"savage hit":1,])
+skill_require (["heavy hit":4860,"dodge":1500,"combat":6000,"parry":735,"savage hit":4860,])
+best_skill "combat"
+st_maximum (["mp":80,"hp":80,"ap":80,])
+st_current (["mp":80,"hp":80,"ap":4,])
+st_notify ([])
+st_point (["learn":1033,"skill":7,"attribute":4,"score":350,])
+st_quest ([])
+autoload ([4:(["file":"/obj/money/silver","amount":288,]),3:(["file":"/world/wp/rattan","amount":1,]),2:(["file":"/world/wp/rattan","amount":1,]),1:(["file":"/world/wp/rattan","amount":1,]),0:(["file":"/world/eq/cloth/gray","amount":1,]),])
+__flag ""

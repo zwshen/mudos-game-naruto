@@ -1,0 +1,20 @@
+#/obj/user.c
+attribute (["con":22,"int":24,"dex":20,"str":20,])
+conditions ([])
+dbase (["time_aged":16868,"guild":"hunter","name":"îî¾z","title":"©À¯à¤OªÌ","gender":"male","birthday":1143129723,"class":"hxh_initial","id":"fmantis","recoverroom":"/world/area/wizard/guildhall","startroom":"/world/area/whale_island/bank","score":(["combat exp":616,"kills":64,"survive":90,]),"bank":2236,"target_score":(["combat exp":900,]),"age":18,"level":3,"race":"human",])
+masters ([])
+apprentices ([])
+skills (["dodge":9,"parry":9,"combat":9,])
+learned (["dodge":804,"parry":180,"combat":864,])
+skill_map ([])
+skill_flag ([])
+skill_ability (["dodge":1,"parry":1,"combat":1,])
+skill_require (["dodge":1215,"parry":1215,"combat":1215,])
+best_skill "dodge"
+st_maximum (["ap":140,"mp":100,"hp":120,])
+st_current (["ap":140,"mp":100,"hp":120,])
+st_notify (["ap":20,"mp":50,"hp":40,])
+st_point (["skill":3,"attribute":0,"score":30,"learn":10,])
+st_quest ([])
+autoload ([2:(["file":"/world/eq/cloth/cloth","amount":1,]),1:(["file":"/world/area/whale_island/npc/eq/rtail","amount":1,]),0:(["file":"/world/area/whale_island/npc/eq/rears","amount":1,]),])
+__flag ""

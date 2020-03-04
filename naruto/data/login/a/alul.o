@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ch":"charge $*","en":"enter ¯µ¥Þ","con":"consider $*","pet":"perform animal taming.call","df":"perform double fang.atwirl on $*","state":"perform animal taming.state","leave":"perform animal taming.leave","feed":"perform animal taming.feed $*","rem":"remember $*","set":"perform ninja.set","sk":"skills","ff":"perform four foot.beast","dp":"perform double physique.dp","phh":"perform force.hit on $*",])
+dbase (["time_aged":49311127,"creation_time":1129550903,"name":"¨R¥Ð©v¦¸­¦","id":"alul","channels":({"chat","rumor","aucc","news",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"chat":1149650037,"bug":1210675897,"tmr":1144575983,"design":1154116971,"wizard":1209379195,]),"last_on":1248698347,"last_from":"146.1.231.125",])
+my_body 
+last_age_set 1249285788
+password "$1$67091911$uk8YsDKZ5RLbb2Gj.oYz7/"
+email "lexusabc@yahoo.com.tw"
+window (["freeze":1,"terminal_type":"zmud",])

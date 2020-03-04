@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall","sk":"skills","rem":"remember $*","pp":"get all from corpse","adv":"advance $*","p":"sac corpse",])
+dbase (["time_aged":320633,"channels":({"chat","rumor",}),"body":"/obj/user","last_on":1234356377,"creation_time":1171015986,"board_last_read":(["_MITE_":1188848484,"propose":1170658847,"wizard":1171024678,"acme":1115745789,"newbie":1136481011,]),"id":"zombiesky","name":"§l¦å°­¤p¬õ","last_from":"84.30.230.61",])
+my_body 
+last_age_set 1234356377
+password "$1$28826221$ucQwZiUZA1z3gM8uJUyQ4/"
+email "skyinblue5@yahoo.com.tw"
+window (["width":207,"height":67,"terminal_type":"vt100",])

@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["ehp":"eat big heal hp pill","33":"perform alter ego.destruct","feed":"perform animal taming.feed $*","22":"perform animal taming.leave","ub":"use bandage","8":"perform white eyes.open","eap":"eat heal ap pill","1":"perform thousand year kill.attack on $*","ga":"get all","2":"perform animal taming.call","g":"get all from corpse $*","dsc":"perform animal taming.state","ep":"eat pill","3":"perform alter ego.shadow","9":"perform four foot.beast","psb":"proskills first-aid snake_skin_bandage -m",])
+dbase (["time_aged":14650644,"creation_time":1234267455,"id":"driftking","name":"ÄÆ²¾","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1234338310,"chat":1186466886,"bug":1246069199,"tmr":1174093857,"design":1154116971,"wizard":1239465932,]),"last_on":1248918105,"last_from":"239.52.230.61",])
+my_body 
+last_age_set 1248918104
+password "$1$60606584$QbWoDMwu8MmoAapJu/mXQ0"
+email "ss@ss.ss.ss"
+window (["freeze":1,"terminal_type":"zmud","width":106,"height":64,])

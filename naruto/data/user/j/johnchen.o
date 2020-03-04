@@ -1,0 +1,22 @@
+#/obj/user.c
+attribute (["dex":23,"str":22,"con":25,"int":20,])
+conditions ([])
+dbase (["class":"hxh_initial","level":5,"race":"human","time_aged":76562,"id":"johnchen","birthday":1179503189,"name":"將臣","gender":"male","age":20,"startroom":"/world/area/wizard/guildhall","recoverroom":"/world/area/wizard/guildhall","title":"念能力者","bank":14783,"score":(["elevel":4,"survive":1919,"kills":48,]),"guild":"hunter",])
+masters ([])
+apprentices ([])
+skills (["dodge":5,"parry":4,])
+learned (["dodge":60,"parry":24,])
+skill_map (["dodge":0,"parry":0,])
+skill_flag ([])
+skill_ability (["dodge":5,"parry":5,])
+skill_require (["dodge":125,"parry":80,])
+best_skill "dodge"
+st_maximum (["mp":80,"hp":230,"ap":180,])
+st_current (["mp":80,"hp":271,"ap":180,])
+st_notify ([])
+st_point (["attribute":0,"skill":0,"score":0,"learn":72,])
+st_quest (["level_e":([3:1,]),])
+autoload ([0:(["file":"/world/item/rod","amount":1,]),])
+__flag ""
+toDoList (["/world/quest/kmouse.c":(["killed":(["/world/area/muye/npc/mouse.c":0,]),"item":([]),]),"/world/quest/kbug.c":(["killed":(["/world/area/muye/npc/cockroach.c":6,]),"item":([]),]),"/world/quest/nurture_pig.c":(["killed":(["/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallpig.c":0,]),"item":([]),]),"/world/quest/delete_cockroach.c":(["killed":(["/world/area/muye/npc/cockroach3.c":0,"/world/area/whale_island/npc/cockroach3.c":0,"/world/area/muye/npc/cockroach2.c":0,"/world/area/whale_island/npc/cockroach2.c":0,]),"item":([]),]),"/world/quest/new_fight.c":(["killed":(["/world/npc/dog.c":1,]),"item":([]),]),"/world/quest/sea_monkey.c":(["killed":(["/world/npc/passerby.c":0,"/world/npc/child.c":0,"/world/npc/beggar.c":0,]),"item":([]),]),"/world/quest/try_little_skill.c":(["killed":(["/world/area/wild/npc/babypig.c":0,"/world/area/wild/npc/smallsnake.c":0,"/world/area/old_forest/npc/monkeyc.c":0,"/world/area/whale_island/npc/rabbit.c":1,"/world/area/wild/npc/smallwolf.c":0,]),"item":([]),]),])
+solved ({"/world/quest/travel_whale_island.c","/world/quest/travel_muye.c","/world/quest/meet_hung.c","/world/quest/meet_ka.c","/world/quest/newbie.c","/world/quest/search_zhang.c","/world/quest/get_crab.c",})

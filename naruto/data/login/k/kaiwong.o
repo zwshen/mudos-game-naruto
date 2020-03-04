@@ -1,0 +1,5 @@
+#/obj/login.c
+alias (["l":"look $*",])
+dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1191177806,"name":"¥d¥d¦è","id":"kaiwong","time_aged":255,])
+password "$1$1101747$L/GACdH/idntMtFjEMEQm1"
+email "kaikelwong318@yahoo.com.hk"

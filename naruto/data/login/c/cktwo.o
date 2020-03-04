@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["on":"option map_unfreeze 0","wa":"transfer $*","off":"option map_unfreeze 1",])
+dbase (["channels":({"chat","rumor","aucc",}),"time_aged":991364,"creation_time":1178422032,"last_from":"162.13.120.59","last_on":1236258805,"body":"/obj/user","name":"裝備機機機","id":"cktwo",])
+my_body 
+last_age_set 1236258803
+password "$1$84424991$/G9yQOG7vNACDzvei3y2W."
+email "1@h.c"
+window (["terminal_type":"zmud","width":85,"height":23,])

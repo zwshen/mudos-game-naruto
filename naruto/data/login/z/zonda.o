@@ -1,0 +1,8 @@
+#/obj/login.c
+alias (["/":"recall start",])
+dbase (["board_last_read":(["bug":1234803985,"byron":1177702512,"acme":1234338310,"tmr":1234463389,"propose":1211983359,"wizard":1234965474,]),"time_aged":1939797,"last_from":"191.146.231.118","name":"¢è¢÷¢ö¢ì¢é","body":"/obj/user","last_on":1237098542,"id":"zonda","channels":({"chat","rumor","aucc",}),"creation_time":1175718079,])
+my_body 
+last_age_set 1237098542
+password "$1$81100365$7JgDycWY6mzoftlJidREL/"
+email "longislandroy@hotmail.com"
+window (["freeze":1,"terminal_type":"vt100","width":165,"height":41,])

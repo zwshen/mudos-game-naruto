@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["wa":"transfer $*","on":"option map_unfreeze 0","q":"eat heal ap pill","aa":"tell success Ãö±¼","k2":"kill cockroach 2","k3":"kill cockroach 3","off":"option map_unfreeze 1","re":"recall","k1":"kill cockroach","g":"get all from corpse","r":"read new","qq":"eat big heal hp pill","sc":"sac corpse",])
-dbase (["time_aged":46417223,"body":"/obj/user","board_last_read":(["bug":1189778126,"design":1154116971,"acme":1115817011,"chat":1186466886,"_MITE_":1188848484,"tmr":1134409039,"ayumi":1120542699,"newbie":1136481011,"propose":1240917122,"wizard":1239465932,]),"id":"success","name":"·¨¹L","channels":({"rumor","news","aucc","chat","war",}),"last_on":1241922832,"last_from":"96.129.128.220","creation_time":1128354890,])
-my_body 
-last_age_set 1241922830
-password "$1$75342562$FZflWl0oarAEixLawtbED1"
-email "1@1.com"
-window (["terminal_type":"zmud","width":124,"height":43,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["con":"consider $*","ge":"get $* from corpse","g":"get all from corpse","on":"option map_unfreeze 0","a":"eat chicken","off":"option map_unfreeze 1","re":"recall start",])
-dbase (["board_last_read":(["newbie":1128936709,"design":1150693458,"wizard":1149499546,"chat":1143174179,]),"time_aged":2017606,"last_from":"135.65.233.125","name":"¥j","body":"/obj/user","last_on":1235511999,"id":"kkho","channels":({"chat","rumor",}),"creation_time":1129913133,])
-my_body 
-last_age_set 1236314499
-password "$1$28889354$vfInBRUSAOhbCCydT.zHo0"
-email "amos_ka125@yahoo.com.tw"
-window (["terminal_type":"vt100","width":141,"height":53,])

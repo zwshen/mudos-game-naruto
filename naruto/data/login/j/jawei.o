@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gg":"get all",])
-dbase (["time_aged":6352,"body":"/obj/user","channels":({"chat","rumor",}),"last_on":1234189305,"creation_time":1160809223,"board_last_read":(["byron":1174327346,"tmr":1130154967,"newbie":1136481011,"ayumi":1120542699,]),"name":"¿P¨ªÁø","id":"jawei","last_from":"115.77.137.220",])
-my_body 
-last_age_set 1234189305
-password "$1$99203220$b4tok.30uEiw2i/fZ.AIm1"
-email "jawei@ms34.hinet.net"
-window (["width":136,"height":36,"terminal_type":"zmud",])

@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":576,"creation_time":1177268807,"last_from":"117.24.104.59","last_on":1235179689,"name":"Á¼­Ü","body":"/obj/user","id":"qbanka",])
-my_body 
-last_age_set 1235179689
-password "$1$65615998$fjUlmqx77c4WAyUK/a/d8/"
-email "longislandroy@hotmail.com"
-window (["terminal_type":"vt100","width":165,"height":41,])

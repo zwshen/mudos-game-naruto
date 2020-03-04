@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["mapfu":"option map_unfreeze 1","mapfr":"option map_unfreeze 0","ide":"identify $*",])
-dbase (["time_aged":23234,"name":"¶Àª÷Ä«ªG","id":"apple","last_from":"107.17.115.140","board_last_read":(["_MITE_":1151039075,]),"last_on":1152373711,"body":"/obj/user","channels":({}),"creation_time":1151688110,])
-password "$1$16991768$SKNmErOVoiL09GX4mqinx0"
-email "appleicme@yahoo.com.tw"

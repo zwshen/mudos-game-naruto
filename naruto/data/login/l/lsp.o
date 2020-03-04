@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["eye":"perform white eyes.open","fc":"perform double fang.atwirl on $*","com0":"disable combat","com1":"enable combat","mp":"perform muscle tank.attack on $*","phh":"perform force.hit on $*","sni":"snicker","npc":"query -npc","star":"stare","fai":"faint","app":"applaud","df":"perform double fang.atwirl on $*","efh":"enable force with hundred palm","wh":"who -l","de":"deposit %1 silver","pon":"ponder","si":"balance","feed":"perform animal taming.feed $*","sc1":"perform animal taming.state","wp":"query -wp","eq":"look lsp","comf":"comfort","call":"perform animal taming.call","gri":"grin","ff":"perform four foot.beast","dp":"perform double physique.dp","off":"option map_unfreeze 1","obj":"query -obj $*","ca":"perform ninja.ca","scr":"scream","leave":"perform animal taming.leave","on":"option map_unfreeze 0","shr":"shrug","shi":"shiver",])
-dbase (["time_aged":87223472,"signature":"","creation_time":1132656873,"id":"lsp","name":"¸t¾§","channels":({"chat","rumor","aucc","war","news",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1237339706,"ayumi":1120542699,"acme":1234338310,"chat":1186466886,"bug":1244282072,"tmr":1234463389,"byron":1177702512,"design":1154116971,"wizard":1237837753,]),"profile":"","last_on":1248799112,"last_from":"164.235.104.59",])
-my_body 
-last_age_set 1249298216
-password "$1$13341375$v0sJSJYXXw1RYlJk4v1iE1"
-email "tune"
-window (["freeze":1,"terminal_type":"zmud","width":107,"height":32,])

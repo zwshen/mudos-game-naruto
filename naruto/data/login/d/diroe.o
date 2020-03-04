@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["scor":"sac corpse","gg":"get all from corpse","/":"recall","sk":"skills","lance":"wield lance as twohanded","bag":"get all from bag",])
-dbase (["time_aged":603711,"board_last_read":(["bug":1151492395,"design":1154116971,"acme":1149251531,"chat":1154117225,"_MITE_":1151039075,"tmr":1174093857,"ayumi":1120542699,"newbie":1136481011,"propose":1148557370,"wizard":1153360538,]),"body":"/obj/user","id":"diroe","name":"­»¤ô","channels":({"chat","rumor","aucc",}),"last_on":1239990968,"last_from":"25.192.41.114","creation_time":1128534102,])
-my_body 
-last_age_set 1239990967
-password "$1$14559028$N7PhONfZptWrxs8vrfc1y0"
-email "rmpz@pchome.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":125,"height":47,])

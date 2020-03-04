@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":1410,"body":"/obj/user","id":"jht","name":"µl¤l½²","last_on":1241716781,"channels":({"chat","rumor",}),"last_from":"71.14.126.221","creation_time":1241715398,])
-my_body 
-last_age_set 1241716781
-password "$1$58117554$s.8FLG6hOcw2JysVMS1p9."
-email "register@irisdog.com"
-window (["terminal_type":"ANSI","width":80,"height":25,])

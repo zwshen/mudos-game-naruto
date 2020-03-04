@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["m0":"option map_unfreeze 0","m1":"option map_unfreeze 1",])
-dbase (["body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1248749399,"time_aged":1587721,"creation_time":1201081815,"last_from":"171.221.115.140","name":"®Ñ¥»¤H","id":"books",])
-my_body 
-last_age_set 1248749399
-password "$1$14297843$R2HwQ0MN1EZ/Ve/GdM67/."
-email "dibird328@ms38.url.com.tw"
-window (["terminal_type":"VT100","freeze":1,"width":125,"height":31,])

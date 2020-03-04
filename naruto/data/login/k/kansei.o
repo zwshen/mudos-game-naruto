@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse","rs":"recall start","re":"recall",])
-dbase (["board_last_read":(["newbie":1136481011,"propose":1211983359,"wizard":1234965474,]),"time_aged":1210296,"last_from":"218.207.156.222","last_on":1236528931,"name":"´ïÂÅ","body":"/obj/user","id":"kansei","channels":({"chat","rumor",}),"creation_time":1235318674,])
-my_body 
-last_age_set 1236528930
-password "$1$43598902$QOn5rd6KKKDf3FSR2H5GG1"
-email "hlhs_still@yahoo.com.tw"
-window (["terminal_type":"zmud","width":152,"height":49,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["k":"kill $*","gc":"get all from corpse $*",])
-dbase (["time_aged":48454,"body":"/obj/user","id":"sasuke","name":"¦õ§U","last_on":1212819910,"channels":({"chat","rumor",}),"last_from":"40.18.190.218","creation_time":1212208450,])
-my_body 
-last_age_set 1239547704
-password "$1$22512217$m9Btsh1vbZKAuenOcjDio1"
-email "pok430@hotmail.com"
-window (["freeze":1,"terminal_type":"vt100","width":158,"height":51,])

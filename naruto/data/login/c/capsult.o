@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["enterlake":"enter ¿ò§}","pb":"put $* in bag","scp":"score fish $*","pd":"perform chamber fish.destruct","lv":"advance level","lc":"look corpse $*","rad2":"wield radish as lefthand","g":"get all from corpse $*","pe":"perform chamber fish.feed","op":"say À°¦£","q":"halt","c":"consider $*","sa":"sac corpse $*","outlake":"out ¿ò¸ñ","fs":"fight stake $*","ii":"incubate egg","pf":"perform chamber fish.fish","z":"kill hunter $*","hid":"option map_hidden $*","m":"use bandage","ba":"perform frost closed ball.ball on $*","gb":"get $* from bag","rm":"remember $*","mm":"proskills first-aid snake_skin_bandage -m","cac":"perform change ability.change $*",])
-dbase (["time_aged":9779440,"body":"/obj/user","name":"¸Ó¤R¯Á","id":"capsult","creation_time":1207502820,"channels":({"chat","rumor","aucc","news",}),"last_on":1238313446,"board_last_read":(["propose":1237364643,"design":1154116971,"wizard":1238261452,"bug":1238077912,"newbie":1136481011,"_MITE_":1188848484,]),"last_from":"6.2.123.140",])
-my_body 
-last_age_set 1238313446
-password "$1$72159610$dNDH3vNP7G1.cgDJzKyPQ1"
-email "hch91u@cs.ccu.edu.tw"
-window ([])

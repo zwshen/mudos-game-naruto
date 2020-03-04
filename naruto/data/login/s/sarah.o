@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["m1":"option map_unfreeze 0","w1":"wield blade","w2":"wield sword as lefthand",])
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_on":1213980795,"creation_time":1213777258,"id":"sarah","name":"คÛนา","time_aged":92703,"last_from":"1.166.66.203",])
-password "$1$63789363$2WUAhfoQ/0KXZInjDSflq0"
-email "jay77621@yahoo.com.tw"

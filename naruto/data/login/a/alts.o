@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["q":"quest $*","g":"get all from corpse $*",])
-dbase (["channels":({"chat","rumor",}),"last_from":"104.45.141.220","creation_time":1202559596,"last_on":1202560978,"body":"/obj/user","name":"¶Â¤g¥q","id":"alts","time_aged":1424,])
-password "$1$94542682$rKIPmYrv7jmJ/BgBAnKiH0"
-email "darkctrl@yahoo.com.tw"

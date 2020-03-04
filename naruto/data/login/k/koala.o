@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills",])
-dbase (["time_aged":64309795,"signature":"","creation_time":1128832862,"name":"¹Ü©RµL§Àºµ","id":"koala","channels":({"chat","rumor","aucc","news",}),"body":"/obj/user","board_last_read":(["bug":1166667027,"newbie":1136481011,"_MITE_":1241331390,"wizard":1171024678,"acme":1124705491,]),"profile":"","last_on":1249237862,"last_from":"115.76.118.122",])
-my_body 
-last_age_set 1249237862
-password "$1$84839880$YXuMKshB7D3h6d2XapZ0B."
-email "@@"
-window (["terminal_type":"zmud","width":137,"height":52,])

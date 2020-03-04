@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["k3":"kill cockroach 3","k1":"kill cockroach","k2":"kill cockroach 2",".":"get all from corpse",",":"sac corpse",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1193983970,"board_last_read":(["newbie":1136481011,]),"last_from":"126.193.229.125","body":"/obj/user","name":"§Ú¬O½Ö","id":"lkkboy","last_on":1194034264,"time_aged":8622,])
-password "$1$60833436$VpEN7yvhskp20mClTeVhG."
-email "lkkboy@yahoo.comn.tw"

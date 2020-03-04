@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["fo":"follow $*","en":"enable $*","idd":"identify $*","on":"option map_unfreeze 0","adv":"advance $*","tr":"train $*","al":"alias $*","f":"fight $*","off1":"option map_hidden 1","on1":"option map_hidden 0","off":"option map_unfreeze 1",])
-dbase (["time_aged":2408192,"last_on":1143344329,"id":"demon","name":"¢Ý¢ú£C","last_from":"5.143.126.140","body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1140687993,])
-password "$1$79372896$1dNEUrG5jOTy25yd8RsER/"
-email "labbe@pchome.com.tw"

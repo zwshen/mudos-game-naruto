@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
-dbase (["time_aged":1014244,"board_last_read":(["newbie":1136481011,"wizard":1123566674,"ayumi":1120542699,]),"last_from":"40.63.105.59","body":"/obj/user","last_on":1137223617,"name":"µ¾¤Ó","signature":"","id":"daredevil","profile":"","channels":({"chat","rumor",}),"creation_time":1136825070,])
-my_body 
-last_age_set 1234961410
-password "$1$44946027$0MtBr3.C9A1LNMfae1Z1j."
-email "weixianghuang@hotmail.com"
-window (["terminal_type":"vt100","width":125,"height":48,])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["-":"wield radish 2 as lefthand","q":"get $* from corpse","d4":"disable savage hit","'":"wield radish","6":"put all in bag 2","7":"wield sword 2 as lefthand","gg":"get all from bag $*","d3":"disable heavy hit","e2":"enable savage hit","fv":"fight vagabond $*","p":"exp","fs":"fight snake $*","4":"perform concrete.destruct","9":"wield staff as lefthand","/":"recall","3":"score fish","h":"halt","g":"gain","0":"wield sword","c":"look corpse $*","x":"sac corpse","z":"get all from corpse","8":"wield sword 2","t":"team","e3":"enable heavy hit","2":"perform concrete.fish",])
-dbase (["time_aged":697815,"body":"/obj/user","id":"neptune","name":"®ü¤ý¬P","last_on":1155964973,"last_from":"191.60.131.220","channels":({"chat","rumor","aucc",}),"creation_time":1149861011,"board_last_read":(["_MITE_":1151039075,"newbie":1136481011,"bug":1151492395,"ayumi":1120542699,"wizard":1153360538,"tmr":1150731334,"chat":1154117225,"propose":1148557370,"design":1154116971,"acme":1149251531,]),])
-password "$1$28000027$DpCldL/kIYGbH9zNxXbtT/"
-email "neptune@yahoo.com"

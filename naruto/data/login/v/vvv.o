@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ch":"consider $1","x":"perform force.hit on $1","sk":"skills","g":"get all","f":"fight $1","id":"identify $1","sks":"list ka","wi":"wield $1","tr":"train $1 from ka","rc":"sac corpse","off":"option map_unfreeze 1","on":"option map_unfreeze 0","uwi":"unwield $1","gc":"get all from corpse",])
-dbase (["channels":({"chat","rumor",}),"board_last_read":(["_MITE_":1131786296,"newbie":1130565369,"chat":1130765657,"bug":1131976667,"wizard":1131816849,"propose":1131721575,"acme":1115745789,"tmr":1130256095,"ayumi":1120542699,]),"creation_time":1129690471,"id":"vvv","name":"§Ô","last_on":1132143297,"last_from":"183.110.160.218","body":"/obj/user","time_aged":877288,])
-password "$1$18963843$22SW0p8By/TPt8mbx75zW."
-email "blue1224@ms1.url.com.tw"

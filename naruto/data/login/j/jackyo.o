@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse $*","oo":"option map_unfreeze $*","c":"consider $*",])
-dbase (["time_aged":1352,"last_on":1144649937,"id":"jackyo","name":"¼»¥¹","board_last_read":(["newbie":1136481011,]),"last_from":"150.84.21.163","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1144648610,])
-password "$1$57749156$hDi8EsHy7xdHwshQd8LhV1"
-email "ghostjackyo@gmail.com"

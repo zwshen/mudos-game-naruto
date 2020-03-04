@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse $*","22":"eat hp pill","33":"eat mp pill","a":"use lotto","lc":"look corpse $*","po":"perform operation.revive on $*","ss":"sac corpse","ga":"get all $*","pu":"perform strength.powerup","pb2":"put $* in bag 2","m1":"option map_hidden 1","f":"fight $*","pb":"put $* in bag","kk":"kill ninja $*","gb":"get $* from bag","id":"identify $*","pp":"perform operation.revive","11":"eat ap pill",])
-dbase (["time_aged":4197871,"last_on":1162194954,"board_last_read":(["wizard":1143255132,"newbie":1136481011,"bug":1143259045,"ayumi":1120542699,"_MITE_":1142224362,"chat":1143174206,"tmr":1134409039,"propose":1141838792,"acme":1134208356,]),"id":"lcmhxh","name":"·s¤âÂy¤H","creation_time":1129973113,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_from":"2.170.65.61",])
-password "$1$35087149$htUXyiQKVQ.Cl2h7oDwM40"
-email "blue-hef@yahoo.com.tw"

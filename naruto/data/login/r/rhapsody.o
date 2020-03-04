@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ch":"eat chicken","0":"advance check","nm":"option map_hidden 1","ym":"option map_hidden 0",])
-dbase (["last_on":1235418001,"time_aged":1136733,"body":"/obj/user","name":"¨g·Q¦±","id":"rhapsody","last_from":"117.106.123.140","channels":({"chat","rumor",}),"creation_time":1234497653,])
-my_body 
-last_age_set 1235634373
-password "$1$78461892$nyrPkmeYODqn6s9VZKhX21"
-email "kaede0214@hotmail.com"
-window (["terminal_type":"vt100","width":125,"height":46,"freeze":1,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mh0":"option map_hidden 0","ca":"perform animal taming.call","le":"perform animal taming.leave","sa":"sac corpse","fe":"perform animal taming.feed $*","mh1":"option map_hidden 1","m1":"option map_unfreeze 1","p":"put all in bag $*","g":"get all from corpse $*","m0":"option map_unfreeze 0","st":"perform animal taming.state","ke":"{kill elf %1}",])
-dbase (["last_from":"102.17.115.140","time_aged":14204849,"creation_time":1145184245,"last_on":1247172478,"body":"/obj/user","board_last_read":(["propose":1170658847,"wizard":1186426960,]),"id":"vinci","name":"¹F¤å¦è","channels":({"rumor","aucc","chat",}),])
-my_body 
-last_age_set 1247172477
-password "$1$18035705$MLMJzXtWhHC2pKNKICEAm0"
-email "dibird328@yahoo.com.tw"
-window (["terminal_type":"zmud","width":122,"height":32,])

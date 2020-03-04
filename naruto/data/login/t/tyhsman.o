@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["0":"get all from corpse $*","c":"consider $*","oo":"eat chicken","p":"hp","sk":"skills",])
-dbase (["id":"tyhsman","name":"•Ã≈S","last_on":1173886511,"last_from":"81.41.105.59","body":"/obj/user","time_aged":228136,"board_last_read":(["wizard":1116841501,"_MITE_":1170658966,"newbie":1136481011,]),"channels":({"chat","rumor",}),"creation_time":1173616649,])
-password "$1$7710677$lnKzw2jBuSwwDUU10TnLq."
-email "@"

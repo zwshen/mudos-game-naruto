@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["id":"identify $*",])
-dbase (["channels":({"chat","rumor",}),"time_aged":1264786,"last_from":"50.110.59.210","creation_time":1188728591,"name":"¹G¹G¹G","body":"/obj/user","last_on":1236440902,"id":"bbb",])
-my_body 
-last_age_set 1236440902
-password "$1$30322004$8ZUTNBlA2.g1mERefA8Iz/"
-email "bb@Ww.w.w"
-window (["terminal_type":"VT100","width":125,"height":46,])

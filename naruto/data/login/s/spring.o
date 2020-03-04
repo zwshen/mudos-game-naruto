@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ide":"identify $*","adv":"advance $*",])
-dbase (["last_on":1210968799,"channels":({"chat","rumor","aucc",}),"creation_time":1210479671,"last_from":"50.18.203.123","body":"/obj/user","board_last_read":(["wizard":1209379195,"propose":1210559287,"bug":1210675897,]),"id":"spring","name":"¬K","time_aged":442912,])
-password "$1$35749254$TMb0fADrvHkYd1PDhJ1Hw/"
-email "a@b.c"

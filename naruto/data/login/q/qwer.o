@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["op1":"option map_unfreeze 1","op0":"option map_unfreeze 0",])
-dbase (["last_on":1235755213,"time_aged":2213700,"name":"³¨º®¤½","body":"/obj/user","id":"qwer","board_last_read":(["wizard":1237369012,]),"channels":({"chat","rumor","aucc",}),"creation_time":1235314601,"last_from":"244.87.168.118",])
-my_body 
-last_age_set 1237528256
-password "$1$91732048$xr4jYi5.rqRACge34I/Fq0"
-email "cworder@yahoo.com.tw"
-window (["terminal_type":"vt100","width":125,"height":46,])

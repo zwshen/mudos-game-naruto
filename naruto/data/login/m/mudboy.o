@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["h":"hp","wa":"wear all","gt4":"get all from corpse 4","d":"down","gt3":"get all from corpse 3","gt8":"get all from corpse 8","c":"eat chicken","gt5":"get all from corpse 5","gt2":"get all from corpse 2","ga":"get all","gt6":"get all from corpse 6","de":"deposit $1 silver","m":"move $1","g2":"kill elf 2","gt":"get all from corpse","g":"kill elf","gt7":"get all from corpse 7",])
-dbase (["time_aged":568463,"body":"/obj/user","id":"mudboy","name":"¹CÀ¸","channels":({"chat","rumor",}),"last_on":1206546121,"last_from":"10.182.132.220","creation_time":1204715151,])
-my_body 
-last_age_set 1240891670
-password "$1$35069963$80G8iRMH.wFXQTYyJyQLi1"
-email "cspao@yahoo.com.tw"
-window (["terminal_type":"vt100","width":125,"height":49,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["si":"balance","/":"recall","sacc":"sac corpse","eye":"perform white eyes.open","foot":"perform ninja.feed foot","feed":"perform animal taming.feed $*","ff":"perform four foot.beast","mp":"perform muscle tank.attack on $*","eq":"look cvv","gal":"get all from corpse","block1":"option map_block 1","call":"perform animal taming.call","fc":"perform muscle tank.attack on $*","scc":"score _MY_PET_","fp":"perform hundred palm.attack on $*","pp":"put all in bag","on":"option map_unfreeze 0","off":"option map_unfreeze 1","dp":"perform double physique.dp","map0":"option map_hidden 0","fd":"perform soft fist.attack on $*","leave":"perform animal taming.leave","ge":"get all from bag","a":"hp","//":"recall start","sc1":"perform animal taming.state",])
-dbase (["time_aged":56729315,"creation_time":1172829151,"name":"¢Ñ¢þ¢þ","id":"cvv","body":"/obj/user","channels":({"aucc",}),"board_last_read":(["_MITE_":1188848484,"propose":1245913026,"acme":1234338310,"chat":1244623264,"bug":1239968374,"tmr":1234463389,"design":1154116971,"byron":1177702512,"wizard":1238261452,]),"last_on":1248799112,"last_from":"164.235.104.59",])
-my_body 
-last_age_set 1248799112
-password "$1$58772584$RWX6BALWdW.eFGsPs4Ttc0"
-email "lsp0317@hotmail.com"
-window (["terminal_type":"ANSI","width":107,"height":32,])

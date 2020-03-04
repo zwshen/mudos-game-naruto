@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse$*","/":"recall","on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
-dbase (["last_on":1163344277,"time_aged":22425,"last_from":"66.152.129.220","board_last_read":(["newbie":1136481011,"wizard":1116841501,"bug":1115978796,"propose":1117285286,"ayumi":1120542699,"design":1150693458,"chat":1123155003,"tmr":1130154967,"acme":1115787696,]),"creation_time":1162935250,"id":"misam","name":"¦Ì²ï","body":"/obj/user","channels":({"chat","rumor",}),])
-password "$1$16342256$1/x2n1jTucg/X0L5Vy4SB/"
-email "@"

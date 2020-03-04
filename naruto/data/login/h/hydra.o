@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["wi2":"wield lance as twohanded","sk":"skills","ma2":"option map_hidden 1","ge":"get all from corpse","wi":"2 wield lance as lefthanded","sa":"sac corpse","pub":"put all in bag $*","ma1":"option map_hidden 0","gub":"get all from bag $*",])
-dbase (["board_last_read":(["tmr":1150731334,"acme":1171887794,"propose":1141838792,"chat":1143174206,"wizard":1172500785,"bug":1172376632,"newbie":1136481011,"ayumi":1120542699,"_MITE_":1170658966,]),"channels":({"chat","rumor","aucc",}),"creation_time":1128701866,"last_from":"20.4.134.140","last_on":1188729685,"body":"/obj/user","id":"hydra","name":"¤E§â¤M","time_aged":736795,])
-password "$1$69335580$ughZ56Wl6XgZ6gwShV5q8."
-email "22@w.w.w.w.w.w"

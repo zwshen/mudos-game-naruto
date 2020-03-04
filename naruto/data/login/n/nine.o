@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pub":"put all in bag","id":"identify $*",])
-dbase (["time_aged":4973744,"board_last_read":(["wizard":1188375771,]),"body":"/obj/user","name":"¿s¿s§E","id":"nine","last_on":1240150326,"channels":({"chat","rumor","aucc",}),"last_from":"20.4.134.140","creation_time":1188419788,])
-my_body 
-last_age_set 1240150324
-password "$1$84411553$tH1eguVbmyqj5vLAkZ67K."
-email "nine@w.w.w.w"
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

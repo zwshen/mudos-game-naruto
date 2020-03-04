@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":1546,"body":"/obj/user","id":"jerboa","name":"¸õ¹«","last_on":1242741032,"channels":({"chat","rumor",}),"last_from":"98.229.81.219","creation_time":1242739531,])
-my_body 
-last_age_set 1242741032
-password "$1$34282166$B1JzKzU9XGBVKYlLyCxX3."
-email "jerboa@seed.net.tw"
-window (["terminal_type":"ANSI","width":80,"height":25,])

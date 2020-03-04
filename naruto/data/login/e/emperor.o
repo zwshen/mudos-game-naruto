@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["wi2":"wield sword 2 as lefthand","fe":"perform chamber fish.feed","fi":"perform chamber fish.fish","p":"eat big heal hp pill","t":"eat tea","b":"eat manto","sk":"skills","ym":"option map_hidden 0","nm":"option map_hidden 1","`":"get all from corpse","pi":"eat big heal ap pill","ap":"eat big heal ap pill","de":"perform destory fist.attack on $*","po":"perform body strength.powerup","no":"eat noodles","ch":"eat large essence of chicken","fa":"perform eaves family.family",])
-dbase (["time_aged":10648815,"channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","last_on":1234292899,"creation_time":1172448439,"board_last_read":(["_MITE_":1188848484,"design":1154116971,"bug":1186997961,"propose":1188606352,"wizard":1201062195,]),"name":"¬Ó«Ò","id":"emperor","last_from":"47.192.223.61",])
-my_body 
-last_age_set 1234292897
-password "$1$32978235$arp0.Ci/ojDrMdfpMpB5q1"
-email "nanosoul@yahoo.com.tw"
-window ([])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["dr":"perform dragon-head draw.summon on $*","shot":"perform psychical bullet.shoot on $*",])
-dbase (["creation_time":1129991352,"time_aged":30987150,"signature":"","body":"/obj/user","board_last_read":(["newbie":1173805427,"ayumi":1120542699,"_MITE_":1240564602,"design":1154116971,"acme":1234338310,"chat":1237659377,"tmr":1234463389,"bug":1243860996,"byron":1178289846,"wizard":1239465932,"propose":1240917122,]),"name":"¤ÑÀs¹D","id":"skdrro","profile":"","channels":({"chat","rumor","aucc","war",}),"last_from":"221.16.114.59","last_on":1243955006,])
-my_body 
-last_age_set 1243955005
-password "$1$63045283$SIdPlvsU04IoHqhZ96LY40"
-email "zerodsw@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":86,"height":30,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mh":"option map_hidden $1",])
-dbase (["time_aged":73501598,"creation_time":1129602400,"id":"shord","name":"≠∑≈Â∂≥","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"chat":1173206018,"bug":1191602432,"tmr":1174093857,"byron":1177702512,"design":1154116971,"wizard":1239465932,]),"last_on":1249230057,"last_from":"250.223.0.123",])
-my_body 
-last_age_set 1249297512
-password "$1$19597554$LylVMifWHVSozagcSap2D."
-email "shord@yahoo.com.tw"
-window (["terminal_type":"zmud","width":108,"height":37,])

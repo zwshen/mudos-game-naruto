@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["++":"kill elf","+":"get silver","k":"kill elf","ec":"eat chicken","g":"get all from corpse $*",])
-dbase (["body":"/obj/user","time_aged":56709,"id":"vsnow","name":"¤Ñ¦æÄå","last_on":1187492533,"last_from":"102.4.114.59","channels":({"chat","rumor","aucc",}),"creation_time":1187371907,"board_last_read":(["_MITE_":1130000043,]),])
-password "$1$45960154$gqpTvFgLJ0iFJsqGvDfyR1"
-email "N7236410@yahoo.com.tw"

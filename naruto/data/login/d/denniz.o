@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sa":"sac corpse","g1":"get all from corpse","fi":"fishing","sk":"skills","pp":"perform force on $*","id":"identify $*","co":"consider $*",])
-dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1130046767,"board_last_read":(["_MITE_":1130491067,"newbie":1130565369,]),"id":"denniz","name":"¤¦¥§¯÷","last_on":1131490597,"last_from":"149.145.139.220","time_aged":1098912,"body":"/obj/user",])
-password "$1$17647969$VhBKslrvsIzvYDT4RYpcT."
-email "s912545@mail.yzu.edu.tw"

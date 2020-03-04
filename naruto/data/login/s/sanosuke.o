@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pub":"put all in bag $*","gub":"get all from bag $*","id":"identify $*",])
-dbase (["time_aged":1202784,"board_last_read":(["acme":1186040766,"bug":1186997961,"tmr":1174093857,"design":1154116971,"chat":1186466886,"newbie":1136481011,"wizard":1188375771,"byron":1177702512,"ayumi":1120542699,"propose":1188200368,]),"last_from":"156.145.192.123","name":"相樂左之助","body":"/obj/user","last_on":1235176948,"id":"sanosuke","channels":({"chat","rumor","aucc",}),"creation_time":1187023320,])
-my_body 
-last_age_set 1235176946
-password "$1$54839278$.oaH301I2topK440jSRno1"
-email "anosuke@hotmail.com.123456789.ogc"
-window (["terminal_type":"vt100","width":125,"height":46,])

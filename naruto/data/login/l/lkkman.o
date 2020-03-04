@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["off":"option map_unfreeze 1","2":"perform hundred palm.attack on elf","1":"use bandage","0":"sac corpse","9":"get all from corpse","5":"proskills first-aid snake_skin_bandage -m","on":"option map_unfreeze 0",])
-dbase (["last_on":1235199280,"time_aged":2254943,"profile":"大家好 我是新手 摳摳","body":"/obj/user","name":"摳摳","id":"lkkman","channels":({"chat","rumor","aucc",}),"board_last_read":(["wizard":1236520060,"propose":1236567120,"_MITE_":1188848484,"newbie":1136481011,]),"creation_time":1235098317,"signature":"","last_from":"103.22.204.123",])
-my_body 
-last_age_set 1237353220
-password "$1$98065790$01kqLuLYT2x3MZQalx3st0"
-email "a19810823@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":80,"height":25,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse",])
-dbase (["channels":({"chat","rumor","aucc",}),"time_aged":6470344,"last_from":"162.13.120.59","creation_time":1140966685,"body":"/obj/user","last_on":1236516883,"name":"©É¤å","id":"yiwen",])
-my_body 
-last_age_set 1236516883
-password "$1$99828135$KFUbp91DyzPvVyt/xfkHW."
-email "yiwenmylove@yahoo.com.tw"
-window (["terminal_type":"zmud","width":85,"height":23,])

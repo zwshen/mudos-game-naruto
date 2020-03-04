@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse $*","cc":"sac corpse",])
-dbase (["body":"/obj/user","last_from":"9.72.193.123","board_last_read":(["wizard":1186426960,]),"creation_time":1186798376,"last_on":1186843338,"id":"snowball","name":"¤p³·²y","time_aged":1714,"channels":({"chat","rumor",}),])
-password "$1$30346368$6WBf9DUWJmlmRn0797ygr0"
-email "@"

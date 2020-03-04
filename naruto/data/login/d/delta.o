@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["rem":"remove $*","wi":"wield $*",])
-dbase (["channels":({"chat","rumor","aucc",}),"body":"/obj/user","time_aged":9087919,"last_on":1248627079,"last_from":"3.81.10.124","creation_time":1239539191,"name":"µ¥µ¥","id":"delta",])
-my_body 
-last_age_set 1248627079
-password "$1$43022160$G7oZAmqWXqsoPlXJMFimK1"
-email "abc@aaa.com"
-window (["freeze":1,"terminal_type":"vt100","width":110,"height":39,])

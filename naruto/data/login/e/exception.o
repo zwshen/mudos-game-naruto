@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["amp":"advance mp","ahp":"advance hp","sa":"sell all","aap":"advance ap","lc":"look corpse","am":"ask master","¤õ":"transfer 1","lb":"look board","id":"identify $*","gc":"get all from corpse","adv":"advance $*","ÄH":"transfer 2","¥q":"transfer 3","lm":"list master","ren":"read next","con":"advance con","int":"advance int","dex":"advance dex","str":"advance str","co":"balance","cc":"consider $*","eq0":"help query",])
-dbase (["last_from":"181.130.80.219","channels":({"chat","rumor",}),"last_on":1196244260,"creation_time":1195873425,"board_last_read":(["propose":1128325287,"wizard":1186179534,"ayumi":1120542699,]),"body":"/obj/user","name":"¯Á¶©¥¬®³°·","id":"exception","time_aged":211595,])
-password "$1$61430792$Q1WPDymHxMbd/by6a43RK0"
-email "leeric183@yahoo.com.tw"

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gafc":"get all from corpse","scr":"sac corpse",])
-dbase (["time_aged":25098916,"body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1186179534,]),"id":"diao","name":"уз","last_on":1240419607,"channels":({"chat","rumor",}),"last_from":"203.128.127.59","creation_time":1202895197,])
-my_body 
-last_age_set 1240419606
-password "$1$27216676$TyD1Rk5OfKmxychidPFo.."
-email "mgbbo@hotmail.com"
-window (["terminal_type":"ANSI","width":80,"height":25,])

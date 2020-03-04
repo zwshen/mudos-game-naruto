@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":147,"board_last_read":(["wizard":1115665665,]),"last_from":"177.187.228.61","name":"¾å","body":"/obj/user","last_on":1234962918,"id":"evil","channels":({"chat","rumor",}),"creation_time":1200791610,])
-my_body 
-last_age_set 1234962918
-password "$1$49063617$ZRibPwS.FwoRRZR9NZSSR0"
-email "@"
-window (["terminal_type":"ANSI","width":80,"height":25,])

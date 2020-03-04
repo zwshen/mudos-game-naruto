@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["b":"buy $* from vendor","pb":"put $* in bag","kc":"kill crab $*","lc":"look corpse $*","gb2":"get $* from bag 2","roe":"give boss roe","g":"get all from corpse $*","pb2":"put $* in bag 2","pg":"perform lending ticket.guard","op":"say À°¦£","q":"halt","sa":"sac corpse $*","c":"consider $*","pa":"perform lending ticket.attack on $1","ap2":"eat middle essence of chicken","ap1":"eat essence of chicken","kz":"kill zombie $*","f":"finger $*","hid":"option map_hidden $*","he":"perform holy hand.healing on $1","m":"use bandage $*","ide":"identify $*","rm":"remember $*","gb":"get $* from bag","ap3":"eat big essence of chicken","mm":"proskills first-aid snake_skin_bandage -m","ha":"perform harm touch.harming on $1","cac":"perform change ability.change $*","hp3":"eat big manto",])
-dbase (["time_aged":9449501,"body":"/obj/user","creation_time":1150911951,"id":"hiko","name":"©M«Û","channels":({"chat","rumor","aucc","news",}),"last_on":1238064305,"board_last_read":(["propose":1237364643,"design":1154116971,"newbie":1136481011,"ayumi":1120542699,"bug":1237910698,"wizard":1237955225,"_MITE_":1188848484,"chat":1237659377,]),"last_from":"221.101.123.140",])
-my_body 
-last_age_set 1238064305
-password "$1$17738199$vL8P24L2KFjZ4NHtUo8fL0"
-email "u9141037@ccu.edu.tw"
-window (["width":103,"terminal_type":"TINTIN++","height":36,])

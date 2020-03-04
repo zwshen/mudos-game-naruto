@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["/":"recall","a":"hp","si":"balance","pp":"put all in bag","ge":"get all from bag",])
-dbase (["creation_time":1210959334,"time_aged":10990613,"board_last_read":(["wizard":1209379195,]),"body":"/obj/user","id":"allin","name":"�Ϣڢڢע�","channels":({"chat","rumor","aucc",}),"last_from":"102.101.74.211","last_on":1243954114,])
-my_body 
-last_age_set 1243954113
-password "$1$71025431$n8kaOmUM0X6Iz8YgmAmc8/"
-email "lsp0317@hotmail.com"
-window (["freeze":1,])

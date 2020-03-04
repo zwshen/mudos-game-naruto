@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["last_on":1215920956,"id":"nomaid","name":"Àþ¶¡ªº¥Ã«í","creation_time":1215887087,"last_from":"216.12.62.61","body":"/obj/user","channels":({"chat","rumor",}),])
-my_body 
-last_age_set 1215887046
-password "$1$53287597$i63/iT.UKcdjQ4h6z7g67/"
-email "nomaid@gmail.com"
-window (["width":125,"height":44,"terminal_type":"vt100",])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ba":"balance","wi":"wield $* as lefthand","gg":"get all from corpse","v":"eat ap pill","adv":"advance $*","sk":"skills","tr":"train $* from ka","vv":"eat hp pill",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1139951579,"name":"¶Â¦â¤`»î","body":"/obj/user","id":"masterw","time_aged":54344,])
-password "$1$28338901$NMc2sNDbZ80EpjiiQINsB/"
-email "1203203@123.123.123"

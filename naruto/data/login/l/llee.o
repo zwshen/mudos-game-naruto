@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["conan":"chat* 手指著$*道: 「一切的謎底都解開了..犯人就是你!」","qq":"perform ninja.destruct","234":"chat* 對著$*說道:「那是啥?..可以吃嗎??」","gyegg":"chat* 對著$1說道:「你真是卑鄙下流，沒深度兼瞎扯蛋!!教壞那些後生小輩，敗壞社會風氣!!」...$2說:「還好$2我幾百歲人了，不怕你!」","2222":"chat* 對著$1說：「記憶是痛苦的根源，你能忘記，是福氣！」..$1轉頭說：「聽你這麼說，像是暗藏唏噓。」..$2語重心長：「問君能有幾多愁，恰似一江春水向東流。」","b":"eat pill","`":"keep all","bb":"eat pill 2","567":"chat* 對著$*的肯德基敬禮:「您真內行!」","c":"get all","\\":"get all from corpse","789":"chat* 聽了$*話之後...認真的抄著筆記","bbbb":"eat pill 4","x":"wear all","``":"keep none","q":"perform ninja.shadow","123":"chat* 對著$*說道:「冤枉阿..大人...我只是來看熱鬧站的比較前面一點」","11":"enable ninja with alter ego","111":"enable ninja with cell activation","1111":"chat* 對著$1大喊 :「放下那個$2 ! 」","bbb":"eat pill 3","\\\\":"sac corpse","/":"recall","p":"perform ninja.ca","z":"perform force.fireass on $*","mynick":"nick $HIY$木$HIG$葉$HIW$-$BLINK$$HIC$我太嫩了","678":"chat* 對著$*使出北斗神拳...說道:「....你已經死了!....」.語畢...$*說道: 「你該吃藥了!」...","con":"consider $*","456":"chat* 道:「喉!..你還不認!..血都相融了!..兇手就是你!!」..$1大吼:「怎麼可能!!.我那天剛玩完$2..現在就有了!」","cc":"drop all","345":"chat* 對著$*得意的說道:「本席..絕對不會被人用鞋子砸到第二次!」",])
-dbase (["time_aged":6436836,"board_last_read":(["bug":1129476275,"acme":1131028120,"_MITE_":1131786296,"newbie":1128936709,"wizard":1131816849,"tmr":1132136072,"chat":1132456907,]),"channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","last_from":"219.71.98.143","creation_time":1129457826,"name":"小黃","id":"llee","last_on":1233922314,])
-my_body 
-last_age_set 1233922314
-password "$1$37476657$MQqh1xeuHWaUPXvYMqEQI/"
-email "llee0215@hotmail.com"
-window ([])

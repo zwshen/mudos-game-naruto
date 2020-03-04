@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["m2":"option map_unfreeze 1","m1":"option map_unfreeze 0","id":"identify $*",])
-dbase (["time_aged":1457056,"board_last_read":(["wizard":1212213844,"byron":1177702512,"_MITE_":1131786296,"propose":1211983359,]),"last_from":"156.140.59.116","name":"ด๚ธี","body":"/obj/user","last_on":1234970467,"id":"anyta","channels":({"chat","rumor","aucc",}),"creation_time":1132905653,])
-my_body 
-last_age_set 1234970466
-password "$1$67773085$709m9Lwk8X5UJV9ai5bfV0"
-email "1@.2"
-window (["terminal_type":"vt100","width":111,"height":31,])

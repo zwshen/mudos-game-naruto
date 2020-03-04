@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all",])
-dbase (["time_aged":5964277,"last_on":1147613156,"id":"pills","name":"¤Y¤l","last_from":"5.21.126.140","board_last_read":(["propose":1141838792,"wizard":1149499546,"chat":1143174206,"tmr":1144575983,"newbie":1136481011,"acme":1144388900,"ayumi":1120542699,"bug":1147746410,]),"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1141816649,])
-password "$1$20653052$adeyaihmiYMkiJvZxr4XP."
-email "123@123.123.123"

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse $*","ga":"get all $*",])
-dbase (["board_last_read":(["design":1154116971,"propose":1165577434,"chat":1164457322,"wizard":1153360538,"bug":1151492395,"acme":1144388900,]),"time_aged":2056,"id":"lcmeq","name":"¨¾¨ã©±","last_on":1166536499,"last_from":"159.173.230.61","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1136243965,])
-password "$1$73441002$AXuvUDXaUu4x3lpXpIK9U/"
-email "bule-hef@yahoo.com.tw"

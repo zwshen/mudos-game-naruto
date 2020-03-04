@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["body":"/obj/user","last_from":"179.134.84.219","channels":({"chat","rumor",}),"name":"зNды","creation_time":1216384933,"id":"jimm","last_on":1216385174,"board_last_read":(["chat":1123241137,"newbie":1128936709,"wizard":1120669113,]),])
-my_body 
-last_age_set 1216384912
-password "$1$26463993$y4ztW.vCyI5R/eh7GBp1I0"
-email "jimm@msa.hinet.net"
-window (["terminal_type":"vt100","width":157,"height":67,])

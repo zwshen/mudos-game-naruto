@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ln":"look north","le":"look east","ls":"look south",".":"score","sc":"sac corpse","/":"recall","gg":"get all from corpse","con":"consider $*","lw":"look west",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1131889674,"last_from":"94.72.221.61","id":"finley","name":"¾Ð¼C¬î","last_on":1134653458,"body":"/obj/user","board_last_read":(["wizard":1129917561,"_MITE_":1129952893,"chat":1132394333,"propose":1117023794,]),"time_aged":9471,])
-password "$1$22847989$x6Xwi49yeg9vJDu9zH79U1"
-email "jasonfinely@pchome.com.tw"

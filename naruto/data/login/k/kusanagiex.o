@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["body":"/obj/user","channels":({"chat","rumor",}),"name":"®ðªw®ðªw","creation_time":1216363649,"id":"kusanagiex",])
-my_body 
-last_age_set 1216363576
-password "$1$42660961$QbcTG7JrlHKKBWPog6PWx1"
-email "kusanagiex@msn.com"
-window (["freeze":1,"terminal_type":"ANSI","width":80,"height":25,])

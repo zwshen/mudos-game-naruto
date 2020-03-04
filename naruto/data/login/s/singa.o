@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["0":"score",])
-dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1176902286,"board_last_read":(["wizard":1177493711,]),"last_from":"6.101.229.125","body":"/obj/user","name":"¸t¾¿","id":"singa","last_on":1192862017,"time_aged":20813,])
-password "$1$60837861$VLHeHRdPvFUzNhypsHf7a1"
-email "a@a"

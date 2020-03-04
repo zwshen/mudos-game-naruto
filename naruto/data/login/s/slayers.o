@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pub":"put all in bag",])
-dbase (["board_last_read":(["bug":1236419768,"ayumi":1120542699,"byron":1177702512,"acme":1234338310,"propose":1236014139,"tmr":1234463389,"wizard":1236177249,"chat":1186466886,]),"time_aged":1238472,"last_from":"156.145.192.123","body":"/obj/user","name":"²ú®R¯ô¤Ú´µ","last_on":1236483253,"id":"slayers","channels":({"chat","rumor","aucc",}),"creation_time":1235283641,])
-my_body 
-last_age_set 1236522097
-password "$1$20046978$35ET4FV.DdRT.ertEyziS0"
-email "@w.w."
-window (["terminal_type":"vt100","width":125,"height":46,])

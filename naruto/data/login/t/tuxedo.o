@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
-dbase (["last_from":"243.56.131.220","channels":({"chat","rumor",}),"creation_time":1136875441,"name":"¤õ¼v§ÔªÌ","body":"/obj/user","id":"tuxedo","last_on":1137765193,"time_aged":81604,])
-password "$1$51539938$C42bCfHqwvjKytlvvVaZ9/"
-email "asdf@asdf.com"

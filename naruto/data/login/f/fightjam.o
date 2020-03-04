@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":232,"last_from":"159.242.240.210","creation_time":1236064612,"last_on":1236064740,"name":"·¬","body":"/obj/user","id":"fightjam",])
-my_body 
-last_age_set 1236064740
-password "$1$95873798$t9Mi2BtT7RO8G0hgXK1w00"
-email "JAM71203@HOTMAIL.COM"
-window (["freeze":1,"terminal_type":"ANSI","width":80,"height":25,])

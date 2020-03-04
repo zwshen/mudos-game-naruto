@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["last_on":1216265280,"id":"ivan","name":"·¨¶hª@","creation_time":1216176203,"board_last_read":(["wizard":1214818337,"propose":1210559287,]),"body":"/obj/user","last_from":"100.174.112.59","channels":({"chat","rumor",}),])
-my_body 
-last_age_set 1216176163
-password "$1$29783486$.uakvDgw88LW4hZ2cXlPt/"
-email "d41920@126.com"
-window (["width":95,"height":31,"freeze":1,"terminal_type":"zmud",])

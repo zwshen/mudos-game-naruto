@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"last_from":"201.52.168.218","time_aged":769,"creation_time":1247300692,"last_on":1247301428,"body":"/obj/user","id":"frtg","name":"可愛的屁屁車",])
-my_body 
-last_age_set 1247301428
-password "$1$84255391$ZLfphqr7IR0UR61BpsrR81"
-email "@"
-window (["terminal_type":"vt100","width":80,"height":24,])

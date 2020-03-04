@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":30519,"channels":({"chat","rumor",}),"body":"/obj/user","last_on":1175672572,"creation_time":1172473507,"board_last_read":(["_MITE_":1130219802,"wizard":1123607152,]),"id":"hook","name":"¤p§J","last_from":"31.23.130.140",])
-my_body 
-last_age_set 1234362671
-password "$1$50163787$gIlPUx.lSiT8bQ2rIjlYz/"
-email "nhithook@gmail.com"
-window (["width":120,"height":42,"freeze":1,"terminal_type":"zmud",])

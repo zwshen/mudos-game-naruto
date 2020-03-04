@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["kp":"kill passerby","aa":"sac corpse","kc":"kill child","sa":"sell all","q":"quest $*","k":"kill $*","li":"list $*","1":"eat chicken","/":"recall","a":"get all from corpse","adv":"advance $*","con":"consider $*","wl":"who -l","tr":"transfer $*",])
-dbase (["creation_time":1174206650,"body":"/obj/user","last_on":1175487819,"time_aged":302159,"id":"hokin","name":"ªüª÷","last_from":"231.185.117.59","channels":({"chat","rumor",}),"board_last_read":(["chat":1173206018,"propose":1172363532,"tmr":1174093857,"bug":1174207089,"ayumi":1120542699,"_MITE_":1170658966,"byron":1174926354,"design":1154116971,"newbie":1136481011,"wizard":1175357048,"acme":1174556454,]),])
-password "$1$30479265$x7jExehN0ZLntuqGY2oHn."
-email "hokinkimo@yahoo.com.tw"

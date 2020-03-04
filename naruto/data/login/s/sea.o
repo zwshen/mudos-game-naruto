@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse","a":"identify $*","z":"sac corpse","q":"consider $*",])
-dbase (["creation_time":1242734687,"time_aged":829720,"body":"/obj/user","id":"sea","name":"¶Â®ü","channels":({"chat","rumor","aucc",}),"last_from":"195.190.64.61","last_on":1242818700,])
-my_body 
-last_age_set 1243564318
-password "$1$15457231$7ED3Arg4yCSSOxRX/f8lg1"
-email "pigyou@you.are.pig"
-window (["terminal_type":"vt100","width":125,"height":47,])

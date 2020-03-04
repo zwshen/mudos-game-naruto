@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["1":"eat chicken","2":"eat manto","sa":"sac corpse","3":"perform ghost chop.attack on $*","con":"consider $*",])
-dbase (["time_aged":773677,"board_last_read":(["newbie":1136481011,"byron":1177702512,"wizard":1234965474,"propose":1211983359,]),"last_from":"77.70.40.114","body":"/obj/user","last_on":1235105566,"name":"ЕLВс","id":"boring","channels":({"chat","rumor",}),"creation_time":1130601650,])
-my_body 
-last_age_set 1235105565
-password "$1$47378347$FML7ZR.XIrq37d0tLqAlS0"
-email "subway0630@hotmail.com"
-window (["terminal_type":"ansi","width":121,"height":42,])

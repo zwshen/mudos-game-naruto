@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all","omh":"option map_hidden $*","omu":"option map_unfreeze $*",])
-dbase (["last_from":"95.183.44.114","time_aged":11850995,"creation_time":1235105325,"last_on":1246956315,"body":"/obj/user","board_last_read":(["wizard":1237654952,]),"id":"pmzq","name":"ºÆ¤l","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1246956314
-password "$1$10418453$QNfDPi6PS4ZKwIAeX0Dtb/"
-email "stareman1213@yahoo.com.tw"
-window (["terminal_type":"zmud","width":153,"height":53,])

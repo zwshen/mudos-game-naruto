@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["tr":"train $1 from $2 for $3","ad":"advance $1 for $2","sk":"skills","gt":"get $1 from $2","tn":"train $1 $2 from $3 for $4","dp":"deposit $1 silver",])
-dbase (["time_aged":187186,"last_on":1146289619,"id":"mantis","name":"¨ªÚ]","board_last_read":(["bug":1143259045,"chat":1143174206,"newbie":1136481011,"ayumi":1120542699,"wizard":1143254649,"acme":1115817011,"_MITE_":1142224362,"propose":1141838792,]),"profile":"","last_from":"13.0.30.61","body":"/obj/user","channels":({"chat","rumor","news","aucc","music",}),"signature":"","creation_time":1142528648,])
-password "$1$31751714$KXyFSVct6ZuT.eHstq9KT1"
-email "u8842056@hotmail.com"

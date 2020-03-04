@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pw":"perform wolf blade.flow","sa":"sac corpse","ga":"get all from corpse $*","pg":"perform ghost chop.attack on $*","g":"get all","omh":"option map_hidden $*","omu":"option map_unfreeze $*","pc":"perform chivy tiger.attack on $*",])
-dbase (["time_aged":15035084,"creation_time":1233903104,"id":"talent","name":"µo§b","channels":({"chat","rumor","aucc","war","news",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1245913026,"ayumi":1120542699,"acme":1186040766,"chat":1244623264,"bug":1246069199,"tmr":1174093857,"byron":1177702512,"design":1154116971,"wizard":1239465932,]),"last_on":1248938178,"last_from":"93.178.44.114",])
-my_body 
-last_age_set 1248938177
-password "$1$69043581$S2DwjCMgt3./zReTrADmM1"
-email "s1213032@ncnu.edu.tw"
-window (["freeze":1,])

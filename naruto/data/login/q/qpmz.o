@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sa":"sac corpse","ga":"get all from corpse","omu":"option map_unfreeze $*","omh":"option map_hidden $*","g":"get all",])
-dbase (["time_aged":13924868,"creation_time":1235105125,"name":"¹p¤ñ¯S","id":"qpmz","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"propose":1245913026,"chat":1244623264,"bug":1246069199,"design":1154116971,"wizard":1239465932,]),"last_on":1249029956,"last_from":"93.178.44.114",])
-my_body 
-last_age_set 1249029956
-password "$1$43323259$nbVleVpsNqtYlEeOljwKI0"
-email "s1213032@ncnu.edu.tw"
-window (["terminal_type":"zmud","width":153,"height":53,])

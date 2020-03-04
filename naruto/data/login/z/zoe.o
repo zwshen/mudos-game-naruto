@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["b":"balance",".":"rumor $*","/":"recall","f":"fishing","wp":"wield rod",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1132032990,"board_last_read":(["_MITE_":1131786296,]),"id":"zoe","name":"½Ö®aªá¶}","last_on":1132370092,"last_from":"210.4.134.140","body":"/obj/user","time_aged":166786,])
-password "$1$6645217$8hd8KzOYR6XmomJyv8QF1."
-email "zoe@yahoo.com.tw"

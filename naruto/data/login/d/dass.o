@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills","sa":"say $*","sacc":"sac corpse $*","g":"get $*","gca":"get all from corpse $*",])
-dbase (["time_aged":499587,"name":"ขาข้","id":"dass","last_from":"215.208.24.70","board_last_read":(["newbie":1136481011,"wizard":1151395598,]),"last_on":1151809106,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1151206254,])
-password "$1$42528039$8q8pE.b1dIDINOXWu5PF9/"
-email "dead.or.alive.0874@gmil.com"

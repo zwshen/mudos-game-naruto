@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["saccc":"sac corpse","gcp":"get all from corpse","gcc":"get $1 from $2","cns":"consider","tr":"train $1 from $2 for $3","cnn":"consider $1",])
-dbase (["time_aged":13353,"last_on":1144314279,"id":"falconx","name":"ºÎÄ±ºÎ¥sºÎÄ±","board_last_read":(["newbie":1136481011,"_MITE_":1129952893,]),"last_from":"179.100.114.140","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1143819041,])
-password "$1$47351637$yDH5EV9h2S0LzBrszgqui."
-email "g924248@oz.nthu.edu.tw"

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["5":"perform ghost chop.attack on $1","4":"perform chivy tiger.attack on $1","1":"get all from corpse","3":"eat chicken","`":"get all","2":"sac corpse",])
-dbase (["time_aged":1267222,"board_last_read":(["_MITE_":1188848484,"newbie":1136481011,"wizard":1238249949,]),"body":"/obj/user","name":"«Ü«K©y","id":"socheap","last_on":1240156712,"channels":({"chat","rumor","aucc",}),"last_from":"172.192.218.203","creation_time":1238889547,])
-my_body 
-last_age_set 1240156711
-password "$1$54507369$nvXwpbK7eGKFM5VeWAKZF."
-email "pocketwaiwai@hotmail.com"
-window (["terminal_type":"vt100","width":125,"height":46,])

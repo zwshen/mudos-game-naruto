@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["fb":"f bandit $*","aset":"perform animal taming.set $*","dis":"disable combat","ws":"wield sword as lefthand","sa":"sac corpse $*","o":"order _MY_PET_ to $*","char":"mandi justine jose weapon equip obj viktoria jordan vinci books","books":"vjvjvj mandi justine weapon equip","fe":"perform animal taming.feed $*","p":"put all in bag","st":"perform animal taming.state","dp":"perform double physique.dp","f":"perform double fang.atwirl on $*","le":"perform animal taming.leave","ca":"perform animal taming.call","m0":"option map_unfreeze 0","uw":"unwield sword","mh0":"option map_hidden 0","ff":"perform four foot.beast","oo":"order _MY_PET_ to $*","m1":"option map_unfreeze 1","dd":"perform double fang.atwirl on $*","kt":"kill tonbeli","mh1":"option map_hidden 1",])
-dbase (["time_aged":47052347,"creation_time":1139917059,"id":"vjvjvj","name":"ºû","body":"/obj/user","channels":({"rumor","chat","aucc","war","news",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1144388900,"chat":1244623264,"bug":1246069199,"tmr":1174093857,"design":1154116971,"byron":1177702512,"wizard":1239465932,]),"last_on":1249004018,"last_from":"116.177.193.123",])
-my_body 
-last_age_set 1249004017
-password "$1$33552402$jVR7VBM8LMmvNeuIa3Wip."
-email "chfn"
-window (["terminal_type":"vt100","width":110,"height":27,])

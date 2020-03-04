@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["q":"get all","x":"drop all","li":"list $*","ad":"advance $*","a":"get all from corpse","tr":"train $*","wi":"wield $*","fi":"fight $*","z":"sell all",])
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1210818242,"name":"¤Ñ¼é¤s³·","id":"zhj","time_aged":1276,])
-password "$1$16769271$a6NG8AI/f2nEr7fdyPYb70"
-email "zhj_cstrc@yahoo.com.tw"

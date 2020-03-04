@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mm2":"option map_unfreeze 1","ma1":"option map_hidden 0","ma2":"option map_hidden 1","mm1":"option map_unfreeze 0","0":"perform kick haze.kick on $*",])
-dbase (["last_from":"50.110.59.210","time_aged":13140486,"creation_time":1185652574,"last_on":1247204934,"board_last_read":(["bug":1246069199,"wizard":1239465932,]),"body":"/obj/user","name":"¼B©ù¬P","id":"liu","channels":({"chat","rumor","war","aucc","news",}),])
-my_body 
-last_age_set 1247256249
-password "$1$1343582$jZewBpo9X99/HlqVhTcJw0"
-email "www@w.w.w.w"
-window (["terminal_type":"vt100","width":125,"height":46,])

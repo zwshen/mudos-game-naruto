@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["board_last_read":(["newbie":1136481011,"wizard":1234965474,"chat":1175828718,]),"time_aged":2545618,"last_from":"35.101.140.220","name":"´P","body":"/obj/user","last_on":1236834630,"id":"sylph","channels":({"chat","rumor","aucc",}),"creation_time":1234349359,])
-my_body 
-last_age_set 1236894823
-password "$1$9904845$kguUKHwcBED64h6BBE2fM1"
-email "windsylph@xuite.net"
-window (["freeze":1,"terminal_type":"vt100","width":139,"height":52,])

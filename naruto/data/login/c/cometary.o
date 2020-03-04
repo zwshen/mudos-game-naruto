@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["call":"perform animal taming.call","feed":"perform animal taming.feed","on":"option map_hidden 0","ee":"eat essence","off":"option map_hidden 1","pae2":"perform alter ego.destruct","k":"kill elf","t":"transfer 1","leave":"perform animal taming.leave","pae1":"perform alter ego.shadow",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1187896068,"last_on":1188318252,"last_from":"13.200.78.213","body":"/obj/user","id":"cometary","name":"±k¬P","time_aged":160349,])
-password "$1$97941970$/UneKB3dsDM9at8wCyRMI1"
-email "have_a_break04@hotmail.com"

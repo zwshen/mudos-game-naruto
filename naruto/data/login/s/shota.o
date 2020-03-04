@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["con":"consider $*","sk":"skills","/":"recall","f":"fight $*","a":"hp",])
-dbase (["last_on":1131439134,"channels":({"chat","rumor",}),"last_from":"15.4.113.140","creation_time":1131422935,"id":"shota","name":"可愛的正太","body":"/obj/user","time_aged":12434,])
-password "$1$89436958$OyHS7Fas8VOmyDVSexLAo/"
-email "no@email.address"

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["t":"transfer 1","off":"option map_hidden 1","ee":"eat essence","unfreeze":"option map_unfreeze 1","k":"kill elf","on":"option map_hidden 0","freeze":"option map_unfreeze 0",])
-dbase (["last_on":1189797684,"channels":({"chat","rumor",}),"creation_time":1188289162,"body":"/obj/user","last_from":"13.200.78.213","id":"kitlaw","name":"³Ç¥J","time_aged":72785,])
-password "$1$15148690$pv0TFT5WPVRTNh8vrcs7f1"
-email "have_a_break04@hotmail.com"

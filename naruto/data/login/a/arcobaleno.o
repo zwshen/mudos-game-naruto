@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["/":"recall","ii":"identify $*","si":"balance","fe":"perform fire ghost chop.attack on $*","id":"identify $*","fd":"perform chivy tiger.attack on $*","sacc":"sac corpse","ha":"halt","pp":"put all in bag","ff":"perform wolf blade.flow","a":"hp","fc":"perform ghost chop.attack on $*","//":"recall start",])
-dbase (["last_from":"140.86.74.211","time_aged":12339241,"last_on":1245679183,"creation_time":1211219759,"board_last_read":(["newbie":1136481011,"bug":1235568633,"propose":1211983359,"chat":1186466886,"wizard":1237661686,]),"body":"/obj/user","id":"arcobaleno","name":"ªüº¸§J¤Ú¹p¿Õ","channels":({"chat","rumor","aucc","war",}),])
-my_body 
-last_age_set 1245679183
-password "$1$68318969$/SjvTn.PaA8lx34.iUExj1"
-email "lsp0317@hotmail.com"
-window (["freeze":1,])

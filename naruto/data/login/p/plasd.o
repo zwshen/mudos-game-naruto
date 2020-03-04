@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["rs":"recall",])
-dbase (["board_last_read":(["byron":1177702512,"wizard":1185604128,]),"time_aged":26887,"last_from":"29.18.147.203","name":"дый]д╤к░","body":"/obj/user","last_on":1235848885,"id":"plasd","channels":({"chat","rumor",}),"creation_time":1235847649,])
-my_body 
-last_age_set 1235874504
-password "$1$12874975$MZIrFcervs/f/3hy4pMJh/"
-email "duckv.tw@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"zmud","width":153,"height":46,])

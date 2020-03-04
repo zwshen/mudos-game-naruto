@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["qq":"query $*","q5":"query -npc","re2":"remember 2","ii":"identify $*","ee":"eat essence","mapon":"option map_unfreeze 0","pb1":"put $* in bag 2","pb":"put $* in bag","rem":"remember","ad":"advance $*","c2":"climb ¾ðªK","q3":"query -obj","r1":"recall start","gg":"giveup","gb1":"get $* from bag 2","m2":"move 2","adc":"advance check","mapoff":"option map_unfreeze 1","tr1":"train $1 from guan","eee":"eat manto","lc":"look corpse $*","re1":"remember 1","q4":"query -food","pb3":"put $* in bag 4","re3":"remember 3","m3":"move 3","q1":"query -wp","sea":"search","c1":"climb ¾ð®Ú","\\\\":"deposit $1 silver","q2":"query -eq","gb3":"get $* from bag 4","gc":"get $* from corpse","pb2":"put $* in bag 3","r2":"recall","gb2":"get $* from bag 3","q":"quest $1","gb":"get $* from bag","m1":"move 1","aucsell":"auc sell $* value $1","lb":"look bag $*",])
-dbase (["time_aged":4537985,"board_last_read":(["acme":1176111412,"_MITE_":1170658966,"tmr":1174093857,"bug":1143259045,"design":1154116971,"chat":1175828718,"newbie":1136481011,"byron":1178289846,"wizard":1177493711,"ayumi":1120542699,"propose":1178173271,]),"last_from":"16.193.193.123","name":"ºô¸ô¹C»î","body":"/obj/user","last_on":1235029962,"id":"yanlin","channels":({"chat","rumor","aucc",}),"creation_time":1177774679,])
-my_body 
-last_age_set 1235029961
-password "$1$25264595$Lxp5k4PV7JAaff1VXuPF./"
-email "f8970022@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":111,"height":36,])

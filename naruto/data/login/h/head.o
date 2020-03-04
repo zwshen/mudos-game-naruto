@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["z":"get all from corpse",])
-dbase (["channels":({"chat","rumor",}),"id":"head","name":"§j¿Y∞≠","last_on":1134133628,"board_last_read":(["propose":1130204695,"bug":1133521888,"newbie":1128936709,"chat":1133923712,"tmr":1132472571,"wizard":1132743373,"ayumi":1120542699,"acme":1133012398,]),"creation_time":1131872283,"last_from":"240.147.13.163","time_aged":1102,"body":"/obj/user",])
-password "$1$68791491$6EggOWVgknsmD451eYVyi0"
-email "fndsi@hsai.com"

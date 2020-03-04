@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all",])
-dbase (["time_aged":23078385,"creation_time":1203251103,"name":"¶³¼v","id":"stall","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["bug":1203443269,"newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"wizard":1239465932,]),"last_on":1249220537,"last_from":"94.5.129.220",])
-my_body 
-last_age_set 1249298012
-password "$1$85052053$6tIK55Wk0h5COfHBWSz19."
-email "doiqq1@yahoo.com.tw"
-window (["terminal_type":"zmud",])

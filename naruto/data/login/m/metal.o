@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["kk":"chat $*","con":"consider $*","am":"ask master","b":"buy $* from master","lm":"look master","sa":"sac corpse","lo":"look corpse $*","aa":"chat* $*","ge":"get all from corpse $*",])
-dbase (["time_aged":15230638,"creation_time":1233906096,"id":"metal","name":"§p≈K","body":"/obj/user","channels":({"chat","rumor",}),"board_last_read":(["newbie":1136481011,]),"last_on":1233917450,"last_from":"123.192.198.19",])
-my_body 
-last_age_set 1249136710
-password "$1$83833583$ZSqVBhEeucZWU6b9QYXqV0"
-email "ccc@ccc.ccc"
-window (["freeze":1,])

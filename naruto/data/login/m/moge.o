@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["w2":"wield shield sword as lefthand","w3":"wield white tiger blade as righthand","w4":"wield green dragon sword as lefthand","g":"get all from corpse $*","pd":"perform dragon-head draw.summon on $*","tunemap":"option map_hidden $*","kw":"kill elf","sa":"sac corpse","rem":"remember $*","pds":"perform dragon-head draw.advance $1 $2 $3 0","pp":"perform body strength.powerup","y":"perform destory fist.attack on $*","w1":"wield gao yuan sword as righthand",])
-dbase (["time_aged":31730173,"creation_time":1172502085,"name":"²öµ¹","id":"moge","body":"/obj/user","channels":({"chat","rumor","aucc","news","war",}),"board_last_read":(["_MITE_":1130000043,"wizard":1185891922,]),"last_on":1249295901,"last_from":"130.40.130.220",])
-my_body 
-last_age_set 1249295900
-password "$1$71290277$hDAdqNakfy2srWBmrrz7Q0"
-email "@"
-window ([])

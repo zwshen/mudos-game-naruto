@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ps":"perform animal taming.state","ga":"get all from corpse $*","pl":"perform animal taming.leave","pf":"perform animal taming.feed $*","pfeed":"perform animal taming.feed $*","pleave":"perform animal taming.leave","pcall":"perform animal taming.call",])
-dbase (["time_aged":3721108,"signature":"","body":"/obj/user","id":"fuwari","name":"·¬¦Ð»þ","last_on":1238624207,"channels":({"chat","rumor","aucc",}),"last_from":"243.226.173.218","profile":"","creation_time":1236666032,])
-my_body 
-last_age_set 1240387087
-password "$1$91315736$38Vo8Qdfd6JK7qMmYTE9k1"
-email "1@1.2"
-window (["terminal_type":"zmud","width":120,"height":36,])

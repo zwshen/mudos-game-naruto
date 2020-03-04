@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from $1","con":"consider $1",])
-dbase (["last_on":1200314674,"channels":({"chat","rumor",}),"last_from":"192.196.104.59","creation_time":1132729138,"body":"/obj/user","board_last_read":(["newbie":1136481011,]),"id":"sularas","name":"´HÂ÷¤H","time_aged":1865,])
-password "$1$10995111$79wxkOSNKsDQaxGSgWhoo/"
-email "jinter@ms13.url.com.tw"

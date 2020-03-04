@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sc":"sac corpse","r":"read new","1":"perform chamber fish.fish","aa":"tell elegance Ãö±¼","off":"option map_unfreeze 1","q":"eat heal ap pill","3":"perform chamber fish.destruct","2":"perform chamber fish.feed","qqq":"eat heal mp pill","qq":"eat heal hp pill","ps":"perform body strength.powerup","g":"get all from corpse","on":"option map_unfreeze 0","wa":"transfer $*","pp":"perform psychical bullet.shoot on $*","p":"perform frost closed ball.ball on $*",])
-dbase (["board_last_read":(["_MITE_":1130219802,"bug":1115718717,"design":1154116971,"propose":1193820020,"wizard":1209379195,]),"time_aged":6891902,"last_from":"162.13.120.59","body":"/obj/user","name":"­·¶®","last_on":1236561232,"id":"elegance","channels":({"chat","rumor","aucc","war",}),"creation_time":1185372790,])
-my_body 
-last_age_set 1236561231
-password "$1$43457128$9d1PtwoEn3ldDNRFTLyd50"
-email "2@h.c"
-window (["terminal_type":"zmud","width":85,"height":23,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["c*":"chat* $*","w4":"wield radish 2 as lefthand","w2":"wield spiral sword as lefthand","w1":"wield blade of one pair of wings as righthand","關地圖":"option map_hidden 0","t":"move $*","1":"perform ghost chop.attack on $*","w3":"wield radish as righthand","??":"gain","停技能":"disable","oo":"consider $*","c":"chat $*","ll":"remember $*",])
-dbase (["creation_time":1197971741,"time_aged":11881222,"body":"/obj/user","id":"zxc","name":"囝仔噗噗叫","channels":({"chat","rumor","aucc",}),"last_from":"223.158.143.220","last_on":1244255806,])
-my_body 
-last_age_set 1244255805
-password "$1$82037987$VasgPR3GyfiIx6e.DKwtN1"
-email "swgimmekimo@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":125,"height":46,])

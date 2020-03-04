@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ds":"deposit $* silver","ww":"wield blade","sa":"sac corpse $*","pct":"perform chivy tiger.attack on $*","g":"get all from corpse $*","sap":"eat chicken",])
-dbase (["time_aged":1227744,"board_last_read":(["bug":1211611980,"design":1154116971,"newbie":1136481011,"propose":1211297114,"wizard":1209379195,"chat":1186466886,]),"body":"/obj/user","id":"mac","name":"¤p¤p³Á­»³ù","channels":({"chat","rumor",}),"last_on":1239734782,"last_from":"48.227.74.211","creation_time":1190251863,])
-my_body 
-last_age_set 1239993985
-password "$1$68927867$ND7QR86yLf7vGT6OwhVCi."
-email "mac@ncs.com"
-window (["terminal_type":"zmud","width":121,"height":44,])

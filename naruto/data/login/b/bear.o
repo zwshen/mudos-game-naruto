@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["call":"perform ninja.call","sk":"skills","state":"perform ninja.state","EnterTomb":"enter ¿ò§}","leave":"perform ninja.leave",])
-dbase (["board_last_read":(["propose":1188606352,"chat":1130765657,"wizard":1188375771,"newbie":1130565369,"_MITE_":1139709536,]),"channels":({"chat","rumor","aucc",}),"creation_time":1130869519,"last_from":"91.91.104.59","last_on":1188620968,"body":"/obj/user","name":"µµ¦â¤pºµ","id":"bear","time_aged":6272685,])
-password "$1$56325993$KvhdFRbUBKq0wu4BREXId."
-email "@"

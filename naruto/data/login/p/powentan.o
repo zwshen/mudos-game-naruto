@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["creation_time":1243613022,"time_aged":80,"body":"/obj/user","id":"powentan","name":"ทsคโ","channels":({"chat","rumor",}),"last_from":"189.12.44.114","last_on":1243613037,])
-my_body 
-last_age_set 1243613036
-password "$1$2501407$bpBLi8qz7XhqnLO5TfIzC1"
-email "powentan0330@gmail.com"
-window (["terminal_type":"xterm","width":80,"height":24,])

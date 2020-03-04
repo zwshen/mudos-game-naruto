@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"last_from":"231.97.229.61","time_aged":1913,"last_on":1246126254,"creation_time":1138122593,"body":"/obj/user","name":"¿v¹Ú","id":"etlin",])
-my_body 
-last_age_set 1246126253
-password "$1$47758650$PhnqABo79qqYV5SLR9b7c/"
-email "etlin@ms17.url.com.tw"
-window (["terminal_type":"ANSI","width":80,"height":30,])

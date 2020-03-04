@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mh":"option map_hidden $1",])
-dbase (["last_from":"250.223.0.123","channels":({"chat","rumor","aucc",}),"time_aged":23766144,"last_on":1247187858,"creation_time":1131349175,"body":"/obj/user","id":"chirs","name":"Às¾z",])
-my_body 
-last_age_set 1247187856
-password "$1$24317954$XhEpuZ1jJtQFImaY5v81i."
-email "chirs@yahoo.com.tw"
-window (["terminal_type":"zmud","width":121,"height":45,])

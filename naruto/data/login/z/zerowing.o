@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ga":"get all from corpse","pc":"perform cell activation.ca",])
-dbase (["time_aged":5954053,"body":"/obj/user","board_last_read":(["newbie":1136481011,"propose":1211983359,]),"id":"zerowing","name":"­¸Ál","channels":({"chat","rumor","aucc",}),"last_on":1237827267,"last_from":"253.224.173.218","creation_time":1234433083,])
-my_body 
-last_age_set 1240387087
-password "$1$40385590$hMbbMYLgQTfeVGlj/MJbb1"
-email "1@1.1.1"
-window (["terminal_type":"zmud","width":125,"height":46,])

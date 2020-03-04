@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["44":"option map_hidden 1","4":"option map_hidden 0","``":"sac corpse","`":"get all from corpse",])
-dbase (["time_aged":7744,"body":"/obj/user","name":"¤é­µ","id":"yin","last_on":1242766116,"channels":({"chat","rumor",}),"last_from":"247.104.62.61","creation_time":1203701854,])
-my_body 
-last_age_set 1242766114
-password "$1$45557843$QNnGLsyX0jSYKYlz2TDrX0"
-email "yin@yin.net"
-window (["terminal_type":"vt100","width":125,"height":47,])

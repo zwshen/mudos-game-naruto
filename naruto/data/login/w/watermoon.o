@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["22":"perform animal taming.feed chicken","q":"eat heal mp pill","--":"perform alter ego.destruct","qqq":"eat heal mp pill","sc":"sac corpse","1":"perform animal taming.call","aa":"tell watermoon 關掉","g":"get all from corpse","wa":"transfer $*","222":"perform animal taming.feed manto","o":"perform white eyes.open","-":"perform alter ego.shadow","ps":"perform double physique.dp","on":"option map_unfreeze 0","off":"option map_unfreeze 1","2":"perform animal taming.feed big heal hp pill","qq":"eat big heal hp pill","4":"perform animal taming.leave","5":"score _MY_PET_","r":"read new","3":"perform animal taming.state","33":"i _MY_PET_","p":"perform muscle tank.attack on $*",])
-dbase (["last_from":"96.129.128.220","time_aged":16172117,"body":"/obj/user","name":"鏡花水月","id":"watermoon","channels":({"chat","rumor","aucc","war",}),"creation_time":1187349568,"last_on":1238196542,"board_last_read":(["propose":1237364643,"design":1154116971,"wizard":1238125681,"chat":1123155003,"newbie":1136481011,]),])
-my_body 
-last_age_set 1238196541
-password "$1$4378497$Y3kKTqmBHpXe/.4Fz9q7H/"
-email "777@h.c"
-window (["terminal_type":"zmud","width":97,"height":35,])

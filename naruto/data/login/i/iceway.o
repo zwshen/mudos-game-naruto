@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ss":"sac corpse","gf":"get all from corpse $*",])
-dbase (["time_aged":6728355,"creation_time":1173193226,"id":"iceway","name":"·R·sÄ±Ã¹«³³`","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["bug":1213114984,"propose":1211983359,"design":1154116971,"wizard":1212213844,"chat":1175828718,]),"last_on":1248697129,"last_from":"12.40.116.122",])
-my_body 
-last_age_set 1248697127
-password "$1$16920236$UBeqpQDyrCsBb7i6gpELt1"
-email "firefaqu@pchome.com.tw"
-window (["terminal_type":"vt100","width":139,"height":47,])

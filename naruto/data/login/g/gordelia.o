@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["tt":"team talk $*","sco":"sac corpse","-d":"buy1","r":"recall","ass":"assign $*","qq":"eat big heal mp pill","2":"option map_hidden 0","rem":"remember $*","q":"eat big heal hp pill","1":"option map_hidden 1","gg":"get all from corpse $*","m":"move $*",])
-dbase (["time_aged":16284594,"last_on":1212934645,"id":"gordelia","name":"ºq­}²ú¨È","creation_time":1191735215,"body":"/obj/user","last_from":"54.172.132.220","board_last_read":(["ayumi":1120542699,"bug":1213114984,"byron":1177702512,]),"channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1215397444
-password "$1$49901248$bWd69rf4T/f2.8tMaUe42/"
-email "@"
-window (["width":108,"height":34,"freeze":1,"terminal_type":"zmud",])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["2":"eat pill 2","4":"sac corpse","5":"perform ninja.shadow","0":"wield sword","8":"perform ninja.ca","1":"eat pill","3":"get all from corpse","9":"perform ninja.destruct",])
-dbase (["time_aged":12615915,"creation_time":1128861169,"id":"cuppe","name":"«È©¼","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1131786296,"propose":1131721575,"acme":1133012398,"chat":1133923712,"bug":1175094727,"wizard":1175357048,]),"last_on":1248521587,"last_from":"154.196.174.218",])
-my_body 
-last_age_set 1248521587
-password "$1$34015236$BA11Mvx5HAeQMsw.QCmQT0"
-email "bawcuppe@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"zmud","width":120,"height":42,])

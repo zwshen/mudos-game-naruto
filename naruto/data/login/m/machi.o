@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["av":"advance $*","cd":"consider $*","tv":"train variation from guan for $*","rr":"remember $*","tf":"transfer $*","gf":"give franklin $*","gb2":"get $* from bag 2","ec":"eat essence of chicken","gm":"give maggie $*","wd":"withdraw $* silver","g":"get $* from corpse","ad":"advance $1 for $2","ebc":"eat big essence of chicken","gcc":"give cindy $*","de":"deposit $* silver","rm":"remove $*","td":"train dodge from guan for $*","pb":"put $* in bag","gb":"get $* from bag","kf":"kill fly","c":"charge $*","emc":"eat middle essence of chicken","iy":"identify $*","tl":"train solid from rao for $*","tp":"train parry from guan for $*","gh":"give hisoka $*",])
-dbase (["last_from":"31.169.112.59","time_aged":31820230,"last_on":1248085301,"creation_time":1152258926,"board_last_read":(["wizard":1185891922,]),"body":"/obj/user","name":"º¿©_","id":"machi","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1248085300
-password "$1$47507851$m8zWuN48C0P11ZeJGxIdf0"
-email "d41920@hotmail.com"
-window (["terminal_type":"zmud","width":94,"height":29,])

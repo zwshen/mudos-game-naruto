@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills","g":"get all from corpse","r":"recall","sa":"sac corpse",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1134471256,"last_from":"172.151.25.163","last_on":1198740937,"body":"/obj/user","name":"¬õ²´","id":"redeye","board_last_read":(["newbie":1128936709,"propose":1141838792,"_MITE_":1142224362,"wizard":1143254649,"bug":1136817938,]),"time_aged":1695993,])
-password "$1$40576097$x3QEjUuQA8av3RIpV6M3/0"
-email "xxx@xxxx.xxxx.xxx"

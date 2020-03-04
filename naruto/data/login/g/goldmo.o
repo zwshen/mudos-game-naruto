@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["rs":"recall start","h":"hp","sh":"search","sa":"sac corpse","adv":"advance $1","pp":"perform hundred palm.attack on $1","ge":"get all from corpse","re":"recall","wi":"wield $1","g":"get all","tr":"train $1 from $2","id":"identify $1","rem":"remove $1",])
-dbase (["channels":({"chat","rumor",}),"last_from":"85.141.116.140","body":"/obj/user","last_on":1195308068,"creation_time":1194849724,"name":"·æµá¼Ú","id":"goldmo","time_aged":129762,])
-password "$1$35009401$sHUx.HTrBRTf20Dnkciiy."
-email "goldmo0215@gmail.com"

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["id":"identify $1","sac":"sac corpse","f":"fight $1","add":"advance $1","k":"kill $1","getall":"get all from corpse $1",])
-dbase (["body":"/obj/user","id":"skuer","name":"¿Õ¥ì¤E¤ë","time_aged":26066,"last_on":1181742449,"last_from":"176.12.229.61","creation_time":1179756637,"channels":({"chat","rumor",}),"board_last_read":(["_MITE_":1170658966,"newbie":1136481011,]),])
-password "$1$96402978$dxQJp9BMNUZQFO6qZBVXa1"
-email "skuernoy@hotmail.com"

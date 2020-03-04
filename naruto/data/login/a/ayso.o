@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["b":"buy $* from vendor","gs":"get all from skeleton $*","gc":"get claw from corpse $*","kt":"kill turtle $*","em":"option map_hidden $*","op":"say 幫忙","pb":"put $* in bag","gb":"get $* from bag","lc":"look corpse $*","q":"halt","m":"use bandage $*","2":"pushdown","c":"consider $*","ide":"identify $*","ap3":"eat big essence of chicken","fs":"fight stake $*","y":"get $* from corpse","x":"use hp help","gb2":"get $* from bag 2","sa":"sac corpse","gk":"give kinyo $*","pb2":"put $* in bag 2","hhp":"eat heal hp pill","kc":"kill crab $*","f":"finger $*","ap1":"eat essence of chicken","ap2":"eat middle essence of chicken","mm":"proskills first-aid snake_skin_bandage -m","pcc":"perform chain lighting.chain on $1","hid":"option map_hidden $*","1":"use hp help","rm":"remember $*","roe":"give boss roe","z":"eat pill","mp2":"eat middle daisy tea","mp3":"eat big daisy tea","head":"give head venom","km":"kill mouse $*","mp22":"eat tooth powder","v":"say 「轟！」地一聲，念氣在你面前炸了開來，使你受到一些傷害(364)[你15%]",])
-dbase (["creation_time":1150225916,"time_aged":18447078,"body":"/obj/user","board_last_read":(["newbie":1136481011,"ayumi":1120542699,"_MITE_":1188848484,"design":1154116971,"acme":1188005608,"chat":1237659377,"bug":1242216185,"tmr":1174093857,"byron":1177702512,"propose":1240917122,"wizard":1239465932,]),"name":"無心","id":"ayso","channels":({"chat","rumor","aucc",}),"last_from":"221.101.123.140","last_on":1243428128,])
-my_body 
-last_age_set 1243428128
-password "$1$26478295$zJruiS.w9Dai1FRphzU3K0"
-email "aysour@gmail.com"
-window ([])

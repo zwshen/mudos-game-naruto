@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":1545,"body":"/obj/user","id":"bogy","name":"³ì¤Ú","last_on":1239730867,"channels":({"chat","rumor",}),"last_from":"5.64.124.122","creation_time":1239729380,])
-my_body 
-last_age_set 1239730867
-password "$1$42070594$x1h076qHiolfVae7o4kr0/"
-email "bogy_1102@hotmail.com"
-window (["freeze":1,"terminal_type":"vt100","width":123,"height":48,])

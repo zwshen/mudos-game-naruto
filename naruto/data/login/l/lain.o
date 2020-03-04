@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["idd":"identify $*","a":"get all from corpse $*","sk":"skills $*","check":"balance","sa":"sac corpse $*",])
-dbase (["time_aged":10856,"last_on":1143983221,"id":"lain","name":"¹D½¬","board_last_read":(["newbie":1128936709,"_MITE_":1142224362,]),"last_from":"91.230.115.59","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1143488792,])
-password "$1$5995414$oIbEVUnnDgAt08tB0kw2y0"
-email "keneii@yahoo.com.tw"

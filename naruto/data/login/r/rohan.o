@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["7":"perform born-again branch.born","dr":"perform dragon-head draw.summon on $*","2":"perform born-again branch.crop","ga":"get all","hs":"help proskills","4":"perform born-again branch.over $*","g":"get all from corpse $*","ehp":"eat heal hp pill","0":"perform dragon-head draw.summon","8":"proskills produce green_sap -m","5":"perform blood-cell revive.revive","1":"perform destory fist.attack on $*","3":"perform born-again branch.arise","9":"perform body strength.powerup",])
-dbase (["time_aged":14295108,"creation_time":1234689292,"id":"rohan","name":"°s¦×Ã¹º~","channels":({"chat","rumor","aucc","news",}),"body":"/obj/user","board_last_read":(["bug":1239968374,"_MITE_":1188848484,"propose":1240127896,"design":1154116971,"wizard":1239465932,]),"last_on":1248984390,"last_from":"172.128.115.59",])
-my_body 
-last_age_set 1248984390
-password "$1$90916755$cyisElBOR.17BT2.iuZ.t1"
-email "ss@ss.ss"
-window (["terminal_type":"zmud","width":97,"height":62,])

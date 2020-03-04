@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mh":"option map_hidden $1",])
-dbase (["time_aged":27384546,"creation_time":1132406474,"name":"©_©Ô","id":"chira","channels":({"chat","rumor","aucc","war","news",}),"body":"/obj/user","board_last_read":(["bug":1212892283,"wizard":1239465932,]),"last_on":1247948141,"last_from":"250.223.0.123",])
-my_body 
-last_age_set 1249108329
-password "$1$24877089$U9L/cgUPkHIuJB1zb5TY.1"
-email "chira@yahoo.com.tw"
-window (["terminal_type":"zmud","width":108,"height":37,])

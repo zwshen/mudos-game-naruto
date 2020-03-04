@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["b":"balance","we":"wear all","re":"remove all","tp":"train parry from master","r":"recall","train":"dodge from master 10","aa":"advance ap","am":"advance mp","ad":"advance dex","wb":"wield blade 2 as twohanded","ga":"gain","sc":"score","ado":"advance dodge for 3","h":"hp","m":"map","sk":"skills","ai":"advance int","ac":"advance con for 3","as":"advance str","se":"search","a":"advance level","wi":"wield all","exp":"ex","g":"get all","c":"advance check","sa":"sac corpse","gc":"get all from corpse","uw":"unwield all","ah":"advance hp for 50","he":"help","li":"list","ex":"exp","tc":"train combat from master","aco":"advance combat","td":"train dodge from master","qu":"quest",])
-dbase (["channels":({"chat","rumor",}),"time_aged":26576,"last_on":1238477752,"body":"/obj/user","last_from":"94.56.72.203","id":"suyuren","name":"±s¯«²M­·","creation_time":1174399251,])
-my_body 
-last_age_set 1238477751
-password "$1$21960824$UfuZgYZTVhV7ugFN95tnu1"
-email "suyuren80@yahoo.com.tw"
-window (["freeze":1,"width":80,"terminal_type":"ANSI","height":25,])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["lv":"advance level","on":"option map_hidden 0","e1":"eat essence","off":"option map_hidden 1","cc":"sac corpse","co":"consider $*","gg":"get all from corpse","adv":"advance $*","ide":"identify $*","e2":"eat manto",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1187549028,"last_from":"209.197.70.203","last_on":1188172288,"body":"/obj/user","name":"¤d½º","id":"asamihsu","time_aged":92682,])
-password "$1$26053528$J2kTDiIj.y.wdvMvW3W6i0"
-email "asamihsu@seed.net.tw"

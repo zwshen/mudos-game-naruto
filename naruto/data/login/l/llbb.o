@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["goodman":"chat* 邊摔東西邊噴火...大吼: 「我..不..要..再..當..好..人...了!!!!!!!」","mynick":"nick $HIK$黑$HIY$黃$HIM$花$HIW$白$HIG$~$HIK$一黑","\\":"get all from corpse","1":"enable ninja with alter ego","b":"eat pill","bb":"eat pill 2","mandog":"chat* 與$1大聲唱著: 「我..們..都..想..要..女...朋....友!!!!!!!」","xx":"remove all","c":"get all","x":"wear all","q":"perform ninja.shadow","\\\\":"sac corpse","z":"perform force.bump on $*","bbb":"eat pill 3","p":"perform ninja.dp","/":"recall","qq":"perform ninja.destruct","`":"keep all","2":"enable ninja with double physique","con":"consider $*","111":"enable ninja with double physique",])
-dbase (["time_aged":4343612,"board_last_read":(["bug":1137491613,"acme":1136370213,"ayumi":1120542699,"newbie":1136478596,"wizard":1149499546,"tmr":1137679531,]),"channels":({"chat","rumor","aucc",}),"body":"/obj/user","last_from":"219.71.98.143","creation_time":1135972549,"name":"小黑","id":"llbb","last_on":1233926735,])
-my_body 
-last_age_set 1233926735
-password "$1$44383959$wHtgZdNc6UBiarmwDy9yF/"
-email "lee0215@hotmail.com"
-window ([])

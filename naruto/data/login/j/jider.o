@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["creation_time":1234577308,"time_aged":2220,"body":"/obj/user","channels":({"chat","rumor",}),"board_last_read":(["design":1154116971,"chat":1116042164,"wizard":1120669113,"newbie":1128936709,]),"id":"jider","name":"地海戰記",])
-my_body 
-last_age_set 1234579454
-password "$1$65452927$K3Fcy08IdBwtzAQI080QV."
-email "@"
-window (["width":80,"height":25,"terminal_type":"ANSI",])

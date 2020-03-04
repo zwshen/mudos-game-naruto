@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["w1":"wield shan feng sword as righthand","w2":"wield Tree sword as lefthand",])
-dbase (["channels":({"chat","rumor",}),"last_on":1239059119,"time_aged":314,"body":"/obj/user","last_from":"132.0.43.114","creation_time":1239058833,"name":"´¶¬¥¸¯´P","id":"program",])
-my_body 
-last_age_set 1239059118
-password "$1$92559799$pTUSbE2lKAY1eWyP8KdJj/"
-email "@"
-window (["freeze":1,"width":152,"terminal_type":"zmud","height":31,])

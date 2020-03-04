@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
-dbase (["time_aged":5513494,"creation_time":1243694353,"name":"¯NµJÄÑ¥]","id":"joh","body":"/obj/user","channels":({"chat","rumor","aucc",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"tmr":1130154967,"propose":1210908901,"ayumi":1120542699,]),"last_on":1249207816,"last_from":"156.105.37.114",])
-my_body 
-last_age_set 1249207815
-password "$1$14616915$88nbHDtmPS3FcZdtZVhGq."
-email "s8515039@edirect168.com"
-window (["terminal_type":"vt100","freeze":1,"width":125,"height":46,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse","r":"recall",])
-dbase (["board_last_read":(["propose":1187352154,"wizard":1185359989,"newbie":1136481011,]),"channels":({"chat","rumor",}),"time_aged":10604,"creation_time":1237522498,"name":"ªü­¸","body":"/obj/user","id":"flyfly",])
-my_body 
-last_age_set 1237533087
-password "$1$39245938$KqX9Ax5/vxk0PyxAW9WcH/"
-email "fff@dd.com"
-window (["terminal_type":"vt100","freeze":1,"width":125,"height":46,])

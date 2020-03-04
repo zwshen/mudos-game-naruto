@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ss":"sac corpse","gl":"get all from corpse",])
-dbase (["channels":({"chat","rumor","aucc",}),"board_last_read":(["newbie":1130565369,"chat":1130765657,"bug":1132179215,"acme":1124705491,"wizard":1132743373,"propose":1131721575,"ayumi":1120542699,"tmr":1130045947,]),"creation_time":1130135217,"name":"�խ߱ХD","id":"poluy","time_aged":1023643,"body":"/obj/user",])
-password "$1$36161240$dhaQAfgcscMF.KlA5t7zk1"
-email "poluy@kimo.com.tw"

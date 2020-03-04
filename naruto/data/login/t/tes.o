@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["adv":"advance $*","tr":"train $*","1":"eat chicken","dep":"deposit $*","2":"eat manto","ss":"search $*","z":"sac corpse $*","da":"drop all","sa":"sell all","co":"consider $*","ge":"get all from corpse $*","id":"identify $*","ua":"wear $*","deps":"deposit $1 silver","na":"remove $*","ga":"get all","uu":"wield $*","st":"halt $*","mo":"move $*","sk":"skills $*","bal":"balance","sp":"proskills $*","ts":"transfer $*","wit":"withdraw $*","nn":"unwield $*","3":"eat tea","ch":"charge $*","a":"answer $1 $2","re":"remember $*","en":"enable $*","sr":"keep $*",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1196790335,"last_from":"249.88.91.219","last_on":1197031769,"body":"/obj/user","name":"Ãú¤Y","id":"tes","time_aged":126755,"board_last_read":(["newbie":1136481011,"chat":1143174179,"_MITE_":1188848484,"wizard":1170676893,]),])
-password "$1$71285957$7nM.ycFrXug6y85.IL8Hf0"
-email "tskknn.tw@yahoo.com.tw"

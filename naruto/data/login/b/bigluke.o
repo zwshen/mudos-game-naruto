@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":526162,"last_from":"37.64.118.122","last_on":1234936008,"channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1203261875,"board_last_read":(["chat":1186466886,"newbie":1136481011,"design":1154116971,"bug":1203443269,"byron":1177702512,"tmr":1132046274,"_MITE_":1188848484,]),"name":"¥i¥i","id":"bigluke",])
-my_body 
-last_age_set 1234936008
-password "$1$84682489$R9xVIh1jiogV8O.mBJ6kT0"
-email "q"
-window (["width":125,"height":47,"freeze":1,"terminal_type":"vt100",])

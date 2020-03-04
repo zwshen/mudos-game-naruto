@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["halt":"stop","~":"sac corpse","sk":"skills","ga":"get all from corpse","stop":"halt",])
-dbase (["channels":({"chat","rumor",}),"creation_time":1128870662,"board_last_read":(["_MITE_":1129952893,"newbie":1128936709,"chat":1123993602,"wizard":1128434403,"acme":1116161239,"propose":1129088273,"ayumi":1120542699,"tmr":1129882031,]),"id":"yach","name":"³ÇªN","last_on":1132152584,"last_from":"71.18.164.218","time_aged":533363,"body":"/obj/user",])
-password "$1$30549510$BYBEs28k5Xn.2YSoS06sz0"
-email "s116780e@yahoo.com.tw"

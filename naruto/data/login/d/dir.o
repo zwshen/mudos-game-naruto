@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["4":"sac corpse","1":"eat pill","111":"eat pill 3","2":"fight stake 4","8":"fight stake","22":"fight stake 3","11":"eat pill 2","222":"fight stake 2","3":"get all from corpse","2222":"fight stake",])
-dbase (["time_aged":1583282,"body":"/obj/user","id":"dir","name":"Ây©¼","channels":({"chat","rumor","aucc",}),"last_on":1240046975,"last_from":"28.193.174.218","creation_time":1130587241,])
-my_body 
-last_age_set 1240046973
-password "$1$81057272$.gnY5FQUiBhbITdozemxi/"
-email "cuppe2@pchome.com.tw"
-window (["freeze":1,"terminal_type":"zmud","width":120,"height":42,])

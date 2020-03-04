@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["4":"perform ketchup star.die","1":"get all from corpse","3":"eat chicken","2":"sac corpse",])
-dbase (["time_aged":1229577,"board_last_read":(["bug":1236755576,"design":1154116971,"acme":1174312516,"chat":1237659377,"_MITE_":1165339915,"newbie":1136481011,"propose":1237364643,"wizard":1238261452,]),"body":"/obj/user","id":"cheap","name":"«K©y","last_on":1239165962,"channels":({"chat","rumor",}),"last_from":"211.111.218.203","creation_time":1206032387,])
-my_body 
-last_age_set 1239165961
-password "$1$97105207$yGOaGZ5U9gOlJlC6gUO.B/"
-email "pocketwaiwai@hotmail.com"
-window (["terminal_type":"vt100","width":125,"height":46,])

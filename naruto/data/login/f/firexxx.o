@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["nn":"buy 5 from vendor","gc":"get all from corpse","k3":"kill cockroach 3","sc":"hp","x2":"perform hundred palm.attack on $*","k2":"kill cockroach 2","0":"query -wp $*","sa":"sac corpse","s2":"say ·È§¹¤F","s1":"say À°¦£","kk":"enter ¿ò§}","9":"query -eq $*","x1":"perform thousand year kill.attack on $*","bb":"buy 2 from vendor","k1":"kill cockroach 1","jj":"jump ´ò",])
-dbase (["body":"/obj/user","creation_time":1174547330,"last_on":1176497626,"id":"firexxx","name":"µ`§Ì","time_aged":409287,"last_from":"162.14.117.59","board_last_read":(["newbie":1123023896,"wizard":1116657222,"_MITE_":1130298406,]),"channels":({"chat","rumor",}),])
-password "$1$86782715$xlnezNf5w1skbc96PiW43."
-email "firexxxx@yahoo.com.tw"

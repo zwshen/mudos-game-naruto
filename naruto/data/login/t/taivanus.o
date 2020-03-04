@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_on":1248943175,"time_aged":5451,"last_from":"93.178.44.114","creation_time":1248937815,"name":"¢Ý¢Õ¢Ñ","id":"taivanus",])
-my_body 
-last_age_set 1248943175
-password "$1$76719544$lAGB.k1FA6THb4vLHI.Vj0"
-email "s1213032@ncnu.edu.tw"
-window (["terminal_type":"zmud","width":153,"height":51,])

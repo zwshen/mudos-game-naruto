@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["o":"wield radish","1":"hp","'":"advance combat","4":"train combat from ka for 100","6":"train parry from ka for 100","5":"train dodge from ka for 100","7":"train heavy hit from ka for 100","ll":"skills","3":"sac corpse","2":"get all from corpse",])
-dbase (["time_aged":5199,"body":"/obj/user","channels":({"chat","rumor",}),"name":"€pΔε","id":"magi","creation_time":1149388701,])
-password "$1$12240597$LjbkKtl/dA2LG83VTaKCQ."
-email "@"

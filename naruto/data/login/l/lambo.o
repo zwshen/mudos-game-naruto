@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["/":"recall","//":"recall start",])
-dbase (["body":"/obj/user","channels":({"chat","rumor",}),"last_on":1248530609,"time_aged":14605631,"creation_time":1209791815,"last_from":"22.106.105.59","id":"lambo","name":"¢Ú¢é¢õ¢ê¢÷",])
-my_body 
-last_age_set 1248530609
-password "$1$50919358$qUv25sgAUiYuuqKkdrk0q1"
-email "lsp0317@hotmail.com"
-window (["freeze":1,])

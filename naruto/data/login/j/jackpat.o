@@ -1,8 +1,0 @@
-#/obj/login.c
-alias ([])
-dbase (["creation_time":1241864977,"time_aged":2611681,"board_last_read":(["tmr":1130154967,"byron":1177702512,"ayumi":1120542699,"acme":1115817011,]),"body":"/obj/user","id":"jackpat","name":"³Ç©¬¯S","channels":({"chat","rumor","news",}),"last_from":"246.235.21.163","last_on":1244450213,])
-my_body 
-last_age_set 1244476625
-password "$1$68552967$Mlga7nRXmszNGRn44EDNS1"
-email "mkjackpat@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":111,"height":39,])

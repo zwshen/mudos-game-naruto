@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["/":"recall","f":"finger $*",])
-dbase (["channels":({"chat","rumor",}),"id":"benz","name":"»«¤h","last_on":1133531474,"creation_time":1133530374,"board_last_read":(["propose":1130204695,"newbie":1128936709,"chat":1132977027,"wizard":1132743373,]),"last_from":"97.196.128.140","body":"/obj/user","time_aged":1117,])
-password "$1$20209933$9tY9p8u3Fdr1Fq.QH9dj3."
-email "yuxiull@yahoo.com.tw"

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["/":"recall",])
-dbase (["board_last_read":(["bug":1186997961,"acme":1176111412,"tmr":1174093857,"design":1154116971,"propose":1187617576,"wizard":1187592681,"chat":1186466886,"byron":1177702512,"ayumi":1120542699,]),"time_aged":9782709,"last_from":"108.27.231.118","name":"Ã¹¥¬¸ô©_","body":"/obj/user","last_on":1235765631,"id":"roblucci","channels":({"chat","rumor","aucc",}),"creation_time":1176833090,])
-my_body 
-last_age_set 1235765630
-password "$1$45960915$DPUpR6whlGfCC3i1CUUX51"
-email "longislandroy@hotmail.com"
-window (["freeze":1,"terminal_type":"vt100","width":156,"height":59,])

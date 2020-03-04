@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sacc":"sac corpse",])
-dbase (["last_from":"117.45.161.118","time_aged":27780,"name":"¦Ë¤¤­«ªv","body":"/obj/user","id":"ikador","channels":({"chat","rumor",}),"creation_time":1128572539,"last_on":1238083547,"board_last_read":(["ayumi":1120542699,"newbie":1128255489,]),])
-my_body 
-last_age_set 1238083545
-password "$1$2005738$ZznkOJfolvY8Asw34pSlo0"
-email "ikador@yahoo.com.tw"
-window (["terminal_type":"vt100","width":83,"height":30,])

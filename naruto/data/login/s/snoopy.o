@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["off":"option map_unfreeze 1","wa":"transfer $*","on":"option map_unfreeze 0",])
-dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1188815152,"last_from":"96.129.128.220","last_on":1189207137,"body":"/obj/user","name":"¥v¥£¤ñ","id":"snoopy","time_aged":3692,])
-password "$1$36713942$S84pJ02fDrIA6A/k8p1T3."
-email "1@1.c"

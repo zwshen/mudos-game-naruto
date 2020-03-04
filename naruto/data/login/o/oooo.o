@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["level":"ser","on":"option map_unfreeze 0","g":"get all","off":"option map_unfreeze 1","ii":"balance","chi":"eat chicken","pp":"perform hundred palm.attack on $*","ide":"identify $*","q2":"say ©Þ§¹¤F","q1":"say ©Þ¯ó","k":"kill elf $*","pi":"eat pill","wie":"wield lance as twohanded","gg":"get all from corpse $*","sa":"sac corpse","tra":"transfer $*",])
-dbase (["channels":({"chat","rumor","aucc",}),"creation_time":1194924670,"last_from":"75.41.168.118","last_on":1202881226,"body":"/obj/user","id":"oooo","name":"ÆFÀJ®v","time_aged":307631,])
-password "$1$12536963$COb9h9wM6RCoLTcy8hnRR1"
-email "10920@yahoo.com.tw"

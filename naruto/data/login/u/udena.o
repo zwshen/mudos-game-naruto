@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"gain","gg":"get all from bag $*","p":"exp","4":"say wrad","t":"team","5":"put all in bag 4","h":"halt","1":"perform strength.powerup","a":"get silver from corpse","6":"put all in bag 2","/":"recall","c":"look corpse $*","7":"put all in bag","fa":"fight crab $*","z":"get all from corpse","kc":"kill cockroach $*","fd":"fight stake","3":"say wlan","x":"sac corpse","-":"wield radish","fc":"fight cockroach $*","fv":"fight vagabond $*","q":"get $* from corpse","fn":"fight snake $*","8":"wield lance as twohanded","o":"put all in bag 3","'":"wield radish 2 as lefthand",])
-dbase (["time_aged":1377516,"id":"udena","name":"¤Ñ¤W¼Ú¸¦®R","last_from":"5.147.13.163","board_last_read":(["wizard":1143254649,"propose":1131721575,"_MITE_":1142224362,"bug":1132179215,"chat":1132977027,]),"last_on":1150771966,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1132135801,])
-password "$1$168244$FUOxXNqrxUlwpQzfR1GWk/"
-email "udenaserious@hotmail.com"

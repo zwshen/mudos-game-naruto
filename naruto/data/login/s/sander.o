@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sr":"surround","on":"option map_unfreeze 0","ga":"get all from corpse","off":"option map_unfreeze 1","ss":"sac corpse","ll":"look corpse",])
-dbase (["channels":({"chat","rumor","aucc",}),"last_from":"100.237.110.123","last_on":1195855314,"creation_time":1176301162,"board_last_read":(["wizard":1177493711,"newbie":1136481011,"_MITE_":1188848484,]),"body":"/obj/user","name":"¤p³Ç","id":"sander","time_aged":10590972,])
-password "$1$16475092$EpIzzFM4mKym6UGeZGrTv1"
-email "godbless911@yahoo.com.tw"

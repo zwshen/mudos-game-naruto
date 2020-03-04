@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mmm":"move 3","a":"halt","rrr":"remember 3","rr":"remember 2","re":"recall","z":"sac corpse","m":"move 1","q":"hp","ret":"recall start","ee":"eat essence","r":"remember 1","x":"get all from corpse","mm":"move 2",])
-dbase (["time_aged":1348238,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"propose":1189484975,"wizard":1190540385,]),"name":"¤»¤l","id":"leo","channels":({"chat","rumor","aucc","war",}),"last_on":1242606022,"last_from":"144.180.6.174","creation_time":1174953963,])
-my_body 
-last_age_set 1242606022
-password "$1$50391278$XIWU11u.eu2wqM8WpmTG90"
-email "@"
-window (["terminal_type":"zmud","width":152,"height":64,])

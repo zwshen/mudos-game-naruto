@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["2":"eat chicken","q":"get silver","4":"train muye wind from kai for 1","0":"proskills first-aid snake_skin_bandage -m","sa":"sac corpse","ii":"identify $*","a":"disable muye wind","r":"kill elf","h":"halt","aa":"enable muye wind","sk":"skills","3":"hp","rr":"kill elf 2","gc":"get all from corpse",])
-dbase (["time_aged":15770763,"creation_time":1195205654,"name":"ฝÝต^คโ","id":"harpers","channels":({"chat","rumor","news","aucc",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1211983359,"chat":1186466886,"bug":1191602432,"byron":1177702512,"design":1154116971,"wizard":1190540385,]),"last_on":1248516127,"last_from":"178.79.114.58",])
-my_body 
-last_age_set 1248516126
-password "$1$56222033$DQPNU1mgJSIn5YDgtWNE61"
-email "tuntownt@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

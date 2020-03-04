@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["uu":"use bandage $*","gg":"get all from corpse $*","ppp":"proskills first-aid snake_skin_bandage -m","dd":"enable dodge with substitute","hh":"halt","blade3":"wield blade $* as twohanded","off":"option map_unfreeze 1","pp":"sac corpse $*","re":"remember $*","rr":"recall","rrr":"recall start","nnn":"perform alter ego.destruct","on":"option map_unfreeze 0","con":"consider $*","adv":"advance $*","nn":"perform alter ego.shadow","id":"identify $*","blade2":"wield blade $* as lefthand",])
-dbase (["time_aged":6513333,"board_last_read":(["bug":1129472714,"acme":1115832105,"chat":1116042164,"_MITE_":1188848484,"tmr":1131615637,"ayumi":1120542699,"byron":1177702512,"newbie":1136481011,"propose":1198812610,"wizard":1190540385,]),"body":"/obj/user","name":"¥ô³p»»","id":"edjack","last_on":1241153530,"channels":({"chat","rumor","war","aucc",}),"last_from":"107.170.192.123","creation_time":1197043341,])
-my_body 
-last_age_set 1241153529
-password "$1$33830867$4wwLzt0NqL6nnf4JPRJTe0"
-email "edjack10000@yahoo.com.tw"
-window (["terminal_type":"vt100","width":94,"height":35,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ii":"incubate egg","lc":"look corpse $*","roe":"give boss roe","pb":"put $* in bag","g":"get all from corpse $*","gb2":"get $* from bag 2","c":"consider $*","wb":"perform wolf blade.flow","rm":"remember $*","cc":"charge corsair","fs":"fight stake $*","pb2":"put $* in bag 2","hid":"option map_hidden $*","ap2":"eat middle essence of chicken","kc":"kill corsair","gb":"get $* from bag","sa":"sac corpse","q":"halt","m":"use bandage","op":"say ¿∞¶£","ta":"perform chivy tiger.attack on $1",])
-dbase (["time_aged":7408254,"body":"/obj/user","channels":({"chat","rumor","aucc",}),"last_on":1234622709,"creation_time":1205857520,"board_last_read":(["_MITE_":1188848484,"byron":1177702512,"propose":1211983359,"bug":1234021969,"wizard":1214818337,"tmr":1174093857,"acme":1188005608,"newbie":1136481011,"ayumi":1120542699,]),"id":"tomat","name":"µf¡¶","last_from":"221.101.123.140",])
-my_body 
-last_age_set 1234622707
-password "$1$97658038$EDQ097pOYxydFtST.lD8r."
-email "as.you.and.i@yahoo.com.tw"
-window ([])

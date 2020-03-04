@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["Q":"perform chamber fish.feed","$":"kill monkey $*","b":"eat big heal hp pill","re":"recall","^":"kill soldier $*","a":"score fish","o":"perform frost closed ball.ball on spider $*","4":"perform frost closed ball.ball on clown","0":"train concrete from gilgamesh for $*","9":"train chamber fish from gilgamesh for $*","@":"eat pill $*","c":"sac corpse","1":"perform chamber fish.fish","A":"wield shield sword as lefthand","7":"train almighty creation from gilgamesh for $*","Z":"say 好機會","p":"hp","z":"say 一起連攜吧","%":"kill clown","3":"perform frost closed ball.ball on king","F":"seedoor","X":"perform frost closed ball.ball on $*","2":"perform chamber fish.destruct","id":"identify $*","M":"move $*","5":"eat noodles","R":"remember $*","8":"train concrete from gilgamesh for $*","6":"eat tea","x":"get all from corpse",])
-dbase (["time_aged":18567715,"signature":"","body":"/obj/user","creation_time":1183195821,"profile":"","id":"blackwert","name":"魔夜","channels":({"chat","rumor","news","war","aucc",}),"last_on":1239036052,"board_last_read":(["propose":1211983359,"design":1154116971,"newbie":1136481011,"wizard":1212213844,"bug":1212464633,"acme":1115875508,"chat":1186466886,"tmr":1174093857,"byron":1177702512,"ayumi":1120542699,"_MITE_":1188848484,]),"last_from":"84.3.6.124",])
-my_body 
-last_age_set 1239036051
-password "$1$79180223$d9g2f2n0mx8xpxg3HZh281"
-email "wertuzey@yahoo.com.tw"
-window (["width":141,"freeze":1,"terminal_type":"vt100","height":55,])

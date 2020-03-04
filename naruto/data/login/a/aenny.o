@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":92001,"last_from":"156.140.59.116","creation_time":1234970683,"last_on":1234970731,"name":"¯«¤§¤ü","body":"/obj/user","id":"aenny",])
-my_body 
-last_age_set 1235062662
-password "$1$76575316$8oYL0.VtQ5GtbxXixgqqh1"
-email "colagod@gmail.com"
-window (["terminal_type":"zmud","width":203,"height":64,])

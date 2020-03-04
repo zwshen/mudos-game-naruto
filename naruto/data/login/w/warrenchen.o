@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sa":"sell all","ad":"advance $*","bm":"buy $* from master","r":"recall","tr":"train $1 from $2 for $3","tran":"transfer $*","tc":"touch stone","enf":"enable finger-guessing fist with combat","wa":"wield axe as twohanded","adv":"advance $1","ga":"get all from corpse","sea":"search","sco":"sac corpse","con":"consider $*",])
-dbase (["last_from":"101.179.62.81","board_last_read":(["chat":1175828718,"tmr":1174093857,"design":1154116971,"_MITE_":1170658966,"newbie":1136481011,"bug":1184339162,"wizard":1184162051,"propose":1184086690,"ayumi":1120542699,"acme":1174556454,]),"body":"/obj/user","creation_time":1184004444,"id":"warrenchen","name":"·RºÞ¶¢¨Æ","time_aged":209329,"profile":"","signature":"","last_on":1185025024,"channels":({"chat","rumor","aucc",}),])
-password "$1$15683127$RwXBYZsA5ovDGmPZuP28U0"
-email "warrenchen512@gmail.com"

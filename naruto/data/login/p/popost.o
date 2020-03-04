@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["11":"move 1","ad":"advance $*","ge":"get all from corpse","22":"move 2","we":"wield $*",])
-dbase (["channels":({"chat","rumor",}),"id":"popost","name":"¥¿¦r","board_last_read":(["propose":1172363532,]),"creation_time":1173667503,"body":"/obj/user","time_aged":440832,])
-password "$1$17810005$nBN0qo6lkdTfgwWr5pYkp1"
-email "popost@yahoo.com.tw"

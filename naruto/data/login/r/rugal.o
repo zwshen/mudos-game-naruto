@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["fc":"perform frost closed ball.ball on $*","dp":"perform body strength.powerup",])
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","time_aged":5368202,"last_on":1248816369,"last_from":"78.235.104.59","creation_time":1243929864,"name":"¦B¡E¸ô¥dº¸","id":"rugal",])
-my_body 
-last_age_set 1249298042
-password "$1$19169060$K/YXEDqCf0tqIXmWjVkCh."
-email "lsp0317@hotmail.com"
-window (["terminal_type":"ZMUD","width":108,"height":31,])

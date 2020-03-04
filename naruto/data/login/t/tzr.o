@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["tunemap":"option map_hidden $*","w2":"wield Tree sword as lefthand","kw":"kill elf","sa":"sac corpse","id":"identify $*","g":"get all from corpse","w1":"wield gao yuan sword as righthand","yy":"perform hundred palm.attack on stake","y":"perform hundred palm.attack on $*","rem":"remember $*",])
-dbase (["last_from":"130.40.130.220","time_aged":17382997,"creation_time":1207280760,"last_on":1245287830,"body":"/obj/user","board_last_read":(["wizard":1237315134,]),"id":"tzr","name":"天下第一呆","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1245287828
-password "$1$12967977$Bq79Ou06P5lgnIQ85sE9z."
-email "@"
-window (["terminal_type":"zmud","width":152,"height":44,])

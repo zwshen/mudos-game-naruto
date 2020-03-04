@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["c":"consider $1","t2":"transfer 2","pow":"perform strength.powerup","ll":"look corpse $1","sk":"skills","sa":"sell all","rm":"remember $1","/":"recall","t1":"transfer 1","uw":"unwield","mv":"move $1","bal":"balance",])
-dbase (["time_aged":2375860,"id":"kuso","name":"®w©Ò","board_last_read":(["newbie":1136481011,"wizard":1151395598,"propose":1148557370,"_MITE_":1151039075,"design":1150693458,"ayumi":1120542699,"bug":1151492395,"tmr":1144575983,"chat":1149650037,"acme":1149251531,]),"last_from":"108.135.121.59","last_on":1152325430,"body":"/obj/user","channels":({"aucc","chat",}),"creation_time":1149415139,])
-password "$1$40885925$HOpCwI3DDaOzbd2MCoUzg."
-email "knick@ms5.url.com.tw"

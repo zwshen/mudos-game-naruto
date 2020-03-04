@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor","aucc",}),"time_aged":3192,"last_on":1239027573,"body":"/obj/user","id":"supoo","name":"Ä¬´¶³á","creation_time":1239024405,"last_from":"132.0.43.114",])
-my_body 
-last_age_set 1239027573
-password "$1$78334004$.NVGh697JIEjzX8LbVlX/1"
-email "@"
-window (["freeze":1,"width":152,"terminal_type":"zmud","height":31,])

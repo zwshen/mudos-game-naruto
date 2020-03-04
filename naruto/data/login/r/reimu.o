@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse","con":"consider $*",])
-dbase (["time_aged":1055,"board_last_read":(["newbie":1128936709,]),"id":"reimu","name":"ÆF¹Ú","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1160668316,])
-password "$1$30289726$qmwL1Podhl.ZuDV/QVIZl0"
-email "willy-way@yahoo.com.tw"

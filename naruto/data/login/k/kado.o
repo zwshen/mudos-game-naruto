@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gg":"get all from corpse","f":"fight $*","g":"get all from corpse","un":"unwield rod","sk":"skills $*","h":"sac corpse","rod":"wield rod",])
-dbase (["last_from":"131.128.114.59","channels":({"chat","rumor",}),"creation_time":1135952759,"id":"kado","name":"дцеJ","last_on":1137428570,"body":"/obj/user","time_aged":1122867,"board_last_read":(["wizard":1132743373,"ayumi":1120542699,"chat":1133923712,"bug":1124281552,"tmr":1134409039,"propose":1130204695,"acme":1136370213,"newbie":1128936709,]),])
-password "$1$91828896$8AG13Y7fRQAqYOBkSH.o71"
-email "kado13224@yahoo.com.tw"

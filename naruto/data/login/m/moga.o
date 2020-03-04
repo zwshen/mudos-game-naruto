@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["w2":"wield green dragon sword as lefthand","ke":"kill elf","g":"get all from corpse $*","pd":"perform dragon-head draw.summon on $*","tunemap":"option map_hidden $*","rem":"remember $*","sa":"sac corpse","p":"perform dragon-head draw.summon on $*","pp":"perform dragon-head draw.advance $1 $2 $3 0","y":"perform psychical bullet.shoot on $*","w1":"wield jiao ji blade as righthand",])
-dbase (["time_aged":12816334,"creation_time":1236479646,"name":"ฒ๖นว","id":"moga","body":"/obj/user","channels":({"chat","rumor","aucc","war",}),"board_last_read":(["propose":1237364643,"wizard":1185607006,]),"last_on":1249295966,"last_from":"130.40.130.220",])
-my_body 
-last_age_set 1249295964
-password "$1$96388843$oe6AmiD6jbIU6yM9m5c1c/"
-email "@"
-window (["terminal_type":"zmud","width":152,"height":31,])

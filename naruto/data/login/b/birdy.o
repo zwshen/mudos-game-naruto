@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["un":"unwield $*","f":"finger $*","re":"remove all","pl":"perform ninja.leave","/":"recall","gt":"get all from corpse $*","ggg":"say ©_Ëb(hirehxh)§i¶D§A¡Rrecall","sl":"sell all","pf":"perform ninja.feed $*","pc":"perform ninja.call","cc":"sac corpse","rs":"recall start","pb":"put $* in bag","gl":"get all","gb":"get $* from bag","tr":"transfer $*","ps":"perform ninja.state",])
-dbase (["last_on":1142178024,"time_aged":7835315,"board_last_read":(["newbie":1136481011,"bug":1133521888,"wizard":1132743373,"_MITE_":1131786296,"propose":1131721575,"tmr":1131615637,"chat":1132977027,"acme":1131028120,"ayumi":1120542699,]),"id":"birdy","name":"ªi§Ì","channels":({"chat","rumor","aucc",}),"creation_time":1128942561,"body":"/obj/user","last_from":"70.204.85.210",])
-password "$1$14807491$3nDG0LbuXDBK1IwmQvU4I/"
-email "ro911005@yahoo.com.tw"

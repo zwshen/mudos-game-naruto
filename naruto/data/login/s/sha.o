@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mm2":"option map_unfreeze 1",".":"enable combat with electric variation","000":"perform concrete.feed","7":"perform eaves family.family","cc":"chat* 操著一口不是很流利的中文說道：$*","77":"perform eaves family.destruct","3":"use mp help","pub":"put all in bag $*","gub":"get all from bag $*","sk":"skills","ch":"charge $*","9":"perform psychical bullet.shoot on $*","lj":"look 機關紙","ma2":"option map_hidden 1","gb":"get all from bag",",":"enable combat","wl2":"wield lance as twohanded","0":"perform destory fist.attack on $*","mm1":"option map_unfreeze 0","wg1":"wield gao yuan sword","1":"use ap help","ge":"get all from corpse $*","wi2":"wield blade as twohanded","tt":"team talk $*","8":"perform body strength.powerup","ma1":"option map_hidden 0","con":"consider $*","sa":"sac corpse","id":"identify $*","idn":"identify $*","wg2":"wield gao yuan sword 2 as lefthand","2":"use hp help",])
-dbase (["last_from":"50.110.59.210","time_aged":29398711,"creation_time":1130046260,"signature":"","last_on":1246869242,"board_last_read":(["bug":1242216185,"design":1154116971,"acme":1188005608,"chat":1237659377,"newbie":1136481011,"ayumi":1120542699,"tmr":1174093857,"_MITE_":1188848484,"propose":1240917122,"byron":1177702512,"wizard":1239465932,]),"body":"/obj/user","name":"雪代緣","id":"sha","channels":({"rumor","aucc","music","chat","war","news",}),"profile":"",])
-my_body 
-last_age_set 1247256249
-password "$1$3188681$IhE8sLmNW55LHalhhQr4z0"
-email "ddqwr@..w.w.w"
-window (["terminal_type":"vt100","width":125,"height":46,])

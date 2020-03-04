@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["/":"recall","opt3":"option map_hidden 1","opt2":"option map_unfreeze 0","opt1":"option map_unfreeze 1","m":"eat heal hp pill","t5":"perform dragon-head draw.summon on $*","t":"perform destory fist.attack on $*","mm":"use hp help","t6":"perform body strength.powerup","opt4":"option map_hidden 0",])
-dbase (["time_aged":11206824,"creation_time":1238071987,"name":"дEды","id":"ninemoon","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["_MITE_":1241331390,"propose":1245913026,"acme":1240128067,"chat":1237659377,"bug":1246069199,"design":1154116971,"wizard":1239465932,]),"last_on":1249254971,"last_from":"25.102.8.124",])
-my_body 
-last_age_set 1249278805
-password "$1$42200133$TbsWhGBxjWh66ecVK/v9N1"
-email "ninemoon@hotmail.com"
-window (["terminal_type":"zmud","width":122,"height":45,])

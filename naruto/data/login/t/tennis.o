@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["stdo":"perform animal taming.state","skc":"team talk ¡i¶¤¥î¡jªü­D¡Rk cock","mapon":"option map_unfreeze 0","pp":"perform cell activation.ca $*","ww":"wield axe as twohanded","krb":"team talk ¡i¶¤¥î¡jªü­D¡Rk crab","ssap":"team talk ¡i¶¤¥î¡jªü­D¡RAdd AP","fedo":"perform animal taming.feed $*","sa":"sac corpse $*","g":"get all from corpse $*","sap":"eat chicken $*","mapoff":"option map_unfreeze 1",])
-dbase (["time_aged":785587,"body":"/obj/user","id":"tennis","name":"»Q©gµ·","last_on":1239861974,"channels":({"chat","rumor",}),"last_from":"207.93.70.203","creation_time":1190996366,])
-my_body 
-last_age_set 1239993985
-password "$1$7830690$tjC7ZKAcx1lm4o7y.H2oz/"
-email "ncs@ncs.com"
-window (["terminal_type":"zmud","width":121,"height":44,])

@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":3141,"board_last_read":(["byron":1174327632,"newbie":1136481011,]),"body":"/obj/user","name":"«z","id":"monkuy","last_on":1203517972,"channels":({"chat","rumor",}),"last_from":"230.235.21.163","creation_time":1203516364,])
-my_body 
-last_age_set 1239779351
-password "$1$2837797$AcM.lhS7K0iiJ2ZZ.NTNd0"
-email "putt@hotmail.com"
-window (["freeze":1,"terminal_type":"vt100","width":157,"height":64,])

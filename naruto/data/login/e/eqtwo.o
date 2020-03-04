@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":1244166,"creation_time":1178078048,"last_from":"162.13.120.59","last_on":1236516919,"body":"/obj/user","name":"裝備機機","id":"eqtwo",])
-my_body 
-last_age_set 1236516917
-password "$1$62546628$yjP68kLXYkpTsY/Ax/yqY/"
-email "1@hotmail.com"
-window (["terminal_type":"zmud","width":85,"height":23,])

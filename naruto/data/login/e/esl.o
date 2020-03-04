@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":437,"creation_time":1237529965,"body":"/obj/user","name":"¤M","id":"esl",])
-my_body 
-last_age_set 1237530295
-password "$1$99188367$eDq18E6fCXpdQypsdDiIu1"
-email "eslazsss@yahoo.com.tw"
-window (["terminal_type":"ANSI","freeze":1,"width":80,"height":25,])

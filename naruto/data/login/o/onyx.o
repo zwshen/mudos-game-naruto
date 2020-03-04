@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ll":"look corpse $*","g":"get all from corpse $*","pp":"time","f":"fight $*","p":"sac corpse $*",])
-dbase (["channels":({"chat","rumor","aucc",}),"name":"¼Ú¥§§J´µ","id":"onyx","last_on":1133692797,"creation_time":1131849490,"board_last_read":(["tmr":1131615637,"_MITE_":1131786296,"wizard":1132743373,]),"last_from":"12.13.124.140","time_aged":1246038,"body":"/obj/user",])
-password "$1$37099384$muJDwzEukL5xE117xI4Vl/"
-email "kkkkk@kkkk"

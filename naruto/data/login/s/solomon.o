@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":3643250,"board_last_read":(["byron":1177702512,"design":1154116971,]),"last_from":"45.22.204.123","body":"/obj/user","last_on":1235225381,"name":"ณJจะ","invis":1,"id":"solomon","channels":({"chat","rumor","wiz","sys",}),"creation_time":1174460949,])
-my_body 
-last_age_set 1235225381
-password "$1$23158139$WMv0Q.urVs403Gha5PaAt/"
-email "solomon@hxh.mud"
-window (["terminal_type":"zmud","width":153,"height":34,])

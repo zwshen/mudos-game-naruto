@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ku":"transfer 2","sr":"search","on":"option map_unfreeze 0","phh":"perform force.hin on $*","wt":"wield $* as twohanded","iw":"wield $* as lefthand","o":"hp","t2":"transfer 2","sa":"sac corpse","co":"consider $*","wii":"unwield $*","g":"get all from corpse","wi":"wield $*","re":"remove $*","q":"consider snake","off":"option map_unfreeze 1",])
-dbase (["last_on":1143470784,"board_last_read":(["newbie":1136481011,"wizard":1140511389,"_MITE_":1130219802,"propose":1117285286,"ayumi":1120542699,]),"time_aged":1067857,"name":"·Æ¹«","id":"mouses","channels":({"chat","rumor","aucc","news",}),"creation_time":1142442727,"body":"/obj/user","last_from":"85.238.132.220",])
-password "$1$18040302$WkrkSA4bqnmWcV6rbF1Vj/"
-email "clawhealers@yahoo.com.tw"

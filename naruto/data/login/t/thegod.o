@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["c":"sac corpse $*","re":"recall start $*","de":"deposit $1 silver","tran":"transfer $*","b":"balance $*","re1":"recall $*","u11":"perform alter ego.destruct $*","qin":"give qin 30 skin $*","id":"identify $*","skin":"put skin in bag $*","chi":"eat chicken $*","u1":"perform alter ego.shadow $*","head":"give head venom $*","g":"get all from corpse $*","psk":"proskills $*","rem":"remember $*",])
-dbase (["board_last_read":(["wizard":1212213844,"tmr":1174093857,"bug":1213114984,"byron":1178289846,"_MITE_":1188848484,"propose":1211983359,"design":1154116971,"newbie":1173805427,"chat":1186466886,"acme":1188005608,"ayumi":1120542699,]),"channels":({"chat","rumor","aucc","news","war",}),"creation_time":1128439967,"last_from":"219.175.224.61","body":"/obj/user","name":"ธtคั","id":"thegod","last_on":1214054293,"time_aged":10181998,])
-password "$1$42118266$77YXT5Cza6177kRk3n6Sg1"
-email "t1johnjohn@yahoo.com.tw"

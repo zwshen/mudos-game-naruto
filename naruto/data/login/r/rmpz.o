@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["hea2":"perform ninja.feed heart","sta":"perform ninja.state","radish":"wield radish as lefthand","/":"recall","gg":"get all from corpse","dog":"score dog","bag2":"get all from bag 2","lun2":"perform ninja.feed lung","hea":"get heart from bag","bag1":"get all from bag","scor":"sac corpse","sk":"skills","lea":"perform ninja.leave","lun":"get lung from bag",])
-dbase (["time_aged":15644121,"board_last_read":(["bug":1235312554,"design":1154116971,"acme":1188005608,"chat":1237659377,"_MITE_":1188848484,"tmr":1174093857,"ayumi":1120542699,"byron":1177702512,"newbie":1136481011,"propose":1237364643,"wizard":1234523588,]),"body":"/obj/user","id":"rmpz","name":"¬P·R¶³","channels":({"chat","rumor","aucc","war",}),"last_on":1239991134,"last_from":"25.192.41.114","creation_time":1130432005,])
-my_body 
-last_age_set 1239991133
-password "$1$29196404$l.Vz2yuHIZBllA0/OtxRB1"
-email "rmpz@pchome.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":74,"height":34,])

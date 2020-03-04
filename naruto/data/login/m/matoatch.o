@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["801":"perform hundred palm.attack on $*","gg":"get all from corpse","b":"remember $*","m2":"option map_unfreeze 1","m4":"option map_hidden 0","´¼¼z":"http://thecrap.org/","v":"assign $*","sa":"sac corpse","r":"perform animal taming.feed $*","902":"perform animal taming.call","sm":"score _MY_PET_","VmWare":"http://www28.discuss.com.hk/viewthread.php?tid=7132496","903":"perform animal taming.leave","m3":"option map_hidden 1","m1":"option map_unfreeze 0","901":"perform animal taming.state",])
-dbase (["time_aged":26335710,"body":"/obj/user","board_last_read":(["bug":1213114984,"design":1154116971,"chat":1186466886,"_MITE_":1188848484,"newbie":1136481011,"propose":1211983359,"wizard":1234965474,]),"id":"matoatch","name":"¬y®öº~","channels":({"chat","rumor","aucc",}),"last_on":1241233867,"last_from":"96.12.169.118","creation_time":1213180162,])
-my_body 
-last_age_set 1241233867
-password "$1$76808610$0/EBZpSxj9Yx0ILDgZr1T/"
-email "colagod@gmail.com"
-window (["freeze":1,"terminal_type":"zmud","width":203,"height":66,])

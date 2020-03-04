@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["c":"perform ninja.$*","z":"perform ninja.dp","g":"get all","a":"get venom from corpse $*","con":"consider $*","1":"enable ninja with animal taming","2":"enable ninja with double physique","ide":"identify $*","p":"sac corpse","x":"perform ninja.ca","cs":"perform ninja.state","gc":"get venom from corpse $*","scc":"score _MY_PET_","q":"team with intel","3":"enable ninja with cell activation","ga":"get all from corpse $*",])
-dbase (["time_aged":6751046,"id":"chivas","name":"©_¥Ë¤h","board_last_read":(["wizard":1143254649,"propose":1148557370,"_MITE_":1142224362,]),"last_from":"87.163.132.220","last_on":1149279347,"body":"/obj/user","channels":({"aucc",}),"creation_time":1142168673,])
-password "$1$3294116$cB5cCR1IwzEEww817eTGh0"
-email "north2.tw@yahoo.com.tw"

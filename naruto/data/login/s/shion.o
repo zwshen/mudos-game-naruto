@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["um1":"option map_unfreeze 0","gc":"get all from corpse","um2":"option map_unfreeze 1","kk":"kill elf","ec":"eat chicken","wl":"who -l",])
-dbase (["creation_time":1234237771,"time_aged":9621471,"body":"/obj/user","board_last_read":(["ayumi":1120542699,"_MITE_":1188848484,"design":1154116971,"acme":1188005608,"chat":1237659377,"tmr":1174093857,"bug":1243516951,"wizard":1239465932,"propose":1240917122,]),"id":"shion","name":"µµ­b","channels":({"chat","rumor","aucc",}),"last_from":"76.151.104.59","last_on":1243859214,])
-my_body 
-last_age_set 1243859214
-password "$1$16110008$.8v37jSKfVp79xTbvN9t/1"
-email "shion@xenosaga.com"
-window (["terminal_type":"vt100","width":103,"height":32,])

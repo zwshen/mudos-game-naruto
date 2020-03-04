@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["mm2":"option map_unfreeze 1","0":"perform chivy tiger.attack on $*","sa":"sac corpse","id":"identify $*","pub":"put all in bag","ma2":"option map_hidden 1","mm1":"option map_unfreeze 0","ge":"get all from corpse","ma1":"option map_hidden 0",])
-dbase (["last_from":"50.110.59.210","time_aged":11761217,"creation_time":1177563397,"last_on":1245147203,"board_last_read":(["tmr":1174093857,"bug":1184844690,"propose":1186012074,"wizard":1186179534,]),"body":"/obj/user","id":"lin","name":"ªL®ü®p","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1245147202
-password "$1$26306812$jl/8OTofp59ue.H.wZre90"
-email "tsk@.w.w"
-window (["terminal_type":"VT100","width":125,"height":46,])

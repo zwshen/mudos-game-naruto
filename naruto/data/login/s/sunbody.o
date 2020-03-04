@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse $*","m1":"move 1","c":"consider $*","r1":"remember 1","9":"enable ninja with animal taming","r2":"remember 2","0":"identify $*","z":"sac corpse $*","m2":"move 2",])
-dbase (["last_on":1201058619,"last_from":"121.76.122.140","channels":({"chat","rumor","aucc",}),"creation_time":1128247940,"body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1186426960,"bug":1128953150,"ayumi":1120542699,"propose":1130204695,"acme":1116031176,"chat":1123993602,]),"name":"нт","id":"sunbody","time_aged":7899985,])
-password "$1$25757029$AwxtUt137OAOWG//NjKOP1"
-email "@"

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["q3":"perform ninja.leave","ech":"eat chicken","道具總覽":"query -obj","搜索":"search","鯨魚島":"transfer 2","q7":"order dog to wield sword 1 as righthand","putall":"put all in bag","ide":"identify $*","q6":"score _MY_PET_","裝備總覽":"query -eq","武器總覽":"query -wp","w1":"wield radish as righthand","w3":"wield whitesnake lance as twohanded","w4":"wield sword 1 as righthand","scm":"balance","q9":"order dog to unwield sword","存款":"balance","s2":"option map_hidden 1","sk":"skills","getall":"get all from bag","w2":"wield radish 2 as lefthand","w5":"wield sword 2 as lefthand","q8":"order dog to wield sword 2 as lefthand","q2":"perform ninja.call","q4":"perform ninja.feed $*","con":"consider $*","pd":"perform four foot.beast","q5":"perform ninja.state","rem":"remove $*","s1":"option map_hidden 0","q1":"i _MY_PET_","q0":"order dog to give yan sword","pe":"perform double fang.atwirl on $*",])
-dbase (["time_aged":42122461,"creation_time":1158227234,"id":"yan","name":"掰咖","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1188848484,"propose":1200749923,"ayumi":1120542699,"acme":1171887794,"tmr":1150731334,"byron":1177702512,"wizard":1238261452,]),"profile":"在某年某月的某一天，小明因為被車子撞到，因而掰咖。。。","last_on":1248925842,"last_from":"180.173.171.218",])
-my_body 
-last_age_set 1248925842
-password "$1$8627123$J/5p3Qn8Sxtg1Ld4SCgND0"
-email "describe"
-window (["freeze":1,"terminal_type":"vt100","width":141,"height":54,])

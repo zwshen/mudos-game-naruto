@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":232820,"body":"/obj/user","id":"rdx","name":"¡Ð¡Ä¡Ð","channels":({"chat","rumor",}),"last_on":1240270662,"last_from":"58.105.105.59","creation_time":1240037940,])
-my_body 
-last_age_set 1240270662
-password "$1$40753488$Ig8MD5ME8QCDGov25B1ov0"
-email "lsp0317@hotmail.com"
-window (["terminal_type":"ZMUD","freeze":1,"width":108,"height":32,])

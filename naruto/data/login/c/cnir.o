@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":5394705,"signature":"","creation_time":1243812842,"id":"cnir","name":"四度空間","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["_MITE_":1241331390,]),"last_on":1249207523,"profile":"q","last_from":"156.105.37.114",])
-my_body 
-last_age_set 1249207523
-password "$1$99227205$b4a3Af4dWgbVRmRtcnlq2."
-email "chfn"
-window (["terminal_type":"vt100","freeze":1,"width":125,"height":46,])

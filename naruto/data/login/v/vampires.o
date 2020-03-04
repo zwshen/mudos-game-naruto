@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["lp":"look corpse","z":"remember $*","p":"sac corpse","re":"recall","upt":"time","gg":"get all from corpse","a":"perform body strength.powerup",])
-dbase (["last_from":"169.144.204.123","time_aged":12001099,"creation_time":1235122126,"last_on":1245571816,"body":"/obj/user","board_last_read":(["wizard":1236177249,]),"name":"無名天使３Ｄ","id":"vampires","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1247123200
-password "$1$43587235$GVq/t9.S5xwlTNi5VBqJI."
-email "image7373@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

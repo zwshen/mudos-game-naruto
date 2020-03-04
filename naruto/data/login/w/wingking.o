@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["a":"identify $1","stop":"halt","上吊":"emote 不知從那裡拿出繩子，上吊去了","ga":"get all","c":"consider $1","ps":"proskills","gc":"get all from corpse","sw":"stop",])
-dbase (["time_aged":7857057,"body":"/obj/user","id":"wingking","name":"絕望少年","last_on":1241846527,"channels":({"chat","rumor",}),"last_from":"185.30.190.218","creation_time":1233989518,])
-my_body 
-last_age_set 1241846525
-password "$1$93430905$5PEgUlTo1qO9IsxuZXpUi/"
-email "lala9lala@yahoo.com.hk"
-window (["terminal_type":"vt100",])

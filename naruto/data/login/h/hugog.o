@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["c":"consider $1","ga":"get all from corpse","de":"deposit $1 silver","ga3":"get all from corpse 3","ga2":"get all from corpse 2",])
-dbase (["last_from":"83.134.224.61","channels":({"chat","rumor",}),"creation_time":1140098708,"last_on":1140632278,"id":"hugog","name":"¼C»î","body":"/obj/user","time_aged":200699,"board_last_read":(["wizard":1140511389,"tmr":1130154967,"ayumi":1120542699,"newbie":1136481011,"acme":1115745789,]),])
-password "$1$66808871$./qnglQQCSxm5UGlcsz3o0"
-email "hugog.tw@yahoo.com.tw"

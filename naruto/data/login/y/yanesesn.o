@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pb1":"put $* in bag 2","m2":"move 2","r2":"recall","oo":"outward yanlin $1","rem":"remember","r1":"recall start","re2":"remember 2","mapon":"option map_unfreeze 0","re1":"remember 1","gc":"get all from corpse","pb":"put $* in bag","gb1":"get $* from bag 2","q":"quest $1","\\\\":"outward yanlin $*","a":"answer $1 $2","m1":"move 1","gb":"get $* from bag",])
-dbase (["time_aged":3545675,"board_last_read":(["acme":1115787696,"bug":1180176737,"tmr":1130172905,"design":1154116971,"chat":1175828718,"newbie":1136481011,"wizard":1177493711,"byron":1177702512,"ayumi":1120542699,"propose":1178173271,]),"last_from":"16.193.193.123","last_on":1235029919,"body":"/obj/user","name":"©t»î³¥°­","id":"yanesesn","channels":({"chat","rumor","aucc",}),"creation_time":1177881869,])
-my_body 
-last_age_set 1235029919
-password "$1$94973040$Lgui2GR5TDyyZD6c0IuaA/"
-email "f8970022@yahoo.com.tw"
-window (["terminal_type":"vt100","width":111,"height":39,])

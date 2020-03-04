@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_on":1249289518,"time_aged":543,"last_from":"96.34.130.140","creation_time":1249289036,"name":"¤j¦P","id":"wemee",])
-my_body 
-last_age_set 1249289518
-password "$1$1107299$T3fEwKyEZFY4w8qMBs8Ni."
-email "wemee.tw@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":157,"height":66,])

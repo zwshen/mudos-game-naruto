@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sc1":"perform animal taming.state","call":"perform animal taming.call","feed":"perform animal taming.feed $*","leave":"perform animal taming.leave",])
-dbase (["channels":({"chat","rumor","aucc",}),"body":"/obj/user","time_aged":5248908,"last_on":1248816408,"last_from":"78.235.104.59","creation_time":1243567578,"name":"¢ß¡Ä¢ß","id":"qxq",])
-my_body 
-last_age_set 1248816406
-password "$1$99257049$EWSLhXvCdhQGSyQ2Di4hM."
-email "lsp0317@hotmail.com"
-window (["terminal_type":"ZMUD","width":108,"height":31,])

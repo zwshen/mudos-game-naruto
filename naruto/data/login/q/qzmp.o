@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["omh":"option map_hidden $*","omu":"option map_unfreeze $*",])
-dbase (["time_aged":14321448,"creation_time":1234460082,"id":"qzmp","name":"µo§b¤G¥@","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"propose":1211983359,"chat":1186466886,"bug":1234803985,"design":1154116971,"wizard":1237369012,]),"last_on":1248781510,"last_from":"168.178.44.114",])
-my_body 
-last_age_set 1248781508
-password "$1$67803153$9Pn8LN6X4XI6SR8Z3EA8x."
-email "s1213032@ncnu.edu.tw"
-window (["terminal_type":"zmud","freeze":1,"width":153,"height":54,])

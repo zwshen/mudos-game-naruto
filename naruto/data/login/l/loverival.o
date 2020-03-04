@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["adv":"help advance",])
-dbase (["last_from":"83.235.104.59","channels":({"chat","rumor","aucc",}),"time_aged":13087754,"creation_time":1137002979,"last_on":1246978131,"body":"/obj/user","name":"±¡¼Ä","id":"loverival",])
-my_body 
-last_age_set 1246978130
-password "$1$55287716$JIEjOx/bdv.WmyHOkY3H8/"
-email "loverival@hotmail.com"
-window (["freeze":1,])

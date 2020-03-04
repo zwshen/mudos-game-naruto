@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","gogo":"transfer 2","off":"option map_unfreeze 1",])
-dbase (["last_on":1142699656,"time_aged":782607,"id":"claw","name":"§ì¤l","channels":({"chat","rumor","aucc",}),"creation_time":1142697689,"body":"/obj/user","profile":"","last_from":"133.182.223.61","signature":"",])
-password "$1$93846474$T301ydG2B9fkcjwcXsYip1"
-email "clawhealers@msn.com"

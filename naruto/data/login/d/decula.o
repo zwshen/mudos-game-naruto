@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["mapunhide":"option map_hidden 0","maphide":"option map_hidden 1","dep":"deposit $1 silver","aa":"eat manto","a":"eat chicken","mapon":"option map_unfreeze 0","q":"wear all","mapoff":"option map_unfreeze 1",])
-dbase (["body":"/obj/user","last_from":"216.107.140.220","creation_time":1179057890,"time_aged":3252236,"name":"¼w¥j©Ô","id":"decula","board_last_read":(["wizard":1177493711,"bug":1180176737,]),"last_on":1182775774,"channels":({"chat","rumor","aucc",}),])
-password "$1$83346858$mLTOHrNkIhKqnh5OU934q."
-email "yzngbolamac@yahoo.com.tw"

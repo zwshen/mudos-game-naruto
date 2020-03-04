@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["off":"option map_unfreeze 1","on1":"option map_hidden 0","off1":"option map_hidden 1","on":"option map_unfreeze 0",])
-dbase (["channels":({"chat","rumor",}),"last_from":"17.127.117.59","creation_time":1144666086,"last_on":1203531777,"body":"/obj/user","name":"³·®V","id":"kimo","time_aged":388,])
-password "$1$64737022$TBcTFW/FQrYsBiA2DftfM0"
-email "l@l.c"

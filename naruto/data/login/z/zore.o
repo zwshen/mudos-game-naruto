@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","h":"halt","4":"eat middle ap pill","1":"eat hp pill","q":"get all from corpse","2":"eat ap pill","gc":"get all from corpse","off":"option map_unfreeze 1","3":"hp","ii":"identify $*","sk":"skills","sa":"sac corpse","g":"get $* from corpse",])
-dbase (["time_aged":3956112,"board_last_read":(["bug":1139305926,"_MITE_":1188848484,"tmr":1134409039,"newbie":1128936709,"propose":1193820020,"wizard":1190540385,]),"body":"/obj/user","id":"zore","name":"­¸µ¾","last_on":1239855008,"channels":({"chat","rumor",}),"last_from":"150.39.43.115","creation_time":1136039851,])
-my_body 
-last_age_set 1239855008
-password "$1$86592386$XgrHN4NKC2F0pnay0jAw70"
-email "rose@"
-window (["terminal_type":"vt100","width":125,"height":46,])

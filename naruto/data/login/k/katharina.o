@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["f":"fishing",])
-dbase (["last_on":1237730529,"time_aged":1838376,"body":"/obj/user","name":"¹ÅÌHÄR®R","id":"katharina","channels":({"chat","rumor",}),"last_from":"130.131.41.114","creation_time":1235892304,])
-my_body 
-last_age_set 1237730529
-password "$1$82015688$jD6GaNo2Xj9Tzj76hz0CI/"
-email "kevin-popo@yahoo.com.tw"
-window (["terminal_type":"vt100","width":157,"height":66,"freeze":1,])

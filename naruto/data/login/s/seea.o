@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["body":"/obj/user","channels":({"chat","rumor","news","aucc",}),"last_on":1249223632,"time_aged":18583686,"creation_time":1175666933,"last_from":"143.192.174.218","name":"¦è®J","id":"seea",])
-my_body 
-last_age_set 1249223631
-password "$1$55918509$FaRl2lVP2IogMjHBcm14L1"
-email "bawcuppe@yahoo.com.tw"
-window (["terminal_type":"zmud","freeze":1,"width":120,"height":42,])

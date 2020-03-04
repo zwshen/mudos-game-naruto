@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["time_aged":399299,"board_last_read":(["acme":1186040766,"bug":1186997961,"tmr":1174093857,"design":1154116971,"chat":1186466886,"newbie":1136481011,"wizard":1187452210,"byron":1177702512,"ayumi":1120542699,"propose":1187446639,]),"last_from":"156.145.192.123","name":"ãn§ø¼C¤ß","body":"/obj/user","last_on":1235176922,"id":"kenshin","channels":({"chat","rumor","aucc",}),"creation_time":1187023264,])
-my_body 
-last_age_set 1235176920
-password "$1$66657706$93IWXTqpH9JZ19TUXUC0C."
-email "ww@w.w.w"
-window (["terminal_type":"vt100","width":125,"height":46,])

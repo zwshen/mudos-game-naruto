@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["id":"bert","name":"¿½®p","creation_time":1215407607,"body":"/obj/user","channels":({"chat","rumor",}),])
-my_body 
-last_age_set 1215406333
-password "$1$14508130$C6JzKwyE5TvAaNMv.ZoOz0"
-email "hzlee@mail.batol.net"
-window (["width":80,"height":24,"terminal_type":"VT100",])

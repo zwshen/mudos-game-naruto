@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pb":"put all in bag","sk":"skills","ct":"chat $HIY$@為了世界和平@ $HIC$$* $HIY$@斬盡天下老鼠@","gb":"get all from bag",])
-dbase (["last_from":"149.145.228.220","time_aged":768930,"last_on":1245923317,"creation_time":1128513198,"board_last_read":(["acme":1176111412,"chat":1175828718,"newbie":1130565369,"ayumi":1120542699,"tmr":1174093857,"_MITE_":1130296684,"propose":1130207511,"wizard":1186426960,]),"body":"/obj/user","id":"amas","name":"愛馬士","channels":({"chat","rumor","aucc","war",}),])
-my_body 
-last_age_set 1245923317
-password "$1$53271274$Y0lNCB3ewknktvHGh.8PE1"
-email "@"
-window (["terminal_type":"zmud","width":174,"height":33,])

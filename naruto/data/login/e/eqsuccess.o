@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","wa":"transfer $*","off":"option map_unfreeze 1",])
-dbase (["channels":({"chat","rumor","aucc",}),"time_aged":1250088,"creation_time":1176568505,"last_from":"162.13.120.59","last_on":1236516907,"body":"/obj/user","name":"¸Ë³Æ¾÷","id":"eqsuccess",])
-my_body 
-last_age_set 1236516905
-password "$1$22647718$5Iy6.6wgjaU.LzKRrOs4y1"
-email "1@y.com"
-window (["terminal_type":"zmud","width":85,"height":23,])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills","g":"get all from corpse","fi":"fight $*","adv":"advance $*","cs":"consider $*","sac":"sac corpse",])
-dbase (["last_on":1163479713,"time_aged":25207,"board_last_read":(["newbie":1136481011,"ayumi":1120542699,"tmr":1130154967,"wizard":1117683990,"bug":1115967361,]),"creation_time":1163468715,"last_from":"153.60.104.59","name":"¯«Ã¹","id":"sharo","body":"/obj/user","channels":({"chat","rumor",}),])
-password "$1$31042798$r4Br7iBOicJGZ6sT/FmPA1"
-email "@"

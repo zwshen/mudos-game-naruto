@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["un":"unwield","gt":"get all from corpse","rs":"recall start","f":"finger $*","/":"recall","backback":"say 奇犽(hirehxh)告訴你﹕recall","pb":"put $* in bag","re":"remove all","gb":"get $* from bag",])
-dbase (["board_last_read":(["acme":1134208356,"tmr":1134409039,"wizard":1132743373,"bug":1133521888,"newbie":1128936709,]),"channels":({"chat","rumor",}),"creation_time":1131765297,"last_from":"5.165.71.219","last_on":1188218280,"body":"/obj/user","id":"jellyboy","name":"小男孩","time_aged":1736290,])
-password "$1$93217671$vMlhiTcssXmRAMlzLKXqh1"
-email "@"

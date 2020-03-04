@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ok2":"say 溜完了","g2":"get all from corpse 2","r":"recall","g":"get all from corpse","g4":"get all from corpse 4","co":"consider $*","sa":"sac all","ps":"perform hundred palm.attack on $*","1":"say 幫忙","g3":"get all from corpse 3","ok":"say 拔完了",])
-dbase (["channels":({"chat","war",}),"creation_time":1209789390,"board_last_read":(["propose":1186825182,"chat":1186466886,"acme":1188005608,"_MITE_":1130219802,"bug":1210118053,"ayumi":1120542699,"newbie":1136481011,"wizard":1209379195,]),"last_on":1212577753,"last_from":"144.136.244.124","body":"/obj/user","id":"leokachun","name":"小波","time_aged":667347,])
-password "$1$54843243$FeMfkCJqXlV36dlrE.FbP0"
-email "leowankachun@gmail.com"

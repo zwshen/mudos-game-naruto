@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["1":"cd sandhole","rem":"remove $*","11":"recall start","sk":"skills","g":"get all from corpse $*",])
-dbase (["time_aged":1452243,"body":"/obj/user","board_last_read":(["tmr":1132472571,"aring_b":1130860287,"acme":1133012398,"propose":1130207511,"board":1131611641,"wizard":1140511389,"chat":1133923712,]),"id":"aring","name":"¤@Å@","channels":({"chat","rumor","aucc","wiz","sys",}),"last_on":1240689147,"last_from":"238.100.183.124","creation_time":1129972230,])
-my_body 
-last_age_set 1240689147
-password "$1$68644845$CzksM9ybsJyJphlWOsqPe1"
-email "pk@m.com"
-window (["terminal_type":"vt100","width":157,"height":34,])

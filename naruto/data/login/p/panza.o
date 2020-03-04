@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["silver":"get silver from corpse","foot":"get foot from corpse","sacc":"sac corpse","kcock":"k cockroach","fur":"get fur from corpse","gall":"get gall from corpse","skin":"get skin from corpse","tooth":"get tooth from corpse","tail":"get tail from corpse","egg":"get egg from corpse","ga":"get all","gut":"get gut from corpse","meat":"get meat from corpse","eyes":"get eyes from corpse","shit":"get shit from corpse","snakebandage":"proskills first-aid snake_skin_bandage -m","roe":"get roe from corpse","head":"get head from corpse","antenna":"get antenna from corpse","armor":"get armor from corpse",])
-dbase (["time_aged":7696874,"body":"/obj/user","board_last_read":(["acme":1115745789,"_MITE_":1188848484,"tmr":1130154967,"byron":1177702512,"ayumi":1120542699,"newbie":1136481011,"propose":1240917122,"wizard":1239465932,]),"id":"panza","name":"¤j®v","channels":({"chat","rumor","aucc",}),"last_on":1241685869,"last_from":"231.193.123.122","creation_time":1233989026,])
-my_body 
-last_age_set 1241685869
-password "$1$28490091$dmEMTFwbm0UPW5n08mltF."
-email "z923007@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100",])

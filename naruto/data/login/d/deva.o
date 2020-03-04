@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"last_from":"61.231.49.97","body":"/obj/user","creation_time":1233915190,"name":"¼Ü","last_on":1233915380,"board_last_read":(["newbie":1136481011,"wizard":1214818337,]),"time_aged":238,"id":"deva",])
-my_body 
-last_age_set 1233915380
-password "$1$95626984$IWcLrg4b5BVFdkEl5gxYg."
-email "ekin.puma@msa.hinet.net"
-window (["freeze":1,])

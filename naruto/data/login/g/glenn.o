@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ll":"wield lance as twohanded","dr":"wield dagger","bl":"wield blade as twohanded","dl":"wield dagger 2 as lefthand","rr":"wield rod",])
-dbase (["channels":({"chat","rumor",}),"board_last_read":(["newbie":1136481011,"wizard":1128434403,]),"creation_time":1150062854,"last_from":"95.169.171.218","body":"/obj/user","id":"glenn","name":"­Å«µ","last_on":1194314389,"time_aged":1056364,])
-password "$1$94569356$m.uAL/zvvWNfWq3hB4eY80"
-email "glenn0207@hotmail.com"

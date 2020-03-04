@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ch":"charge $*","en":"enter ¯µ¥Þ","a":"use box","con":"consider $*","pet":"perform animal taming.call","state":"perform animal taming.state","leave":"perform animal taming.leave","feed":"perform animal taming.feed $*","pf":"perform muscle tank.attack on $*","rem":"remember $*","mt":"perform muscle tank.attack on $*","dp":"perform double physique.dp",])
-dbase (["time_aged":71367158,"creation_time":1128536985,"name":"¨¹³ì­¸","id":"bonjovi","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1188005608,"chat":1186466886,"bug":1239968374,"tmr":1174093857,"byron":1177702512,"design":1154116971,"wizard":1239465932,]),"last_on":1248595944,"last_from":"136.6.231.125",])
-my_body 
-last_age_set 1249285792
-password "$1$24929551$/L8W8.qN8pdZniGZuL2XH1"
-email "aa@yahoo.com.tw"
-window (["terminal_type":"zmud","freeze":1,])

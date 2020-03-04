@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["board_last_read":(["ayumi":1120542699,"byron":1177702512,"tmr":1234463389,"propose":1236014139,"wizard":1236177249,]),"time_aged":65132,"last_from":"75.107.70.219","last_on":1236326227,"body":"/obj/user","name":"¥@¬É","id":"world","channels":({"chat","rumor",}),"creation_time":1236261170,])
-my_body 
-last_age_set 1236326226
-password "$1$69211186$VEa78UvIsO15x0AXiWmRw1"
-email "@"
-window (["terminal_type":"vt100","width":117,"height":22,])

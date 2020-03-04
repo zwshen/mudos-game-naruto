@@ -1,25 +1,0 @@
-#/obj/user.c
-attribute (["con":74,"int":20,"dex":20,"str":30,])
-conditions ([])
-dbase (["gender":"male","target_score":(["dlevel":9,"combat exp":420500,]),"age":54,"nickname":"[37mÄÆ[35mµµ[37m¤ª[1;31mÅÊ[0;2m","guild":"hunter","level":29,"long":"§A Å¥ ¨ì ¤Ñ ªÅ ¤¤ ¶Ç ¨Ó ¤@ °} ¥i ©È ªº ©H ­ý¡@¡E¡E¡E¡E¡E¦º ¯« §N »Å §C ¨I ªº Án ­µ ¶Ç ¤J §A ªº ¦Õ ¤º ¡G                ·Q ­n ©R ªº ¡A §Ú ¥i ¥H µ¹ §A ­Ì ¤T ¤Q ¬í »° §Ö Â÷ ¶} §a ¡I ¡I                ¤£ µM ªº ¸Ü ¡A «á ªG ¦Û ¦æ ­t ³d ¡ã ¡ã","score":(["dlevel":3625,"elevel":501,"combat exp":393604,"survive":44311,"kills":26782,]),"bank":1423864,"race":"human","wimpy_dir":"east","id":"lic","time_aged":80878,"title":"©À¯à¤OªÌ","class":"hxh_intermediate","birthday":1163075602,"area_info":(["x_axis":14,"y_axis_old":6,"x_axis_old":14,"y_axis":6,]),"recoverroom":"/world/area/wizard/guildhall","name":"¤ô¸¨¤ª²ª","startroom":"/world/area/whale_island/hole",])
-masters ([])
-apprentices ([])
-skills (["solid":65,"eaves family":72,"continual hit":74,"dodge":92,"heavy hit":97,"concrete":97,"combat":75,"chamber fish":56,"parry":85,"savage hit":96,])
-learned (["solid":21410,"eaves family":12030,"continual hit":26580,"dodge":30587,"heavy hit":93279,"concrete":247700,"combat":20488,"chamber fish":13400,"parry":77553,"savage hit":93279,])
-skill_map (["concrete":"eaves family","parry":"solid",])
-skill_flag ([])
-skill_ability (["solid":5,"eaves family":5,"continual hit":5,"dodge":5,"heavy hit":6,"concrete":5,"combat":5,"chamber fish":5,"parry":5,"savage hit":6,])
-skill_require (["solid":21780,"eaves family":28125,"continual hit":86640,"dodge":132540,"heavy hit":144060,"concrete":500000,"combat":86640,"chamber fish":16820,"parry":110940,"savage hit":144060,])
-best_skill "concrete"
-st_maximum (["mp":600,"hp":740,"ap":700,])
-st_current (["mp":600,"hp":0,"ap":700,])
-st_notify (["mp":30,"hp":30,"ap":30,])
-st_point (["skill":6,"score":100,"learn":4226,"attribute":3,])
-st_quest (["level_p":([10:1,]),"prize":([4:1,]),"level_d":([2:1,]),])
-autoload ([2:(["amount":1,"file":"/obj/money/gold",]),1:(["amount":1,"file":"/world/area/muye/npc/eq/mouse_tooth",]),0:(["amount":1,"file":"/world/area/muye/npc/eq/cr_wing",]),])
-__flag ""
-toDoList ([])
-solved ({})
-level_scope ({75,150,225,300,375,})
-pro_sk ([])
-camp ([])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","sa":"sac corpse","ga":"get all from corpse","bb":"buy $* from master","id":"identify $*","off":"option map_unfreeze 1","sk":"skills",])
-dbase (["channels":({"chat","rumor",}),"last_from":"110.40.132.220","creation_time":1137769999,"name":"ºµ¥X¨Sª`·N","id":"somebear","last_on":1139571534,"body":"/obj/user","time_aged":365623,"board_last_read":(["bug":1137491690,"chat":1133923712,"newbie":1136481011,]),])
-password "$1$92572093$vIKE/eLVBHbjCyjWS0Rwp/"
-email "bear@hotmail.com"

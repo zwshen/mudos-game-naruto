@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ecn":"eat chicken $*",])
-dbase (["board_last_read":(["ayumi":1120542699,"newbie":1136481011,"wizard":1235586729,]),"time_aged":575290,"last_from":"19.240.224.125","name":"­·¹Ð","body":"/obj/user","last_on":1235668829,"id":"thier","channels":({"chat","rumor","aucc",}),"creation_time":1235093573,])
-my_body 
-last_age_set 1235668829
-password "$1$82266916$nBDqBy7LIvVSD.FYiFcIP/"
-email "thier0622@hotmail.com"
-window (["terminal_type":"vt100","width":125,"height":46,])

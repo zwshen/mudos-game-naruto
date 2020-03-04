@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gafc":"get all from corpse","q":"quest",])
-dbase (["channels":({"chat","rumor",}),"time_aged":604545,"creation_time":1235228121,"body":"/obj/user","name":"·L¿n¤À","id":"comic",])
-my_body 
-last_age_set 1235832585
-password "$1$16965456$ZzB5sfD/elC0NytwE82Q81"
-email "zx555149658@yahoo.com.hk"
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":45,])

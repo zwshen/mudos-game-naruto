@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["f":"fishing","oo":"keep none","o":"keep all","ga":"get all",])
-dbase (["time_aged":226590,"last_on":1144853977,"id":"mar","name":"一個好人","last_from":"174.24.230.61","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1143909143,])
-password "$1$13852385$kTi7wWav.H5reF5LgWBfN1"
-email "@"

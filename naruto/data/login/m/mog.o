@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["w5":"wield radish 2 as lefthand","kc":"kill cockroach","ab":"auc buy $1","closemap":"option map_hidden 1","w4":"wield radish as righthand","w2":"wield sword as lefthand","sa":"sac corpse","w1":"wield rod as righthand","g":"get all from corpse","w3":"wield blade as twohanded","openmap":"option map_hidden 0","rem":"remember $*",])
-dbase (["last_from":"159.17.43.114","time_aged":63433381,"last_on":1247919824,"creation_time":1130117235,"board_last_read":(["newbie":1136481011,"bug":1191602432,"_MITE_":1188848484,"propose":1205580822,"design":1154116971,"chat":1173206018,"wizard":1201062195,]),"body":"/obj/user","id":"mog","name":"²ö¥j","channels":({"chat","rumor","aucc","news",}),])
-my_body 
-last_age_set 1247919824
-password "$1$61940117$F464FGCgxhtOZmhakbnXN/"
-email "@"
-window ([])

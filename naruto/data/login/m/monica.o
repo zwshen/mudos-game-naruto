@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["p2":"perform ghost chop.attack on $*","6":"sac corpse","f":"fishing","5":"get all from corpse","1":"recall","p1":"perform chivy tiger.attack on $*","jj":"jump ®ü©¤",])
-dbase (["last_on":1237730500,"time_aged":1847668,"name":"¹Ú","body":"/obj/user","id":"monica","channels":({"chat","rumor","aucc","news",}),"last_from":"83.157.46.114","creation_time":1235882847,])
-my_body 
-last_age_set 1237730499
-password "$1$87782970$zn1JAQw9Pe7wp7fzuZwVf/"
-email "kevin60556@gmail.com"
-window (["terminal_type":"vt100","width":237,"height":82,])

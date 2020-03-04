@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ym":"option map_hidden 0","off":"option map_unfreeze 1","nm":"option map_hidden 1","on":"option map_unfreeze 0",])
-dbase (["board_last_read":(["design":1150693458,"chat":1151981364,"acme":1149251531,"tmr":1150731334,"wizard":1153360538,"ayumi":1120542699,]),"channels":({"chat","rumor","aucc",}),"creation_time":1152415771,"last_on":1187097092,"last_from":"118.185.132.202","body":"/obj/user","id":"gold","name":"¶Àª÷ÅéÅç","time_aged":15341603,])
-password "$1$36487263$sWjWBVsRfmbHd762e98Fh1"
-email "nanosoul@yahoo.com.tw"

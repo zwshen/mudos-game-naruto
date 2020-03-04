@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sh":"perform harm touch.harming on $*","ebc":"eat big essence of chicken","gcc":"give cindy $*","th":"train harm touch from rao for $*","gh":"give hisoka $*","av":"advance $*","gf":"give franklin $*","pb":"put $* in bag","g":"get $* from corpse","tb":"train combat from johnson for $*","c":"charge $*","gb":"get $* from bag","ad":"advance $1 for $2","hh":"perform holy hand.healing on $*","thh":"train holy hand from rao for $*","de":"deposit $* silver","kf":"kill fly","gm":"give maggie $*","cd":"consider $*","ca":"perform change ability.change $*","ec":"eat essence of chicken","tca":"train change ability from clemens for $*","tl":"train solid from rao for $*","rr":"remember $*","tc":"train continual hit from feng for $*","gb2":"get $* from bag 2","wd":"withdraw $* silver","iy":"identify $*","elc":"eat large essence of chicken","rm":"remove $*","emc":"eat middle essence of chicken","ts":"train special from clemens for $*","tp":"train parry from daisuke for $*","td":"train dodge from clemens for $*","tf":"transfer $*",])
-dbase (["creation_time":1149999211,"time_aged":32552327,"board_last_read":(["_MITE_":1241331390,"bug":1243516951,"wizard":1239465932,]),"body":"/obj/user","id":"kuroro","name":"оwмеме","channels":({"chat","rumor","aucc",}),"last_from":"203.234.61.61","last_on":1243690983,])
-my_body 
-last_age_set 1243690982
-password "$1$95781567$BjXWdwpIAP2f47v5qJycs."
-email "d41920@hotmail.com"
-window (["terminal_type":"zmud","width":94,"height":29,])

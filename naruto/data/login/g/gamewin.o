@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ppp2":"proskills first-aid plume_bandage -m","sword2":"wield sword $* as lefthand","rrr":"recall start","cv":"perform wolf blade.flow","gg":"get all from corpse $*","pp":"sac corpse $*","off":"option map_unfreeze 1","rr":"recall","hh":"halt","con":"consider $*","id":"identify $*","cx":"perform ghost chop.attack on elf","on":"option map_unfreeze 0","re":"remember $*","ppp":"proskills first-aid snake_skin_bandage -m","cc":"perform ghost chop.attack on $*",])
-dbase (["time_aged":13688506,"creation_time":1199453204,"name":"¹CÀ¸¤ý","id":"gamewin","body":"/obj/user","channels":({"chat","rumor","war","aucc",}),"board_last_read":(["bug":1206112521,"newbie":1136481011,"propose":1240127896,"wizard":1239465932,]),"last_on":1247552573,"last_from":"107.170.192.123",])
-my_body 
-last_age_set 1248720950
-password "$1$5592630$FP7h1xOx1AS1A4572v9bX."
-email "edjack10000@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":94,"height":36,])

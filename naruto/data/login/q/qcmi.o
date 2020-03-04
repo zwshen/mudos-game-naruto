@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse $*",])
-dbase (["time_aged":1439187,"name":"пєгл","id":"qcmi","last_from":"169.140.171.218","board_last_read":(["newbie":1136481011,"wizard":1151395598,"_MITE_":1142224362,"ayumi":1120542699,"acme":1115787696,]),"last_on":1150082578,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1134710160,])
-password "$1$56516871$fgucucgZH7ISA2EOO9qPH1"
-email "qcmi@hotmail.com"

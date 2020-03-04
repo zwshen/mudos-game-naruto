@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["body":"/obj/user","last_from":"21.210.104.59","channels":({"chat","rumor",}),"name":"¥ú·¥","creation_time":1216305230,"id":"led","last_on":1216305650,"board_last_read":(["propose":1211983359,"wizard":1214818337,"bug":1213114984,"newbie":1136481011,]),])
-my_body 
-last_age_set 1216305170
-password "$1$73340091$5DrKrGnejNcbomRh3Alvx1"
-email "feiex@hotmail.com"
-window (["terminal_type":"vt100","freeze":1,"width":156,"height":49,])

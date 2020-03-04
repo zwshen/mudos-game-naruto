@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["wp":"wield lance as twohanded","gg":"get all","kp":"kill passerby $*","b":"balance","con":"consider $*",".":"chat $*","/":"recall","p":"put all in bag","sk":"skills","tr":"train harm touch from rao for $*","adv":"advance $*","dep":"deposit $* silver","ide":"identify $*","z":"perform special.harming on $*","fo":"eat pill","ks":"kill snake $*",])
-dbase (["time_aged":355461,"last_on":1148779120,"id":"neoheroa","name":"ÃÃ¤«²E","last_from":"210.4.134.140","profile":"q","board_last_read":(["_MITE_":1131786296,"propose":1131721575,"wizard":1132743373,"chat":1130765657,"newbie":1128936709,"acme":1131028120,"bug":1129700893,]),"body":"/obj/user","channels":({"chat","rumor","aucc",}),"creation_time":1130202865,])
-password "$1$56014587$m4WV3YEBxRJL8RPlOJGfE1"
-email "neoheroa@yahoo.con.tw"

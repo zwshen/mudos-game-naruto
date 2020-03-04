@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["tt":"team talk $*","sco":"sac corpse $*","p3":"perform animal taming.state","p1":"perform double fang.atwirl on $*","cell":"perform cell activation.ca","con":"consider $*","p4":"perform animal taming.feed $*","1":"option map_hidden 1","animal":"p4 lung;p3;p6;p5;save","-d":"pp","pp1":"perform alter ego.destruct","r":"recall","p5":"perform animal taming.call","ass":"assign $*","hand":"perform hand heal.hp to mp 420","scc":"score _MY_PET_","qq":"eat big heal mp pill","2":"option map_hidden 0","rem":"remember $*","hand2":"perform hand heal.ap to mp 210","q":"eat big heal hp pill","sk":"skills $*","f":"fight $*","p6":"perform animal taming.leave","pp":"perform alter ego.shadow","p2":"perform four foot.beast","gg":"get all from corpse $*","m":"move $*",])
-dbase (["time_aged":20399756,"last_on":1202140960,"name":"¦è®¦","id":"sut","creation_time":1158931164,"body":"/obj/user","last_from":"54.172.132.220","board_last_read":(["propose":1211983359,"wizard":1214818337,"ayumi":1120542699,"acme":1188005608,"newbie":1136481011,"bug":1213114984,]),"channels":({"chat","rumor","aucc","news","war",}),])
-my_body 
-last_age_set 1215397399
-password "$1$1332702$.2k9STed5M6Ba2Nwvux4A1"
-email "keepp@hotmail.com"
-window (["width":108,"height":34,"terminal_type":"zmud",])

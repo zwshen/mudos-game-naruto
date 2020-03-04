@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["--":"deposit $* silver",])
-dbase (["time_aged":87186,"last_on":1146327898,"id":"electron","name":"¹q","last_from":"131.25.184.218","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1132615408,])
-password "$1$40545204$Vh8IEehfpt.hYeQOv7ovM."
-email "f8970022@yahh.com.tw"

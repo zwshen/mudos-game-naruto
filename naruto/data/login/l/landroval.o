@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["rc":"recall","ba":"balance","gp":"giveup","kpl":"keep all","ee":"eat essence","sd":"seedoor",])
-dbase (["last_on":1205693533,"channels":({"chat","rumor","aucc",}),"creation_time":1205027488,"last_from":"27.2.124.122","body":"/obj/user","board_last_read":(["wizard":1201062195,"bug":1205572158,"_MITE_":1188848484,"chat":1186466886,"propose":1205580822,"byron":1177702512,]),"id":"landroval","name":"ºñ¦Ð¤ò","time_aged":691325,])
-password "$1$72607934$sO6WjmS0PdIeJCM7OddXt."
-email "narsilx.bbs@ptt.cc"

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["q2":"perform paper slime.mud","qq":"perform body gang.defence","pp":"put all in bag","q1":"perform fight body.check",])
-dbase (["time_aged":13437055,"creation_time":1235362153,"name":"¢ß¡C¢ß","id":"qer","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["bug":1246069199,"_MITE_":1241331390,"design":1154116971,"wizard":1239465932,]),"last_on":1248799112,"last_from":"22.106.105.59",])
-my_body 
-last_age_set 1248799112
-password "$1$18713992$0.HF4xitIGg927XyQyJX4."
-email "lsp0317@hotmail.com"
-window (["terminal_type":"ZMUD","width":108,"height":32,])

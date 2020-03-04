@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ehp":"eat heal hp pill","ec":"eat chicken","eap":"eat heal ap pill","ca":"perform cell activation.ca","g":"get all from corpse $*",])
-dbase (["time_aged":7616170,"board_last_read":(["design":1154116971,"acme":1234338310,"chat":1116042164,"_MITE_":1188848484,"tmr":1134381588,"ayumi":1120542699,"newbie":1128936709,"wizard":1234965474,]),"body":"/obj/user","id":"uxa","name":"«ê¦N","last_on":1241766290,"channels":({"chat","rumor","aucc",}),"last_from":"199.90.75.211","creation_time":1128658388,])
-my_body 
-last_age_set 1241766289
-password "$1$48015818$HbAvx8YXDXAnGhYPXlq4D."
-email "uxa@pchome.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":74,"height":34,])

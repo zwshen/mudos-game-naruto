@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"last_from":"167.202.188.218","time_aged":3121180,"last_on":1245739528,"creation_time":1242618404,"body":"/obj/user","id":"pioneer","name":"¤ûÅ]¤ý",])
-my_body 
-last_age_set 1245739528
-password "$1$38126819$18FcS8dBcsObPun1lyPNE/"
-email "kkto12345@yahoo.com.hk"
-window (["freeze":1,"terminal_type":"ANSI","width":80,"height":25,])

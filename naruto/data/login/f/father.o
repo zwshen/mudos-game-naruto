@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ma1":"option map_hidden 0","00":"perform dragon-head draw.advance $*","wg2":"wield green dragon sword as lefthand","0":"perform dragon-head draw.summon $*","wg1":"wield white tiger blade","wi2":"wield lance as twohanded","sk":"skills","lc":"look corpse","gub":"get all from bag $*","ge":"get all from corpse","pub":"put all in bag $*","ma2":"option map_hidden 1","8":"perform frost closed ball.ball on $*","mm2":"option map_unfreeze 1","con":"consider $*","9":"perform psychical bullet.shoot on $*","id":"identify $*","sa":"sac corpse","bt":"buy 100 12 from vendor","mm1":"option map_unfreeze 0","2":"use hp help",])
-dbase (["last_from":"110.178.192.123","time_aged":23584581,"last_on":1247306512,"creation_time":1172581676,"board_last_read":(["bug":1243516951,"design":1154116971,"acme":1174556454,"chat":1244623264,"ayumi":1120542699,"_MITE_":1241331390,"tmr":1174093857,"byron":1175028384,"propose":1245913026,"wizard":1239465932,]),"body":"/obj/user","name":"кики","id":"father","channels":({"chat","rumor","aucc","war","news",}),])
-my_body 
-last_age_set 1247306512
-password "$1$49618874$2V8ic.rtWY3LPuDNzbqbf/"
-email "father@w.w.w"
-window (["terminal_type":"vt100","width":125,"height":46,])

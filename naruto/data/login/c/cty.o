@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["off":"option map_unfreeze 1","on":"option map_unfreeze 0","h":"hp","f":"fight $*","wi":"wield $*","uw":"unwield $*","gg":"get all from corpse","sk":"skills $*","con":"consider $*","ss":"sac corpse",])
-dbase (["board_last_read":(["newbie":1136481011,"propose":1165577434,"wizard":1149499546,]),"time_aged":6027,"name":"´Ý¤ë","id":"cty","last_on":1167140718,"last_from":"114.103.126.202","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1167089037,])
-password "$1$49474368$jzWyZoIk58.k20AoGK4s4."
-email "chentsangyi@gmail.com"

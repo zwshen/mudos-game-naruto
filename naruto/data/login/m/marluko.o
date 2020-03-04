@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["w3":"wield whitesnake lance as twohanded","道具總覽":"query -obj","搜索":"search","t":"move $*","w5":"wield shan feng sword as lefthand","s2":"option map_hidden 1","s1":"option map_hidden 0","ide":"identify $*","ll":"remember $*","裝備總覽":"query -eq","con":"consider $*","w4":"wield gao yuan sword as righthand","w2":"wield radish 2 as lefthand","scm":"balance","putall":"put all in bag","w1":"wield radish as righthand","getall":"get all from bag","武器總覽":"query -wp",])
-dbase (["time_aged":11923738,"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"wizard":1201062195,]),"name":"真理子","id":"marluko","channels":({"chat","rumor","aucc","war",}),"last_on":1239889867,"last_from":"119.176.171.218","creation_time":1192778846,])
-my_body 
-last_age_set 1239890001
-password "$1$16462755$WhtPx4PWvReVqwJjdWETS1"
-email "yan300070@yahoo.com.tw"
-window (["terminal_type":"vt100","freeze":1,"width":74,"height":34,])

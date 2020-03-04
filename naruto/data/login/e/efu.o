@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ma1":"option map_hidden 0","00":"perform hundred palm.attack on $*","wg2":"wield gao yuan sword 2 as lefthand","88":"perform alter ego.destruct","0":"perform soft fist.attack on $*","wg1":"wield gao yuan sword","3":"use mp help","1":"use ap help","gub":"get all from bag $*","ge":"get all from corpse $*","pub":"put all in bag $*","gj":"get jade from corpse","ma2":"option map_hidden 1","8":"perform alter ego.shadow","mm2":"option map_unfreeze 1","ch":"charge $*","9":"perform white eyes.open","id":"identify $*","sa":"sac corpse","mm1":"option map_unfreeze 0","2":"use hp help",])
-dbase (["last_from":"20.4.134.140","time_aged":16323092,"last_on":1247202503,"creation_time":1186897165,"body":"/obj/user","board_last_read":(["bug":1244949985,"design":1154116971,"propose":1240917122,"wizard":1239465932,"chat":1237659377,]),"name":"¨ÌªÜ","id":"efu","channels":({"chat","rumor","aucc","war","news",}),])
-my_body 
-last_age_set 1247299068
-password "$1$59030477$FRvdvbX52DJGFoJmqT2Uv0"
-email "efu@cs.w.com.com.com.com"
-window (["terminal_type":"VT100","width":125,"height":46,])

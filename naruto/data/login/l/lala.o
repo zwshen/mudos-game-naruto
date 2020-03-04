@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["wg1":"wield spinal sword","ch":"charge $*","pub":"put all in bag","88":"perform alter ego.destruct","8":"perform alter ego.shadow","id":"identify $*","wg2":"wield gao yuan sword as lefthand","gub":"get all from bag","mm1":"option map_unfreeze 0","ma2":"option map_hidden 1","ma1":"option map_hidden 0","mm2":"option map_unfreeze 1",])
-dbase (["time_aged":8508997,"body":"/obj/user","board_last_read":(["bug":1239241211,"design":1154116971,"propose":1237364643,"wizard":1239465932,"chat":1237659377,]),"name":"©Ô©Ô","id":"lala","channels":({"chat","rumor","aucc","war","news",}),"last_on":1242988151,"last_from":"50.110.59.210","creation_time":1186902565,])
-my_body 
-last_age_set 1242988151
-password "$1$20971043$iqhb6ibSR9/.BJm43Hmwz."
-email "lala@w.w."
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g1":"get all from corpse","tp":"train parry from hang for $1","qq":"quest $1","td":"train dodge from hang for $1","tg":"train dodge from hang for 99","ad":"advance $1 for $2","tc":"train combat from hang for $1",])
-dbase (["board_last_read":(["wizard":1115665665,"_MITE_":1130296684,]),"channels":({"chat","rumor",}),"creation_time":1188885851,"last_from":"227.171.117.59","last_on":1189096163,"body":"/obj/user","id":"killor","name":"±T¼Ö","time_aged":22146,])
-password "$1$79463850$QbcAr2fzHn8Zt14L9amZl0"
-email "nsa00772@yahoo.com.tw"

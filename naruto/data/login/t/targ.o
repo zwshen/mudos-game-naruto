@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["p1":"perform ninja.state $*","ca":"perform ninja.ca $*","p2":"perform ninja.call $*","p4":"perform ninja.feed $*","sa":"sac corpse $*","r":"reply $*","1":"get all from corpse $*","p3":"perform ninja.leave $*","sk":"skills $*",])
-dbase (["board_last_read":(["_MITE_":1139709536,"ayumi":1120542699,"newbie":1136481011,"acme":1138664693,"propose":1117285286,"tmr":1137954741,"wizard":1185604128,]),"time_aged":3723048,"last_from":"16.129.126.59","last_on":1237099373,"name":"¥u¬O¤pÄË","body":"/obj/user","id":"targ","channels":({"chat","rumor","aucc",}),"creation_time":1137680831,])
-my_body 
-last_age_set 1237099372
-password "$1$72522793$hmIcFfTv5v37lo2k7iXLF1"
-email "felix.style@msa.hinet.net"
-window (["freeze":1,"terminal_type":"vt100","width":0,"height":33,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["ap1":"eat essence of chicken","ii":"incubate egg","hhp":"eat heal hp pill","as":"assign $*","roe":"give boss roe","tu":"give tu 10 meat","mp1":"eat daisy tea","pal":"perform animal taming.leave","adlv":"advance level","rm":"remember $*","pca":"perform cell activation.ca","pb2":"put $* in bag 2","od":"order dog to $*","pf":"perform double fang.atwirl on $*","gb":"get $* from bag","pff":"perform four foot.beast","sa":"sac corpse $*","ide":"identify $*","dp":"perform double physique.dp","q":"halt","m":"use bandage","outlake":"out ¿ò¸ñ","scp":"score _MY_PET_","lc":"look corpse $*","gb2":"get $* from bag 2","pb":"put $* in bag","g":"get all from corpse $*","paff":"perform animal taming.feed fat","rad2":"wield radish as lefthand","c":"consider $*","b":"buy $* from vendor","paf":"perform animal taming.feed $*","hid":"option map_hidden $*","pas":"perform animal taming.state","kc":"kill crab $*","mm":"proskills first-aid snake_skin_bandage -m","pac":"perform animal taming.call","op":"say À°¦£","lv":"advance level",])
-dbase (["time_aged":7862204,"body":"/obj/user","channels":({"chat","rumor","aucc","news","music",}),"last_on":1234666248,"creation_time":1152007880,"board_last_read":(["_MITE_":1188848484,"design":1154116971,"bug":1212464633,"propose":1211983359,"chat":1186466886,"wizard":1212213844,"newbie":1136481011,]),"id":"kinyo","name":"»´»R­¸´­","last_from":"222.101.123.140",])
-my_body 
-last_age_set 1234666246
-password "$1$41140303$qzmNi3qkJeDXx/xTi3TbZ."
-email "mpv8d8rcdp9y3mw@jetable.org"
-window (["width":150,"height":43,"terminal_type":"TINTIN++",])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["re":"remove $*","wi":"wield $*","sk":"skills","ba":"balance","sl":"keep all","z":"train dodge from ka for 20","we":"wear $*","g":"get all from corpse $*","h":"sac corpse $*","f":"fight $*","c":"consider $*","uw":"unwield $*",])
-dbase (["time_aged":301092,"last_on":1142157389,"id":"ptw","name":"¤å","board_last_read":(["newbie":1136481011,]),"last_from":"3.207.222.61","body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1137287565,])
-password "$1$99530723$VebdPQ80lZUugWq.0De4//"
-email "@"

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1","gt":"get all from corpse",])
-dbase (["time_aged":363370,"id":"ecoli","name":"д@ср","last_from":"143.21.84.210","board_last_read":(["newbie":1136481011,"_MITE_":1130219802,]),"last_on":1151787700,"body":"/obj/user","channels":({"chat","rumor",}),"creation_time":1151410548,])
-password "$1$50730591$h71Z5HDl.nS91D1gMipuI0"
-email "franken1030@hotmail.com"

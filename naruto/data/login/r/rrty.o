@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ad":"advance $*","bal":"balance","as":"alias $*","con":"consider $*","sk":"skills","en":"enable $*","getc":"get all from corpse",])
-dbase (["body":"/obj/user","last_on":1161179104,"creation_time":1137055430,"time_aged":626530,"name":"µ¾­ô","id":"rrty","last_from":"72.155.56.61","board_last_read":(["wizard":1120669113,"propose":1130204695,"newbie":1136481011,"ayumi":1120542699,"tmr":1137305710,"acme":1136370213,]),"channels":({"chat","rumor",}),])
-password "$1$83779547$/uMSjsFTwIRorujfcU07O."
-email "hihibbs2kimo@yahoo.com.tw"

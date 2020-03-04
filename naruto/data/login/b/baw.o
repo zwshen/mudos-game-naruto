@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["¾÷Ãö¯È":"6461587","4":"sac corpse","1":"eat pill 5","222":"fight stake 3","0":"wield staff","111":"score _MY_PET_","2":"fight stake","8":"perform ninja.call","22":"fight stake 2","7":"perform ninja.state","3":"get all from corpse","11":"perform ninja.feed lung","88":"perform ninja.leave",])
-dbase (["time_aged":3667728,"body":"/obj/user","board_last_read":(["bug":1175079919,"acme":1116032950,"chat":1175828718,"_MITE_":1151039075,"tmr":1132136072,"ayumi":1120542699,"newbie":1136481011,"propose":1170658847,"wizard":1238261452,]),"name":"°\\¤Y","id":"baw","channels":({"chat","rumor","aucc",}),"last_on":1239379034,"last_from":"157.142.131.220","creation_time":1129554995,])
-my_body 
-last_age_set 1239379034
-password "$1$96699417$KfCDARLIaB/yO5oK6rZsT/"
-email "cuppe2@pchome.com.tw"
-window (["freeze":1,"terminal_type":"zmud","width":120,"height":42,])

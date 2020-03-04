@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["re":"recall","z":"sac corpse","p2":"eat pill 2","p":"eat pill","kc":"kill crab","ret":"recall start","sk":"skills","x":"get all from corpse","pill":"2","wl":"wield lance as twohanded","ad":"help advance",])
-dbase (["time_aged":1050675,"board_last_read":(["bug":1137491690,"acme":1124705491,"chat":1143174206,"_MITE_":1142224362,"ayumi":1120542699,"newbie":1136481011,"propose":1148557370,"wizard":1149499546,]),"body":"/obj/user","id":"leopard","name":"°\\¤ý","channels":({"chat","rumor","aucc",}),"last_on":1242606299,"last_from":"144.180.6.174","creation_time":1130564968,])
-my_body 
-last_age_set 1242606298
-password "$1$46890521$ynhWrRzrkgaabT4vIYghZ0"
-email "@"
-window (["terminal_type":"zmud","width":152,"height":64,])

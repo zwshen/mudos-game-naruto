@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse","o":"sac corpse","sk":"skills","r":"recall",])
-dbase (["creation_time":1167526580,"time_aged":4442,"board_last_read":(["newbie":1136481011,"wizard":1116210005,]),"body":"/obj/user","id":"jafa","name":"¯«¨¦ÂÈ","channels":({"chat","rumor",}),"last_from":"179.14.168.218","last_on":1176044480,])
-my_body 
-last_age_set 1243739579
-password "$1$54704061$SQ36TOkWhgwE5u18sruyP1"
-email "boooooook2000@yahoo.com.tw"
-window (["terminal_type":"vt100","width":74,"height":34,])

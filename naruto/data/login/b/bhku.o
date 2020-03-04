@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["channels":({"chat","rumor",}),"time_aged":160,"creation_time":1237481856,"name":"¶d","body":"/obj/user","id":"bhku",])
-my_body 
-last_age_set 1237481958
-password "$1$86757817$J1lKmfNCoxpCB4/gFkBWk."
-email "b9601021@mail.ntust.edu.tw"
-window (["terminal_type":"ANSI","width":80,"height":25,])

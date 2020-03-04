@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["board_last_read":(["newbie":1136481011,]),"time_aged":6094,"last_from":"55.116.170.218","last_on":1236706801,"body":"/obj/user","name":"¬_¬_ÄR","id":"kukuri","channels":({"chat","rumor",}),"creation_time":1236700750,])
-my_body 
-last_age_set 1236706801
-password "$1$77754023$PrIPAwS0rZuvLhDIsThXt0"
-email "kukuri@localhost"
-window (["terminal_type":"vt100","width":140,"height":56,])

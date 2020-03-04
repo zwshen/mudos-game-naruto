@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["gc":"get all from corpse","gg":"sac corpse",])
-dbase (["body":"/obj/user","board_last_read":(["newbie":1136481011,"wizard":1115825470,"_MITE_":1165339915,]),"time_aged":2156,"name":"¨È¯S","id":"anrdea","channels":({"chat","rumor",}),"creation_time":1171649785,])
-password "$1$14817504$Hrpx0MNi1vvu2n0qY55We/"
-email "anrdea123@seed.net.tw"

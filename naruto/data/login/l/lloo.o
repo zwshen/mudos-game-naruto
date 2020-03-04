@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["c":"get all",])
-dbase (["channels":({"chat","rumor",}),"body":"/obj/user","last_from":"219.71.98.143","creation_time":1134409236,"name":"¤p¥Õ","time_aged":6735,"last_on":1233926427,"id":"lloo",])
-my_body 
-last_age_set 1233926427
-password "$1$4668899$e41d9O85AZRWoSccU7SEY/"
-email "llee0215@hotmail.com"
-window ([])

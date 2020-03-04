@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["m1":"option map_unfreeze 1","mh0":"option map_hidden 0","m0":"option map_unfreeze 0","re":"recall $*","mh1":"option map_hidden 1",])
-dbase (["channels":({"chat","rumor","aucc",}),"last_from":"102.17.115.140","time_aged":15401598,"creation_time":1201685856,"last_on":1247033115,"body":"/obj/user","name":"¤pºû","id":"mandi",])
-my_body 
-last_age_set 1247033113
-password "$1$65288286$buXLKWovl4LB9eO.ltbwe1"
-email "dibird328@ms38.url.com.tw"
-window (["freeze":1,])

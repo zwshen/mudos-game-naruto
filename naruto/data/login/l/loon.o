@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["wdl":"wield $* as lefthand","wd2":"wield $* as twohanded","wdr":"wield $* as righthand",])
-dbase (["time_aged":5164358,"body":"/obj/user","board_last_read":(["design":1154116971,"acme":1115832156,"_MITE_":1170658966,"tmr":1150731334,"ayumi":1120542699,"newbie":1136481011,"wizard":1175079213,]),"name":"·Ä¤ôªºÁÂ³ö","id":"loon","channels":({"chat","rumor","aucc",}),"last_on":1241170067,"last_from":"149.240.230.125","creation_time":1137435854,])
-my_body 
-last_age_set 1241170066
-password "$1$38995891$nz0Q4kmvcTzNGtwkcPFeU0"
-email "snes9xw@pchome.com.tw"
-window (["width":141,"height":53,])

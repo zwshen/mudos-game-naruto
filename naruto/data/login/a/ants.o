@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["h":"halt",])
-dbase (["time_aged":610953,"last_from":"66.111.126.122","last_on":1234698004,"channels":({"chat","rumor",}),"body":"/obj/user","creation_time":1234087070,"board_last_read":(["wizard":1185359989,]),"id":"ants","name":"©]¤@",])
-my_body 
-last_age_set 1234698004
-password "$1$12473925$iugN8aD/3.RVXQdmP4HK3/"
-email "@"
-window (["width":104,"height":32,"terminal_type":"vt100",])

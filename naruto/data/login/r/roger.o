@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["usw":"unwield sword",])
-dbase (["board_last_read":(["board":1172342485,"ayumi":1120542699,"acme":1168480213,"tmr":1169719694,"wizard":1116210005,]),"time_aged":108083,"last_from":"50.110.59.210","name":"°¨±í¾P°â­û","body":"/obj/user","last_on":1235840573,"invis":1,"id":"roger","channels":({"chat","rumor","wiz","aucc",}),"creation_time":1166288760,])
-my_body 
-last_age_set 1235840571
-password "$1$79359623$rvJiRo2muqWAU/mevJeGW1"
-email "pkb0912@yahoo.comtw"
-window (["terminal_type":"vt100","width":125,"height":46,])

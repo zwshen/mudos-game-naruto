@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["skp":"team talk k pig","ksp":"team talk k spider","ske":"team talk kill elf","skc":"team talk k cock","sks":"team talk k snake","kmy":"team talk k mokey","skw":"team talk k wolf","pp":"perform cell activation.ca","krbt":"team talk k rabbit","ssap":"team talk Add AP","c":"consider $*","sa":"sac corpse $*","mapoff":"option map_hidden 1","sbm":"team talk buy potion!!","ds":"deposit $* silver","mapon":"option map_hidden 0","skm":"team talk k mouse","skg":"team talk kill goose","ww":"wield sword","skt":"team talk k turtle","krb":"team talk k crab","ph":"perform hundred palm.attack on $*","g":"get all from corpse $*","sap":"eat chicken",])
-dbase (["time_aged":1397187,"board_last_read":(["design":1150693458,"_MITE_":1188848484,"newbie":1128936709,"propose":1205580822,"wizard":1212213844,"chat":1186466886,]),"body":"/obj/user","name":"ªü­D","id":"ncs","channels":({"chat","rumor","war","aucc",}),"last_on":1239811992,"last_from":"249.14.105.59","creation_time":1190177378,])
-my_body 
-last_age_set 1239993985
-password "$1$10808781$WgYYoy6NyUdIh7vw3ONfW/"
-email "ncs@ncs.com"
-window (["terminal_type":"zmud","width":121,"height":44,])

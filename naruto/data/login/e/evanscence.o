@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills",])
-dbase (["last_from":"2.102.221.61","time_aged":12005966,"creation_time":1128751934,"last_on":1246598932,"board_last_read":(["bug":1234658349,"propose":1211983359,"wizard":1234634328,]),"body":"/obj/user","name":"¨Ì¤Z¶ë´µ","id":"evanscence","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1246598930
-password "$1$51667409$GuAk0ZrEXSJwwZko2YyOu1"
-email "aaa@yahoo.com.tw"
-window (["terminal_type":"zmud","width":106,"height":23,])

@@ -1,7 +1,0 @@
-#/obj/login.c
-dbase (["body":"/obj/user","channels":({"chat","rumor",}),"last_on":1248852360,"time_aged":1485291,"creation_time":1247367092,"last_from":"171.221.115.140","name":"¤O¶q±²¶b","id":"strbook",])
-my_body 
-last_age_set 1248852359
-password "$1$40792026$JziyH3I6ibKqQrCk9YN180"
-email "dibird@yahoo.com.tw"
-window (["terminal_type":"VT100","width":125,"height":31,])

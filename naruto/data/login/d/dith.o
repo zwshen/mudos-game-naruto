@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gg":"get all from corpse $*",])
-dbase (["time_aged":734979,"board_last_read":(["newbie":1136481011,"wizard":1234965474,"_MITE_":1188848484,"design":1154116971,]),"last_from":"53.98.120.121","last_on":1235442132,"body":"/obj/user","name":"­}´µ","id":"dith","channels":({"chat","rumor","aucc",}),"creation_time":1168539884,])
-my_body 
-last_age_set 1235442132
-password "$1$71521480$6jqE5G9DjHco/xxJJ1zs8/"
-email "dith0930@yahoo.com.tw"
-window (["terminal_type":"vt100","width":156,"freeze":1,"height":44,])

@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pa1":"pass ±KªL","en2":"enter ¿ò¸ñ","ju1":"jump Âr¥¬","pu2":"push »ÈªM","mp":"perform hand heal.hp to mp $*","def":"perform shadow.defend","pu1":"push ª÷ªM","ga":"get all from bag","ju2":"jump ®ü©¤","g":"get $*","b":"buy $*","di1":"dig ¨F°ï","un":"unwield $*","h":"hp","en4":"enter ¯µ¥Þ","pa":"put all in bag","wi":"wield $*","zz":"sac corpse $*","we":"perform white eyes.open","idd":"identify $*","/":"recall $*","sna":"proskills first-aid snake_skin_bandage -m","plu":"proskills first-aid plume_bandage -m","gg":"get all from corpse $*","sha":"perform alter ego.shadow","sk":"skills $*","att":"perform shadow.attack","dp":"perform double physique.dp","f":"fight $*","tc":"team talk $*","li":"list $*","ban":"use bandage","ca":"perform ninja.ca","en3":"out ¥X¤J¤f","del":"perform alter ego.destruct","con":"consider $*","tt":"perform muscle tank.attack on $*","en1":"jump ´ò","rem":"remove $*","hea":"perform heal buff.heal","ap":"perform hand heal.ap to mp $*",])
-dbase (["time_aged":69965376,"signature":"","creation_time":1128760961,"id":"epi","name":"¦ã»_","body":"/obj/user","channels":({"chat","rumor","aucc","news",}),"board_last_read":(["newbie":1136481011,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1240128067,"chat":1244623264,"bug":1246069199,"tmr":1234463389,"design":1154116971,"byron":1177702512,"wizard":1239465932,]),"last_on":1244567287,"profile":"","last_from":"3.81.10.124",])
-my_body 
-last_age_set 1249298174
-password "$1$91078$HpiEJObsDUb8Ac9RHBV731"
-email "abc@abc.com"
-window (["terminal_type":"vt100","width":110,"height":39,])

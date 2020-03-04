@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse","m1":"move 1","c":"consider $*","r1":"remember 1","h":"eat heal hp pill","m":"look 古老地圖","2":"perform eaves family.destruct","r2":"remember 2","1":"perform eaves family.family","0":"identify $*","z":"sac corpse","m2":"move 2",])
-dbase (["last_on":1201058735,"channels":({"chat","rumor","aucc",}),"last_from":"121.76.122.140","creation_time":1167238895,"body":"/obj/user","board_last_read":(["tmr":1174093857,"newbie":1136481011,"wizard":1190540385,"bug":1191602432,"byron":1177702512,"ayumi":1120542699,"propose":1198812610,"_MITE_":1188848484,"design":1154116971,"chat":1186466886,"acme":1188005608,]),"id":"sunnei","name":"冷影絕煞","time_aged":11532066,])
-password "$1$28935322$qBB.20dQbtIA8/X/bveFx0"
-email "cdp0623@gmail.com"

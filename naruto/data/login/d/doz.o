@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sk":"skills","ab":"auc buy","chatt":"chat orz死亡整點新聞報導：「$*」。",])
-dbase (["last_from":"149.145.228.220","time_aged":12114713,"last_on":1245923111,"creation_time":1129373056,"body":"/obj/user","board_last_read":(["newbie":1136481011,"tmr":1131615637,"bug":1182507332,"propose":1131721575,"byron":1174327632,"acme":1134208356,"wizard":1239465932,]),"id":"doz","name":"神杯","channels":({"chat","rumor","aucc",}),])
-my_body 
-last_age_set 1245923111
-password "$1$69514961$1ZK0xOU8WPTfyeRHzZt3Z."
-email "@"
-window (["terminal_type":"zmud","width":152,"height":27,])

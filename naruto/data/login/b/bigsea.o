@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["a":"alias $*","9":"sac corpse","unwi":"unwield $*","re":"remove $*","wi":"wield $*","we":"wear $*","con":"consider $*",])
-dbase (["body":"/obj/user","id":"bigsea","name":"¤j®ü","time_aged":9946,"last_on":1181966039,"last_from":"101.125.131.220","creation_time":1180089704,"board_last_read":(["chat":1116042164,]),"channels":({"chat","rumor",}),])
-password "$1$32474048$o1yTYRUdxggq0HXvS3qwh0"
-email "ckjl1017@hotmail.com"

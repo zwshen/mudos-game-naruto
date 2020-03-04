@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["g":"get all from corpse $*","pp":"time","re":"recall","a2":"eat big heal pill","p":"hp","f":"fight $*","sa":"sac corpse","p3":"eat big heal mp pill","h":"halt","c":"consider $*","00":"perform ninja.destruct","en":"enable","p1":"eat big heal ap pill","p2":"eat big heal hp pill","sk":"skills","ga":"gain","0":"perform ninja.ca",])
-dbase (["time_aged":1848206,"name":"¤d®V","id":"jkreg","board_last_read":(["newbie":1136481011,"wizard":1143254649,"propose":1141838792,"_MITE_":1142224362,"ayumi":1120542699,"chat":1143174206,"acme":1144388900,]),"last_from":"112.88.139.220","last_on":1150463275,"body":"/obj/user","channels":({"chat","rumor","news","aucc",}),"creation_time":1143891049,])
-password "$1$48620818$7IiyjzloltkmmYFj7mrfW1"
-email "kk@kimo.com.tw"

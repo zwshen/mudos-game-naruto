@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["view":"identify $*","/":"recall",",":"get all from corpse $*",])
-dbase (["channels":({"chat","rumor",}),"last_from":"219.71.98.143","body":"/obj/user","creation_time":1233922612,"name":"езли","last_on":1233934369,"board_last_read":(["newbie":1136481011,"wizard":1214818337,]),"time_aged":11801,"id":"nini",])
-my_body 
-last_age_set 1233934369
-password "$1$1011654$bVm1v4L0MfM5NkpEO41tq0"
-email "ikiki010@yahoo.com.tw"
-window ([])

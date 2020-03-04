@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["h":"get all from corpse","g":"get all",])
-dbase (["time_aged":66417726,"creation_time":1129096067,"name":"∂≥¿‹","id":"lag","channels":({"chat","rumor","aucc",}),"body":"/obj/user","board_last_read":(["newbie":1173805427,"_MITE_":1241331390,"propose":1245913026,"ayumi":1120542699,"acme":1137682467,"chat":1186466886,"bug":1206046196,"tmr":1130256095,"design":1154116971,"wizard":1239465932,]),"last_on":1249220567,"last_from":"94.5.129.220",])
-my_body 
-last_age_set 1249220565
-password "$1$51502259$qxZdY/ncxl9n0aSoMaA6r0"
-email "doiqq1@yahoo.com.tw"
-window (["terminal_type":"zmud","width":82,"height":30,])

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["ps":"perform ninja.shadow","'":"hp","gb":"get all from corpse $*","sk":"skills","f":"fight $*","qqqq":"蟹黃生蠔鮑魚龜頭水果拉麵」",])
-dbase (["last_from":"133.207.229.125","creation_time":1130902492,"body":"/obj/user","id":"smarty","name":"無敵","time_aged":2466415,"board_last_read":(["chat":1132977027,"ayumi":1120542699,"newbie":1136481011,"_MITE_":1131786296,"acme":1124705491,"propose":1131721575,"bug":1132179215,"wizard":1177493711,]),"last_on":1183028514,"channels":({"chat","rumor","aucc",}),])
-password "$1$81051279$pp/jZE0KHsDK5U5idKi.4."
-email "liuliwey@hotmail.com"

@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["on":"option map_unfreeze 0","off":"option map_unfreeze 1",])
-dbase (["time_aged":1150286,"channels":({"chat","rumor",}),"creation_time":1137823104,"body":"/obj/user","last_from":"4.162.217.61","last_on":1141399917,"name":"Ãh¥Û","id":"robindead",])
-password "$1$68249831$B1umKKUvdJ5oB2jygRCPr."
-email "robindead@yahoo.com.tw"

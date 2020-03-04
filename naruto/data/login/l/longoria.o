@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["9":"get all from corpse",])
-dbase (["time_aged":2477,"body":"/obj/user","name":"Às­ô","id":"longoria","last_on":1240170642,"channels":({"chat","rumor",}),"last_from":"80.67.137.220","creation_time":1240168196,])
-my_body 
-last_age_set 1240170641
-password "$1$4695039$Jl00dZIMLjrAw36Q5dUTR0"
-email "hero.sir@msa.hinet.net"
-window (["terminal_type":"vt100","freeze":1,"width":80,"height":24,])

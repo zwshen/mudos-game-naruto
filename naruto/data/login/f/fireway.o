@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["gg":"get all from bag $*","pd":"perform destory fist.attack on $*","ss":"sac corpse","gf":"get all from corpse $*","pp":"put all in bag $*","p2":"put venom in bag 2","pb":"perform body strength.powerup",])
-dbase (["time_aged":16311843,"signature":"","creation_time":1168914870,"id":"fireway","name":"�ڹϾ|","channels":({"chat","rumor","aucc","war",}),"body":"/obj/user","board_last_read":(["_MITE_":1188848484,"propose":1200749923,"ayumi":1120542699,"acme":1188005608,"chat":1186466886,"bug":1191602432,"tmr":1174093857,"byron":1177702512,"design":1154116971,"wizard":1201062195,]),"profile":"q","last_on":1248697107,"last_from":"12.40.116.122",])
-my_body 
-last_age_set 1248697107
-password "$1$17956658$.haPrePx.wob/peixWR0E0"
-email "firefaqu@pchome.com.tw"
-window (["terminal_type":"vt100","width":139,"height":47,])

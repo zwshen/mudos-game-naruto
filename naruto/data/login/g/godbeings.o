@@ -1,5 +1,0 @@
-#/obj/login.c
-alias (["11":"get all from corpse 2","111":"get all from corpse 3","kkk":"k mouse 1,k mouse 2,k mouse 3","1":"get all from corpse","/":"recall","sac":"sac corpse","3":"eat manto","con":"consider $*","2":"eat chicken",])
-dbase (["body":"/obj/user","creation_time":1174757169,"last_on":1176510227,"name":"¯À­¹¹F¤H","id":"godbeings","time_aged":210605,"last_from":"1.241.77.211","board_last_read":(["newbie":1136481011,]),"channels":({"chat","rumor","aucc",}),])
-password "$1$1453997$qtCCse8LoPjvl2nCnZdkh."
-email "710042@yahoo.com.tw"

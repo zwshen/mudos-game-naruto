@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["sap":"eat chicken","ww":"wield axe as twohanded","sa":"sac corpse $*","g":"get all from corpse $*",])
-dbase (["time_aged":6194,"body":"/obj/user","id":"mifa","name":"¦Ìªk","channels":({"chat","rumor",}),"last_on":1239740978,"last_from":"48.227.74.211","creation_time":1239735028,])
-my_body 
-last_age_set 1239740977
-password "$1$30240967$MF2cS42l9zGdNrkqz8WCZ1"
-email "mifa@ncs.com.tw"
-window (["terminal_type":"zmud","width":121,"height":42,])

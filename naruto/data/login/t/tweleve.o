@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["pub":"put all in bag",])
-dbase (["channels":({"chat","rumor",}),"time_aged":602029,"creation_time":1235266449,"last_from":"156.145.192.123","body":"/obj/user","name":"¤Q¤G","last_on":1235868449,"id":"tweleve",])
-my_body 
-last_age_set 1235868449
-password "$1$44197303$baJwMjv3Qm3W2v6kUiwkY0"
-email "@w.w"
-window (["freeze":1,"terminal_type":"vt100","width":125,"height":46,])

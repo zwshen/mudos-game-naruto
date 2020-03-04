@@ -1,8 +1,0 @@
-#/obj/login.c
-alias (["iden":"identify $1",])
-dbase (["board_last_read":(["_MITE_":1131786296,]),"time_aged":233056,"last_from":"172.201.73.203","last_on":1236281622,"name":"¿s¨”≈Q∑¿","body":"/obj/user","id":"maxkzxc","channels":({"chat","rumor",}),"creation_time":1198669103,])
-my_body 
-last_age_set 1236281622
-password "$1$78638356$pR.wqzUjq8NR9eSbtWhbR1"
-email "kzxcgods@yahoo.com.tw"
-window (["freeze":1,"terminal_type":"vt100","width":74,"height":34,])

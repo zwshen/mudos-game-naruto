@@ -38,3 +38,14 @@ string base_name(object ob)
     if( sscanf(file_name(ob), "%s#%*d", file)==2 ) return file;
     else return file_name(ob);
 }
+
+int tail(string path)
+{
+    if (stringp(path) && file_size(path) >= 0)
+    {
+        write(read_file(path, file_length(path) - 9));
+        return 1;
+    }
+
+    return 0;
+}

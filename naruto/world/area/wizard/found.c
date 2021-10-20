@@ -146,7 +146,7 @@ int do_getwp()
                         tell_object(this_player(), "(離開前請將廢棄物也帶離。)\n"NOR);
                     } else {
                         tell_object(this_player(), "(因為身上太重了，廢棄物噴了滿地。)\n"NOR);
-                        delete(item);
+                        destruct(item);
                     }
                     item = new("/world/area/old_forest/item/scrap.c");
                     item->add_amount(i);
@@ -154,7 +154,7 @@ int do_getwp()
                         tell_object(this_player(), "(離開前請將廢油也帶離銷毀。)\n"NOR);
                     } else {
                         tell_object(this_player(), "(因為身上太重了，廢油整桶打翻在地上。)\n"NOR);
-                        delete(item);
+                        destruct(item);
                     }
                 } else {
                     tell_object(this_player(), HIY"你身上太重了，拿不動這樣武器。\n"NOR);

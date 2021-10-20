@@ -16,7 +16,7 @@
 #include <intermud.h>
 //#include <net/dns.h>
 
-#pragma save_binary
+// #pragma save_binary
 
 inherit F_CLEAN_UP;
 #define CHANCE 20

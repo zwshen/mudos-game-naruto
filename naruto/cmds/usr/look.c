@@ -1,7 +1,7 @@
 /* look.c write by -Acme-
 */
 
-#pragma save_binary
+// #pragma save_binary
 #include <ansi.h>
 
 inherit "/adm/daemons/itemd.c";
@@ -70,7 +70,7 @@ int look_living(object me, object obj)
 
     if( me != obj ) message("vision", me->name() + "正盯著你看﹐不知道打些什麼主意。\n", obj);
 
-    msg = sprintf("%s看起來%s歲。\n", pro, age > 10 ? "約" + chinese_number(age/10*10) + "多" : "不到十" );
+    msg = sprintf("%s看起來%s歲。\n", pro, age > 10 ? "約" + chinese_number(age/10*10) + "多" : "不到十" );
     msg += obj->long();
     if( obj->query_stat_maximum("hp") )
         msg += status_msg(pro, obj->query_stat_current("hp")*100/obj->query_stat_maximum("hp"));

@@ -14,7 +14,7 @@
 
 // Created by Annihilator (11/07/94)
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <origin.h>
 

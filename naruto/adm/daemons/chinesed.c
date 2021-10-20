@@ -19,7 +19,7 @@
 // by Annihilator@Eastern.Stories 09-27-93
 // adapted for ES2-lib 01-18-95
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <ansi.h>
 #include <localtime.h>
@@ -29,8 +29,8 @@
 inherit F_CLEAN_UP;
 inherit F_SAVE;
 
-static string *c_digit = ({ "零","十","百","千","萬","億","兆" });
-static string *c_num = ({"零","一","二","三","四","五","六","七","八","九","十"});
+static string *c_digit = ({ "零","十","百","千","萬","億","兆" });
+static string *c_num = ({"零","一","二","三","四","五","六","七","八","九","十"});
 
 mapping dict = ([]);
 

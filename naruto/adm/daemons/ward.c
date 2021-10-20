@@ -2,7 +2,7 @@
    created by Acme 2007.08.02
 */
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <ansi.h>
 

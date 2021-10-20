@@ -2,7 +2,7 @@
    write by -Acme-
 */
 
-#pragma save_binary
+// #pragma save_binary
 
 #define GOODS_MAXIMUM 100
 

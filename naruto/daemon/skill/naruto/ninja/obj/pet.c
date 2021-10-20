@@ -1,6 +1,6 @@
 // write by -Acme-
 /* pet.c Ãdª«¡G§Ô¤ü */
-#pragma save_binary
+// #pragma save_binary
 
 #include <ansi.h>
 #include <npc.h>

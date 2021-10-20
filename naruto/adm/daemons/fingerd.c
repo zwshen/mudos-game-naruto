@@ -1,7 +1,7 @@
 
 /*  fingerd.c */
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <origin.h>
 #include <ansi.h>

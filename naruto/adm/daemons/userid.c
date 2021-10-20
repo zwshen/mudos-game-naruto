@@ -82,6 +82,7 @@ void test_socket(string str)
 void write_data(int fd)
 {
     int t;
+    if (!fd) return;
     t = socket_write(fd, requests[fd][1]+", 4000\n");
     if(t<0)
     {

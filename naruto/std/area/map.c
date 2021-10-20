@@ -2,7 +2,7 @@
    這裡負責地圖的顯示、物件的移動以及一些設定等等。
 */
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <area.h>
 #include <ansi.h>
@@ -621,7 +621,7 @@ varargs int map_ansi_save()
         if( !write_file(file + ".ansi" , msg, 1) ) write("儲存ANSI檔失敗。\n");
         else write("儲存ANSI檔成功\(" + file + ".ansi)。\n");
     } else {
-        write("因為此area寬度超過五十個字大小，故分成左右二個圖檔儲存。\n");
+        write("因為此area寬度超過五十個字大小，故分成左右二個圖檔儲存。\n");
         if( !write_file(file + "_left.ansi" , msg, 1) ) write("儲存左半邊ANSI檔失敗。\n");
         else write("儲存左半邊ANSI檔成功\(" + file + "_left.ansi)。\n");
         if( !write_file(file + "_right.ansi" , msg2, 1) ) write("儲存右半邊ANSI檔失敗。\n");

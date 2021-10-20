@@ -2,7 +2,7 @@
    copy aucd >///< by mouse
    2009/2/17
 */
-#pragma save_binary
+// #pragma save_binary
 #define GOODS_MAXIMUM 500       // 最多 500 種兌換商品
 #define NAME HIY"香波地"HIG"群島"NOR"賣場"
 

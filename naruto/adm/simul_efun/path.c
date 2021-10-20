@@ -49,8 +49,8 @@ string
 resolve_path(string cwd, string new_path)
 {
     int i;
-    string username, *comp;
-    string t1,t2,t3,t4;
+    string *comp;
+    // string t1,t2,t3,t4;
 
     // Shortcuts for fast resolve
     if( this_player() ) {

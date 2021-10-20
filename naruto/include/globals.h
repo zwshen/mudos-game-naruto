@@ -1,6 +1,6 @@
 /*  globals.h */
 
-#define MUD_NAME             "獵火影忍者人"
+// #define MUD_NAME             "獵火影忍者人"
 #define MUD_NAME_INTERMUD    "Naruto"
 #define MUD_NAME_ABBR        "Naruto"
 #define MUD_HOSTNAME         "210.240.76.2"

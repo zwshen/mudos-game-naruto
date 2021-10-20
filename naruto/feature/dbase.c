@@ -1,6 +1,6 @@
 // dbase.c
 
-#pragma save_binary
+// #pragma save_binary
 
 inherit F_TREEMAP;
 

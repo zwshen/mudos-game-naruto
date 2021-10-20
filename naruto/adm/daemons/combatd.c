@@ -3,7 +3,7 @@
     修正拿武器 + enable 會找不到敘述的問題 by mouse 2007/7/25
 */
 
-#pragma save_binary
+// #pragma save_binary
 #include <ansi.h>
 
 #define PI 3.14159265359
@@ -41,7 +41,7 @@ string getDamageMessage(int damage)
     if( damage < 160 ) return "結果造成一處嚴重傷害！";
     if( damage < 320 ) return "結果造成頗為嚴重的傷害！";
     if( damage < 640 ) return "結果造成相當嚴重的傷害！";
-    if( damage < 1280 ) return "結果造成十分嚴重的傷害！";
+    if( damage < 1280 ) return "結果造成十分嚴重的傷害！";
     if( damage < 2560 ) return "結果造成極其嚴重的傷害！";
     return "結果造成非常可怕的嚴重傷害！";
 }

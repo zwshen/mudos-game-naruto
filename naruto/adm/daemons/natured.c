@@ -68,7 +68,7 @@ init_day_phase()
              (int)day_phase[(current_day_phase+1) % sizeof(day_phase)]["length"] - t);
 }
 
-private void
+public void
 update_day_phase()
 {
     object* rcpt;

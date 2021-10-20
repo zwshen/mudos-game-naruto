@@ -16,7 +16,7 @@
 
 inherit F_CLEAN_UP;
 
-static void create()
+protected void create()
 {
     seteuid(getuid());
 }

@@ -24,7 +24,7 @@ varargs int is_fighting(object);
 void clean_up_enemy();
 void reset_time_unit();
 
-static object leader, *team;
+nosave object leader, *team;
 
 int set_leader(object ob)
 {

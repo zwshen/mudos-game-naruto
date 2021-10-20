@@ -1,6 +1,10 @@
 /*  globals.h */
 
-// #define MUD_NAME             "Ây¤õ¼v§ÔªÌ¤H"
+#ifndef __SENSIBLE_MODIFIERS__
+#define protected static
+#define nosave static
+#endif
+
 #define MUD_NAME_INTERMUD    "Naruto"
 #define MUD_NAME_ABBR        "Naruto"
 #define MUD_HOSTNAME         "210.240.76.2"

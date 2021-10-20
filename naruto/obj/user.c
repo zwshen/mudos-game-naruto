@@ -34,8 +34,8 @@ private void user_dump(int type);
 
 // variables
 
-static object my_link;
-static int last_age_set;
+nosave object my_link;
+nosave int last_age_set;
 
 // implementations
 
@@ -231,9 +231,9 @@ void reconnect()
     }
 }
 
-static string last_cmd;
-static int last_cmd_time;
-static int last_cmd_count;
+nosave string last_cmd;
+nosave int last_cmd_time;
+nosave int last_cmd_count;
 
 string process_input(string str)
 {

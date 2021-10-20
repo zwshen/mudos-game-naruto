@@ -20,8 +20,8 @@
 
 inherit F_CLEAN_UP;
 
-static mapping cache = ([]);
-static string *cached_path = ({});
+nosave mapping cache = ([]);
+nosave string *cached_path = ({});
 
 private void
 create()

@@ -19,8 +19,8 @@
 #include <dbase.h>
 #include <type.h>
 
-static int weight = 0;
-static int encumb = 0, max_encumb = 0, max_inventory = -1;
+nosave int weight = 0;
+nosave int encumb = 0, max_encumb = 0, max_inventory = -1;
 
 nomask int weight() { return weight + encumb; }
 nomask int query_weight() { return weight; }

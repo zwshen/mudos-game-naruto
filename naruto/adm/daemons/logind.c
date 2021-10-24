@@ -663,9 +663,9 @@ varargs void enter_world(object ob, object user, int silent)
 
     if( !mot = read_file(MOTD) ) mot = "";
     user->start_more(mot);
-//    cat(MOTD);
+    // cat(MOTD);
 
-    IDENT_D->query_userid((string)user->query("id"));
+    // IDENT_D->query_userid((string)user->query("id"));
 
     /* 以安全的方法載入使用者登入的房間 */
    	err = catch(room=load_object(user->query("startroom")));
@@ -716,7 +716,7 @@ varargs void reconnect(object ob, object user, int silent)
     exec(user, ob);
 
     user->reconnect();
-    IDENT_D->query_userid((string)user->query("id"));   
+    // IDENT_D->query_userid((string)user->query("id"));   
 
     if( silent ) return;
 

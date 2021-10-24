@@ -8,6 +8,7 @@
 
 #include <dbase.h>
 #include <ansi.h>
+#include <room.h>
 
 inherit F_SAVE;
 inherit ROOM;
@@ -308,10 +309,12 @@ int is_hockshop() { return 1; }
 //void reset() { save(); }
 
 // 在remove()時才進行save()動作
-int remove()
+void remove()
 {
-    save();
-    return 1;
+    if (inherits(HOCKSHOP, this_object()))
+    {
+        save();
+    }
 }
 
 void setup()

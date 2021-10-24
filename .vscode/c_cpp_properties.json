@@ -6,6 +6,9 @@
                 "${default}",
                 "${workspaceFolder}/naruto/include"
             ],
+            "forcedInclude": [
+                "${workspaceFolder}/naruto/include/globals.h"
+            ],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "gnu17",
             "cppStandard": "gnu++14",

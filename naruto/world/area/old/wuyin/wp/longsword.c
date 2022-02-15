@@ -1,12 +1,12 @@
 #include <weapon.h>
 
-inherit F_SWORD;
+inherit F_WEAPON;
 
 void create()
 {
     set_name("²Óªø¼C", ({ "long sword","sword"}));
     set_weight(200);
-    setup_sword(1, 10, 100, 1);
+    setup_weapon(1, 10, 100, 1);
     
     if( !clonep() ) {
         set("wield_as", "sword");

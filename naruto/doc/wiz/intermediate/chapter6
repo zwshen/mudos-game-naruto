@@ -86,7 +86,7 @@ private int setup;
 void set_name(string str);
 nomask string query_name();
 private int query_setup();
-static void unsetup();
+protected void unsetup();
 void set_short(string str);
 string query_short();
 void set_long(string str);
@@ -103,7 +103,7 @@ nomask string query_name() { return name; }
 
 private query_setup() { return setup; }
 
-static void unsetup() { setup = 0; }
+protected void unsetup() { setup = 0; }
 
 string query_cap_name() {
     return (name ? capitalize(name) : ""); }

@@ -1,13 +1,13 @@
 // dbase.c
 
-#pragma save_binary
+// #pragma save_binary
 
 inherit F_TREEMAP;
 
 mapping dbase;
-static mapping tmp_dbase;
+nosave mapping tmp_dbase;
 
-static mixed default_ob;
+nosave mixed default_ob;
 
 mixed query_default_object() { return default_ob; }
 

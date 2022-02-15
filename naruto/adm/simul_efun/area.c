@@ -2,7 +2,7 @@
 */
 
 #pragma optimize
-#pragma save_binary
+// #pragma save_binary
 
 // 比較二個物件是否處在相同的區域座標中
 int area_environment(object ob1, object ob2)

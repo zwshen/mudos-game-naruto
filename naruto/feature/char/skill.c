@@ -224,7 +224,7 @@ int query_learn(string skill)
     return learned[skill];
 }
 
-static mapping skill_gain = ([]);
+nosave mapping skill_gain = ([]);
 
 mapping query_skill_gain()
 {

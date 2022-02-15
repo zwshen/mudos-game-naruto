@@ -23,7 +23,7 @@
 //      int     LT_YDAY         一年中的第幾天 (0..365)
 //      int     LT_GMTOFF       格林威治時間相差的秒數 (UTC)
 //      string  LT_ZONE         本地時區的名稱
-//#pragma save_binary
+// #pragma save_binary
 #include <localtime.h>
 #include <ansi.h>
 #include <login.h>
@@ -31,17 +31,17 @@
 
 inherit F_DBASE;
 
-static int current_month;
-static int current_day;
-static int current_week;
-static int current_hour;
-static int current_min;
+nosave int current_month;
+nosave int current_day;
+nosave int current_week;
+nosave int current_hour;
+nosave int current_min;
 
-static int current_game_month;
-static int current_game_day;
-static int current_game_week;
-static int current_game_hour;
-static int current_game_min;
+nosave int current_game_month;
+nosave int current_game_day;
+nosave int current_game_week;
+nosave int current_game_hour;
+nosave int current_game_min;
 
 mixed *local,*game_time;
 

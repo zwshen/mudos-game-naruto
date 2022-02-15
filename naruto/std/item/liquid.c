@@ -2,7 +2,7 @@
 
 inherit ITEM;
 
-static int volume;
+nosave int volume;
 
 int query_volume() { return volume; }
 

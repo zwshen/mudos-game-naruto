@@ -12,7 +12,7 @@
     primary author of ES2 mudlib: Annihilator <annihilator@muds.net>
 */
 
-int clean_up()
+varargs int clean_up(int inherited)
 {
     object inv;
     int i;
@@ -29,6 +29,8 @@ int clean_up()
     foreach(inv in all_inventory())
         if( interactive(inv) ) return 1;
 
+    // if (inherited) return 1;
+    
     destruct(this_object());
     return 0;
 }

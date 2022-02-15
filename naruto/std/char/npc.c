@@ -11,12 +11,12 @@
 inherit CHARACTER;
 inherit F_CLEAN_UP;     // Only to clean up master copy of NPCs.
 
-static mixed next_chat;
-static int last_scheduled_time_tag = 0;
+nosave mixed next_chat;
+nosave int last_scheduled_time_tag = 0;
 
 int chat();
 
-static void heart_beat()
+protected void heart_beat()
 {
     ::heart_beat();
 

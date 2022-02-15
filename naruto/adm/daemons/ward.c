@@ -2,7 +2,7 @@
    created by Acme 2007.08.02
 */
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <ansi.h>
 
@@ -108,7 +108,7 @@ int doEndWar(object player, string war_file)
 }
 
 // 每次心跳就檢查目前所有開啟的戰爭中，是否已經有戰爭時間到
-static void heart_beat()
+protected void heart_beat()
 {
     int i, size;
     string war_file;

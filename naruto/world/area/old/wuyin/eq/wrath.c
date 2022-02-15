@@ -1,13 +1,13 @@
 #include <ansi.h>
 #include <weapon.h>
 
-inherit F_BLADE;
+inherit F_WEAPON;
 
 void create()
 {
     set_name(YEL"¶®¨å®Rªº§Ã«ã"NOR, ({ "athena's wrath","wrath" }));
     set_weight(20000);
-    setup_blade(1, 99, 100, 1);
+    setup_weapon(1, 99, 100, 1);
     
     if( !clonep() ) {
         set("wield_as", "twohanded blade");

@@ -22,6 +22,26 @@ create()
     write("master: loaded successfully.\n");
 }
 
+string domain_file(string str)
+{
+    string *file = explode(str, "/");
+
+    if (sizeof(file))
+        return file[0];
+    else
+        return str;
+}
+
+string author_file(string str)
+{
+    string *file = explode(str, "/");
+
+    if (sizeof(file))
+        return file[0];
+    else
+        return str;
+}
+
 private object
 connect(int port)
 {
@@ -169,7 +189,7 @@ object_name(object ob)
 string
 standard_trace(mapping error)
 {
-    int i, s;
+    // int i, s;
     string res = "";
 
     /* keep track of number of errors per object...if you're into that */
@@ -194,38 +214,62 @@ standard_trace(mapping error)
     return res;
 }
 
-string
+void
 error_handler( mapping error, int caught )
 {
-    string report;
-    object player;
+    string trace = standard_trace(error);
 
-    if( caught ) return 0;
+    // catch(error(x))
+    if (caught)
+    {
+        efun::write_file(LOG_DIR + "catch_error", standard_trace(error));
+        return;
+    }
 
-    report = standard_trace(error);
+    if (this_player(1))
+    {
+        this_player(1)->set_temp("error", error);
+        tell_object(this_player(1), trace);
+    }
+    else if (this_player())
+        tell_object(this_player(), trace);
 
-    player = this_player();
-
-    if( objectp(player) && interactive(player) ) efun::write(report);
-
-    /* 傳回的字串會被紀錄在 debug.log */
-    return report;
+    trace += "[" + ctime() + "]";
+    trace += sprintf("\n%O\n", error);
+    // whatever we return goes to the debug.log
+    efun::write_file(LOG_DIR + "error_handler", trace);
 }
 
 void
 log_error(string file, string message)
 {
     string name, home;
-   
-    if( find_object(SIMUL_EFUN_OB) )
+
+    if (find_object(SIMUL_EFUN_OB))
         name = file_owner(file);
 
-    if (name) home = user_path(name);
-    else home = LOG_DIR;
+    if (name)
+        home = user_path(name);
+    else
+        home = LOG_DIR;
 
-    if(this_player(1)) efun::write("編譯時段錯誤﹕" + message );
-    
-    efun::write_file(home + "log", sprintf("[%s]%s", ctime(time())[4..18], message));
+    if (strsrch(message, "Warning") == -1)
+    {
+        if (this_player(1))
+        {
+            if (wizardp(this_player(1)))
+                efun::write("#ERROR：" + message + "\n");
+            else
+                efun::write("！·#￥%……—*（\n");
+        }
+        // Error
+        efun::write_file(LOG_DIR + "log_error", message);
+    }
+    else
+    {
+        // Warning
+        efun::write_file(LOG_DIR + "log", message);
+    }
 }
 
 int
@@ -278,7 +322,7 @@ valid_write( string file, mixed user, string func )
 
     if( !catch(ob = load_object(SECURITY_D))
     &&    objectp(ob) )
-        return (int)SECURITY_D->valid_write(file, user, func);
+        return (int)ob->valid_write(file, user, func);
 
     return 0;
 }
@@ -289,9 +333,9 @@ valid_read( string file, mixed user, string func )
 {
     object ob;
 
-    if( !catch(ob = load_object(SECURITY_D))
+    if( !catch(ob = find_object(SECURITY_D))
     &&    objectp(ob) )
-        return (int)SECURITY_D->valid_read(file, user, func);
+        return (int)ob->valid_read(file, user, func);
 
     return 1;
 }

@@ -17,8 +17,8 @@
 
 inherit F_CLEAN_UP;
 
-static string id;
-static mapping spam_check = ([]);
+nosave string id;
+nosave mapping spam_check = ([]);
 
 private void create() { seteuid(getuid()); }
 

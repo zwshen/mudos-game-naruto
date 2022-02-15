@@ -16,7 +16,7 @@
 
 #define TIME_TICK (time()*60)
 
-static int current_day_phase;
+nosave int current_day_phase;
 mapping *day_phase;
 
 string *weather_msg = ({
@@ -68,7 +68,7 @@ init_day_phase()
              (int)day_phase[(current_day_phase+1) % sizeof(day_phase)]["length"] - t);
 }
 
-private void
+public void
 update_day_phase()
 {
     object* rcpt;

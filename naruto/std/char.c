@@ -12,7 +12,7 @@
     primary author of ES2 mudlib: Annihilator <annihilator@muds.net>
 */
 
-#pragma save_binary
+// #pragma save_binary
 #define MAX_INVENTORY 40
 
 #include <login.h>
@@ -46,7 +46,7 @@ inherit F_TEAM;
 
 // variables
 
-static int tick;
+nosave int tick;
 
 // implementations
 
@@ -87,7 +87,7 @@ void setup()
  * 這個函式的內容。
  */
 
-static void heart_beat()
+protected void heart_beat()
 {
     mapping f;
     int f_altered = 0;

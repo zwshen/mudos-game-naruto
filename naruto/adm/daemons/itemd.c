@@ -2,7 +2,7 @@
    用來整合Mud中所有的item基本資料，方便查詢
 */
 
-#pragma save_binary
+// #pragma save_binary
 #include <ansi.h>
 
 inherit F_CLEAN_UP;

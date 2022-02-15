@@ -1,7 +1,6 @@
 // water.c
 
 inherit LIQUID_ITEM;
-inherit F_DRINK;
 
 void create()
 {

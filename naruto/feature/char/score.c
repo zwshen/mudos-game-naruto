@@ -77,7 +77,7 @@ int query_score(string course)
     return query("score/" + course);
 }
 
-static mapping score_gain = ([]);
+nosave mapping score_gain = ([]);
 mapping query_score_gain()
 {
     return score_gain;

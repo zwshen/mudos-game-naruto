@@ -20,7 +20,7 @@ int main(object me, string arg)
 {
     string name;
     if(!arg) {
-      printf("遊戲伺服器：%s %s\n", capitalize(__DRIVER__), __VERSION__ );
+      printf("遊戲伺服器：%s @ %s\n", __VERSION__, __ARCH__ );
       printf("Mudlib 版本：%s\n", MUDLIB_VERSION );
          printf("Original Mudlib：Eastern Stories 2.1.3a\n" );
       return 1;
@@ -34,7 +34,7 @@ int main(object me, string arg)
       }
 
 */
-      printf("遊戲伺服器：%s %s\n", capitalize(__DRIVER__), __VERSION__ );
+      printf("遊戲伺服器：%s @ %s\n", __VERSION__, __ARCH__ );
       printf("Mudlib 版本：%s\n", MUDLIB_VERSION );
          printf("Original Mudlib：Eastern Stories 2.1.3a\n" );
       return 1;

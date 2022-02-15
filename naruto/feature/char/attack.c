@@ -21,12 +21,12 @@
 #define CAMP_DIR "/world/camp/"
 #define MAX_OPPONENT    4
 
-static object charge_target = 0;
-static object guarding = 0, *guarded = ({});
-static object *enemy = ({});
-static mapping killer = ([]);
-static int attack_patience = 0;
-static object current_target;
+nosave object charge_target = 0;
+nosave object guarding = 0, *guarded = ({});
+nosave object *enemy = ({});
+nosave mapping killer = ([]);
+nosave int attack_patience = 0;
+nosave object current_target;
 
 
 void fight_ob(object ob);

@@ -132,10 +132,10 @@ void reward(object player, object npc) {
     object pill;
 
     switch( random(4) ) {
-        case 0: pill = new("/world/capsule/str.c"); break;
-        case 1: pill = new("/world/capsule/con.c"); break;
-        case 2: pill = new("/world/capsule/dex.c"); break;
-        case 3: pill = new("/world/capsule/int.c"); break;
+        case 0: pill = new("/world/capsule/_str.c"); break;
+        case 1: pill = new("/world/capsule/_con"); break;
+        case 2: pill = new("/world/capsule/_dex.c"); break;
+        case 3: pill = new("/world/capsule/_int.c"); break;
     }
     message_vision(CYN"\n$N將材料放進機器中按下開關，四周風雲變色，發出霹靂啪啦的閃電雷光。\n"NOR, npc, player);
     if( pill->move(player) )

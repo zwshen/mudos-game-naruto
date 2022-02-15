@@ -2,7 +2,7 @@
    這裡負責區域物件的載入、清除、重設等工作。
 */
 
-#pragma save_binary
+// #pragma save_binary
 
 #include <area.h>
 #include <dbase.h>

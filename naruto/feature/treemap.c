@@ -1,4 +1,4 @@
-#pragma save_binary
+// #pragma save_binary
 
 // This file is part of the TMI mudlib distribution.
 // Please include this header if you use this code.
@@ -16,7 +16,7 @@
 
 #include <function.h>
 
-static nomask mixed _query( mapping map, string *parts )
+protected nomask mixed _query( mapping map, string *parts )
 {
 	mixed value;
 	int i, s;
@@ -32,7 +32,7 @@ static nomask mixed _query( mapping map, string *parts )
 	return value;
 }
 
-static nomask int _delete( mapping map, string *parts )
+protected nomask int _delete( mapping map, string *parts )
 {
 	if( sizeof( parts ) == 1 ) {
 		map_delete( map, parts[0] );
@@ -43,7 +43,7 @@ static nomask int _delete( mapping map, string *parts )
 	return _delete( map[parts[0]], parts[1..sizeof(parts)-1] );
 }
 
-static nomask mixed _set( mapping map, string *parts, mixed value )
+protected nomask mixed _set( mapping map, string *parts, mixed value )
 {
 	int fp;
 
